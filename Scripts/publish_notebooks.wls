@@ -8,9 +8,20 @@ nbDir = FileNameJoin[{root, "Notebooks"}];
 
 (* First generate notebooks from wiki sources *)
 Print["Building notebooks from wiki sources..."];
-RunProcess[{"wolframscript", "-file", FileNameJoin[{root, "Scripts", "generate_notebooks.wls"}]}];
+Print[RunProcess[{"wolframscript", "-file", FileNameJoin[{root, "Scripts", "generate_notebooks.wls"}]}, "StandardOutput"]];
 
+(* Then evaluate every Input cell and embed the rendered outputs.
+   One fresh kernel per notebook so a hang/runaway is isolated to that notebook;
+   evaluate_notebooks.wls also caps each cell with TimeConstrained. *)
 nbFiles = FileNames["*.nb", nbDir];
+Print["Evaluating notebook cells and embedding rendered outputs (one kernel per notebook)..."];
+Do[
+	Print["  -> ", FileBaseName[nbFile]];
+	Print[RunProcess[{"wolframscript", "-file",
+		FileNameJoin[{root, "Scripts", "evaluate_notebooks.wls"}],
+		FileBaseName[nbFile], "240", "0"}, "StandardOutput"]],
+	{nbFile, nbFiles}
+];
 
 If[nbFiles === {},
 	Print["No .nb files found in ", nbDir];
