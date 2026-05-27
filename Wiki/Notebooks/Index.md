@@ -18,18 +18,18 @@ Every Definition / Postulate / Common Notion / Proposition of Euclid's *Elements
 - **DefI.12** — [construction](../BookI/DefI.12.md) · notebook pending
 - **DefI.13** — [construction](../BookI/DefI.13.md) · notebook pending
 - **DefI.14** — [construction](../BookI/DefI.14.md) · notebook pending
-- **DefI.15** — [construction](../BookI/DefI.15.md) · notebook pending
+- **DefI.15** — [construction](../BookI/DefI.15.md) · [notebook](https://www.wolframcloud.com/obj/hajek_pavel/InfraElements/BookIDef15.nb)
 - **DefI.16** — [construction](../BookI/DefI.16.md) · notebook pending
 - **DefI.17** — [construction](../BookI/DefI.17.md) · notebook pending
 - **DefI.18** — [construction](../BookI/DefI.18.md) · notebook pending
 - **DefI.19** — [construction](../BookI/DefI.19.md) · notebook pending
-- **DefI.20** — [construction](../BookI/DefI.20.md) · notebook pending
+- **DefI.20** — [construction](../BookI/DefI.20.md) · [notebook](https://www.wolframcloud.com/obj/hajek_pavel/InfraElements/BookIDef20.nb)
 - **DefI.21** — [construction](../BookI/DefI.21.md) · notebook pending
 - **DefI.22** — [construction](../BookI/DefI.22.md) · notebook pending
 - **DefI.23** — [construction](../BookI/DefI.23.md) · notebook pending
-- **PostI.1** — [construction](../BookI/PostI.1.md) · notebook pending
+- **PostI.1** — [construction](../BookI/PostI.1.md) · [notebook](https://www.wolframcloud.com/obj/hajek_pavel/InfraElements/BookIPost1.nb)
 - **PostI.2** — [construction](../BookI/PostI.2.md) · notebook pending
-- **PostI.3** — [construction](../BookI/PostI.3.md) · notebook pending
+- **PostI.3** — [construction](../BookI/PostI.3.md) · [notebook](https://www.wolframcloud.com/obj/hajek_pavel/InfraElements/BookIPost3.nb)
 - **PostI.4** — [construction](../BookI/PostI.4.md) · notebook pending
 - **PostI.5** — [construction](../BookI/PostI.5.md) · notebook pending
 - **CNI.1** — [construction](../BookI/CNI.1.md) · notebook pending
@@ -37,7 +37,7 @@ Every Definition / Postulate / Common Notion / Proposition of Euclid's *Elements
 - **CNI.3** — [construction](../BookI/CNI.3.md) · notebook pending
 - **CNI.4** — [construction](../BookI/CNI.4.md) · notebook pending
 - **CNI.5** — [construction](../BookI/CNI.5.md) · notebook pending
-- **PropI.1** — [construction](../BookI/PropI.1.md) · notebook pending
+- **PropI.1** — [construction](../BookI/PropI.1.md) · [notebook](https://www.wolframcloud.com/obj/hajek_pavel/InfraElements/BookIProp1.nb)
 - **PropI.2** — [construction](../BookI/PropI.2.md) · notebook pending
 - **PropI.3** — [construction](../BookI/PropI.3.md) · notebook pending
 - **PropI.4** — [construction](../BookI/PropI.4.md) · notebook pending
