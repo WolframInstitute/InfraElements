@@ -2,7 +2,7 @@
 
 (* publish_notebooks.wls — Build .nb from Wiki/Notebooks/*.md and upload to Wolfram Cloud *)
 
-root = DirectoryName[$ScriptCommandLine[[1]]];
+root = ParentDirectory[ExpandFileName[DirectoryName[$ScriptCommandLine[[1]]]]];
 wikiDir = FileNameJoin[{root, "Wiki", "Notebooks"}];
 nbDir = FileNameJoin[{root, "Notebooks"}];
 
