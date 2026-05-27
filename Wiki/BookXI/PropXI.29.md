@@ -12,17 +12,11 @@ Let *CM* and *CN* be parallelepipedal solids on the same base *AB* and of the sa
 
 I say that the solid *CM* equals the solid *CN.*
 
-[I.34](../BookI/PropI.34.md)
-Since each of the figures *CH* and *CK* is a parallelogram, therefore *CB* equals each of the straight lines *DH* and *EK.* Therefore *DH* also equals *EK.*
+Since each of the figures *CH* and *CK* is a parallelogram, therefore *CB* equals each of the straight lines *DH* and *EK.* Therefore *DH* also equals *EK.* ([I.34](../BookI/PropI.34.md))
 
-[I.8](../BookI/PropI.8.md),
-[I.4](../BookI/PropI.4.md)
+Subtract *EH* from each, therefore the remainder *DE* equals the remainder *HK.* Therefore the triangle *DCE* also equals the triangle *HBK,* and the parallelogram *DG* equals the parallelogram *HN.* For the same reason the triangle *AFG* equals the triangle *MLN.* ([I.8](../BookI/PropI.8.md), [I.4](../BookI/PropI.4.md), [I.36](../BookI/PropI.36.md))
 
-[I.36](../BookI/PropI.36.md)
-Subtract *EH* from each, therefore the remainder *DE* equals the remainder *HK.* Therefore the triangle *DCE* also equals the triangle *HBK,* and the parallelogram *DG* equals the parallelogram *HN.* For the same reason the triangle *AFG* equals the triangle *MLN.*
-
-[XI.Def.10](DefXI.9.md)
-But the parallelogram *CF* equals the parallelogram *BM,* and *CG* equals *BN,* for they are opposite, therefore the prism contained by the two triangles *AFG* and *DCE* and the three parallelograms *AD, DG,* and *CG* equals the prism contained by the two triangles *MLN* and *HBK* and the three parallelograms *BM, HN,* and *BN.*
+But the parallelogram *CF* equals the parallelogram *BM,* and *CG* equals *BN,* for they are opposite, therefore the prism contained by the two triangles *AFG* and *DCE* and the three parallelograms *AD, DG,* and *CG* equals the prism contained by the two triangles *MLN* and *HBK* and the three parallelograms *BM, HN,* and *BN.* ([XI.Def.10](DefXI.9.md))
 
 Add to each the solid of which the parallelogram *AB* is the base and *GEHM* its opposite, therefore the whole parallelepipedal solid *CM* equals the whole parallelepipedal solid *CN.*
 

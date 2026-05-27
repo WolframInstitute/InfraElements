@@ -12,16 +12,13 @@ Let *D* a point within a circle *ABC,* and from *D* let more than two equal stra
 
 I say that the point *D* is the center of the circle *ABC.*
 
-[I.10](../BookI/PropI.10.md)
-Join *AB* and *BC,* and bisect them at the points *E* and *F.* Join *ED* and *FD,* and draw them through to the points *G, K, H,* and *L.*
+Join *AB* and *BC,* and bisect them at the points *E* and *F.* Join *ED* and *FD,* and draw them through to the points *G, K, H,* and *L.* ([I.10](../BookI/PropI.10.md))
 
-[I.8](../BookI/PropI.8.md)
-Then, since *AE* equals *EB,* and *ED* is common, the two sides *AE* and *ED* equal the two sides *BE* and *ED,* and the base *DA* equals the base *DB,* therefore the angle *AED* equals the angle *BED.*
+Then, since *AE* equals *EB,* and *ED* is common, the two sides *AE* and *ED* equal the two sides *BE* and *ED,* and the base *DA* equals the base *DB,* therefore the angle *AED* equals the angle *BED.* ([I.8](../BookI/PropI.8.md))
 
 Therefore the angles *AED* and *BED* are each right. Therefore *GK* cuts *AB* into two equal parts and at right angles.
 
-[III.1,Cor](PropIII.1.md)
-And since, if in a circle a straight line cuts a straight line into two equal parts and at right angles, the center of the circle is on the cutting straight line, therefore the center of the circle is on *GK.*
+And since, if in a circle a straight line cuts a straight line into two equal parts and at right angles, the center of the circle is on the cutting straight line, therefore the center of the circle is on *GK.* ([III.1,Cor](PropIII.1.md))
 
 For the same reason the center of the circle *ABC* is also on *HL.*
 

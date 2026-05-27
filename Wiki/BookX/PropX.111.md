@@ -12,29 +12,21 @@ I say that *AB* is not the same with the binomial straight line.
 
 If possible, let it be so. Set out a rational straight line *DC*, and to *CD* apply the rectangle *CE* equal to the square on *AB* and producing *DE* as breadth.
 
-[X.97](PropX.97.md)
-Then, since *AB* is an apotome, *DE* is a first apotome.
+Then, since *AB* is an apotome, *DE* is a first apotome. ([X.97](PropX.97.md))
 
 ![java applet or image](propX111.gif)
 
-[X.Def.III.2](DefX.III.1.md)
-Let *EF* be the annex to it. Then *DF* and *FE* are rational straight lines commensurable in square only, the square on *DF* is greater than the square on *FE* by the square on a straight line commensurable with *DF*, and *DF* is commensurable in length with the rational straight line *DC* set out.
+Let *EF* be the annex to it. Then *DF* and *FE* are rational straight lines commensurable in square only, the square on *DF* is greater than the square on *FE* by the square on a straight line commensurable with *DF*, and *DF* is commensurable in length with the rational straight line *DC* set out. ([X.Def.III.2](DefX.III.1.md))
 
-[X.60](PropX.60.md)
-Again, since *AB* is binomial, therefore *DE* is a first binomial straight line.
+Again, since *AB* is binomial, therefore *DE* is a first binomial straight line. ([X.60](PropX.60.md))
 
-[X.Def.II.1](DefX.II.1.md)
-Divide it into its terms at *G*, and let *DG* be the greater term. Then *DG* and *GE* are rational straight lines commensurable in square only, the square on *DG* is greater than the square on *GE* by the square on a straight line commensurable with *DG*, and the greater term *DG* is commensurable in length with the rational straight line *DC* set out.
+Divide it into its terms at *G*, and let *DG* be the greater term. Then *DG* and *GE* are rational straight lines commensurable in square only, the square on *DG* is greater than the square on *GE* by the square on a straight line commensurable with *DG*, and the greater term *DG* is commensurable in length with the rational straight line *DC* set out. ([X.Def.II.1](DefX.II.1.md))
 
-[X.12](PropX.12.md),
-[X.15](PropX.15.md)
-Therefore *DF* is also commensurable in length with *DG*. Therefore the remainder *GF* is also commensurable in length with *DF*.
+Therefore *DF* is also commensurable in length with *DG*. Therefore the remainder *GF* is also commensurable in length with *DF*. ([X.12](PropX.12.md), [X.15](PropX.15.md))
 
-[X.13](PropX.13.md)
-But *DF* is incommensurable in length with *EF*, therefore *FG* is also incommensurable in length with *EF*.
+But *DF* is incommensurable in length with *EF*, therefore *FG* is also incommensurable in length with *EF*. ([X.13](PropX.13.md))
 
-[X.73](PropX.73.md)
-Therefore *GF* and *FE* are rational straight lines commensurable in square only, therefore *EG* is an apotome. But it is also rational: which is impossible.
+Therefore *GF* and *FE* are rational straight lines commensurable in square only, therefore *EG* is an apotome. But it is also rational: which is impossible. ([X.73](PropX.73.md))
 
 Therefore, *the apotome is not the same with the binomial straight line.*
 

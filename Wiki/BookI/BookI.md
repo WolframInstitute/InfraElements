@@ -67,7 +67,7 @@ D. Joyce's edition: <http://aleph0.clarku.edu/~djoyce/java/elements/bookI/bookI.
 - **[PropI.19](PropI.19.md)** — In any triangle the side opposite the greater angle is greater.
 - **[PropI.20](PropI.20.md)** — In any triangle the sum of any two sides is greater than the remaining one.
 - **[PropI.21](PropI.21.md)** — If from the ends of one of the sides of a triangle two straight lines are constructed meeting within the triangle, then the sum of the straight lines so constructed is less than the sum of the remaining two sides of the triangle, but the constructed straight lines contain a greater angle than the angle contained by the remaining two sides.
-- **[PropI.22](PropI.22.md)** — To construct a triangle out of three straight lines which equal three given straight lines: thus it is necessary that the sum of any two of the straight lines should be greater than the remaining one. [I.20](propI20.html)
+- **[PropI.22](PropI.22.md)** — To construct a triangle out of three straight lines which equal three given straight lines: thus it is necessary that the sum of any two of the straight lines should be greater than the remaining one.
 - **[PropI.23](PropI.23.md)** — To construct a rectilinear angle equal to a given rectilinear angle on a given straight line and at a point on it.
 - **[PropI.24](PropI.24.md)** — If two triangles have two sides equal to two sides respectively, but have one of the angles contained by the equal straight lines greater than the other, then they also have the base greater than the base.
 - **[PropI.25](PropI.25.md)** — If two triangles have two sides equal to two sides respectively, but have the base greater than the base, then they also have the one of the angles contained by the equal straight lines greater than the other.

@@ -12,13 +12,9 @@ I say that the square on *A* has to the square on *B* the ratio which a square n
 
 ![java applet or image](propX9.gif)
 
-[X.5](PropX.5.md)
-Since *A* is commensurable in length with *B*, therefore *A* has to *B* the ratio which a number has to a number. Let it have to it the ratio which *C* has to *D*.
+Since *A* is commensurable in length with *B*, therefore *A* has to *B* the ratio which a number has to a number. Let it have to it the ratio which *C* has to *D*. ([X.5](PropX.5.md))
 
-[VI.20,Cor.](../BookVI/PropVI.20.md)
-
-[VIII.11](../BookVIII/PropVIII.11.md)
-Since then *A* is to *B* as *C* is to *D*, while the ratio of the square on *A* to the square on *B* is duplicate of the ratio of *A* to *B*, for similar figures are in the duplicate ratio of their corresponding sides, and the ratio of the square on *C* to the square on *D* is duplicate of the ratio of *C* to *D*, for between two square numbers there is one mean proportional number, and the square number has to the square number the ratio duplicate of that which the side has to the side, therefore the square on *A* is to the square on *B* as the square on *C* is to the square on *D*.
+Since then *A* is to *B* as *C* is to *D*, while the ratio of the square on *A* to the square on *B* is duplicate of the ratio of *A* to *B*, for similar figures are in the duplicate ratio of their corresponding sides, and the ratio of the square on *C* to the square on *D* is duplicate of the ratio of *C* to *D*, for between two square numbers there is one mean proportional number, and the square number has to the square number the ratio duplicate of that which the side has to the side, therefore the square on *A* is to the square on *B* as the square on *C* is to the square on *D*. ([VI.20,Cor.](../BookVI/PropVI.20.md), [VIII.11](../BookVIII/PropVIII.11.md))
 
 Next, as the square on *A* is to the square on *B*, so let the square on *C* be to the square on *D*.
 
@@ -26,8 +22,7 @@ I say that *A* is commensurable in length with *B*.
 
 Since the square on *A* is to the square on *B* as the square on *C* is to the square on *D*, while the ratio of the square on *A* to the square on *B* is duplicate of the ratio of *A* to *B*, and the ratio of the square on *C* to the square on *D* is duplicate of the ratio of *C* to *D*, therefore *A* is to *B* as *C* is to *D*.
 
-[X.6](PropX.6.md)
-Therefore *A* has to *B* the ratio which the number *C* has to the number *D*. Therefore *A* is commensurable in length with *B*.
+Therefore *A* has to *B* the ratio which the number *C* has to the number *D*. Therefore *A* is commensurable in length with *B*. ([X.6](PropX.6.md))
 
 Next, let *A* be incommensurable in length with *B*.
 

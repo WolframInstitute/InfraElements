@@ -14,8 +14,7 @@ I say that they do not have the same center.
 
 For, if possible, let it be *E.* Join *EC,* and draw *EFG* through at random.
 
-[I.Def.15](../BookI/DefI.15.md)
-Then, since the point *E* is the center of the circle *ABC, EC* equals *EF.* Again, since the point *E* is the center of the circle *CDG, EC* equals *EG.*
+Then, since the point *E* is the center of the circle *ABC, EC* equals *EF.* Again, since the point *E* is the center of the circle *CDG, EC* equals *EG.* ([I.Def.15](../BookI/DefI.15.md))
 
 But *EC* was proved equal to *EF* also, therefore *EF* also equals *EG,* the less equals the greater which is impossible.
 

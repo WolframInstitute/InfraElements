@@ -10,18 +10,11 @@ If possible, given two straight lines *AC* and *CB* constructed on the straight 
 
 ![java applet or image](propI7.gif)
 
-[I.Post.1](PostI.1.md)
-Join *CD.*
+Join *CD.* ([I.Post.1](PostI.1.md))
 
-[I.5](PropI.5.md)
+Since *AC* equals *AD,* therefore the angle *ACD* equals the angle *ADC.* Therefore the angle *ADC* is greater than the angle *DCB.* Therefore the angle *CDB* is much greater than the angle *DCB.* ([I.5](PropI.5.md), [C.N.5](CNI.1.md))
 
-[C.N.5](CNI.1.md)
-Since *AC* equals *AD,* therefore the angle *ACD* equals the angle *ADC.* Therefore the angle *ADC* is greater than the angle *DCB.* Therefore the angle *CDB* is much greater than the angle *DCB.*
-
-[I.5](PropI.5.md)
-
-[C.N.](CNI.1.md)
-Again, since *CB* equals *DB,* therefore the angle *CDB* also equals the angle *DCB.* But it was also proved much greater than it, which is impossible.
+Again, since *CB* equals *DB,* therefore the angle *CDB* also equals the angle *DCB.* But it was also proved much greater than it, which is impossible. ([I.5](PropI.5.md), [C.N.](CNI.1.md))
 
 Therefore *given two straight lines constructed from the ends of a straight line and meeting in a point, there cannot be constructed from the ends of the same straight line, and on the same side of it, two other straight lines meeting in another point and equal to the former two respectively, namely each equal to that from the same end.*
 

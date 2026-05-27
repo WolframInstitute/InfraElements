@@ -12,11 +12,9 @@ Let the odd number *A* multiplied by the even number *B* make *C.*
 
 I say that *C* is even.
 
-[VII.Def.15](../BookVII/DefVII.15.md)
-Since *A* multiplied by *B* makes *C,* therefore *C* is made up of as many numbers equal to *B* as there are units in *A.* And *B* is even, therefore *C* is made up of even numbers.
+Since *A* multiplied by *B* makes *C,* therefore *C* is made up of as many numbers equal to *B* as there are units in *A.* And *B* is even, therefore *C* is made up of even numbers. ([VII.Def.15](../BookVII/DefVII.15.md))
 
-[IX.21](PropIX.21.md)
-But, if as many even numbers as we please be added together, the whole is even. Therefore *C* is even.
+But, if as many even numbers as we please be added together, the whole is even. Therefore *C* is even. ([IX.21](PropIX.21.md))
 
 Therefore, *if an odd number is multiplied by an even number, then the product is even.*
 

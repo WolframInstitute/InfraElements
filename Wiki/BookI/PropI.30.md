@@ -12,15 +12,12 @@ Let each of the straight lines *AB* and *CD* be parallel to *EF.*
 
 I say that *AB* is also parallel to *CD.*
 
-[I.29](PropI.29.md)
 Let the straight line *GK* fall upon them.
-Since the straight line *GK* falls on the parallel straight lines *AB* and *EF,* therefore the angle *AGK* equals the angle *GHF.*
+Since the straight line *GK* falls on the parallel straight lines *AB* and *EF,* therefore the angle *AGK* equals the angle *GHF.* ([I.29](PropI.29.md))
 
-[I.29](PropI.29.md)
-Again, since the straight line *GK* falls on the parallel straight lines *EF* and *CD,* therefore the angle *GHF* equals the angle *GKD.*
+Again, since the straight line *GK* falls on the parallel straight lines *EF* and *CD,* therefore the angle *GHF* equals the angle *GKD.* ([I.29](PropI.29.md))
 
-[C.N.1](CNI.1.md)
-But the angle *AGK* was also proved equal to the angle *GHF.* Therefore the angle *AGK* also equals the angle *GKD,* and they are alternate.
+But the angle *AGK* was also proved equal to the angle *GHF.* Therefore the angle *AGK* also equals the angle *GKD,* and they are alternate. ([C.N.1](CNI.1.md))
 
 Therefore *AB* is parallel to *CD.*
 

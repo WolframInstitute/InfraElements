@@ -12,23 +12,17 @@ I say that the opposite planes in it are equal and parallelogrammic.
 
 ![java applet or image](propXI24.gif)
 
-[XI.16](PropXI.16.md)
-Since the two parallel planes *BG* and *CE* are cut by the plane *AC,* therefore their common sections are parallel. Therefore *AB* is parallel to *DC.* Again, since the two parallel planes *BF* and *AE* are cut by the plane *AC,* therefore their intersections are parallel. Therefore *BC* is parallel to *AD.*
+Since the two parallel planes *BG* and *CE* are cut by the plane *AC,* therefore their common sections are parallel. Therefore *AB* is parallel to *DC.* Again, since the two parallel planes *BF* and *AE* are cut by the plane *AC,* therefore their intersections are parallel. Therefore *BC* is parallel to *AD.* ([XI.16](PropXI.16.md))
 
 But *AB* was proved parallel to *DC,* therefore *AC* is a parallelogram. Similarly we can prove that each of the planes *DF, FG, GB, BF,* and *AE* is a parallelogram.
 
 Join *AH* and *DF.*
 
-[XI.10](PropXI.10.md)
-Then, since *AB* is parallel to *DC,* and *BH* is parallel to *CF,* therefore the two straight lines *AB* and *BH,* which meet one another, are parallel to the two straight lines *DC* and *CF,* which meet one another, not in the same plane. Therefore they contain equal angles. Therefore the angle *ABH* equals the angle *DCF.*
+Then, since *AB* is parallel to *DC,* and *BH* is parallel to *CF,* therefore the two straight lines *AB* and *BH,* which meet one another, are parallel to the two straight lines *DC* and *CF,* which meet one another, not in the same plane. Therefore they contain equal angles. Therefore the angle *ABH* equals the angle *DCF.* ([XI.10](PropXI.10.md))
 
-[I.34](../BookI/PropI.34.md)
+And, since the two sides *AB* and *BH* equal the two sides *DC* and *CF,* and the angle *ABH* equals the angle *DCF,* therefore the base *AH* equals the base *DF,* and the triangle *ABH* equals the triangle *DCF.* ([I.34](../BookI/PropI.34.md), [I.4](../BookI/PropI.4.md))
 
-[I.4](../BookI/PropI.4.md)
-And, since the two sides *AB* and *BH* equal the two sides *DC* and *CF,* and the angle *ABH* equals the angle *DCF,* therefore the base *AH* equals the base *DF,* and the triangle *ABH* equals the triangle *DCF.*
-
-[I.34](../BookI/PropI.34.md)
-And the parallelogram *BG* is double the triangle *ABH,* and the parallelogram *CE* is double the triangle *DCF,* therefore the parallelogram *BG* equals the parallelogram *CE.*
+And the parallelogram *BG* is double the triangle *ABH,* and the parallelogram *CE* is double the triangle *DCF,* therefore the parallelogram *BG* equals the parallelogram *CE.* ([I.34](../BookI/PropI.34.md))
 
 Similarly we can prove that *AC* equals *GF,* and *AE* equals *BF.*
 

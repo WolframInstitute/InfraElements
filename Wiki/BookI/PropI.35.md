@@ -12,25 +12,15 @@ I say that *ABCD* equals the parallelogram *EBCF.*
 
 ![java applet or image](propI35.gif)
 
-[I.34](PropI.34.md)
-Since *ABCD* is a parallelogram, therefore *AD* equals *BC.*
+Since *ABCD* is a parallelogram, therefore *AD* equals *BC.* ([I.34](PropI.34.md))
 
-[C.N.1](CNI.1.md)
-[C.N.2](CNI.1.md)
-For the same reason *EF* equals *BC,* so that *AD* also equals *EF.* And *DE* is common, therefore the whole *AE* equals the whole *DF.*
+For the same reason *EF* equals *BC,* so that *AD* also equals *EF.* And *DE* is common, therefore the whole *AE* equals the whole *DF.* ([C.N.1](CNI.1.md), [C.N.2](CNI.1.md))
 
-[I.34](PropI.34.md)
+But *AB* also equals *DC.* Therefore the two sides *EA* and *AB* equal the two sides *FD* and *DC* respectively, and the angle *FDC* equals the angle *EAB,* the exterior equals the interior. Therefore the base *EB* equals the base *FC,* and the triangle *EAB* equals the triangle *FDC.* ([I.34](PropI.34.md), [I.29](PropI.29.md), [I.4](PropI.4.md))
 
-[I.29](PropI.29.md)
+Subtract *DGE* from each. Then the trapezium *ABGD* which remains equals the trapezium *EGCF* which remains. ([C.N.3](CNI.1.md))
 
-[I.4](PropI.4.md)
-But *AB* also equals *DC.* Therefore the two sides *EA* and *AB* equal the two sides *FD* and *DC* respectively, and the angle *FDC* equals the angle *EAB,* the exterior equals the interior. Therefore the base *EB* equals the base *FC,* and the triangle *EAB* equals the triangle *FDC.*
-
-[C.N.3](CNI.1.md)
-Subtract *DGE* from each. Then the trapezium *ABGD* which remains equals the trapezium *EGCF* which remains.
-
-[C.N.2](CNI.1.md)
-Add the triangle *GBC* to each. Then the whole parallelogram *ABCD* equals the whole parallelogram *EBCF.*
+Add the triangle *GBC* to each. Then the whole parallelogram *ABCD* equals the whole parallelogram *EBCF.* ([C.N.2](CNI.1.md))
 
 Therefore *parallelograms which are on the same base and in the same parallels equal one another.*
 

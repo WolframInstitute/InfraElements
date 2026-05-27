@@ -12,15 +12,11 @@ Let the parallelogram *ABCD* have the same base *BC* with the triangle *EBC,* an
 
 I say that the parallelogram *ABCD* is double the triangle *BEC.*
 
-[I.Post.1](PostI.1.md)
-Join *AC.*
+Join *AC.* ([I.Post.1](PostI.1.md))
 
-[I.37](PropI.37.md)
+Then the triangle *ABC* equals the triangle *EBC,* for it is on the same base *BC* with it and in the same parallels *BC* and *AE.* ([I.37](PropI.37.md))
 
-Then the triangle *ABC* equals the triangle *EBC,* for it is on the same base *BC* with it and in the same parallels *BC* and *AE.*
-
-[I.34](PropI.34.md)
-But the parallelogram *ABCD* is double the triangle *ABC,* for the diameter *AC* bisects it, so that the parallelogram *ABCD* is also double the triangle *EBC.*
+But the parallelogram *ABCD* is double the triangle *ABC,* for the diameter *AC* bisects it, so that the parallelogram *ABCD* is also double the triangle *EBC.* ([I.34](PropI.34.md))
 
 Therefore *if a parallelogram has the same base with a triangle and is in the same parallels, then the parallelogram is double the triangle.*
 

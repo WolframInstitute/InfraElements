@@ -16,25 +16,17 @@ If the angle *AGH* does not equal the angle *GHD,* then one of them is greater. 
 
 Add the angle *BGH* to each. Therefore the sum of the angles *AGH* and *BGH* is greater than the sum of the angles *BGH* and *GHD.*
 
-[I.13](PropI.13.md)
-But sum of the angles *AGH* and *BGH* equals two right angles. Therefore the sum of the angles *BGH* and *GHD* is less than two right angles.
+But sum of the angles *AGH* and *BGH* equals two right angles. Therefore the sum of the angles *BGH* and *GHD* is less than two right angles. ([I.13](PropI.13.md))
 
-[Post.5](PostI.5.md)
-But straight lines produced indefinitely from angles less than two right angles meet. Therefore *AB* and *CD,* if produced indefinitely, will meet. But they do not meet, because they are by hypothesis parallel.
+But straight lines produced indefinitely from angles less than two right angles meet. Therefore *AB* and *CD,* if produced indefinitely, will meet. But they do not meet, because they are by hypothesis parallel. ([Post.5](PostI.5.md))
 
 Therefore the angle *AGH* is not unequal to the angle *GHD,* and therefore equals it.
 
-[I.15](PropI.15.md),
-[C.N.1](CNI.1.md)
-Again, the angle *AGH* equals the angle *EGB.* Therefore the angle *EGB* also equals the angle *GHD.*
+Again, the angle *AGH* equals the angle *EGB.* Therefore the angle *EGB* also equals the angle *GHD.* ([I.15](PropI.15.md), [C.N.1](CNI.1.md))
 
-[C.N.2](CNI.1.md)
-Add the angle *BGH* to each. Therefore the sum of the angles *EGB* and *BGH* equals the sum of the angles *BGH* and *GHD.*
+Add the angle *BGH* to each. Therefore the sum of the angles *EGB* and *BGH* equals the sum of the angles *BGH* and *GHD.* ([C.N.2](CNI.1.md))
 
-[I.13](PropI.13.md)
-
-[C.N.1](CNI.1.md)
-But the sum of the angles *EGB* and *BGH* equals two right angles. Therefore the sum of the angles *BGH* and *GHD* also equals two right angles.
+But the sum of the angles *EGB* and *BGH* equals two right angles. Therefore the sum of the angles *BGH* and *GHD* also equals two right angles. ([I.13](PropI.13.md), [C.N.1](CNI.1.md))
 
 Therefore *a straight line falling on parallel straight lines makes the alternate angles equal to one another, the exterior angle equal to the interior and opposite angle, and the sum of the interior angles on the same side equal to two right angles.*
 

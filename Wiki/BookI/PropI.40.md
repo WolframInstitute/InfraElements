@@ -12,18 +12,13 @@ Let *ABC* and *CDE* be equal triangles on equal bases *BC* and *CE* and on the s
 
 I say that they are also in the same parallels.
 
-[I.Post.1](PostI.1.md)
-Join *AD.* I say that *AD* is parallel to *BE.*
+Join *AD.* I say that *AD* is parallel to *BE.* ([I.Post.1](PostI.1.md))
 
-[I.31](PropI.31.md),
-[I.Post.1](PostI.1.md)
-If not, draw *AF* through *A* parallel to *BE,* and join *FE.*
+If not, draw *AF* through *A* parallel to *BE,* and join *FE.* ([I.31](PropI.31.md), [I.Post.1](PostI.1.md))
 
-[I.38](PropI.38.md)
-Therefore the triangle *ABC* equals the triangle *FCE,* for they are on equal bases *BC* and *CE* and in the same parallels *BE* and *AF.*
+Therefore the triangle *ABC* equals the triangle *FCE,* for they are on equal bases *BC* and *CE* and in the same parallels *BE* and *AF.* ([I.38](PropI.38.md))
 
-[C.N.1](CNI.1.md)
-But the triangle *ABC* equals the triangle *DCE,* therefore the triangle *DCE* also equals the triangle *FCE,* the greater equals the less, which is impossible. Therefore *AF* is not parallel to *BE.*
+But the triangle *ABC* equals the triangle *DCE,* therefore the triangle *DCE* also equals the triangle *FCE,* the greater equals the less, which is impossible. Therefore *AF* is not parallel to *BE.* ([C.N.1](CNI.1.md))
 
 Similarly we can prove that neither is any other straight line except *AD,* therefore *AD* is parallel to *BE.*
 

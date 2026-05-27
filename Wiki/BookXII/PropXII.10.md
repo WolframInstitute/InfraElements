@@ -16,31 +16,19 @@ First let it be greater than triple.
 
 ![java applet or image](propXII10.gif)
 
-[IV.6](../BookIV/PropIV.6.md)
-Inscribe the square *ABCD* in the circle *ABCD.* Then the square *ABCD* is greater than half of the circle *ABCD.* From the square *ABCD* set up a prism of equal height with the cylinder.
+Inscribe the square *ABCD* in the circle *ABCD.* Then the square *ABCD* is greater than half of the circle *ABCD.* From the square *ABCD* set up a prism of equal height with the cylinder. ([IV.6](../BookIV/PropIV.6.md))
 
-[IV.7](../BookIV/PropIV.7.md)
+Then the prism so set up is greater than the half of the cylinder, for if we also circumscribe a square about the circle *ABCD,* the square inscribed in the circle *ABCD* is half of that circumscribed about it, and the solids set up from them are parallelepipedal prisms of equal height, while parallelepipedal solids of the same height are to one another as their bases, therefore also the prism set up on the square *ABCD* is half of the prism set up from the square circumscribed about the circle *ABCD,* and the cylinder is less than the prism set up from the square circumscribed about the circle *ABCD,* therefore the prism set up from the square *ABCD* and of equal height with the cylinder is greater than the half of the cylinder. ([IV.7](../BookIV/PropIV.7.md), [XI.32](../BookXI/PropXI.32.md), [XI.28](../BookXI/PropXI.28.md), [XII.6](PropXII.6.md), [XII.7.Cor](PropXII.7.md))
 
-[XI.32](../BookXI/PropXI.32.md)
+Bisect the circumferences *AB, BC, CD,* and *DA* at the points *E, F, G,* and *H,* and join *AE, EB, BF, FC, CG, GD, DH,* and *HA.* Then each of the triangles *AEB, BFC, CGD,* and *DHA* is greater than the half of that segment of the circle *ABCD* about it, as we proved before. ([XII.2](PropXII.2.md))
 
-[XI.28](../BookXI/PropXI.28.md) or
-[XII.6](PropXII.6.md) and
-[XII.7.Cor](PropXII.7.md)
-Then the prism so set up is greater than the half of the cylinder, for if we also circumscribe a square about the circle *ABCD,* the square inscribed in the circle *ABCD* is half of that circumscribed about it, and the solids set up from them are parallelepipedal prisms of equal height, while parallelepipedal solids of the same height are to one another as their bases, therefore also the prism set up on the square *ABCD* is half of the prism set up from the square circumscribed about the circle *ABCD,* and the cylinder is less than the prism set up from the square circumscribed about the circle *ABCD,* therefore the prism set up from the square *ABCD* and of equal height with the cylinder is greater than the half of the cylinder.
+On each of the triangles *AEB, BFC, CGD,* and *DHA* set prisms up of equal height with the cylinder. Then each of the prisms so set up is greater than the half part of that segment of the cylinder about it, for if we draw through the points *E, F, G,* and *H* parallels to *AB, BC, CD,* and *DA,* complete the parallelograms on *AB, BC, CD,* and *DA,* and set up from them parallelepipedal solids of equal height with the cylinder, then the prisms on the triangles *AEB, BFC, CGD,* and *DHA* are halves of the several solids set up, and the segments of the cylinder are less than the parallelepipedal solids set up, hence also the prisms on the triangles *AEB, BFC, CGD,* and *DHA* are greater than half of the segments of the cylinder about them. ([I.31](../BookI/PropI.31.md))
 
-[XII.2](PropXII.2.md)
-Bisect the circumferences *AB, BC, CD,* and *DA* at the points *E, F, G,* and *H,* and join *AE, EB, BF, FC, CG, GD, DH,* and *HA.* Then each of the triangles *AEB, BFC, CGD,* and *DHA* is greater than the half of that segment of the circle *ABCD* about it, as we proved before.
-
-[I.31](../BookI/PropI.31.md)
-On each of the triangles *AEB, BFC, CGD,* and *DHA* set prisms up of equal height with the cylinder. Then each of the prisms so set up is greater than the half part of that segment of the cylinder about it, for if we draw through the points *E, F, G,* and *H* parallels to *AB, BC, CD,* and *DA,* complete the parallelograms on *AB, BC, CD,* and *DA,* and set up from them parallelepipedal solids of equal height with the cylinder, then the prisms on the triangles *AEB, BFC, CGD,* and *DHA* are halves of the several solids set up, and the segments of the cylinder are less than the parallelepipedal solids set up, hence also the prisms on the triangles *AEB, BFC, CGD,* and *DHA* are greater than half of the segments of the cylinder about them.
-
-[X.1](../BookX/PropX.1.md)
-Thus, bisecting the circumferences that are left, joining straight lines, setting up on each of the triangles prisms of equal height with the cylinder, and doing this repeatedly, we shall leave some segments of the cylinder which are less than the excess by which the cylinder exceeds the triple the cone.
+Thus, bisecting the circumferences that are left, joining straight lines, setting up on each of the triangles prisms of equal height with the cylinder, and doing this repeatedly, we shall leave some segments of the cylinder which are less than the excess by which the cylinder exceeds the triple the cone. ([X.1](../BookX/PropX.1.md))
 
 Let such segments be left, and let them be *AE, EB, BF, FC, CG, GD, DH,* and *HA.* Therefore the remainder, the prism with polygonal base *AEBFCGDH* and the same height as that of the cylinder, is greater than triple the cone.
 
-[XII.7,Cor](PropXII.7.md)
-But the prism with polygonal base *AEBFCGDH* and the same height as that of the cylinder is triple the pyramid with polygonal base *AEBFCGDH* and the same vertex as that of the cone. Therefore the pyramid with the polygonal base *AEBFCGDH* and the same vertex as that of the cone is greater than the cone with circular base *ABCD.*
+But the prism with polygonal base *AEBFCGDH* and the same height as that of the cylinder is triple the pyramid with polygonal base *AEBFCGDH* and the same vertex as that of the cone. Therefore the pyramid with the polygonal base *AEBFCGDH* and the same vertex as that of the cone is greater than the cone with circular base *ABCD.* ([XII.7,Cor](PropXII.7.md))
 
 But it is also less, for it is enclosed by it, which is impossible.
 Therefore the cylinder is not greater than triple the cone.
@@ -48,11 +36,9 @@ I say next that neither is the cylinder less than triple the cone,
 
 For, if possible, let the cylinder be less than triple the cone. Therefore, inversely, the cone is greater than a third part of the cylinder.
 
-[IV.6](../BookIV/PropIV.6.md)
-Inscribe the square *ABCD* in the circle *ABCD.* Therefore the square *ABCD* is greater than the half of the circle *ABCD.*
+Inscribe the square *ABCD* in the circle *ABCD.* Therefore the square *ABCD* is greater than the half of the circle *ABCD.* ([IV.6](../BookIV/PropIV.6.md))
 
-[XI.32](../BookXI/PropXI.32.md)
-Now set up from the square *ABCD* a pyramid with the same vertex as the cone. Therefore the pyramid so set up is greater than half of the cone, for, as we proved before, if we circumscribe a square about the circle, then the square *ABCD* is half of the square circumscribed about the circle, and if we set up from the squares parallelepipedal solids of equal height with the cone, which are also called prisms, then the solid set up from the square *ABCD* is half of that set up from the square circumscribed about the circle, for they are to one another as their bases.
+Now set up from the square *ABCD* a pyramid with the same vertex as the cone. Therefore the pyramid so set up is greater than half of the cone, for, as we proved before, if we circumscribe a square about the circle, then the square *ABCD* is half of the square circumscribed about the circle, and if we set up from the squares parallelepipedal solids of equal height with the cone, which are also called prisms, then the solid set up from the square *ABCD* is half of that set up from the square circumscribed about the circle, for they are to one another as their bases. ([XI.32](../BookXI/PropXI.32.md))
 
 Hence the thirds of them are also in that ratio. Therefore the pyramid with the square base *ABCD* is half of the pyramid set up from the square circumscribed about the circle.
 And the pyramid set up from the square about the circle is greater than the cone, for it encloses it.
@@ -63,8 +49,7 @@ Bisect the circumferences *AB, BC, CD,* and *DA* at the points *E, F, G,* and *H
 
 Now, on each of the triangles *AEB, BFC, CGD,* and *DHA* set pyramids up with the same vertex as the cone. Therefore each of the pyramids so set up is, in the same manner, greater than the half part of that segment of the cone about it.
 
-[X.1](../BookX/PropX.1.md)
-Thus, by bisecting the circumferences that are left, joining straight lines, setting up pyramids on each of the triangles with the same vertex as the cone, and doing this repeatedly, we shall leave some segments of the cone which will be less than the excess by which the cone exceeds the third part of the cylinder.
+Thus, by bisecting the circumferences that are left, joining straight lines, setting up pyramids on each of the triangles with the same vertex as the cone, and doing this repeatedly, we shall leave some segments of the cone which will be less than the excess by which the cone exceeds the third part of the cylinder. ([X.1](../BookX/PropX.1.md))
 
 Let such be left, and let them be the segments on *AE, EB, BF, FC, CG, GD, DH,* and *HA.* Therefore the remainder, the pyramid with the polygonal base *AEBFCGDH* and the same vertex as that of the cone, is greater than a third part of the cylinder.
 

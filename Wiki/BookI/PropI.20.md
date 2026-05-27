@@ -12,19 +12,13 @@ I say that in the triangle *ABC* the sum of any two sides is greater than the re
 
 ![java applet or image](propI20.gif)
 
-[I.Post.2](PostI.2.md),
-[I.3](PropI.3.md)
-Draw *BA* through to the point *D,* and make *DA* equal to *CA.*
+Draw *BA* through to the point *D,* and make *DA* equal to *CA.* ([I.Post.2](PostI.2.md), [I.3](PropI.3.md))
 
-[I.Post.1](PostI.1.md)
-Join *DC.*
+Join *DC.* ([I.Post.1](PostI.1.md))
 
-[I.5](PropI.5.md),
-[C.N.5](CNI.1.md)
-Since *DA* equals *AC,* therefore the angle *ADC* also equals the angle *ACD.* Therefore the angle *BCD* is greater than the angle *ADC.*
+Since *DA* equals *AC,* therefore the angle *ADC* also equals the angle *ACD.* Therefore the angle *BCD* is greater than the angle *ADC.* ([I.5](PropI.5.md), [C.N.5](CNI.1.md))
 
-[I.19](PropI.19.md)
-Since *DCB* is a triangle having the angle *BCD* greater than the angle *BDC,* and the side opposite the greater angle is greater, therefore *DB* is greater than *BC.*
+Since *DCB* is a triangle having the angle *BCD* greater than the angle *BDC,* and the side opposite the greater angle is greater, therefore *DB* is greater than *BC.* ([I.19](PropI.19.md))
 
 But *DA* equals *AC,* therefore the sum of *BA* and *AC* is greater than *BC.*
 

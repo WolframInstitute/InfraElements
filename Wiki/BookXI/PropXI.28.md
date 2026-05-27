@@ -12,10 +12,7 @@ Let the parallelepipedal solid *AB* be cut by the plane *CDEF* through the diago
 
 I say that the solid *AB* is bisected by the plane *CDEF.*
 
-[I.34](../BookI/PropI.34.md)
-
-[XI.Def.10](DefXI.9.md)
-Since the triangle *CGF* equals the triangle *CFB,* and *ADE* equals *DEH,* while the parallelogram *CA* equals the parallelogram *EB,* for they are opposite, and *GE* equals *CH,* therefore the prism contained by the two triangles *CGF* and *ADE* and the three parallelograms *GE, AC,* and *CE* equals the prism contained by the two triangles *CFB* and *DEH* and the three parallelograms *CH, BE,* and *CE,* for they are contained by planes equal both in multitude and in magnitude.
+Since the triangle *CGF* equals the triangle *CFB,* and *ADE* equals *DEH,* while the parallelogram *CA* equals the parallelogram *EB,* for they are opposite, and *GE* equals *CH,* therefore the prism contained by the two triangles *CGF* and *ADE* and the three parallelograms *GE, AC,* and *CE* equals the prism contained by the two triangles *CFB* and *DEH* and the three parallelograms *CH, BE,* and *CE,* for they are contained by planes equal both in multitude and in magnitude. ([I.34](../BookI/PropI.34.md), [XI.Def.10](DefXI.9.md))
 
 Hence the whole solid *AB* is bisected by the plane *CDEF.*
 

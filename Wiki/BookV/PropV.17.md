@@ -6,30 +6,25 @@ If magnitudes are proportional taken jointly, then they are also proportional ta
 
 ## Proof
 
-[V.Def.14](DefV.14.md)
-Let *AB, BE, CD,* and *DF* be magnitudes proportional taken jointly, so that *AB* is to *BE* as *CD* is to *DF.*
+Let *AB, BE, CD,* and *DF* be magnitudes proportional taken jointly, so that *AB* is to *BE* as *CD* is to *DF.* ([V.Def.14](DefV.14.md))
 
-[V.Def.15](DefV.14.md)
-I say that they are also proportional taken separately, that is, *AE* is to *EB* as *CF* is to *DF.*
+I say that they are also proportional taken separately, that is, *AE* is to *EB* as *CF* is to *DF.* ([V.Def.15](DefV.14.md))
 
 Take equimultiples *GH, HK, LM,* and *MN* of *AE, EB, CF,* and *FD,* and take other, arbitrary, equimultiples, *KO* and *NP* of *EB* and *FD.*
 
 ![java applet or image](propV17.gif)
 
-[V.1](PropV.1.md)
-Then, since *GH* is the same multiple of *AE* that *HK* is of *EB,* therefore *GH* is the same multiple of *AE* that *GK* is of *AB.*
+Then, since *GH* is the same multiple of *AE* that *HK* is of *EB,* therefore *GH* is the same multiple of *AE* that *GK* is of *AB.* ([V.1](PropV.1.md))
 
 But *GH* is the same multiple of *AE* that *LM* is of *CF,* therefore *GK* is the same multiple of *AB* that *LM* is of *CF.*
 
-[V.1](PropV.1.md)
-Again, since *LM* is the same multiple of *CF* that *MN* is of *FD,* therefore *LM* is the same multiple of *CF* that *LN* is of *CD.*
+Again, since *LM* is the same multiple of *CF* that *MN* is of *FD,* therefore *LM* is the same multiple of *CF* that *LN* is of *CD.* ([V.1](PropV.1.md))
 
 But *LM* was the same multiple of *CF* that *GK* is of *AB,* therefore *GK* is the same multiple of *AB* that *LN* is of *CD.*
 
 Therefore *GK* and *LN* are equimultiples of *AB* and *CD.*
 
-[V.2](PropV.2.md)
-Again, since *HK* is the same multiple of *EB* that *MN* is of *FD,* and *KO* is also the same multiple of *EB* that *NP* is of *FD,* therefore the sum *HO* is also the same multiple of *EB* that *MP* is of *FD.*
+Again, since *HK* is the same multiple of *EB* that *MN* is of *FD,* and *KO* is also the same multiple of *EB* that *NP* is of *FD,* therefore the sum *HO* is also the same multiple of *EB* that *MP* is of *FD.* ([V.2](PropV.2.md))
 
 And, since *AB* is to *BE* as *CD* is to *DF,* and of *AB* and *CD* equimultiples *GK* and *LN* have been taken, and of *EB* and *FD* equimultiples *HO* and *MP,* therefore, if *GK* is in excess of *HO,* and *LN* is also in excess of *MP*; if equal, equal; and if less, less.
 
@@ -39,8 +34,7 @@ But we saw that, if *GK* was in excess of *HO,* then *LN* was also in excess of 
 
 Similarly we can prove that, if *GH* equals *KO,* then *LM* also equals *NP*; and if less, less.
 
-[V.Def.5](DefV.5.md)
-And *GH* and *LM* are equimultiples of *AE* and *CF,* while *KO* and *NP* are other, arbitrary, equimultiples of *EB* and *FD,* therefore *AE* is to *EB* as *CF* is to *FD.*
+And *GH* and *LM* are equimultiples of *AE* and *CF,* while *KO* and *NP* are other, arbitrary, equimultiples of *EB* and *FD,* therefore *AE* is to *EB* as *CF* is to *FD.* ([V.Def.5](DefV.5.md))
 
 Therefore, *if magnitudes are proportional taken jointly, then they are also proportional taken separately.*
 

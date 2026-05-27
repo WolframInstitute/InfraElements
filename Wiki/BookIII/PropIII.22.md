@@ -14,11 +14,9 @@ I say that the sum of the opposite angles equals two right angles.
 
 Join *AC* and *BD.*
 
-[I.32](../BookI/PropI.32.md)
-Then, since in any triangle the sum of the three angles equals two right angles, the sum of the three angles *CAB, ABC,* and *BCA* of the triangle *ABC* equals two right angles.
+Then, since in any triangle the sum of the three angles equals two right angles, the sum of the three angles *CAB, ABC,* and *BCA* of the triangle *ABC* equals two right angles. ([I.32](../BookI/PropI.32.md))
 
-[III.21](PropIII.21.md)
-But the angle *CAB* equals the angle *BDC,* for they are in the same segment *BADC,* and the angle *ACB* equals the angle *ADB,* for they are in the same segment *ADCB,* therefore the whole angle *ADC* equals the sum of the angles *BAC* and *ACB.*
+But the angle *CAB* equals the angle *BDC,* for they are in the same segment *BADC,* and the angle *ACB* equals the angle *ADB,* for they are in the same segment *ADCB,* therefore the whole angle *ADC* equals the sum of the angles *BAC* and *ACB.* ([III.21](PropIII.21.md))
 
 Add the angle *ABC* to each. Therefore the sum of the angles *ABC, BAC,* and *ACB* equals the sum of the angles *ABC* and *ADC.* But the sum of the angles *ABC, BAC,* and *ACB* equals two right angles, therefore the sum of the angles *ABC* and *ADC* also equal two right angles.
 

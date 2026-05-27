@@ -12,16 +12,11 @@ Let *AB* and *C* be the two given unequal straight lines, and let *AB* be the gr
 
 It is required to cut off from *AB* the greater a straight line equal to *C* the less.
 
-[I.2](PropI.2.md)
+Place *AD* at the point *A* equal to the straight line *C,* and describe the circle *DEF* with center *A* and radius *AD.* ([I.2](PropI.2.md), [I.Post.3](PostI.3.md))
 
-[I.Post.3](PostI.3.md)
-Place *AD* at the point *A* equal to the straight line *C,* and describe the circle *DEF* with center *A* and radius *AD.*
+Now, since the point *A* is the center of the circle *DEF,* therefore *AE* equals *AD.* ([I.Def.15](DefI.15.md))
 
-[I.Def.15](DefI.15.md)
-Now, since the point *A* is the center of the circle *DEF,* therefore *AE* equals *AD.*
-
-[C.N.1](CNI.1.md)
-But *C* also equals *AD,* therefore each of the straight lines *AE* and *C* equals *AD,* so that *AE* also equals *C.*
+But *C* also equals *AD,* therefore each of the straight lines *AE* and *C* equals *AD,* so that *AE* also equals *C.* ([C.N.1](CNI.1.md))
 
 Therefore, given the two straight lines *AB* and *C, AE* has been cut off from *AB* the greater equal to *C* the less.
 

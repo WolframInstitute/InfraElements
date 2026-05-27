@@ -12,21 +12,15 @@ Let *ABCD* and *EFGH* be parallelograms which are on the equal bases *BC* and *F
 
 I say that the parallelogram *ABCD* equals *EFGH.*
 
-[I.Post.1](PostI.1.md)
-Join *BE* and *CH.*
+Join *BE* and *CH.* ([I.Post.1](PostI.1.md))
 
-[I.34](PropI.34.md),
-[C.N.1](CNI.1.md)
-Since *BC* equals *FG* and *FG* equals *EH,* therefore *BC* equals *EH.*
+Since *BC* equals *FG* and *FG* equals *EH,* therefore *BC* equals *EH.* ([I.34](PropI.34.md), [C.N.1](CNI.1.md))
 
-[I.33](PropI.33.md)
-But they are also parallel, and *EB* and *HC* join them. But straight lines joining equal and parallel straight lines in the same directions are equal and parallel, therefore *EBCH* is a parallelogram.
+But they are also parallel, and *EB* and *HC* join them. But straight lines joining equal and parallel straight lines in the same directions are equal and parallel, therefore *EBCH* is a parallelogram. ([I.33](PropI.33.md))
 
-[I.35](PropI.35.md)
-And it equals *ABCD,* for it has the same base *BC* with it and is in the same parallels *BC* and *AH* with it.
+And it equals *ABCD,* for it has the same base *BC* with it and is in the same parallels *BC* and *AH* with it. ([I.35](PropI.35.md))
 
-[C.N.1](CNI.1.md)
-For the same reason also *EFGH* equals the same *EBCH,* so that the parallelogram *ABCD* also equals *EFGH.*
+For the same reason also *EFGH* equals the same *EBCH,* so that the parallelogram *ABCD* also equals *EFGH.* ([C.N.1](CNI.1.md))
 
 Therefore *parallelograms which are on equal bases and in the same parallels equal one another.*
 

@@ -6,28 +6,17 @@ To construct a cube and comprehend it in a sphere, like the pyramid; and to prov
 
 ## Proof
 
-[VI.9](../BookVI/PropVI.9.md),
-[I.11](../BookI/PropI.11.md)
-
-[I.46](../BookI/PropI.46.md)
-
-[XI.12](../BookXI/PropXI.12.md)
-
-[I.3](../BookI/PropI.3.md)
-
-Set out the diameter *AB* of the given sphere, and cut it at *C* so that *AC* is double *CB.* Describe the semicircle *ADB* on *AB,* draw *CD* from *C* at right angles to *AB,* and join *DB.* Set out the square *EFGH* having its side equal to *DB,* draw *EK, FL, GM,* and *HN* from *E, F, G,* and *H* at right angles to the plane of the square *EFGH,* and cut *EK, FL, GM,* and *HN* off from *EK, FL, GM,* and *HN* respectively equal to one of the straight lines *EF, FG, GH,* or *HE.* Join *KL, LM, MN,* and *NK.*
+Set out the diameter *AB* of the given sphere, and cut it at *C* so that *AC* is double *CB.* Describe the semicircle *ADB* on *AB,* draw *CD* from *C* at right angles to *AB,* and join *DB.* Set out the square *EFGH* having its side equal to *DB,* draw *EK, FL, GM,* and *HN* from *E, F, G,* and *H* at right angles to the plane of the square *EFGH,* and cut *EK, FL, GM,* and *HN* off from *EK, FL, GM,* and *HN* respectively equal to one of the straight lines *EF, FG, GH,* or *HE.* Join *KL, LM, MN,* and *NK.* ([VI.9](../BookVI/PropVI.9.md), [I.11](../BookI/PropI.11.md), [I.46](../BookI/PropI.46.md), [XI.12](../BookXI/PropXI.12.md), [I.3](../BookI/PropI.3.md))
 
 ![java applet or image](propXIII15.gif)
 
-[XI.Def.25](../BookXI/DefXI.25.md)
-Therefore the cube *FN* has been constructed which is contained by six equal squares.
+Therefore the cube *FN* has been constructed which is contained by six equal squares. ([XI.Def.25](../BookXI/DefXI.25.md))
 
 It is then required to comprehend it in the given sphere, and to prove that the square on the diameter of the sphere is triple the square on the side of the cube.
 
 Join *KG* and *EG.*
 
-[XI.Def.3](../BookXI/DefXI.3.md)
-Then, since the angle *KEG* is right, for *KE* is also at right angles to the plane *EG* and of course to the straight line *EG* also, therefore the semicircle described on *KG* passes through the point *E.*
+Then, since the angle *KEG* is right, for *KE* is also at right angles to the plane *EG* and of course to the straight line *EG* also, therefore the semicircle described on *KG* passes through the point *E.* ([XI.Def.3](../BookXI/DefXI.3.md))
 
 Again, since *GF* is at right angles to each of the straight lines *FL* and *FE,* therefore *GF* is also at right angles to the plane *FK.* Hence also, if we join *FK,* then *GF* will be at right angles to *FK.* For this reason the semicircle described on *GK* also passes through *F.*
 
@@ -37,8 +26,7 @@ If then, *KG* remaining fixed, the semicircle is carried round and restored to t
 
 I say next that it is also comprehended in the given sphere.
 
-[I.47](../BookI/PropI.47.md)
-For, since *GF* equals *FE,* and the angle at *F* is right, therefore the square on *EG* is double the square on *EF.* But *EF* equals *EK,* therefore the square on *EG* is double the square on *EK.* Hence the sum of the squares on *GE* and *EK,* that is the square on *GK,* is triple the square on *EK.*
+For, since *GF* equals *FE,* and the angle at *F* is right, therefore the square on *EG* is double the square on *EF.* But *EF* equals *EK,* therefore the square on *EG* is double the square on *EK.* Hence the sum of the squares on *GE* and *EK,* that is the square on *GK,* is triple the square on *EK.* ([I.47](../BookI/PropI.47.md))
 
 And, since *AB* is triple *BC,* while *AB* is to *BC* as the square on *AB* is to the square on *BD,* therefore the square on *AB* is triple the square on *BD.*
 

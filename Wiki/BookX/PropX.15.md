@@ -14,8 +14,7 @@ Since *AB* and *BC* are commensurable, some magnitude *D* measures them.
 
 ![java applet or image](propX15.gif)
 
-[X.Def.I.1](DefX.I.1.md)
-Since then *D* measures *AB* and *BC*, therefore it also measures the whole *AC*. But it measures *AB* and *BC* also, therefore *D* measures *AB*, *BC*, and *AC*. Therefore *AC* is commensurable with each of the magnitudes *AB* and *BC*.
+Since then *D* measures *AB* and *BC*, therefore it also measures the whole *AC*. But it measures *AB* and *BC* also, therefore *D* measures *AB*, *BC*, and *AC*. Therefore *AC* is commensurable with each of the magnitudes *AB* and *BC*. ([X.Def.I.1](DefX.I.1.md))
 
 Next, let *AC* be commensurable with *AB*.
 
@@ -25,8 +24,7 @@ Since *AC* and *AB* are commensurable, some magnitude *D* measures them.
 
 Since then *D* measures *CA* and *AB*, therefore it also measures the remainder *BC*.
 
-[X.Def.I.1](DefX.I.1.md)
-But it measures *AB* also, therefore *D* measures *AB* and *BC*. Therefore *AB* and *BC* are commensurable.
+But it measures *AB* also, therefore *D* measures *AB* and *BC*. Therefore *AB* and *BC* are commensurable. ([X.Def.I.1](DefX.I.1.md))
 
 Therefore, *if two commensurable magnitudes are added together, then the whole is also commensurable with each of them; and, if the whole is commensurable with one of them, then the original magnitudes are also commensurable.*
 

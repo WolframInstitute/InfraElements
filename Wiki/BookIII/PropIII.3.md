@@ -12,16 +12,11 @@ I say that it also cuts it at right angles.
 
 ![java applet or image](propIII3.gif)
 
-[III.1](PropIII.1.md)
-Take the center *E* of the circle *ABC,* and join *EA* and *EB.*
+Take the center *E* of the circle *ABC,* and join *EA* and *EB.* ([III.1](PropIII.1.md))
 
-[I.Def.15](../BookI/DefI.15.md)
+Then, since *AF* equals *FB,* and *FE* is common, two sides equal two sides, and the base *EA* equals the base *EB,* therefore the angle *AFE* equals the angle *BFE.* ([I.Def.15](../BookI/DefI.15.md), [I.8](../BookI/PropI.8.md))
 
-[I.8](../BookI/PropI.8.md)
-Then, since *AF* equals *FB,* and *FE* is common, two sides equal two sides, and the base *EA* equals the base *EB,* therefore the angle *AFE* equals the angle *BFE.*
-
-[I.Def.10](../BookI/DefI.10.md)
-But, when a straight line standing on another straight line makes the adjacent angles equal to one another, each of the equal angles is right, therefore each of the angles *AFE* and *BFE* is right.
+But, when a straight line standing on another straight line makes the adjacent angles equal to one another, each of the equal angles is right, therefore each of the angles *AFE* and *BFE* is right. ([I.Def.10](../BookI/DefI.10.md))
 
 Therefore *CD,* which passes through the center and bisects *AB* which does not pass through the center, also cuts it at right angles.
 
@@ -29,11 +24,9 @@ Next, let *CD* cut *AB* at right angles.
 
 I say that it also bisects it, that is, that *AF* equals *FB.*
 
-[I.5](../BookI/PropI.5.md)
-For, with the same construction, since *EA* equals *EB,* the angle *EAF* also equals the angle *EBF.*
+For, with the same construction, since *EA* equals *EB,* the angle *EAF* also equals the angle *EBF.* ([I.5](../BookI/PropI.5.md))
 
-[I.26](../BookI/PropI.26.md)
-But the right angle *AFE* equals the right angle *BFE,* therefore *EAF* and *EBF* are two triangles having two angles equal to two angles and one side equal to one side, namely *EF,* which is common to them, and opposite one of the equal angles. Therefore they also have the remaining sides equal to the remaining sides
+But the right angle *AFE* equals the right angle *BFE,* therefore *EAF* and *EBF* are two triangles having two angles equal to two angles and one side equal to one side, namely *EF,* which is common to them, and opposite one of the equal angles. Therefore they also have the remaining sides equal to the remaining sides ([I.26](../BookI/PropI.26.md))
 
 Therefore *AF* equals *FB.*
 

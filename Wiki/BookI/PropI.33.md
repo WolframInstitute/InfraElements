@@ -12,17 +12,13 @@ I say that *AC* and *BD* are also equal and parallel.
 
 ![java applet or image](propI33.gif)
 
-[I.Post.1](PostI.1.md)
-Join *BC.*
+Join *BC.* ([I.Post.1](PostI.1.md))
 
-[I.29](PropI.29.md)
-Since *AB* is parallel to *CD,* and *BC* falls upon them, therefore the alternate angles *ABC* and *BCD* equal one another.
+Since *AB* is parallel to *CD,* and *BC* falls upon them, therefore the alternate angles *ABC* and *BCD* equal one another. ([I.29](PropI.29.md))
 
-[I.4](PropI.4.md)
-Since *AB* equals *CD,* and *BC* is common, the two sides *AB* and *BC* equal the two sides *DC* and *CB,* and the angle *ABC* equals the angle *BCD,* therefore the base *AC* equals the base *BD,* the triangle *ABC* equals the triangle *DCB,* and the remaining angles equals the remaining angles respectively, namely those opposite the equal sides. Therefore the angle *ACB* equals the angle *CBD.*
+Since *AB* equals *CD,* and *BC* is common, the two sides *AB* and *BC* equal the two sides *DC* and *CB,* and the angle *ABC* equals the angle *BCD,* therefore the base *AC* equals the base *BD,* the triangle *ABC* equals the triangle *DCB,* and the remaining angles equals the remaining angles respectively, namely those opposite the equal sides. Therefore the angle *ACB* equals the angle *CBD.* ([I.4](PropI.4.md))
 
-[I.27](PropI.27.md)
-Since the straight line *BC* falling on the two straight lines *AC* and *BD* makes the alternate angles equal to one another, therefore *AC* is parallel to *BD.*
+Since the straight line *BC* falling on the two straight lines *AC* and *BD* makes the alternate angles equal to one another, therefore *AC* is parallel to *BD.* ([I.27](PropI.27.md))
 
 And it was also proved equal to it.
 

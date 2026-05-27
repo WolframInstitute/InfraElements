@@ -6,39 +6,29 @@ To construct an isosceles triangle having each of the angles at the base double 
 
 ## Proof
 
-[II.11](../BookII/PropII.11.md)
+Set out any straight line *AB,* and cut it at the point *C* so that the rectangle *AB* by *BC* equals the square on *CA.* Describe the circle *BDE* with center A and radius *AB.* Fit in the circle *BDE* the straight line *BD* equal to the straight line *AC* which is not greater than the diameter of the circle *BDE.* ([II.11](../BookII/PropII.11.md), [IV.1](PropIV.1.md))
 
-[IV.1](PropIV.1.md)
-Set out any straight line *AB,* and cut it at the point *C* so that the rectangle *AB* by *BC* equals the square on *CA.* Describe the circle *BDE* with center A and radius *AB.* Fit in the circle *BDE* the straight line *BD* equal to the straight line *AC* which is not greater than the diameter of the circle *BDE.*
-
-[IV.5](PropIV.5.md)
-Join *AD* and *DC,* and circumscribe the circle *ACD* about the triangle *ACD.*
+Join *AD* and *DC,* and circumscribe the circle *ACD* about the triangle *ACD.* ([IV.5](PropIV.5.md))
 
 ![java applet or image](propIV10.gif)
 
 Then, since the rectangle *AB* by *BC* equals the square on *AC,* and *AC* equals *BD,* therefore the rectangle *AB* by *BC* equals the square on *BD.*
 
-[III.37](../BookIII/PropIII.37.md)
-And, since a point *B* was taken outside the circle *ACD,* and from *B* the two straight lines *BA* and *BD* fall on the circle *ACD,* and one of them cuts it while the other falls on it, and the rectangle *AB* by *BC* equals the square on *BD,* therefore *BD* touches the circle *ACD.*
+And, since a point *B* was taken outside the circle *ACD,* and from *B* the two straight lines *BA* and *BD* fall on the circle *ACD,* and one of them cuts it while the other falls on it, and the rectangle *AB* by *BC* equals the square on *BD,* therefore *BD* touches the circle *ACD.* ([III.37](../BookIII/PropIII.37.md))
 
-[III.32](../BookIII/PropIII.32.md)
-Since, then, *BD* touches it, and *DC* is drawn across from the point of contact at *D,* therefore the angle *BDC* equals the angle *DAC* in the alternate segment of the circle.
+Since, then, *BD* touches it, and *DC* is drawn across from the point of contact at *D,* therefore the angle *BDC* equals the angle *DAC* in the alternate segment of the circle. ([III.32](../BookIII/PropIII.32.md))
 
 Since, then, the angle *BDC* equals the angle *DAC,* add the angle *CDA* to each, therefore the whole angle *BDA* equals the sum of the two angles *CDA* and *DAC.*
 
-[I.32](../BookI/PropI.32.md)
-But the exterior angle *BCD* equals the sum of the angles *CDA* and *DAC,* therefore the angle *BDA* also equals the angle *BCD.*
+But the exterior angle *BCD* equals the sum of the angles *CDA* and *DAC,* therefore the angle *BDA* also equals the angle *BCD.* ([I.32](../BookI/PropI.32.md))
 
-[I.5](../BookI/PropI.5.md)
-But the angle *BDA* equals the angle *CBD,* since the side *AD* also equals *AB,* so that the angle *DBA* also equals the angle *BCD.*
+But the angle *BDA* equals the angle *CBD,* since the side *AD* also equals *AB,* so that the angle *DBA* also equals the angle *BCD.* ([I.5](../BookI/PropI.5.md))
 
 Therefore the three angles *BDA,* *DBA,* and *BCD* equal one another.
 
-[I.6](../BookI/PropI.6.md)
-And, since the angle *DBC* equals the angle *BCD,* the side *BD* also equals the side *DC.*
+And, since the angle *DBC* equals the angle *BCD,* the side *BD* also equals the side *DC.* ([I.6](../BookI/PropI.6.md))
 
-[I.5](../BookI/PropI.5.md)
-But *BD* equals *CA* by hypothesis, therefore *CA* also equals *CD,* so that the angle *CDA* also equals the angle *DAC.* Therefore the sum of the angles *CDA* and *DAC* is double the angle *DAC.*
+But *BD* equals *CA* by hypothesis, therefore *CA* also equals *CD,* so that the angle *CDA* also equals the angle *DAC.* Therefore the sum of the angles *CDA* and *DAC* is double the angle *DAC.* ([I.5](../BookI/PropI.5.md))
 
 And the angle *BCD* equals the sum of the angles *CDA* and *DAC,* therefore the angle *BCD* is also double the angle *CAD.*
 

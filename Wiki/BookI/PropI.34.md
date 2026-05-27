@@ -12,17 +12,13 @@ I say that the opposite sides and angles of the parallelogram *ACDB* equal one a
 
 ![java applet or image](propI34.gif)
 
-[I.29](PropI.29.md)
-Since *AB* is parallel to *CD,* and the straight line *BC* falls upon them, therefore the alternate angles *ABC* and *BCD* equal one another.
+Since *AB* is parallel to *CD,* and the straight line *BC* falls upon them, therefore the alternate angles *ABC* and *BCD* equal one another. ([I.29](PropI.29.md))
 
-[I.29](PropI.29.md)
-Again, since *AC* is parallel to *BD,* and *BC* falls upon them, therefore the alternate angles *ACB* and *CBD* equal one another.
+Again, since *AC* is parallel to *BD,* and *BC* falls upon them, therefore the alternate angles *ACB* and *CBD* equal one another. ([I.29](PropI.29.md))
 
-[I.26](PropI.26.md)
-Therefore *ABC* and *DCB* are two triangles having the two angles *ABC* and *BCA* equal to the two angles *DCB* and *CBD* respectively, and one side equal to one side, namely that adjoining the equal angles and common to both of them, *BC.* Therefore they also have the remaining sides equal to the remaining sides respectively, and the remaining angle to the remaining angle. Therefore the side *AB* equals *CD,* and *AC* equals *BD,* and further the angle *BAC* equals the angle *CDB.*
+Therefore *ABC* and *DCB* are two triangles having the two angles *ABC* and *BCA* equal to the two angles *DCB* and *CBD* respectively, and one side equal to one side, namely that adjoining the equal angles and common to both of them, *BC.* Therefore they also have the remaining sides equal to the remaining sides respectively, and the remaining angle to the remaining angle. Therefore the side *AB* equals *CD,* and *AC* equals *BD,* and further the angle *BAC* equals the angle *CDB.* ([I.26](PropI.26.md))
 
-[C.N.2](CNI.1.md)
-Since the angle *ABC* equals the angle *BCD,* and the angle *CBD* equals the angle *ACB,* therefore the whole angle *ABD* equals the whole angle *ACD.*
+Since the angle *ABC* equals the angle *BCD,* and the angle *CBD* equals the angle *ACB,* therefore the whole angle *ABD* equals the whole angle *ACD.* ([C.N.2](CNI.1.md))
 
 And the angle *BAC* was also proved equal to the angle *CDB.*
 
@@ -30,8 +26,7 @@ Therefore in parallelogrammic areas the opposite sides and angles equal one anot
 
 I say, next, that the diameter also bisects the areas.
 
-[I.4](PropI.4.md)
-Since *AB* equals *CD,* and *BC* is common, the two sides *AB* and *BC* equal the two sides *DC* and *CB* respectively, and the angle *ABC* equals the angle *BCD.* Therefore the base *AC* also equals *DB,* and the triangle *ABC* equals the triangle *DCB.*
+Since *AB* equals *CD,* and *BC* is common, the two sides *AB* and *BC* equal the two sides *DC* and *CB* respectively, and the angle *ABC* equals the angle *BCD.* Therefore the base *AC* also equals *DB,* and the triangle *ABC* equals the triangle *DCB.* ([I.4](PropI.4.md))
 
 Therefore the diameter *BC* bisects the parallelogram *ACDB.*
 

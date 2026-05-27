@@ -10,8 +10,7 @@ Let *AB* and *C* be two unequal magnitudes of which *AB* is the greater.
 
 I say that, if from *AB* there is subtracted a magnitude greater than its half, and from that which is left a magnitude greater than its half, and if this process is repeated continually, then there will be left some magnitude which is less than the magnitude *C*.
 
-cf. [V.Def.4](../BookV/DefV.4.md)
-Some multiple *DE* of *C* is greater than *AB*.
+Some multiple *DE* of *C* is greater than *AB*. ([V.Def.4](../BookV/DefV.4.md))
 
 Divide *DE* into the parts *DF*, *FG*, and *GE* equal to *C*. From *AB* subtract *BH* greater than its half, and from *AH* subtract *HK* greater than its half, and repeat this process continually until the divisions in *AB* are equal in multitude with the divisions in *DE*.
 

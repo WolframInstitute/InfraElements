@@ -14,8 +14,7 @@ I say that *C* and *B* are also relatively prime.
 
 If *C* and *B* are not relatively prime, then some number *D* measures *C* and *B.*
 
-[VII.Def.12](DefVII.11.md)
-Since *D* measures *C,* and *C* measures *A,* therefore *D* also measures *A.* But it also measures *B,* therefore *D* measures *A* and *B* which are relatively prime, which is impossible.
+Since *D* measures *C,* and *C* measures *A,* therefore *D* also measures *A.* But it also measures *B,* therefore *D* measures *A* and *B* which are relatively prime, which is impossible. ([VII.Def.12](DefVII.11.md))
 
 Therefore no number measures the numbers *C* and *B.* Therefore *C* and *B* are relatively prime.
 

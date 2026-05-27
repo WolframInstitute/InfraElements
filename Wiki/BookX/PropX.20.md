@@ -12,14 +12,9 @@ Let the rational area *AC* be applied to *AB*, a straight line once more rationa
 
 I say that *BC* is rational and commensurable in length with *BA*.
 
-[I.46](../BookI/PropI.46.md),
-[X.Def.I.4](DefX.I.4.md)
-Describe the square *AD* on *AB*. Then *AD* is rational.
+Describe the square *AD* on *AB*. Then *AD* is rational. ([I.46](../BookI/PropI.46.md), [X.Def.I.4](DefX.I.4.md))
 
-[VI.1](../BookVI/PropVI.1.md)
-
-[X.11](PropX.11.md)
-But *AC* is also rational, therefore *DA* is commensurable with *AC*. And *DA* is to *AC* as *DB* is to *BC*. Therefore *DB* is also commensurable with *BC*, and *DB* equals *BA*. Therefore *AB* is also commensurable with *BC*.
+But *AC* is also rational, therefore *DA* is commensurable with *AC*. And *DA* is to *AC* as *DB* is to *BC*. Therefore *DB* is also commensurable with *BC*, and *DB* equals *BA*. Therefore *AB* is also commensurable with *BC*. ([VI.1](../BookVI/PropVI.1.md), [X.11](PropX.11.md))
 
 But *AB* is rational, *C* therefore *BC* is also rational and commensurable in length with *AB*.
 

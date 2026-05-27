@@ -10,8 +10,7 @@ The less of two unequal numbers *AB* and *CD* being continually subtracted from 
 
 ![java applet or image](propVII1.gif)
 
-[VII.Def.12](DefVII.11.md)
-I say that *AB* and *CD* are relatively prime, that is, that a unit alone measures *AB* and *CD.*
+I say that *AB* and *CD* are relatively prime, that is, that a unit alone measures *AB* and *CD.* ([VII.Def.12](DefVII.11.md))
 
 If *AB* and *CD* are not relatively prime, then some number *E* measures them. Let *CD,* measuring *BF,* leave *FA* less than itself, let *AF,* measuring *DG,* leave *GC* less than itself, and let *GC,* measuring *FH,* leave a unit *HA.*
 
@@ -21,8 +20,7 @@ But it also measures the whole *BA,* therefore it measures the remainder *AF.* B
 
 But *CG* measures *FH,* therefore *E* also measures *FH.* But it also measures the whole *FA,* therefore it measures the remainder, the unit *AH,* though it is a number, which is impossible.
 
-[VII.Def.12](DefVII.11.md)
-Therefore no number measures the numbers *AB* and *CD.* Therefore *AB* and *CD* are relatively prime.
+Therefore no number measures the numbers *AB* and *CD.* Therefore *AB* and *CD* are relatively prime. ([VII.Def.12](DefVII.11.md))
 
 Therefore, *when two unequal numbers are set out, and the less is continually subtracted in turn from the greater, if the number which is left never measures the one before it until a unit is left, then the original numbers are relatively prime.*
 

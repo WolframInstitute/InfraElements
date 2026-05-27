@@ -12,25 +12,23 @@ Let *AB* be the given finite straight line.
 
 It is required to cut *AB* in extreme and mean ratio.
 
-[I.46](../BookI/PropI.46.md)
-
-[VI.29](PropVI.29.md)
-Describe the square *BC* on *AB.* Apply the parallelogram *CD* to *AC* equal to the sum of *BC* and the figure *AD* similar to *BC.*
+Describe the square *BC* on *AB.* Apply the parallelogram *CD* to *AC* equal to the sum of *BC* and the figure *AD* similar to *BC.* ([I.46](../BookI/PropI.46.md), [VI.29](PropVI.29.md))
 
 Now *BC* is a square, therefore *AD* is also a square.
 
 And, since *BC* equals *CD,* subtract *CE* from each, therefore the remainder *BF* equals the remainder *AD.*
 
-[VI.14](PropVI.14.md)
 But it is also equiangular with it, therefore in *BF* and *AD* the sides about the equal angles are reciprocally proportional. Therefore *FE* is to *ED* as *AE* is to *EB.*
 
-But *FE* equals *AB,* and *ED* equals *AE.*[V.7](../BookV/PropV.7.md)
+But *FE* equals *AB,* and *ED* equals *AE.*
 
-Therefore *AB* is to *AE* as *AE* is to *EB.*
+Therefore *AB* is to *AE* as *AE* is to *EB.* ([V.7](../BookV/PropV.7.md))
 
-And *AB* is greater than *AE,* therefore *AE* is also greater than *EB.*[VI.Def.3](DefVI.3.md)
+And *AB* is greater than *AE,* therefore *AE* is also greater than *EB.*
 
-Therefore the straight line *AB* has been cut in extreme and mean ratio at *E,* and the greater segment of it is *AE.*Q.E.F.
+Therefore the straight line *AB* has been cut in extreme and mean ratio at *E,* and the greater segment of it is *AE.* ([VI.Def.3](DefVI.3.md))Q.E.F.
+
+([VI.14](PropVI.14.md))
 
 ## Guide
 

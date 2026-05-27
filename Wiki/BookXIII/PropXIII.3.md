@@ -11,8 +11,7 @@ I say that the square on *BD* is five times the square on *DC.*
 
 ![java applet or image](propXIII3.gif)
 
-[I.46](../BookI/PropI.46.md)
-Describe the square *AE* on *AB,* and draw the figure.
+Describe the square *AE* on *AB,* and draw the figure. ([I.46](../BookI/PropI.46.md))
 
 Since *AC* is double *DC,* therefore the square on *AC* is quadruple the square on *DC,* that is, *RS* is quadruple *FG.*
 

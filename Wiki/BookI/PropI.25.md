@@ -14,11 +14,9 @@ I say that the angle *BAC* is also greater than the angle *EDF.*
 
 If not, it either equals it or is less.
 
-[I.4](PropI.4.md)
-Now the angle *BAC* does not equal the angle *EDF,* for then the base *BC* would equal the base *EF,* but it is not. Therefore the angle *BAC* does not equal the angle *EDF.*
+Now the angle *BAC* does not equal the angle *EDF,* for then the base *BC* would equal the base *EF,* but it is not. Therefore the angle *BAC* does not equal the angle *EDF.* ([I.4](PropI.4.md))
 
-[I.24](PropI.24.md)
-Neither is the angle *BAC* less than the angle *EDF,* for then the base *BC* would be less than the base *EF,* but it is not. Therefore the angle *BAC* is not less than the angle *EDF.*
+Neither is the angle *BAC* less than the angle *EDF,* for then the base *BC* would be less than the base *EF,* but it is not. Therefore the angle *BAC* is not less than the angle *EDF.* ([I.24](PropI.24.md))
 
 But it was proved that it is not equal either. Therefore the angle *BAC* is greater than the angle *EDF.*
 

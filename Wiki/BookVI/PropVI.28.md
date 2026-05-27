@@ -6,18 +6,13 @@ To apply a parallelogram equal to a given rectilinear figure to a given straight
 
 ## Proof
 
-[VI.27](PropVI.27.md)
-
-Let *C* be the given rectilinear figure, *AB* the given straight line, and *D* the given parallelogram, and let *C* not be greater than the parallelogram described on the half of *AB* similar to the given parallelogram *D.*
+Let *C* be the given rectilinear figure, *AB* the given straight line, and *D* the given parallelogram, and let *C* not be greater than the parallelogram described on the half of *AB* similar to the given parallelogram *D.* ([VI.27](PropVI.27.md))
 
 It is required to apply a parallelogram equal to the given rectilinear figure *C* to the given straight line *AB* but falling short by a parallelogram similar to *D.*
 
 ![java applet or image](propVI28.gif)
 
-[I.9](../BookI/PropI.9.md)
-
-[VI.18](PropVI.18.md)
-Bisect *AB* at the point *E.* Describe *EBFG* similar and similarly situated to *D* on *EB,* and complete the parallelogram *AG.*
+Bisect *AB* at the point *E.* Describe *EBFG* similar and similarly situated to *D* on *EB,* and complete the parallelogram *AG.* ([I.9](../BookI/PropI.9.md), [VI.18](PropVI.18.md))
 
 If then *AG* equals *C,* that which was proposed is done, for the parallelogram *AG* equal to the given rectilinear figure *C* has been applied to the given straight line *AB* but falling short by a parallelogram *GB* similar to *D.*
 
@@ -25,20 +20,15 @@ But, if not, let *HE* be greater than *C.*
 
 Now *HE* equals *GB,* therefore *GB* is also greater than *C.*
 
-[VI.25](PropVI.25.md)
-Construct *KLMN* equal to *GB* minus *C* and similar and similarly situated to *D.*
+Construct *KLMN* equal to *GB* minus *C* and similar and similarly situated to *D.* ([VI.25](PropVI.25.md))
 
-[VI.21](PropVI.21.md)
-But *D* is similar to *GB,* therefore *KM* is also similar to *GB.*
+But *D* is similar to *GB,* therefore *KM* is also similar to *GB.* ([VI.21](PropVI.21.md))
 
 Let, then, *KL* correspond to *GE,* and *LM* to *GF.*
 
 Now, since *GB* equals *C* and *KM,* therefore *GB* is greater than *KM,* therefore also *GE* is greater than *KL,* and *GF* than *LM.*
 
-[VI.21](PropVI.21.md)
-
-[VI.26](PropVI.26.md)
-Make *GO* equal to *KL,* and *GP* equal to *LM,* and let the parallelogram *OGPQ* be completed, therefore it is equal and similar to *KM.*
+Make *GO* equal to *KL,* and *GP* equal to *LM,* and let the parallelogram *OGPQ* be completed, therefore it is equal and similar to *KM.* ([VI.21](PropVI.21.md), [VI.26](PropVI.26.md))
 
 Therefore *GQ* is also similar to *GB,* therefore *GQ* is about the same diameter with *GB.*
 
@@ -48,8 +38,7 @@ Then, since *BG* equals *C* and *KM,* and in them *GQ* equals *KM,* therefore th
 
 And, since *PR* equals *OS,* add *QB* to each, therefore the whole *PB* equals the whole *OB.*
 
-[I.36](../BookI/PropI.36.md)
-But *OB* equals *TE,* since the side *AE* also equals the side *EB,* therefore *TE* also equals *PB.*
+But *OB* equals *TE,* since the side *AE* also equals the side *EB,* therefore *TE* also equals *PB.* ([I.36](../BookI/PropI.36.md))
 
 Add *OS* to each. Therefore the whole *TS* equals the whole, the gnomon *VWU.*
 

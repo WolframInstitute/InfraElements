@@ -10,8 +10,7 @@ Let *A* be the given rectilinear figure.
 
 It is required to construct a square equal to the rectilinear figure *A.*
 
-[I.45](../BookI/PropI.45.md)
-Construct the rectangular parallelogram *BD* equal to the rectilinear figure *A.*
+Construct the rectangular parallelogram *BD* equal to the rectilinear figure *A.* ([I.45](../BookI/PropI.45.md))
 
 ![java applet or image](propII14.gif)
 
@@ -19,20 +18,15 @@ Then, if *BE* equals *ED,* then that which was proposed is done, for a square *B
 
 But, if not, one of the straight lines *BE* or *ED* is greater.
 
-[I.3](../BookI/PropI.3.md),
-[I.10](../BookI/PropI.10.md)
-Let *BE* be greater, and produce it to *F.* Make *EF* equal to *ED,* and bisect *BF* at *G.*
+Let *BE* be greater, and produce it to *F.* Make *EF* equal to *ED,* and bisect *BF* at *G.* ([I.3](../BookI/PropI.3.md), [I.10](../BookI/PropI.10.md))
 
-[I.Def.18](../BookI/DefI.15.md)
-Describe the semicircle *BHF* with center *G* and radius one of the straight lines *GB* or *GF.* Produce *DE* to *H,* and join *GH.*
+Describe the semicircle *BHF* with center *G* and radius one of the straight lines *GB* or *GF.* Produce *DE* to *H,* and join *GH.* ([I.Def.18](../BookI/DefI.15.md))
 
-[II.5](PropII.5.md)
-Then, since the straight line *BF* has been cut into equal segments at *G* and into unequal segments at *E,* the rectangle *BE* by *EF* together with the square on *EG* equals the square on *GF.*
+Then, since the straight line *BF* has been cut into equal segments at *G* and into unequal segments at *E,* the rectangle *BE* by *EF* together with the square on *EG* equals the square on *GF.* ([II.5](PropII.5.md))
 
 But *GF* equals *GH,* therefore the rectangle *BE* by *EF* together with the square on *GE* equals the square on *GH.*
 
-[I.47](../BookI/PropI.47.md)
-But the sum of the squares on *HE* and *EG* equals the square on *GH,* therefore the rectangle *BE* by *EF* together with the square on *GE* equals the sum of the squares on *HE* and *EG.*
+But the sum of the squares on *HE* and *EG* equals the square on *GH,* therefore the rectangle *BE* by *EF* together with the square on *GE* equals the sum of the squares on *HE* and *EG.* ([I.47](../BookI/PropI.47.md))
 
 Subtract the square on *GE* from each. Therefore the remaining rectangle *BE* by *EF* equals the square on *EH.*
 

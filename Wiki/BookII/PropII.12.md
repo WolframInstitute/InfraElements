@@ -6,20 +6,17 @@ In obtuse-angled triangles the square on the side opposite the obtuse angle is g
 
 ## Proof
 
-[I.12](../BookI/PropI.12.md)
-Let *ABC* be an obtuse-angled triangle having the angle *BAC* obtuse, and draw *BD* from the point *B* perpendicular to *CA* produced.
+Let *ABC* be an obtuse-angled triangle having the angle *BAC* obtuse, and draw *BD* from the point *B* perpendicular to *CA* produced. ([I.12](../BookI/PropI.12.md))
 
 I say that the square on *BC* is greater than the sum of the squares on *BA* and *AC* by twice the rectangle *CA* by *AD.*
 
 ![java applet or image](propII12.gif)
 
-[II.4](PropII.4.md)
-Since the straight line *CD* has been cut at random at the point *A,* the square on *DC* equals the sum of the squares on *CA* and *AD* and twice the rectangle *CA* by *AD.*
+Since the straight line *CD* has been cut at random at the point *A,* the square on *DC* equals the sum of the squares on *CA* and *AD* and twice the rectangle *CA* by *AD.* ([II.4](PropII.4.md))
 
 Add the square on *DB* be added to each. Therefore the sum of the squares on *CD* and *DB* equals the sum of the squares on *CA, AD,* and *DB* plus twice the rectangle *CA* by *AD.*
 
-[I.47](../BookI/PropI.47.md)
-But the square on *CB* equals the sum of the squares on *CD* and *DB,* for the angle at *D* is right, and the square on *AB* equals the sum of the squares on *AD* and *DB,* therefore the square on *CB* equals the sum of the squares on *CA* and *AB* plus twice the rectangle *CA* by *AD,* so that the square on *CB* is greater than the sum of the squares on *CA* and *AB* by twice the rectangle *CA* by *AD.*
+But the square on *CB* equals the sum of the squares on *CD* and *DB,* for the angle at *D* is right, and the square on *AB* equals the sum of the squares on *AD* and *DB,* therefore the square on *CB* equals the sum of the squares on *CA* and *AB* plus twice the rectangle *CA* by *AD,* so that the square on *CB* is greater than the sum of the squares on *CA* and *AB* by twice the rectangle *CA* by *AD.* ([I.47](../BookI/PropI.47.md))
 
 Therefore *in obtuse-angled triangles the square on the side opposite the obtuse angle is greater than the sum of the squares on the sides containing the obtuse angle by twice the rectangle contained by one of the sides about the obtuse angle, namely that on which the perpendicular falls, and the straight line cut off outside by the perpendicular towards the obtuse angle.*
 

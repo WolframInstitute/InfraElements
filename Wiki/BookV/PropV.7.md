@@ -18,15 +18,13 @@ Then, since *D* is the same multiple of *A* that *E* is of *B,* and *A* equals *
 
 But *F* is another, arbitrary, magnitude. If therefore *D* is in excess of *F,* then *E* is also in excess of *F*; if equal, equal; and, if less, less.
 
-[V.Def.5](DefV.5.md)
-And *D* and *E* are equimultiples of *A* and *B,* while *F* is another, arbitrary, multiple of *C,* therefore *A* is to *C* as *B* is to *C.*
+And *D* and *E* are equimultiples of *A* and *B,* while *F* is another, arbitrary, multiple of *C,* therefore *A* is to *C* as *B* is to *C.* ([V.Def.5](DefV.5.md))
 
 I say next that *C* also has the same ratio to each of the magnitudes *A* and *B.*
 
 With the same construction, we can prove similarly that *D* equals *E,* and *F* is some other magnitude. If therefore *F* is in excess of *D,* it is also in excess of *E*; if equal, equal; and, if less, less.
 
-[V.Def.5](DefV.5.md)
-And *F* is a multiple of *C,* while *D* and *E* are other, arbitrary, equimultiples of *A* and *B,* therefore *C* is to *A* as *C* is to *B.*
+And *F* is a multiple of *C,* while *D* and *E* are other, arbitrary, equimultiples of *A* and *B,* therefore *C* is to *A* as *C* is to *B.* ([V.Def.5](DefV.5.md))
 
 Therefore, *equal magnitudes have to the same the same ratio; and the same has to equal magnitudes the same ratio.*
 

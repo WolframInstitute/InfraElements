@@ -12,14 +12,11 @@ Let *ABC* and *DEF* be equal circles, and in them let equal circumferences *BGC*
 
 I say that *BC* equals *EF.*
 
-[III.1](PropIII.1.md)
-Take the centers *K* and *L* of the circles. Join *BK, KC, EL,* and *LF.*
+Take the centers *K* and *L* of the circles. Join *BK, KC, EL,* and *LF.* ([III.1](PropIII.1.md))
 
-[III.27](PropIII.27.md)
-Now, since the circumference *BGC* equals the circumference *EHF,* the angle *BKC* also equals the angle *ELF.*
+Now, since the circumference *BGC* equals the circumference *EHF,* the angle *BKC* also equals the angle *ELF.* ([III.27](PropIII.27.md))
 
-[I.4](../BookI/PropI.4.md)
-And, since the circles *ABC* and *DEF* are equal, the radii are also equal, therefore the two sides *BK* and *KC* equal the two sides *EL* and *LF,* and they contain equal angles, therefore the base *BC* equals the base *EF.*
+And, since the circles *ABC* and *DEF* are equal, the radii are also equal, therefore the two sides *BK* and *KC* equal the two sides *EL* and *LF,* and they contain equal angles, therefore the base *BC* equals the base *EF.* ([I.4](../BookI/PropI.4.md))
 
 Therefore *in equal circles straight lines that cut off equal circumferences are equal.*
 

@@ -14,23 +14,17 @@ I say that *D* measures one of the numbers *A* or *B.*
 
 Let it not measure *A.*
 
-[VII.29](PropVII.29.md)
-Now *D* is prime, therefore *A* and *D* are relatively prime.
+Now *D* is prime, therefore *A* and *D* are relatively prime. ([VII.29](PropVII.29.md))
 
 Let as many units be in *E* as the times that *D* measures *C.*
 
-[VII.Def.15](DefVII.15.md)
-Since then *D* measures *C* according to the units in *E,* therefore *D* multiplied by *E* makes *C.*
+Since then *D* measures *C* according to the units in *E,* therefore *D* multiplied by *E* makes *C.* ([VII.Def.15](DefVII.15.md))
 
 Further, *A* multiplied by *B* also makes *C,* therefore the product of *D* and *E* equals the product of *A* and *B.*
 
-[VII.19](PropVII.19.md)
-Therefore *D* is to *A* as *B* is to *E.*
+Therefore *D* is to *A* as *B* is to *E.* ([VII.19](PropVII.19.md))
 
-[VII.21](PropVII.21.md)
-
-[VII.20](PropVII.20.md)
-But *D* and *A* are relatively prime, relatively prime numbers are also least, and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent, therefore *D* measures *B.*
+But *D* and *A* are relatively prime, relatively prime numbers are also least, and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent, therefore *D* measures *B.* ([VII.21](PropVII.21.md), [VII.20](PropVII.20.md))
 
 Similarly we can also show that, if *D* does not measure *B,* then it measures *A.* Therefore *D* measures one of the numbers *A* or *B.*
 

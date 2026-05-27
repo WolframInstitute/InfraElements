@@ -10,31 +10,25 @@ Let *ABCDE* be the given circle.
 
 It is required to inscribe an equilateral and equiangular pentagon in the circle *ABCDE.*
 
-[IV.10](PropIV.10.md)
-Set out the isosceles triangle *FGH* having each of the angles at *G* and *H* double the angle at *F.*
+Set out the isosceles triangle *FGH* having each of the angles at *G* and *H* double the angle at *F.* ([IV.10](PropIV.10.md))
 
-[IV.2](PropIV.2.md)
-Inscribe in the circle *ABCDE* the triangle *ACD* equiangular with the triangle *FGH,* so that the angles *CAD,* *ACD,* and *CDA* equal the angles at *F,* *G,* and *H* respectively. Therefore each of the angles *ACD* and *CDA* is also double the angle *CAD.*
+Inscribe in the circle *ABCDE* the triangle *ACD* equiangular with the triangle *FGH,* so that the angles *CAD,* *ACD,* and *CDA* equal the angles at *F,* *G,* and *H* respectively. Therefore each of the angles *ACD* and *CDA* is also double the angle *CAD.* ([IV.2](PropIV.2.md))
 
 ![java applet or image](propIV11.gif)
 
-[I.9](../BookI/PropI.9.md)
-Now bisect the angles *ACD* and *CDA* respectively by the straight lines *CE* and *DB,* and join *AB,* *BC,* *DE,* and *EA.*
+Now bisect the angles *ACD* and *CDA* respectively by the straight lines *CE* and *DB,* and join *AB,* *BC,* *DE,* and *EA.* ([I.9](../BookI/PropI.9.md))
 
 Then, since each of the angles *ACD* and *CDA* is double the angle *CAD,* and they are bisected by the straight lines *CE* and *DB,* therefore the five angles *DAC,* *ACE,* *ECD,* *CDB,* and *BDA* equal one another.
 
-[III.26](../BookIII/PropIII.26.md)
-But equal angles stand on equal circumferences, therefore the five circumferences *AB,* *BC,* *CD,* *DE,* and *EA* equal one another.
+But equal angles stand on equal circumferences, therefore the five circumferences *AB,* *BC,* *CD,* *DE,* and *EA* equal one another. ([III.26](../BookIII/PropIII.26.md))
 
-[III.29](../BookIII/PropIII.29.md)
-But straight lines that cut off equal circumferences are equal, therefore the five straight lines *AB,* *BC,* *CD,* *DE,* and *EA* equal one another. Therefore the pentagon *ABCDE* is equilateral.
+But straight lines that cut off equal circumferences are equal, therefore the five straight lines *AB,* *BC,* *CD,* *DE,* and *EA* equal one another. Therefore the pentagon *ABCDE* is equilateral. ([III.29](../BookIII/PropIII.29.md))
 
 I say next that it is also equiangular.
 
 For, since the circumference *AB* equals the circumference *DE,* add *BCD* to each, therefore the whole circumference *ABCD* equals the whole circumference *EDCB.*
 
-[III.27](../BookIII/PropIII.27.md)
-And the angle *AED* stands on the circumference *ABCD,* and the angle *BAE* on the circumference *EDCB,* therefore the angle *BAE* also equals the angle *AED.*
+And the angle *AED* stands on the circumference *ABCD,* and the angle *BAE* on the circumference *EDCB,* therefore the angle *BAE* also equals the angle *AED.* ([III.27](../BookIII/PropIII.27.md))
 
 For the same reason each of the angles *ABC,* *BCD,* and *CDE* also equals each of the angles *BAE* and *AED,* therefore the pentagon *ABCDE* is equiangular.
 

@@ -12,24 +12,18 @@ Let *AB* be the given finite straight line.
 
 It is required to construct an equilateral triangle on the straight line *AB.*
 
-[I.Post.3](PostI.3.md)
+Describe the circle *BCD* with center *A* and radius *AB.* Again describe the circle *ACE* with center *B* and radius *BA.* Join the straight lines *CA* and *CB* from the point *C* at which the circles cut one another to the points *A* and *B.* ([I.Post.3](PostI.3.md), [I.Post.1](PostI.1.md))
 
-[I.Post.1](PostI.1.md)
-Describe the circle *BCD* with center *A* and radius *AB.* Again describe the circle *ACE* with center *B* and radius *BA.* Join the straight lines *CA* and *CB* from the point *C* at which the circles cut one another to the points *A* and *B.*
-
-[I.Def.15](DefI.15.md)
 Now, since the point *A* is the center of the circle *CDB,* therefore
-*AC* equals *AB.* Again, since the point *B* is the center of the circle *CAE,* therefore *BC* equals *BA.*
+*AC* equals *AB.* Again, since the point *B* is the center of the circle *CAE,* therefore *BC* equals *BA.* ([I.Def.15](DefI.15.md))
 
 But *AC* was proved equal to *AB,* therefore each of the straight lines *AC* and *BC* equals *AB.*
 
-[C.N.1](CNI.1.md)
-And things which equal the same thing also equal one another, therefore *AC* also equals *BC.*
+And things which equal the same thing also equal one another, therefore *AC* also equals *BC.* ([C.N.1](CNI.1.md))
 
 Therefore the three straight lines *AC, AB,* and *BC* equal one another.
 
-[I.Def.20](DefI.20.md)
-Therefore the triangle *ABC* is equilateral, and it has been constructed on the given finite straight line *AB.*
+Therefore the triangle *ABC* is equilateral, and it has been constructed on the given finite straight line *AB.* ([I.Def.20](DefI.20.md))
 
 Q.E.F.
 

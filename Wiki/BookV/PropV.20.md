@@ -14,16 +14,11 @@ I say that *D* is also greater than *F*; if *A* equals *C,* equal; and, if less,
 
 ![java applet or image](propV20.gif)
 
-[V.8](PropV.8.md)
-Since *A* is greater than *C,* and *B* is some other magnitude, and the greater has to the same a greater ratio than the less has, therefore *A* has to *B* a greater ratio than *C* has to *B.*
+Since *A* is greater than *C,* and *B* is some other magnitude, and the greater has to the same a greater ratio than the less has, therefore *A* has to *B* a greater ratio than *C* has to *B.* ([V.8](PropV.8.md))
 
-[V.7.Cor](PropV.7.md)
+But *A* is to *B* as *D* is to *E,* and, *C* is to *B,* inversely, as *F* is to *E,* therefore *D* has to *E* a greater ratio than *F* has to *E.* ([V.7.Cor](PropV.7.md), [V.13](PropV.13.md))
 
-[V.13](PropV.13.md)
-But *A* is to *B* as *D* is to *E,* and, *C* is to *B,* inversely, as *F* is to *E,* therefore *D* has to *E* a greater ratio than *F* has to *E.*
-
-[V.10](PropV.10.md)
-But, of magnitudes which have a ratio to the same, that which has a greater ratio is greater, therefore *D* is greater than *F.*
+But, of magnitudes which have a ratio to the same, that which has a greater ratio is greater, therefore *D* is greater than *F.* ([V.10](PropV.10.md))
 
 Similarly we can prove that, if *A* equals *C,* then *D* also equals *F,* and if less, less.
 

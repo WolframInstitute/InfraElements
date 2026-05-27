@@ -12,21 +12,13 @@ Let *ABC* be a circle, and let two points *A* and *B* be taken at random on its 
 
 I say that the straight line joined from *A* to *B* falls within the circle.
 
-[III.1](PropIII.1.md)
-For suppose it does not, but, if possible, let it fall outside, as *AEB.* Take the center *D* of the circle *ABC.* Join *DA* and *DB,* and draw *DFE* through.
+For suppose it does not, but, if possible, let it fall outside, as *AEB.* Take the center *D* of the circle *ABC.* Join *DA* and *DB,* and draw *DFE* through. ([III.1](PropIII.1.md))
 
-[I.Def.15](../BookI/DefI.15.md)
+Then, since *DA* equals *DB,* the angle *DAE* also equals the angle *DBE.* ([I.Def.15](../BookI/DefI.15.md), [I.5](../BookI/PropI.5.md))
 
-[I.5](../BookI/PropI.5.md)
-Then, since *DA* equals *DB,* the angle *DAE* also equals the angle *DBE.*
+And, since one side *AEB* of the triangle *DAE* is produced, the angle *DEB* is greater than the angle *DAE.* ([I.16](../BookI/PropI.16.md))
 
-[I.16](../BookI/PropI.16.md)
-And, since one side *AEB* of the triangle *DAE* is produced, the angle *DEB* is greater than the angle *DAE.*
-
-[I.19](../BookI/PropI.19.md)
-
-[I.Def.15](../BookI/DefI.15.md)
-And the angle *DAE* equals the angle *DBE,* therefore the angle *DEB* is greater than the angle *DBE.* And the side opposite the greater angle is greater, therefore *DB* is greater than *DE.* But *DB* equals *DF,* therefore *DF* is greater than *DE,* the less greater than the greater, which is impossible.
+And the angle *DAE* equals the angle *DBE,* therefore the angle *DEB* is greater than the angle *DBE.* And the side opposite the greater angle is greater, therefore *DB* is greater than *DE.* But *DB* equals *DF,* therefore *DF* is greater than *DE,* the less greater than the greater, which is impossible. ([I.19](../BookI/PropI.19.md), [I.Def.15](../BookI/DefI.15.md))
 
 Therefore the straight line joined from *A* to *B* does not fall outside the circle.
 

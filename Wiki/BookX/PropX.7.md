@@ -12,8 +12,7 @@ Let *A* and *B* be incommensurable magnitudes.
 
 I say that *A* does not have to *B* the ratio which a number has to a number.
 
-[X.6](PropX.6.md)
-If *A* does have to *B* the ratio which a number has to a number, then *A* is commensurable with *B*.
+If *A* does have to *B* the ratio which a number has to a number, then *A* is commensurable with *B*. ([X.6](PropX.6.md))
 
 But it is not, therefore *A* does not have to *B* the ratio which a number has to a number.
 

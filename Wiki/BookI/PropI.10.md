@@ -11,17 +11,12 @@ Let *AB* be the given finite straight line.
 ![java applet or image](propI10.gif)
 
 It is required to bisect the finite straight line *AB.*
-[I.1](PropI.1.md),
-[I.9](PropI.9.md)
 
-Construct the equilateral triangle *ABC* on it, and bisect the angle *ACB* by the straight line *CD.*
+Construct the equilateral triangle *ABC* on it, and bisect the angle *ACB* by the straight line *CD.* ([I.1](PropI.1.md), [I.9](PropI.9.md))
 
 I say that the straight line *AB* is bisected at the point *D.*
 
-[I.Def.20](DefI.20.md)
-
-[I.4](PropI.4.md)
-Since *CA* equals *CB,* and *CD* is common, therefore the two sides *CA* and *CD* equal the two sides *CB* and *CD* respectively, and the angle *ACD* equals the angle *BCD,* therefore the base *AD* equals the base *BD.*
+Since *CA* equals *CB,* and *CD* is common, therefore the two sides *CA* and *CD* equal the two sides *CB* and *CD* respectively, and the angle *ACD* equals the angle *BCD,* therefore the base *AD* equals the base *BD.* ([I.Def.20](DefI.20.md), [I.4](PropI.4.md))
 
 Therefore the given straight line *AB* is bisected at *D.*
 

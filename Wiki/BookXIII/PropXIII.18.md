@@ -7,39 +7,25 @@ with one another.
 
 ## Proof
 
-[I.11](../BookI/PropI.11.md)
-Set out *AB* the diameter of the given sphere, and cut it at *C* so that *AC* equals *CB,* and at *D* so that *AD* is double *DB.* Describe the semicircle *AEB* on *AB,* draw *CE* and *DF* from *C* and *D* at right angles to *AB,* and join *AF, FB,* and *EB.*
+Set out *AB* the diameter of the given sphere, and cut it at *C* so that *AC* equals *CB,* and at *D* so that *AD* is double *DB.* Describe the semicircle *AEB* on *AB,* draw *CE* and *DF* from *C* and *D* at right angles to *AB,* and join *AF, FB,* and *EB.* ([I.11](../BookI/PropI.11.md))
 
 Then, since *AD* is double *DB,* therefore *AB* is triple *BD.* In conversion, therefore, *BA* is one and a half times *AD.*
 
 ![java applet or image](propXIII18.gif)
 
-[V.Def.9](../BookV/DefV.8.md)
+But *BA* is to *AD* as the square on *BA* is to the square on *AF,* for the triangle *AFB* is equiangular with the triangle *AFD.* Therefore the square on *BA* is one and a half times the square on *AF.* ([V.Def.9](../BookV/DefV.8.md), [VI.8](../BookVI/PropVI.8.md))
 
-[VI.8](../BookVI/PropVI.8.md)
-But *BA* is to *AD* as the square on *BA* is to the square on *AF,* for the triangle *AFB* is equiangular with the triangle *AFD.* Therefore the square on *BA* is one and a half times the square on *AF.*
+But the square on the diameter of the sphere is also one and a half times the square on the side of the pyramid. And *AB* is the diameter of the sphere, therefore *AF* equals the side of the pyramid. ([XIII.13](PropXIII.13.md))
 
-[XIII.13](PropXIII.13.md)
-But the square on the diameter of the sphere is also one and a half times the square on the side of the pyramid. And *AB* is the diameter of the sphere, therefore *AF* equals the side of the pyramid.
+Again, since *AD* is double *DB,* therefore *AB* is triple *BD.* But *AB* is to *BD* as the square on *AB* to the square on *BF,* therefore the square on *AB* is triple the square on *BF.* ([V.Def.9](../BookV/DefV.8.md), [VI.8](../BookVI/PropVI.8.md))
 
-[V.Def.9](../BookV/DefV.8.md)
-
-[VI.8](../BookVI/PropVI.8.md)
-Again, since *AD* is double *DB,* therefore *AB* is triple *BD.* But *AB* is to *BD* as the square on *AB* to the square on *BF,* therefore the square on *AB* is triple the square on *BF.*
-
-[XIII.15](PropXIII.15.md)
-But the square on the diameter of the sphere is also triple the square on the side of the cube. And *AB* is the diameter of the sphere, therefore *BF* is the side of the cube.
+But the square on the diameter of the sphere is also triple the square on the side of the cube. And *AB* is the diameter of the sphere, therefore *BF* is the side of the cube. ([XIII.15](PropXIII.15.md))
 
 And, since *AC* equals *CB,* therefore *AB* is double *BC.* But *AB* is to *BC* as the square on *AB* to the square on *BE,* therefore the square on *AB* is double the square on *BE.*
 
-[XIII.14](PropXIII.14.md)
-But the square on the diameter of the sphere is also double the square on the side of the octahedron. And *AB* is the diameter of the given sphere, therefore *BE* is the side of the octahedron.
+But the square on the diameter of the sphere is also double the square on the side of the octahedron. And *AB* is the diameter of the given sphere, therefore *BE* is the side of the octahedron. ([XIII.14](PropXIII.14.md))
 
-[I.11](../BookI/PropI.11.md),
-[I.3](../BookI/PropI.3.md)
-
-[I.12](../BookI/PropI.12.md)
-Next, draw *AG* from the point *A* at right angles to the straight line *AB,* make *AG* equal to *AB,* join *GC,* and draw *HK* from *H* perpendicular to *AB.*
+Next, draw *AG* from the point *A* at right angles to the straight line *AB,* make *AG* equal to *AB,* join *GC,* and draw *HK* from *H* perpendicular to *AB.* ([I.11](../BookI/PropI.11.md), [I.3](../BookI/PropI.3.md), [I.12](../BookI/PropI.12.md))
 
 Then, since *GA* is double *AC,* for *GA* equals *AB* and *GA* is to *AC* as *HK* is to *KC,* therefore *HK* is also double *KC.*
 
@@ -49,26 +35,17 @@ But *HC* equals *CB,* therefore the square on *BC* is five times the square on *
 
 Therefore *BC* is triple *CD,* therefore the square on *BC* is nine times the square on *CD.* But the square on *BC* is five times the square on *CK,* therefore the square on *CK* is greater than the square on *CD.* Therefore *CK* is greater than *CD.*
 
-[I.3](../BookI/PropI.3.md),
-[I.11](../BookI/PropI.11.md)
-Make *CL* equal to *CK,* draw *LM* from *L* at right angles to *AB,* and join *MB.*
+Make *CL* equal to *CK,* draw *LM* from *L* at right angles to *AB,* and join *MB.* ([I.3](../BookI/PropI.3.md), [I.11](../BookI/PropI.11.md))
 
-[XIII.16,Cor.](PropXIII.16.md)
+Now, since the square on *BC* is five times the square on *CK,* and *AB* is double *BC,* and *KL* is double *CK,* therefore the square on *AB* is five times the square on *KL.* But the square on the diameter of the sphere is also five times the square on the radius of the circle from which the icosahedron has been described. And *AB* is the diameter of the sphere, therefore *KL* is the radius of the circle from which the icosahedron has been described. Therefore *KL* is a side of the hexagon in the said circle. ([XIII.16,Cor.](PropXIII.16.md), [IV.15,Cor.](../BookIV/PropIV.15.md))
 
-[IV.15,Cor.](../BookIV/PropIV.15.md)
-Now, since the square on *BC* is five times the square on *CK,* and *AB* is double *BC,* and *KL* is double *CK,* therefore the square on *AB* is five times the square on *KL.* But the square on the diameter of the sphere is also five times the square on the radius of the circle from which the icosahedron has been described. And *AB* is the diameter of the sphere, therefore *KL* is the radius of the circle from which the icosahedron has been described. Therefore *KL* is a side of the hexagon in the said circle.
+And, since the diameter of the sphere is made up of the side of the hexagon and two of the sides of the decagon inscribed in the same circle, and *AB* is the diameter of the sphere, while *KL* is a side of the hexagon, and *AK* equals *LB,* therefore each of the straight lines *AK* and *LB* is a side of the decagon inscribed in the circle from which the icosahedron has been described. ([XIII.16,Cor.](PropXIII.16.md))
 
-[XIII.16,Cor.](PropXIII.16.md)
-And, since the diameter of the sphere is made up of the side of the hexagon and two of the sides of the decagon inscribed in the same circle, and *AB* is the diameter of the sphere, while *KL* is a side of the hexagon, and *AK* equals *LB,* therefore each of the straight lines *AK* and *LB* is a side of the decagon inscribed in the circle from which the icosahedron has been described.
+And, since *LB* belongs to a decagon, and *ML* to a hexagon, for *ML* equals *KL,* since it also equals *HK* being the same distance from the center and each of the straight lines *HK* and *KL* is double *KC,* therefore *MB* belongs to a pentagon. ([XIII.10](PropXIII.10.md))
 
-[XIII.10](PropXIII.10.md)
-And, since *LB* belongs to a decagon, and *ML* to a hexagon, for *ML* equals *KL,* since it also equals *HK* being the same distance from the center and each of the straight lines *HK* and *KL* is double *KC,* therefore *MB* belongs to a pentagon.
+But the side of the pentagon is the side of the icosahedron, therefore *MB* belongs to the icosahedron. ([XIII.16](PropXIII.16.md))
 
-[XIII.16](PropXIII.16.md)
-But the side of the pentagon is the side of the icosahedron, therefore *MB* belongs to the icosahedron.
-
-[XIII.17,Cor.](PropXIII.17.md)
-Now, since *FB* is a side of the cube, cut it in extreme and mean ratio at *N,* and let *NB* be the greater segment. Therefore *NB* is a side of the dodecahedron.
+Now, since *FB* is a side of the cube, cut it in extreme and mean ratio at *N,* and let *NB* be the greater segment. Therefore *NB* is a side of the dodecahedron. ([XIII.17,Cor.](PropXIII.17.md))
 
 And, since the square on the diameter of the sphere was proved to be one and a half times the square on the side *AF* of the pyramid, double the square on the side *BE* of the octahedron and triple the side *FB* of the cube, therefore, of parts of which the square on the diameter of the sphere contains six, the square on the side of the pyramid contains four, the square on the side of the octahedron three, and the square on the side of the cube two.
 
@@ -76,28 +53,19 @@ Therefore the square on the side of the pyramid is four-thirds of the square on 
 
 The said sides, therefore, of the three figures, I mean the pyramid, the octahedron and the cube, are to one another in rational ratios.
 
-[XIII.16](PropXIII.16.md)
-
-[XIII.17](PropXIII.17.md)
-But the remaining two, I mean the side of the icosahedron and the side of the dodecahedron, are not in rational ratios either to one another or to the aforesaid sides, for they are irrational, the one being minor and the other an apotome.
+But the remaining two, I mean the side of the icosahedron and the side of the dodecahedron, are not in rational ratios either to one another or to the aforesaid sides, for they are irrational, the one being minor and the other an apotome. ([XIII.16](PropXIII.16.md), [XIII.17](PropXIII.17.md))
 
 That the side *MB* of the icosahedron is greater than the side *NB* of the dodecahedron we can prove thus.
 
-[VI.8](../BookVI/PropVI.8.md),
-[VI.4](../BookVI/PropVI.4.md)
-Since the triangle *FDB* is equiangular with the triangle *FAB,* proportionally *DB* is to *BF* as *BF* is to *BA.*
+Since the triangle *FDB* is equiangular with the triangle *FAB,* proportionally *DB* is to *BF* as *BF* is to *BA.* ([VI.8](../BookVI/PropVI.8.md), [VI.4](../BookVI/PropVI.4.md))
 
-[V.Def.9](../BookV/DefV.8.md)
-
-[VI.20,Cor.](../BookVI/PropVI.10.md)
-And, since the three straight lines are proportional, the first is to the third as the square on the first is to the square on the second, therefore *DB* is to *BA* as the square on *DB* is to the square on *BF.* Therefore, inversely *AB* is to *BD* as the square on *FB* is to the square on *BD.*
+And, since the three straight lines are proportional, the first is to the third as the square on the first is to the square on the second, therefore *DB* is to *BA* as the square on *DB* is to the square on *BF.* Therefore, inversely *AB* is to *BD* as the square on *FB* is to the square on *BD.* ([V.Def.9](../BookV/DefV.8.md), [VI.20,Cor.](../BookVI/PropVI.10.md))
 
 But *AB* is triple *BD,* therefore the square on *FB* is triple the square on *BD.*
 
 But the square on *AD* is also quadruple the square on *DB,* for *AD* is double *DB,* therefore the square on *AD* is greater than the square on *FB.* Therefore *AD* is greater than *FB.* Therefore *AL* is by far greater than *FB.*
 
-[XIII.9](PropXIII.9.md)
-And, when *AL* is cut in extreme and mean ratio, *KL* is the greater segment, for *LK* belongs to a hexagon, and *KA* to a decagon, and, when *FB* is cut in extreme and mean ratio, *NB* is the greater segment, therefore *KL* is greater than *NB.*
+And, when *AL* is cut in extreme and mean ratio, *KL* is the greater segment, for *LK* belongs to a hexagon, and *KA* to a decagon, and, when *FB* is cut in extreme and mean ratio, *NB* is the greater segment, therefore *KL* is greater than *NB.* ([XIII.9](PropXIII.9.md))
 
 But *KL* equals *LM,* therefore *LM* is greater than *NB.*
 

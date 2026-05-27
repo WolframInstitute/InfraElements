@@ -12,22 +12,17 @@ Let *ABC* be the given circle, and *DEF* the given triangle.
 
 It is required to inscribe a triangle equiangular with the triangle *DEF* in the circle *ABC.*
 
-[III.16,Cor](../BookIII/PropIII.16.md)
-Draw *GH* touching the circle *ABC* at *A.*
+Draw *GH* touching the circle *ABC* at *A.* ([III.16,Cor](../BookIII/PropIII.16.md))
 
-[I.23](../BookI/PropI.23.md)
-Construct the angle *HAC* equal to the angle *DEF* on the straight line *AH* and at the point *A* on it, and construct the angle *GAB* equal to the angle *DFE* on the straight line *AG* and at the point *A* on it. Join *BC.*
+Construct the angle *HAC* equal to the angle *DEF* on the straight line *AH* and at the point *A* on it, and construct the angle *GAB* equal to the angle *DFE* on the straight line *AG* and at the point *A* on it. Join *BC.* ([I.23](../BookI/PropI.23.md))
 
-[III.32](../BookIII/PropIII.32.md)
-Then, since a straight line *AH* touches the circle *ABC,* and from the point of contact at *A* the straight line *AC* is drawn across in the circle, therefore the angle *HAC* equals the angle *ABC* in the alternate segment of the circle.
+Then, since a straight line *AH* touches the circle *ABC,* and from the point of contact at *A* the straight line *AC* is drawn across in the circle, therefore the angle *HAC* equals the angle *ABC* in the alternate segment of the circle. ([III.32](../BookIII/PropIII.32.md))
 
 But the angle *HAC* equals the angle *DEF,* therefore the angle *ABC* also equals the angle *DEF.*
 
-[I.32](../BookI/PropI.32.md)
-For the same reason the angle *ACB* also equals the angle *DFE,* therefore the remaining angle *BAC* also equals the remaining angle *EDF.*
+For the same reason the angle *ACB* also equals the angle *DFE,* therefore the remaining angle *BAC* also equals the remaining angle *EDF.* ([I.32](../BookI/PropI.32.md))
 
-IV.Def.2
-Therefore a triangle equiangular with the given triangle has been inscribed in the given circle.
+Therefore a triangle equiangular with the given triangle has been inscribed in the given circle. (IV.Def.2)
 
 Q.E.F.
 

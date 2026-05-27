@@ -12,15 +12,9 @@ Let *A* be the given point, and *BC* the given straight line.
 
 It is required to draw a straight line through the point *A* parallel to the straight line *BC.*
 
-[I.Post.1](PostI.1.md)
+Take a point *D* at random on *BC.* Join *AD.* Construct the angle *DAE* equal to the angle *ADC* on the straight line *DA* and at the point *A* on it. Produce the straight line *AF* in a straight line with *EA.* ([I.Post.1](PostI.1.md), [I.23](PropI.23.md), [I.Post.2](PostI.2.md))
 
-[I.23](PropI.23.md)
-
-[I.Post.2](PostI.2.md)
-Take a point *D* at random on *BC.* Join *AD.* Construct the angle *DAE* equal to the angle *ADC* on the straight line *DA* and at the point *A* on it. Produce the straight line *AF* in a straight line with *EA.*
-
-[I.27](PropI.27.md)
-Since the straight line *AD* falling on the two straight lines *BC* and *EF* makes the alternate angles *EAD* and *ADC* equal to one another, therefore *EAF* is parallel to *BC.*
+Since the straight line *AD* falling on the two straight lines *BC* and *EF* makes the alternate angles *EAD* and *ADC* equal to one another, therefore *EAF* is parallel to *BC.* ([I.27](PropI.27.md))
 
 Therefore the straight line *EAF* has been drawn through the given point *A* parallel to the given straight line *BC.*
 

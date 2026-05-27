@@ -12,12 +12,9 @@ I say that *C* is solid.
 
 ![java applet or image](propIX7.gif)
 
-[VII.Def.13](../BookVII/DefVII.11.md)
-Since *A* is composite, it is measured by some number *D.* Let there be as many units in *E* as times that *D* measures *A*
+Since *A* is composite, it is measured by some number *D.* Let there be as many units in *E* as times that *D* measures *A* ([VII.Def.13](../BookVII/DefVII.11.md))
 
-[VII.Def.15](../BookVII/DefVII.15.md)
-
-Since *D* measures *A* according to the units in *E,* therefore *E* multiplied by *D* makes *A.* And, since *A* multiplied by *B* makes *C,* and *A* is the product of *D* and *E,* therefore the product of *D* and *E* multiplied by *B* makes *C.*
+Since *D* measures *A* according to the units in *E,* therefore *E* multiplied by *D* makes *A.* And, since *A* multiplied by *B* makes *C,* and *A* is the product of *D* and *E,* therefore the product of *D* and *E* multiplied by *B* makes *C.* ([VII.Def.15](../BookVII/DefVII.15.md))
 
 Therefore *C* is solid, and *D, E,* and *B* are its sides.
 

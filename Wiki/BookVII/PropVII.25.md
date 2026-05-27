@@ -14,8 +14,7 @@ I say that *B* and *C* are relatively prime.
 
 Make *D* equal to *A.*
 
-[VII.24](PropVII.24.md)
-Since *A* and *B* are relatively prime, and *A* equals *D,* therefore *D* and *B* are also relatively prime. Therefore each of the two numbers *D* and *A* is relatively prime to *B.* Therefore the product of *D* and *A* is also relatively prime to *B.*
+Since *A* and *B* are relatively prime, and *A* equals *D,* therefore *D* and *B* are also relatively prime. Therefore each of the two numbers *D* and *A* is relatively prime to *B.* Therefore the product of *D* and *A* is also relatively prime to *B.* ([VII.24](PropVII.24.md))
 
 But the number which is the product of *D* and *A* is *C.* Therefore *C* and *B* are relatively prime.
 

@@ -11,8 +11,7 @@ It is required to apply a parallelogram equal to the the rectilinear figure *C* 
 
 ![java applet or image](propVI29.gif)
 
-[VI.25](PropVI.25.md)
-Bisect *AB* at *E.* Describe the parallelogram *BF* on *EB* similar and similarly situated to *D,* and construct *GH* equal to the sum of *BF* and *C* and similar and similarly situated to *D.*
+Bisect *AB* at *E.* Describe the parallelogram *BF* on *EB* similar and similarly situated to *D,* and construct *GH* equal to the sum of *BF* and *C* and similar and similarly situated to *D.* ([VI.25](PropVI.25.md))
 
 Let *KH* correspond to *FL* and *KG* to *FE.*
 
@@ -20,9 +19,7 @@ Now, since *GH* is greater than *FB,* therefore *KH* is also greater than *FL,* 
 
 Produce *FL* and *FE.* Make *FLM* equal to *KH,* and *FEN* equal to *KG.* Complete *MN.* Then *MN* is both equal and similar to *GH.*
 
-[VI.21](PropVI.21.md),
-[VI.26](PropVI.26.md)
-But *GH* is similar to *EL,* therefore *MN* is also similar to *EL,* therefore *EL* is about the same diameter with *MN.*
+But *GH* is similar to *EL,* therefore *MN* is also similar to *EL,* therefore *EL* is about the same diameter with *MN.* ([VI.21](PropVI.21.md), [VI.26](PropVI.26.md))
 
 Draw their diameter *FO,* and describe the figure.
 
@@ -30,16 +27,13 @@ Since *GH* equals the sum of *EL* and *C,* while *GH* equals *MN,* therefore *MN
 
 Subtract *EL* from each. Therefore the remainder, the gnomon *XWV,* equals *C.*
 
-[I.36](../BookI/PropI.36.md),
-[I.43](../BookI/PropI.43.md)
-Now, since *AE* equals *EB,* therefore *AN* equals *NB,* that is, *LP.*
+Now, since *AE* equals *EB,* therefore *AN* equals *NB,* that is, *LP.* ([I.36](../BookI/PropI.36.md), [I.43](../BookI/PropI.43.md))
 
 Add *EO* to each. Therefore the whole *AO* equals the gnomon *VWX.*
 
 But the gnomon *VWX* equals *C,* therefore *AO* also equals *C.*
 
-[VI.24](PropVI.24.md)
-Therefore the parallelogram *AO* equal to the given rectilinear figure *C* has been applied to the given straight line *AB* but exceeding it by a parallelogram *QP* similar to *D,* since *PQ* is also similar to *EL.*
+Therefore the parallelogram *AO* equal to the given rectilinear figure *C* has been applied to the given straight line *AB* but exceeding it by a parallelogram *QP* similar to *D,* since *PQ* is also similar to *EL.* ([VI.24](PropVI.24.md))
 
 Q.E.F.
 

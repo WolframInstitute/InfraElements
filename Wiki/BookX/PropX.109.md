@@ -12,24 +12,17 @@ I say that the side of the remainder *EC* becomes one of two irrational straight
 
 ![java applet or image](propX109.gif)
 
-[X.13](PropX.13.md)
-Set out a rational straight line *FG*, and apply the areas similarly. Then *FH* is rational and incommensurable in length with *FG*, while *KF* is rational and commensurable in length with *FG*, therefore *FH* and *FK* are rational straight lines commensurable in square only.
+Set out a rational straight line *FG*, and apply the areas similarly. Then *FH* is rational and incommensurable in length with *FG*, while *KF* is rational and commensurable in length with *FG*, therefore *FH* and *FK* are rational straight lines commensurable in square only. ([X.13](PropX.13.md))
 
-[X.73](PropX.73.md)
-Therefore *KH* is an apotome, and *FK* the annex to it.
+Therefore *KH* is an apotome, and *FK* the annex to it. ([X.73](PropX.73.md))
 
 Now the square on *HF* is greater than the square on *FK* either by the square on a straight line commensurable with *HF* or by the square on a straight line incommensurable with it.
 
-[X.Def.III.2](DefX.III.2.md)
-If the square on *HF* is greater than the square on *FK* by the square on a straight line commensurable with *HF*, while the annex *FK* is commensurable in length with the rational straight line *FG* set out, then *KH* is a second apotome.
+If the square on *HF* is greater than the square on *FK* by the square on a straight line commensurable with *HF*, while the annex *FK* is commensurable in length with the rational straight line *FG* set out, then *KH* is a second apotome. ([X.Def.III.2](DefX.III.2.md))
 
-[X.92](PropX.92.md)
-But *FG* is rational, so that the side of *LH*, that is, of *EC*, is a first apotome of a medial straight line.
+But *FG* is rational, so that the side of *LH*, that is, of *EC*, is a first apotome of a medial straight line. ([X.92](PropX.92.md))
 
-[X.Def.III.5](DefX.III.5.md)
-
-[X.95](PropX.95.md)
-But, if the square on *HF* is greater than the square on *FK* by the square on a straight line incommensurable with *HF*, while the annex *FK* is commensurable in length with the rational straight line *FG* set out, then *KH* is a fifth apotome, so that the side of *EC* is a straight line which produces with a rational area a medial whole.
+But, if the square on *HF* is greater than the square on *FK* by the square on a straight line incommensurable with *HF*, while the annex *FK* is commensurable in length with the rational straight line *FG* set out, then *KH* is a fifth apotome, so that the side of *EC* is a straight line which produces with a rational area a medial whole. ([X.Def.III.5](DefX.III.5.md), [X.95](PropX.95.md))
 
 Therefore, *if a rational area is subtracted from a medial area, then there arise two other irrational straight lines, either a first apotome of a medial straight line or a straight line which produces with a rational area a medial whole.*
 

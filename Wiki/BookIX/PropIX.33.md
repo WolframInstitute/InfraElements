@@ -12,13 +12,11 @@ I say that *A* is even-times-odd only.
 
 ![java applet or image](propIX33.gif)
 
-[VII.Def.9](../BookVII/DefVII.6.md)
-Now that it is even-times-odd is clear, for the half of it, being odd, measures it an even number of times.
+Now that it is even-times-odd is clear, for the half of it, being odd, measures it an even number of times. ([VII.Def.9](../BookVII/DefVII.6.md))
 
 I say next that it is also even-times-odd only.
 
-[VII.Def.8](../BookVII/DefVII.6.md)
-If *A* is even-times even also, then it is measured by an even number according to an even number, so that the half of it is also measured by an even number though it is odd, which is absurd.
+If *A* is even-times even also, then it is measured by an even number according to an even number, so that the half of it is also measured by an even number though it is odd, which is absurd. ([VII.Def.8](../BookVII/DefVII.6.md))
 
 Therefore *A* is even-times-odd only.
 

@@ -16,10 +16,7 @@ If they are not relatively prime, then some number will measure them.
 
 Let a number *D* measure them.
 
-([IX.28](PropIX.28.md))
-
-[IX.30](PropIX.30.md)
-Now *A* is odd, therefore *D* is also odd. And since *D* which is odd measures *C,* and *C* is even, therefore *D* measures the half of *C* also.
+Now *A* is odd, therefore *D* is also odd. And since *D* which is odd measures *C,* and *C* is even, therefore *D* measures the half of *C* also. ([IX.28](PropIX.28.md), [IX.30](PropIX.30.md))
 
 But *B* is half of *C,* therefore *D* measures *B.* But it also measures *A,* therefore *D* measures *A* and *B* which are relatively prime, which is impossible.
 

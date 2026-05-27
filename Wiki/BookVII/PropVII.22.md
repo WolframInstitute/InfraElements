@@ -18,11 +18,9 @@ Let there be as many units in *D* as the times that *C* measures *A,* and as man
 
 Let there be as many units in *D* as the times that *C* measures *A,* and as many units in *E* as the times that *C* measures *B.*
 
-[VII.Def.15](DefVII.15.md)
-Since *C* measures *A* according to the units in *D,* therefore *C* multiplied by *D* makes *A.* For the same reason *C* multiplied by *E* makes *B.*
+Since *C* measures *A* according to the units in *D,* therefore *C* multiplied by *D* makes *A.* For the same reason *C* multiplied by *E* makes *B.* ([VII.Def.15](DefVII.15.md))
 
-[VII.17](PropVII.17.md)
-Thus the number *C* multiplied by the two numbers *D* and *E* makes *A* and *B,* therefore *D* is to *E* as *A* is to *B.*
+Thus the number *C* multiplied by the two numbers *D* and *E* makes *A* and *B,* therefore *D* is to *E* as *A* is to *B.* ([VII.17](PropVII.17.md))
 
 Therefore *D* and *E* are in the same ratio with *A* and *B,* being less than they, which is impossible. Therefore no number measures the numbers *A* and *B.*
 

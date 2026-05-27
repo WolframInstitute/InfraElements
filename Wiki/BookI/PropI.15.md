@@ -12,18 +12,11 @@ I say that the angle *CEA* equals the angle *DEB,* and the angle *BEC* equals th
 
 ![java applet or image](propI15.gif)
 
-[I.13](PropI.13.md)
-Since the straight line *AE* stands on the straight line *CD* making the angles *CEA* and *AED,* therefore the sum of the angles *CEA* and *AED* equals two right angles.
+Since the straight line *AE* stands on the straight line *CD* making the angles *CEA* and *AED,* therefore the sum of the angles *CEA* and *AED* equals two right angles. ([I.13](PropI.13.md))
 
-[I.13](PropI.13.md)
-Again, since the straight line *DE* stands on the straight line *AB* making the angles *AED* and *DEB,* therefore the sum of the angles *AED* and *DEB* equals two right angles.
+Again, since the straight line *DE* stands on the straight line *AB* making the angles *AED* and *DEB,* therefore the sum of the angles *AED* and *DEB* equals two right angles. ([I.13](PropI.13.md))
 
-[I.Post.4](PostI.4.md)
-
-[C.N.1](CNI.1.md)
-
-[C.N.3](CNI.1.md)
-But the sum of the angles *CEA* and *AED* was also proved equal to two right angles, therefore the sum of the angles *CEA* and *AED* equals the sum of the angles *AED* and *DEB.* Subtract the angle *AED* from each. Then the remaining angle *CEA* equals the remaining angle *DEB.*
+But the sum of the angles *CEA* and *AED* was also proved equal to two right angles, therefore the sum of the angles *CEA* and *AED* equals the sum of the angles *AED* and *DEB.* Subtract the angle *AED* from each. Then the remaining angle *CEA* equals the remaining angle *DEB.* ([I.Post.4](PostI.4.md), [C.N.1](CNI.1.md), [C.N.3](CNI.1.md))
 
 Similarly it can be proved that the angles *BEC* and *AED* are also equal.
 

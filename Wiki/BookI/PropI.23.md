@@ -12,13 +12,9 @@ Let the angle *DCE* be the given rectilinear angle, *AB* the given straight line
 
 It is required to construct a rectilinear angle equal to the given rectilinear angle *DCE* on the given straight line *AB* and at the point *A* on it.
 
-[I.Post.1](PostI.1.md)
+Take the points *D* and *E* at random on the straight lines *CD* and *CE* respectively, and join *DE.* Out of three straight lines which equal the three straight lines *CD, DE,* and *CE* construct the triangle *AFG* in such a way that *CD* equals *AF, CE* equals *AG,* and *DE* equals *FG.* ([I.Post.1](PostI.1.md), [I.22](PropI.22.md))
 
-[I.22](PropI.22.md)
-Take the points *D* and *E* at random on the straight lines *CD* and *CE* respectively, and join *DE.* Out of three straight lines which equal the three straight lines *CD, DE,* and *CE* construct the triangle *AFG* in such a way that *CD* equals *AF, CE* equals *AG,* and *DE* equals *FG.*
-
-[I.8](PropI.8.md)
-Since the two sides *DC* and *CE* equal the two sides *FA* and *AG* respectively, and the base *DE* equals the base *FG,* therefore the angle *DCE* equals the angle *FAG.*
+Since the two sides *DC* and *CE* equal the two sides *FA* and *AG* respectively, and the base *DE* equals the base *FG,* therefore the angle *DCE* equals the angle *FAG.* ([I.8](PropI.8.md))
 
 Therefore on the given straight line *AB,* and at the point *A* on it, the rectilinear angle *FAG* has been constructed equal to the given rectilinear angle *DCE.*
 

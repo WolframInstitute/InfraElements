@@ -12,20 +12,15 @@ I say that *C* also measures *D.*
 
 ![java applet or image](propVIII14.gif)
 
-as in [VIII.11](PropVIII.11.md)
-Multiply *C* by *D* to make *E.* Then *A, E,* and *B* are continuously proportional in the ratio of *C* to *D.*
+Multiply *C* by *D* to make *E.* Then *A, E,* and *B* are continuously proportional in the ratio of *C* to *D.* ([VIII.11](PropVIII.11.md))
 
-[VIII.7](PropVIII.7.md)
-
-[VII.Def.20](../BookVII/DefVII.20.md)
-And, since *A, E,* and *B* are continuously proportional, and *A* measures *B,* therefore *A* also measures *E.* And *A* is to *E* as *C* is to *D,* therefore *C* measures *D.*
+And, since *A, E,* and *B* are continuously proportional, and *A* measures *B,* therefore *A* also measures *E.* And *A* is to *E* as *C* is to *D,* therefore *C* measures *D.* ([VIII.7](PropVIII.7.md), [VII.Def.20](../BookVII/DefVII.20.md))
 
 Next, let *C* measure *D.*
 
 I say that *A* also measures *B.*
 
-[VII.Def.20](../BookVII/DefVII.20.md)
-With the same construction, we can in a similar manner prove that *A, E,* and *B* are continuously proportional in the ratio of *C* to *D.* And since *C* is to *D* as *A* is to *E,* and *C* measures *D,* therefore *A* also measures *E.*
+With the same construction, we can in a similar manner prove that *A, E,* and *B* are continuously proportional in the ratio of *C* to *D.* And since *C* is to *D* as *A* is to *E,* and *C* measures *D,* therefore *A* also measures *E.* ([VII.Def.20](../BookVII/DefVII.20.md))
 
 And *A, E,* and *B* are continuously proportional, therefore *A* also measures *B.*
 

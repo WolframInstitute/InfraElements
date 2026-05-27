@@ -14,17 +14,13 @@ Multiply *A* by itself to make *D.* Then *D* is square.
 
 ![java applet or image](propIX1.gif)
 
-[VII.17](../BookVII/PropVII.17.md)
-Since then *A* multiplied by itself makes *D,* and multiplied by *B* makes *C,* therefore *A* is to *B* as *D* is to *C.*
+Since then *A* multiplied by itself makes *D,* and multiplied by *B* makes *C,* therefore *A* is to *B* as *D* is to *C.* ([VII.17](../BookVII/PropVII.17.md))
 
-[VIII.18](../BookVIII/PropVIII.18.md)
-And, since *A* and *B* are similar plane numbers, therefore one mean proportional number falls between *A* and *B.*
+And, since *A* and *B* are similar plane numbers, therefore one mean proportional number falls between *A* and *B.* ([VIII.18](../BookVIII/PropVIII.18.md))
 
-[VIII.8](../BookVIII/PropVIII.8.md)
-Since as many number fall in continued proportion between those which have the same ratio, therefore one mean proportional number falls between *D* and *C* also.
+Since as many number fall in continued proportion between those which have the same ratio, therefore one mean proportional number falls between *D* and *C* also. ([VIII.8](../BookVIII/PropVIII.8.md))
 
-[VIII.22](../BookVIII/PropVIII.22.md)
-And *D* is square, therefore *C* is also square.
+And *D* is square, therefore *C* is also square. ([VIII.22](../BookVIII/PropVIII.22.md))
 
 Therefore, *if two similar plane numbers multiplied by one another make some number, then the product is square.*
 

@@ -6,21 +6,15 @@ If two straight lines incommensurable in square which make the sum of the square
 
 ## Proof
 
-[X.33](PropX.33.md)
-Let two straight lines *AB* and *BC* incommensurable in square, and fulfilling the given conditions, be added together.
+Let two straight lines *AB* and *BC* incommensurable in square, and fulfilling the given conditions, be added together. ([X.33](PropX.33.md))
 
 I say that *AC* is irrational.
 
 ![java applet or image](propX36.gif)
 
-[X.6](PropX.6.md),
-[X.23,Cor.](PropX.23.md)
-Since the rectangle *AB* by *BC* is medial, therefore twice the rectangle *AB* by *BC* is also medial.
+Since the rectangle *AB* by *BC* is medial, therefore twice the rectangle *AB* by *BC* is also medial. ([X.6](PropX.6.md), [X.23,Cor.](PropX.23.md))
 
-[X.16](PropX.16.md)
-
-[X.Def.I.4](DefX.I.4.md)
-But the sum of the squares on *AB* and *BC* is rational, therefore twice the rectangle *AB* by *BC* is incommensurable with the sum of the squares on *AB* and *BC*, so that the sum of the squares on *AB* and *BC* together with twice the rectangle *AB* by *BC*, that is, the square on *AC*, is also incommensurable with the sum of the squares on *AB* and *BC*. Therefore the square on *AC* is irrational, so that *AC* is also irrational. Let it be called *major*.
+But the sum of the squares on *AB* and *BC* is rational, therefore twice the rectangle *AB* by *BC* is incommensurable with the sum of the squares on *AB* and *BC*, so that the sum of the squares on *AB* and *BC* together with twice the rectangle *AB* by *BC*, that is, the square on *AC*, is also incommensurable with the sum of the squares on *AB* and *BC*. Therefore the square on *AC* is irrational, so that *AC* is also irrational. Let it be called *major*. ([X.16](PropX.16.md), [X.Def.I.4](DefX.I.4.md))
 
 Q.E.D.
 

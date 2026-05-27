@@ -12,37 +12,27 @@ I say that the side of the area *AB* is minor.
 
 ![java applet or image](propX92.gif)
 
-[X.Def.III.4](DefX.III.4.md)
-Let *DG* be the annex to *AD*, therefore *AG* and *GD* are rational straight lines commensurable in square only, *AG* is commensurable in length with the rational straight line *AC* set out, and the square on the whole *AG* is greater than the square on the annex *DG* by the square on a straight line incommensurable in length with *AG*.
+Let *DG* be the annex to *AD*, therefore *AG* and *GD* are rational straight lines commensurable in square only, *AG* is commensurable in length with the rational straight line *AC* set out, and the square on the whole *AG* is greater than the square on the annex *DG* by the square on a straight line incommensurable in length with *AG*. ([X.Def.III.4](DefX.III.4.md))
 
-[X.18](PropX.18.md)
-Since the square on *AG* is greater than the square on *GD* by the square on a straight line incommensurable in length with *AG*, therefore, if there is applied to *AG* a parallelogram equal to the fourth part of the square on *DG* and deficient by a square figure, then it divides it into incommensurable parts.
+Since the square on *AG* is greater than the square on *GD* by the square on a straight line incommensurable in length with *AG*, therefore, if there is applied to *AG* a parallelogram equal to the fourth part of the square on *DG* and deficient by a square figure, then it divides it into incommensurable parts. ([X.18](PropX.18.md))
 
 Bisect *DG* at *E*, apply to *AG* a parallelogram equal to the square on *EG* and deficient by a square figure, and let it be the rectangle *AF* by *FG*. Then *AF* is incommensurable in length with *FG*.
 
 Draw *EH*, *FI*, and *GK* through *E*, *F*, and *G* parallel to *AC* and *BD*.
 
-[X.19](PropX.19.md)
-Since *AG* is rational and commensurable in length with *AC*, therefore the whole *AK* is rational.
+Since *AG* is rational and commensurable in length with *AC*, therefore the whole *AK* is rational. ([X.19](PropX.19.md))
 
-[X.21](PropX.21.md)
-Again, since *DG* is incommensurable in length with *AC*, and both are rational, therefore *DK* is medial.
+Again, since *DG* is incommensurable in length with *AC*, and both are rational, therefore *DK* is medial. ([X.21](PropX.21.md))
 
-[VI.1](../BookVI/PropVI.1.md),
-[X.11](PropX.11.md)
-Again, since *AF* is incommensurable in length with *FG*, therefore *AI* is incommensurable with *FK*.
+Again, since *AF* is incommensurable in length with *FG*, therefore *AI* is incommensurable with *FK*. ([VI.1](../BookVI/PropVI.1.md), [X.11](PropX.11.md))
 
 Now construct the square *LM* equal to *AI*, and subtract *NO*, equal to *FK*, about the same angle, the angle *LPM*.
 
-[VI.26](../BookVI/PropVI.26.md)
-Therefore the squares *LM* and *NO* are about the same diameter. Let *PR* be their diameter, and draw the figure.
+Therefore the squares *LM* and *NO* are about the same diameter. Let *PR* be their diameter, and draw the figure. ([VI.26](../BookVI/PropVI.26.md))
 
-[VI.17](../BookVI/PropVI.17.md)
-Since the rectangle *AF* by *FG* equals the square on *EG*, therefore, *AF* is to *EG* as *EG* is to *FG*.
+Since the rectangle *AF* by *FG* equals the square on *EG*, therefore, *AF* is to *EG* as *EG* is to *FG*. ([VI.17](../BookVI/PropVI.17.md))
 
-[VI.1](../BookVI/PropVI.1.md),
-[V.11](../BookV/PropV.11.md)
-But *AF* is to *EG* as *AI* is to *EK*, and *EG* is to *FG* as *EK* is to *FK*, therefore *EK* is a mean proportional between *AI* and *FK*.
+But *AF* is to *EG* as *AI* is to *EK*, and *EG* is to *FG* as *EK* is to *FK*, therefore *EK* is a mean proportional between *AI* and *FK*. ([VI.1](../BookVI/PropVI.1.md), [V.11](../BookV/PropV.11.md))
 
 But *MN* is also a mean proportional between the squares *LM* and *NO*, and *AI* equals *LM*, and *FK* equals *NO* therefore *EK* also equals *MN*.
 
@@ -60,8 +50,7 @@ And, since *AI* was proved incommensurable with *FK*, therefore the square on *L
 
 Therefore *LP* and *PN* are straight lines incommensurable in square which make the sum of the squares on them rational, but twice the rectangle contained by them medial.
 
-[X.76](PropX.76.md)
-Therefore *LN* is the irrational straight line called minor, and it is the side of the area *AB*.
+Therefore *LN* is the irrational straight line called minor, and it is the side of the area *AB*. ([X.76](PropX.76.md))
 
 Therefore the side of the area *AB* is minor.
 

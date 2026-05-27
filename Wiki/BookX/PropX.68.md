@@ -12,27 +12,19 @@ I say that *CD* is major.
 
 ![java applet or image](propX66.gif)
 
-[X.39](PropX.39.md)
-Divide *AB* at *E*. Then *AE* and *EB* are straight lines incommensurable in square which make the sum of the squares on them rational but the rectangle contained by them medial.
+Divide *AB* at *E*. Then *AE* and *EB* are straight lines incommensurable in square which make the sum of the squares on them rational but the rectangle contained by them medial. ([X.39](PropX.39.md))
 
 Make the same construction as before.
 
-[V.11](../BookV/PropV.11.md)
-Since *AB* is to *CD* as *AE* is to *CF*, and *EB* is to *FD*, therefore *AE* is to *CF* as *EB* is to *FD*.
+Since *AB* is to *CD* as *AE* is to *CF*, and *EB* is to *FD*, therefore *AE* is to *CF* as *EB* is to *FD*. ([V.11](../BookV/PropV.11.md))
 
-[X.11](PropX.11.md)
-But *AB* is commensurable with *CD*, therefore *AE* and *EB* are commensurable with *CF* and *FD* respectively.
+But *AB* is commensurable with *CD*, therefore *AE* and *EB* are commensurable with *CF* and *FD* respectively. ([X.11](PropX.11.md))
 
-[V.16](../BookV/PropV.16.md)
+Since *AE* is to *CF* as *EB* is to *FD*, alternately, also *AE* is to *EB* as *CF* is to *FD*, therefore, taken jointly, *AB* is to *BE* as *CD* is to *DF*. ([V.16](../BookV/PropV.16.md), [V.18](../BookV/PropV.18.md))
 
-[V.18](../BookV/PropV.18.md)
-Since *AE* is to *CF* as *EB* is to *FD*, alternately, also *AE* is to *EB* as *CF* is to *FD*, therefore, taken jointly, *AB* is to *BE* as *CD* is to *DF*.
+Therefore the square on *AB* is to the square on *BE* as the square on *CD* is to the square on *DF*. ([VI.20](../BookVI/PropVI.20.md))
 
-[VI.20](../BookVI/PropVI.20.md)
-Therefore the square on *AB* is to the square on *BE* as the square on *CD* is to the square on *DF*.
-
-[V.16](../BookV/PropV.16.md)
-Similarly we can prove that the square on *AB* is to the square on *AE* as the square on *CD* is to the square on *CF*. Therefore the square on *AB* is to the squares on *AE* and *EB* as the square on *CD* is to the squares on *CF* and *FD*, therefore, alternately, the square on *AB* is to the square on *CD*, so are the squares on *AE* and *EB* to the squares on *CF* and *FD*.
+Similarly we can prove that the square on *AB* is to the square on *AE* as the square on *CD* is to the square on *CF*. Therefore the square on *AB* is to the squares on *AE* and *EB* as the square on *CD* is to the squares on *CF* and *FD*, therefore, alternately, the square on *AB* is to the square on *CD*, so are the squares on *AE* and *EB* to the squares on *CF* and *FD*. ([V.16](../BookV/PropV.16.md))
 
 But the square on *AB* is commensurable with the square on *CD*, therefore the squares on *AE* and *EB* are also commensurable with the squares on *CF* and *FD*.
 
@@ -40,11 +32,9 @@ And the squares on *AE* and *EB* together are rational, therefore the squares on
 
 Similarly also twice the rectangle *AE* by *EB* is commensurable with twice the rectangle *CF* by *FD*.
 
-[X.23,Cor.](PropX.23.md)
-And twice the rectangle *AE* by *EB* is medial, therefore twice the rectangle *CF* by *FD* is also medial.
+And twice the rectangle *AE* by *EB* is medial, therefore twice the rectangle *CF* by *FD* is also medial. ([X.23,Cor.](PropX.23.md))
 
-[X.39](PropX.39.md)
-Therefore *CF* and *FD* are straight lines incommensurable in square which make, at the same time, the sum of the squares on them rational, but the rectangle contained by them medial, therefore the whole *CD* is the irrational straight line called major.
+Therefore *CF* and *FD* are straight lines incommensurable in square which make, at the same time, the sum of the squares on them rational, but the rectangle contained by them medial, therefore the whole *CD* is the irrational straight line called major. ([X.39](PropX.39.md))
 
 Therefore a straight line commensurable with the major straight line is major.
 

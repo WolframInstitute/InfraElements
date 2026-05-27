@@ -9,41 +9,26 @@ In right-angled triangles the square on the side opposite the right angle equals
 Let *ABC* be a right-angled triangle having the angle *BAC* right.
 I say that the square on *BC* equals the sum of the squares on *BA* and *AC.*
 
-[I.46](PropI.46.md)
-
-[I.31](PropI.31.md), [I.Post.1](PostI.1.md)
-Describe the square *BDEC* on *BC,* and the squares *GB* and *HC* on *BA* and *AC.* Draw *AL* through *A* parallel to either *BD* or *CE,* and join *AD* and *FC.*
+Describe the square *BDEC* on *BC,* and the squares *GB* and *HC* on *BA* and *AC.* Draw *AL* through *A* parallel to either *BD* or *CE,* and join *AD* and *FC.* ([I.46](PropI.46.md), [I.31](PropI.31.md), [I.Post.1](PostI.1.md))
 
 ![](propI47.gif)
 
-[I.Def.22](DefI.22.md)
-
-[I.14](PropI.14.md)
-Since each of the angles *BAC* and *BAG* is right, it follows that with a straight line *BA,* and at the point *A* on it, the two straight lines *AC* and *AG* not lying on the same side make the adjacent angles equal to two right angles, therefore *CA* is in a straight line with *AG.*
+Since each of the angles *BAC* and *BAG* is right, it follows that with a straight line *BA,* and at the point *A* on it, the two straight lines *AC* and *AG* not lying on the same side make the adjacent angles equal to two right angles, therefore *CA* is in a straight line with *AG.* ([I.Def.22](DefI.22.md), [I.14](PropI.14.md))
 
 For the same reason *BA* is also in a straight line with *AH.*
 
-[I.Def.22](DefI.22.md)
+Since the angle *DBC* equals the angle *FBA,* for each is right, add the angle *ABC* to each, therefore the whole angle *DBA* equals the whole angle *FBC.* ([I.Def.22](DefI.22.md), [I.Post.4](PostI.4.md), [C.N.2](CNI.1.md))
 
-[I.Post.4](PostI.4.md)
-
-[C.N.2](CNI.1.md)
-Since the angle *DBC* equals the angle *FBA,* for each is right, add the angle *ABC* to each, therefore the whole angle *DBA* equals the whole angle *FBC.*
-
-[I.Def.22](DefI.22.md)
-
-[I.4](PropI.4.md)
-Since *DB* equals *BC,* and *FB* equals *BA,* the two sides *AB* and *BD* equal the two sides *FB* and *BC* respectively, and the angle *ABD* equals the angle *FBC,* therefore the base *AD* equals the base *FC,* and the triangle *ABD* equals the triangle *FBC.*
+Since *DB* equals *BC,* and *FB* equals *BA,* the two sides *AB* and *BD* equal the two sides *FB* and *BC* respectively, and the angle *ABD* equals the angle *FBC,* therefore the base *AD* equals the base *FC,* and the triangle *ABD* equals the triangle *FBC.* ([I.Def.22](DefI.22.md), [I.4](PropI.4.md))
 
 Now the parallelogram *BL* is double the triangle *ABD,* for they have the same base *BD* and are in the same parallels *BD* and *AL.* And the square *GB* is double the triangle *FBC,* for they again have the same base *FB* and are in the same parallels *FB* and *GC.*
-[I.41](PropI.41.md)
 
-Therefore the parallelogram *BL* also equals the square *GB.*
+Therefore the parallelogram *BL* also equals the square *GB.* ([I.41](PropI.41.md))
 
 Similarly, if *AE* and *BK* are joined, the parallelogram *CL* can also be proved equal to the square *HC.* Therefore the whole square *BDEC* equals the sum of the two squares *GB* and *HC.*
-[C.N.2](CNI.1.md)
 
-And the square *BDEC* is described on *BC,* and the squares *GB* and *HC* on *BA* and *AC.*
+And the square *BDEC* is described on *BC,* and the squares *GB* and *HC* on *BA* and *AC.* ([C.N.2](CNI.1.md))
+
 Therefore the square on *BC* equals the sum of the squares on *BA* and *AC.*
 
 Therefore *in right-angled triangles the square on the side opposite the right angle equals the sum of the squares on the sides containing the right angle..*

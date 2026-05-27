@@ -12,25 +12,19 @@ I say that *DB* touches the circle *ABC.*
 
 ![java applet or image](propIII37.gif)
 
-[III.17](PropIII.17.md),
-[III.1](PropIII.1.md)
-Draw *DE* touching *ABC.* Take the center *F* of the circle *ABC,* and join *FE, FB,* and *FD.*
+Draw *DE* touching *ABC.* Take the center *F* of the circle *ABC,* and join *FE, FB,* and *FD.* ([III.17](PropIII.17.md), [III.1](PropIII.1.md))
 
-[III.18](PropIII.18.md)
-Thus the angle *FED* is right.
+Thus the angle *FED* is right. ([III.18](PropIII.18.md))
 
-[III.36](PropIII.36.md)
-Now, since *DE* touches the circle *ABC,* and *DCA* cuts it, the rectangle *AD* by *DC* equals the square on *DE.*
+Now, since *DE* touches the circle *ABC,* and *DCA* cuts it, the rectangle *AD* by *DC* equals the square on *DE.* ([III.36](PropIII.36.md))
 
 But the rectangle *AD* by *DC* was also equal to the square on *DB,* therefore the square on *DE* equals the square on *DB.* Therefore *DE* equals *DB.*
 
-[I.8](../BookI/PropI.8.md)
-And *FE* equals *FB,* therefore the two sides *DE* and *EF* equal the two sides *DB* and *BF,* and *FD* is the common base of the triangles, therefore the angle *DEF* equals the angle *DBF.*
+And *FE* equals *FB,* therefore the two sides *DE* and *EF* equal the two sides *DB* and *BF,* and *FD* is the common base of the triangles, therefore the angle *DEF* equals the angle *DBF.* ([I.8](../BookI/PropI.8.md))
 
 But the angle *DEF* is right, therefore the angle *DBF* is also right.
 
-[III.16 Cor](PropIII.16.md)
-And *FB* produced is a diameter, and the straight line drawn at right angles to the diameter of a circle, from its end, touches the circle, therefore *DB* touches the circle.
+And *FB* produced is a diameter, and the straight line drawn at right angles to the diameter of a circle, from its end, touches the circle, therefore *DB* touches the circle. ([III.16 Cor](PropIII.16.md))
 
 Similarly this can be proved to be the case even if the center is on *AC.*
 

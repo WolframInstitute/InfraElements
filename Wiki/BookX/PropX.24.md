@@ -14,13 +14,9 @@ I say that *AC* is medial.
 
 Describe the square *AD* on *AB*. Then *AD* is medial.
 
-[VI.1](../BookVI/PropVI.1.md)
+And, since *AB* is commensurable in length with *BC*, while *AB* equals *BD*, therefore *DB* is commensurable in length with *BC*, so that *DA* is commensurable with *AC*. ([VI.1](../BookVI/PropVI.1.md), [X.11](PropX.11.md))
 
-[X.11](PropX.11.md)
-And, since *AB* is commensurable in length with *BC*, while *AB* equals *BD*, therefore *DB* is commensurable in length with *BC*, so that *DA* is commensurable with *AC*.
-
-[X.23,Cor.](PropX.23.md)
-But *DA* is medial, therefore *AC* is also medial.
+But *DA* is medial, therefore *AC* is also medial. ([X.23,Cor.](PropX.23.md))
 
 Therefore, *the rectangle contained by medial straight lines commensurable in length is medial.*
 

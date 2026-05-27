@@ -12,8 +12,7 @@ Let *AB* and *CD* be two parallel straight lines, and let points *E* and *F* be 
 
 I say that the straight line joining the points *E* and *F* lies in the same plane with the parallel straight lines.
 
-[XI.3](PropXI.3.md)
-For suppose it is not, but, if possible, let it be in a more elevated plane as *EGF.* Draw a plane through *EGF.* Its intersection with the plane of reference is a straight line. Let it be *EF.*
+For suppose it is not, but, if possible, let it be in a more elevated plane as *EGF.* Draw a plane through *EGF.* Its intersection with the plane of reference is a straight line. Let it be *EF.* ([XI.3](PropXI.3.md))
 
 Therefore the two straight lines *EGF* and *EF* enclose an area, which is impossible. Therefore the straight line joined from *E* to *F* is not in a plane more elevated. Therefore the straight line joined from *E* to *F* lies in the plane through the parallel straight lines *AB* and *CD.*
 

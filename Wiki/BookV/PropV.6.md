@@ -18,8 +18,7 @@ I say that *HD* also equals *F.*
 
 Make *CK* equal to *F.*
 
-[V.2](PropV.2.md)
-Since *AG* is the same multiple of *E* that *CH* is of *F,* while *GB* equals *E,* and *KC* equals *F,* therefore *AB* is the same multiple of *E* that *KH* is of *F.*
+Since *AG* is the same multiple of *E* that *CH* is of *F,* while *GB* equals *E,* and *KC* equals *F,* therefore *AB* is the same multiple of *E* that *KH* is of *F.* ([V.2](PropV.2.md))
 
 But, by hypothesis, *AB* is the same multiple of *E* that *CD* is of *F,* therefore *KH* is the same multiple of *F* that *CD* is of *F.*
 

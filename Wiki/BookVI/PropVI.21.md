@@ -12,13 +12,11 @@ Let each of the rectilinear figures *A* and *B* be similar to *C.*
 
 I say that A is also similar to *B.*
 
-[VI.Def.1](DefVI.1.md)
-Since *A* is similar to *C,* it is equiangular with it and has the sides about the equal angles proportional.
+Since *A* is similar to *C,* it is equiangular with it and has the sides about the equal angles proportional. ([VI.Def.1](DefVI.1.md))
 
 Again, since *B* is similar to *C,* it is equiangular with it and has the sides about the equal angles proportional.
 
-[V.11](../BookV/PropV.11.md)
-Therefore each of the figures *A* and *B* is equiangular with *C* and with *C* has the sides about the equal angles proportional, therefore *A* is similar to *B.*
+Therefore each of the figures *A* and *B* is equiangular with *C* and with *C* has the sides about the equal angles proportional, therefore *A* is similar to *B.* ([V.11](../BookV/PropV.11.md))
 
 Therefore, *figures which are similar to the same rectilinear figure are also similar to one another.*
 

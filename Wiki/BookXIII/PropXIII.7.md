@@ -14,14 +14,11 @@ I say that the pentagon *ABCDE* is equiangular.
 
 Join *AC, BE,* and *FD.*
 
-[I.4](../BookI/PropI.4.md)
-Now, since the two sides *CB* and *BA* equal the two sides *BA* and *AE* respectively, and the angle *CBA* equals the angle *BAE,* therefore the base *AC* equals the base *BE,* the triangle *ABC* equals the triangle *ABE,*and the remaining angles equal the remaining angles, namely those opposite the equal sides, that is, the angle *BCA* equals the angle *BEA,* and the angle *ABE* equals the angle *CAB.*
+Now, since the two sides *CB* and *BA* equal the two sides *BA* and *AE* respectively, and the angle *CBA* equals the angle *BAE,* therefore the base *AC* equals the base *BE,* the triangle *ABC* equals the triangle *ABE,*and the remaining angles equal the remaining angles, namely those opposite the equal sides, that is, the angle *BCA* equals the angle *BEA,* and the angle *ABE* equals the angle *CAB.* ([I.4](../BookI/PropI.4.md))
 
-[I.6](../BookI/PropI.6.md)
-Hence the side *AF* also equals the side *BF.*
+Hence the side *AF* also equals the side *BF.* ([I.6](../BookI/PropI.6.md))
 
-[I.8](../BookI/PropI.8.md)
-But the whole *AC* equals the whole *BE,* therefore the remainder *FC* equals the remainder *FE.* But *CD* also equals *DE.* Therefore the two sides *FC* and *CD* equal the two sides *FE* and *ED,* and the base *FD* is common to them, therefore the angle *FCD* equals the angle *FED.*
+But the whole *AC* equals the whole *BE,* therefore the remainder *FC* equals the remainder *FE.* But *CD* also equals *DE.* Therefore the two sides *FC* and *CD* equal the two sides *FE* and *ED,* and the base *FD* is common to them, therefore the angle *FCD* equals the angle *FED.* ([I.8](../BookI/PropI.8.md))
 
 But the angle *BCA* was also proved equal to the angle *AEB,* therefore the whole angle *BCD* equals the whole angle *AED.* And, by hypothesis, the angle *BCD* equals the angles at *A* and *B,* therefore the angle *AED* also equals the angles at *A* and *B.* Similarly we can prove that the angle *CDE* also equals the angles at *A, B,* and *C.* Therefore the pentagon *ABCDE* is equiangular.
 
@@ -31,11 +28,9 @@ I say that in this case too the pentagon *ABCDE* is equiangular.
 
 Join *BD.*
 
-[I.4](../BookI/PropI.4.md)
-Then, since the two sides *BA* and *AE* equal the two sides *BC* and *CD,* and they contain equal angles, therefore the base *BE* equals the base *BD,* the triangle *ABE* equals the triangle *BCD,* and the remaining angles equal the remaining angles, namely those opposite the equal sides. Therefore the angle *AEB* equals the angle *CDB.*
+Then, since the two sides *BA* and *AE* equal the two sides *BC* and *CD,* and they contain equal angles, therefore the base *BE* equals the base *BD,* the triangle *ABE* equals the triangle *BCD,* and the remaining angles equal the remaining angles, namely those opposite the equal sides. Therefore the angle *AEB* equals the angle *CDB.* ([I.4](../BookI/PropI.4.md))
 
-[I.5](../BookI/PropI.5.md)
-But the angle *BED* also equals the angle *BDE,* since the side *BE* equals the side *BD.*
+But the angle *BED* also equals the angle *BDE,* since the side *BE* equals the side *BD.* ([I.5](../BookI/PropI.5.md))
 
 Therefore the whole angle *AED* equals the whole angle *CDE.*
 

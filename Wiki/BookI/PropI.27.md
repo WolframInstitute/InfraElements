@@ -16,14 +16,12 @@ Let them be produced and meet, in the direction of *B* and *D,* at *G.*
 
 ![java applet or image](propI27.gif)
 
-[I.16](PropI.16.md)
-Then, in the triangle *GEF,* the exterior angle *AEF* equals the interior and opposite angle *EFG,* which is impossible.
+Then, in the triangle *GEF,* the exterior angle *AEF* equals the interior and opposite angle *EFG,* which is impossible. ([I.16](PropI.16.md))
 
 Therefore *AB* and *CD* when produced do not meet in the direction of *B* and *D.*
 Similarly it can be proved that neither do they meet towards *A* and *C.*
 
-[I.Def.23](DefI.23.md)
-But straight lines which do not meet in either direction are parallel. Therefore *AB* is parallel to *CD.*
+But straight lines which do not meet in either direction are parallel. Therefore *AB* is parallel to *CD.* ([I.Def.23](DefI.23.md))
 
 Therefore *if a straight line falling on two straight lines makes the alternate angles equal to one another, then the straight lines are parallel to one another.*
 

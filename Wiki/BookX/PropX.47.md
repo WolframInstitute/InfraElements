@@ -14,26 +14,19 @@ If possible, let it be divided at *D*, so that again *AC* is of course not the s
 
 ![java applet or image](propX44.gif)
 
-[II.4](../BookII/PropII.4.md)
-Set out a rational straight line *EF*, and apply to *EF* the rectangle *EG* equal to the sum of the squares on *AC* and *CB*, and the rectangle *HK* equal to twice the rectangle *AC* by *CB*. Then the whole *EK* equals the square on *AB*.
+Set out a rational straight line *EF*, and apply to *EF* the rectangle *EG* equal to the sum of the squares on *AC* and *CB*, and the rectangle *HK* equal to twice the rectangle *AC* by *CB*. Then the whole *EK* equals the square on *AB*. ([II.4](../BookII/PropII.4.md))
 
 Again, to *EP* apply *EL*, equal to the sum of the squares on *AD* and *DB*. Then the remainder, twice the rectangle *AD* by *DB*, equals the remainder *MK*.
 
 And since, by hypothesis, the sum of the squares on *AC* and *CB* is medial, therefore *EG* is also medial.
 
-[X.22](PropX.22.md)
-And it is applied to the rational straight line *EF*, therefore *HE* is rational and incommensurable in length with *EF*.
+And it is applied to the rational straight line *EF*, therefore *HE* is rational and incommensurable in length with *EF*. ([X.22](PropX.22.md))
 
-[VI.1](../BookVI/PropVI.1.md)
+For the same reason *HN* is also rational and incommensurable in length with *EF*. And, since the sum of the squares on *AC* and *CB* is incommensurable with twice the rectangle *AC* by *CB*, therefore *EG* is also incommensurable with *GN*, so that *EH* is also incommensurable with *HN*. ([VI.1](../BookVI/PropVI.1.md), [X.11](PropX.11.md))
 
-[X.11](PropX.11.md)
-For the same reason *HN* is also rational and incommensurable in length with *EF*. And, since the sum of the squares on *AC* and *CB* is incommensurable with twice the rectangle *AC* by *CB*, therefore *EG* is also incommensurable with *GN*, so that *EH* is also incommensurable with *HN*.
+And they are rational, therefore *EH* and *HN* are rational straight lines commensurable in square only. Therefore *EN* is a binomial straight line divided at *H*. ([X.36](PropX.36.md))
 
-[X.36](PropX.36.md)
-And they are rational, therefore *EH* and *HN* are rational straight lines commensurable in square only. Therefore *EN* is a binomial straight line divided at *H*.
-
-[X.42](PropX.42.md)
-Similarly we can prove that it is also divided at *M*. And *EH* is not the same with *MN*, therefore a binomial has been divided at different points, which is absurd.
+Similarly we can prove that it is also divided at *M*. And *EH* is not the same with *MN*, therefore a binomial has been divided at different points, which is absurd. ([X.42](PropX.42.md))
 
 Therefore a side of the sum of two medial areas is not divided at different points. Therefore it is divided at one point only.
 

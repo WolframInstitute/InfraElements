@@ -12,24 +12,17 @@ It is required to cut *AB* so that the rectangle contained by the whole and one 
 
 ![java applet or image](propII11.gif)
 
-[I.46](../BookI/PropI.46.md),
-[I.10](../BookI/PropI.10.md)
-Describe the square *ABDC* on *AB.* Bisect *AC* at the point *E,* and join *BE.*
+Describe the square *ABDC* on *AB.* Bisect *AC* at the point *E,* and join *BE.* ([I.46](../BookI/PropI.46.md), [I.10](../BookI/PropI.10.md))
 
-[I.3](../BookI/PropI.3.md)
-
-[I.46](../BookI/PropI.46.md)
-Draw *CA* through to *F,* and make *EF* equal to *BE.* Describe the square *FH* on *AF,* and draw *GH* through to *K.*
+Draw *CA* through to *F,* and make *EF* equal to *BE.* Describe the square *FH* on *AF,* and draw *GH* through to *K.* ([I.3](../BookI/PropI.3.md), [I.46](../BookI/PropI.46.md))
 
 I say that *AB* has been cut at *H* so that the rectangle *AB* by *BH* equals the square on *AH.*
 
-[II.6](PropII.6.md)
-Since the straight line *AC* has been bisected at *E,* and *FA* is added to it, the rectangle *CF* by *FA* together with the square on *AE* equals the square on *EF.*
+Since the straight line *AC* has been bisected at *E,* and *FA* is added to it, the rectangle *CF* by *FA* together with the square on *AE* equals the square on *EF.* ([II.6](PropII.6.md))
 
 But *EF* equals *EB,* therefore the rectangle *CF* by *FA* together with the square on *AE* equals the square on *EB.*
 
-[I.47](../BookI/PropI.47.md)
-But the sum of the squares on *BA* and *AE* equals the square on *EB,* for the angle at *A* is right, therefore the rectangle *CF* by *FA* together with the square on *AE* equals the sum of the squares on *BA* and *AE.*
+But the sum of the squares on *BA* and *AE* equals the square on *EB,* for the angle at *A* is right, therefore the rectangle *CF* by *FA* together with the square on *AE* equals the sum of the squares on *BA* and *AE.* ([I.47](../BookI/PropI.47.md))
 
 Subtract the square on *AE* from each. Therefore the remaining rectangle *CF* by *FA* equals the square on *AB.*
 

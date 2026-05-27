@@ -12,14 +12,11 @@ Let *AB* and *BC* be the two given straight lines.
 
 It is required to find a mean proportional to *AB* and *BC.*
 
-[I.11](../BookII/PropII.1.md)
-Place them in a straight line, and describe the semicircle *ADC* on *AC.* Draw *BD* from the point *B* at right angles to the straight line *AC,* and join *AD* and *DC.*
+Place them in a straight line, and describe the semicircle *ADC* on *AC.* Draw *BD* from the point *B* at right angles to the straight line *AC,* and join *AD* and *DC.* ([I.11](../BookII/PropII.1.md))
 
-[III.31](../BookIII/PropIII.31.md)
-Since the angle *ADC* is an angle in a semicircle, it is right.
+Since the angle *ADC* is an angle in a semicircle, it is right. ([III.31](../BookIII/PropIII.31.md))
 
-[VI.8,Cor](PropVI.8.md)
-And, since, in the right-angled triangle *ADC, BD* has been drawn from the right angle perpendicular to the base, therefore *BD* is a mean proportional between the segments of the base, *AB* and *BC.*
+And, since, in the right-angled triangle *ADC, BD* has been drawn from the right angle perpendicular to the base, therefore *BD* is a mean proportional between the segments of the base, *AB* and *BC.* ([VI.8,Cor](PropVI.8.md))
 
 Therefore a mean proportional *BD* has been found to the two given straight lines *AB* and *BC.*
 

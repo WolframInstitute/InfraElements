@@ -13,8 +13,7 @@ I say that the remainder *EB* is also the same part of the remainder *FD* that t
 
 Let *EB* be the same part of *CG* that *AE* is of *CF.*
 
-[VII.5](PropVII.5.md)
-Now since *EB* is the same part of *CG* that *AE* is of *CF,* therefore *AB* is the same part of *GF* that *AE* is of *CF.*
+Now since *EB* is the same part of *CG* that *AE* is of *CF,* therefore *AB* is the same part of *GF* that *AE* is of *CF.* ([VII.5](PropVII.5.md))
 
 But, by hypothesis, *AB* is the same part of *CD* that *AE* is of *CF,* therefore *AB* is the same part of *CD* that it is of *GF.* Therefore *GF* equals *CD.*
 

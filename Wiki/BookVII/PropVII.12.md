@@ -11,14 +11,9 @@ If any number of numbers are proportional, then one of the antecedents is to one
 Let *A, B, C,* and *D* be as many numbers as we please in proportion, so that *A* is to *B* as *C* is to *D.*
 I say that *A* is to *B* as the sum of *A* and *C* is to the sum of *B* and *D.*
 
-[VII.Def.20](DefVII.20.md)
+Since *A* is to *B* as *C* is to *D,* therefore *A* is the same part or parts of *B* as *C* is of *D.* Therefore the sum of *A* and *C* is the same part or parts of the sum of *B* and *D* that *A* is of *B.* ([VII.Def.20](DefVII.20.md), [VII.5](PropVII.5.md), [VII.6](PropVII.6.md))
 
-[VII.5](PropVII.5.md),
-[VII.6](PropVII.6.md)
-Since *A* is to *B* as *C* is to *D,* therefore *A* is the same part or parts of *B* as *C* is of *D.* Therefore the sum of *A* and *C* is the same part or parts of the sum of *B* and *D* that *A* is of *B.*
-
-[VII.Def.20](DefVII.20.md)
-Therefore *A* is to *B* as the sum of *A* and *C* is to the sum of *B* and *D.*
+Therefore *A* is to *B* as the sum of *A* and *C* is to the sum of *B* and *D.* ([VII.Def.20](DefVII.20.md))
 
 Therefore, *if any number of numbers are proportional, then one of the antecedents is to one of the consequents as the sum of the antecedents is to the sum of the consequents.*
 

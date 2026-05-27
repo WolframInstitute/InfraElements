@@ -12,18 +12,11 @@ I say that *C* is cubic.
 
 ![java applet or image](propIX1.gif)
 
-[IX.3](PropIX.3.md)
-Multiply *A* by itself to make *D.* Then *D* is a cube.
+Multiply *A* by itself to make *D.* Then *D* is a cube. ([IX.3](PropIX.3.md))
 
-[VII.17](../BookVII/PropVII.17.md)
+Since *A* multiplied by itself makes *D,* and multiplied by *B* makes *C,* therefore *A* is to *B* as *D* is to *C.* And, since *A* and *B* are cubic numbers, therefore *A* and *B* are similar solid numbers. Therefore two mean proportional numbers fall between *A* and *B,* so that two mean proportional numbers fall between *D* and *C* also. ([VII.17](../BookVII/PropVII.17.md), [VIII.19](../BookVIII/PropVIII.19.md), [VIII.8](../BookVIII/PropVIII.8.md))
 
-[VIII.19](../BookVIII/PropVIII.19.md)
-
-[VIII.8](../BookVIII/PropVIII.8.md)
-Since *A* multiplied by itself makes *D,* and multiplied by *B* makes *C,* therefore *A* is to *B* as *D* is to *C.* And, since *A* and *B* are cubic numbers, therefore *A* and *B* are similar solid numbers. Therefore two mean proportional numbers fall between *A* and *B,* so that two mean proportional numbers fall between *D* and *C* also.
-
-[VIII.23](../BookVIII/PropVIII.23.md)
-And *D* is a cube, therefore *C* is also a cube.
+And *D* is a cube, therefore *C* is also a cube. ([VIII.23](../BookVIII/PropVIII.23.md))
 
 Therefore, *if a cubic number multiplied by a cubic number makes some number, then the product is cubic.*
 

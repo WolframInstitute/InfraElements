@@ -17,15 +17,11 @@ Either *A* and *BC* are relatively prime or they are not.
 
 First, let *A* and *BC* be relatively prime.
 
-[VII.Def.4](DefVII.3.md)
-Then, if *BC* is divided into the units in it, then each unit of those in *BC* is some part of *A,* so that *BC* is parts of *A.*
+Then, if *BC* is divided into the units in it, then each unit of those in *BC* is some part of *A,* so that *BC* is parts of *A.* ([VII.Def.4](DefVII.3.md))
 
 Next let *A* and *BC* not be relatively prime, then *BC* either measures, or does not measure, *A.*
 
-[VII.Def.3](DefVII.3.md)
-
-[VII.2](PropVII.2.md)
-Now if *BC* measures *A,* then *BC* is a part of *A.* But, if not, take the greatest common measure *D* of *A* and *BC,* and divide *BC* into the numbers equal to *D,* namely *BE, EF,* and *FC.*
+Now if *BC* measures *A,* then *BC* is a part of *A.* But, if not, take the greatest common measure *D* of *A* and *BC,* and divide *BC* into the numbers equal to *D,* namely *BE, EF,* and *FC.* ([VII.Def.3](DefVII.3.md), [VII.2](PropVII.2.md))
 
 Now, since *D* measures *A,* therefore *D* is a part of *A.* But *D* equals each of the numbers *BE, EF,* and *FC,* therefore each of the numbers *BE, EF,* and *FC* is also a part of *A,* so that *BC* is parts of *A.*
 

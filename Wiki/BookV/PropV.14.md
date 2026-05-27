@@ -12,14 +12,11 @@ I say that *B* is also greater than *D.*
 
 ![java applet or image](propV14.gif)
 
-[V.8](PropV.8.md)
-Since *A* is greater than *C,* and *B* is another, arbitrary, magnitude, therefore *A* has to *B* a greater ratio than *C* has to *B.*
+Since *A* is greater than *C,* and *B* is another, arbitrary, magnitude, therefore *A* has to *B* a greater ratio than *C* has to *B.* ([V.8](PropV.8.md))
 
-[V.13](PropV.13.md)
-But *A* is to *B* as *C* is to *D,* therefore *C* has to *D* a greater ratio than *C* has to *B.*
+But *A* is to *B* as *C* is to *D,* therefore *C* has to *D* a greater ratio than *C* has to *B.* ([V.13](PropV.13.md))
 
-[V.10](PropV.10.md)
-But that to which the same has a greater ratio is less, therefore *D* is less than *B,* so that *B* is greater than *D.*
+But that to which the same has a greater ratio is less, therefore *D* is less than *B,* so that *B* is greater than *D.* ([V.10](PropV.10.md))
 
 Similarly we can prove that, if *A* equals *C,* then *B* equals *D,* and, if *A* is less than *C,* then *B* is less than *D.*
 

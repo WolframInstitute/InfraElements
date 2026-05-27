@@ -10,28 +10,19 @@ Set out any rational straight line *AB*, and two square numbers *CD* and *DE* su
 
 ![java applet or image](propX29.gif)
 
-[X.6,Cor.](PropX.6.md)
-Describe the semicircle *AFB* on *AB*, and let it be contrived that *DC* is to *CE* as the square on *BA* is to the square on *AF*. Join *FB*.
+Describe the semicircle *AFB* on *AB*, and let it be contrived that *DC* is to *CE* as the square on *BA* is to the square on *AF*. Join *FB*. ([X.6,Cor.](PropX.6.md))
 
-[X.6](PropX.6.md)
-Since the square on *BA* is to the square on *AF* as *DC* is to *CE*, therefore the square on *BA* has to the square on *AF* the ratio which the number *DC* has to the number *CE*. Therefore the square on *BA* is commensurable with the square on *AF*.
+Since the square on *BA* is to the square on *AF* as *DC* is to *CE*, therefore the square on *BA* has to the square on *AF* the ratio which the number *DC* has to the number *CE*. Therefore the square on *BA* is commensurable with the square on *AF*. ([X.6](PropX.6.md))
 
-[X.Def.I.4](DefX.I.4.md)
-But the square on *AB* is rational, therefore the square on *AF* is also rational. Therefore *AF* is also rational.
+But the square on *AB* is rational, therefore the square on *AF* is also rational. Therefore *AF* is also rational. ([X.Def.I.4](DefX.I.4.md))
 
-[X.9](PropX.9.md)
-And, since *DC* does not have to *CE* the ratio which a square number has to a square number, neither does the square on *BA* have to the square on *AF* the ratio which a square number has to a square number, therefore *AB* is incommensurable in length with *AF*.
+And, since *DC* does not have to *CE* the ratio which a square number has to a square number, neither does the square on *BA* have to the square on *AF* the ratio which a square number has to a square number, therefore *AB* is incommensurable in length with *AF*. ([X.9](PropX.9.md))
 
 Therefore *BA* and *AF* are rational straight lines commensurable in square only.
 
-[V.19,Cor.](../BookV/PropV.19.md)
+And since *DC* is to *CE* as the square on *BA* is to the square on *AF*, therefore, in conversion, *CD* is to *DE* as the square on *AB* is to the square on *BF*. ([V.19,Cor.](../BookV/PropV.19.md), [III.31](../BookIII/PropIII.31.md), [I.47](../BookI/PropI.47.md))
 
-[III.31](../BookIII/PropIII.31.md),
-[I.47](../BookI/PropI.47.md)
-And since *DC* is to *CE* as the square on *BA* is to the square on *AF*, therefore, in conversion, *CD* is to *DE* as the square on *AB* is to the square on *BF*.
-
-[X.9](PropX.9.md)
-But *CD* has to *DE* the ratio which a square number has to a square number, therefore the square on *AB* has to the square on *BF* the ratio which a square number has to a square number. Therefore *AB* is commensurable in length with *BF*.
+But *CD* has to *DE* the ratio which a square number has to a square number, therefore the square on *AB* has to the square on *BF* the ratio which a square number has to a square number. Therefore *AB* is commensurable in length with *BF*. ([X.9](PropX.9.md))
 
 And the square on *AB* equals the sum of the squares on *AF* and *FB*, therefore the square on *AB* is greater than the square on *AF* by the square on *BF* commensurable with *AB*.
 

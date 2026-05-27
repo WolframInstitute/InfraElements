@@ -14,23 +14,17 @@ Multiply *A* by *B* to make *C.* Since, then, *A* multiplied by itself makes *B,
 
 ![java applet or image](propIX6.gif)
 
-[VII.Def.20](../BookVII/DefVII.20.md)
-But the unit also measures *A* according to the units in it. Therefore the unit is to *A* as *A* is to *B.* And, since *A* multiplied by *B* makes *C,* therefore *B* measures *C* according to the units in *A.*
+But the unit also measures *A* according to the units in it. Therefore the unit is to *A* as *A* is to *B.* And, since *A* multiplied by *B* makes *C,* therefore *B* measures *C* according to the units in *A.* ([VII.Def.20](../BookVII/DefVII.20.md))
 
 But the unit also measures *A* according to the units in it.
 
-[VII.Def.20](../BookVII/DefVII.20.md)
-Therefore the unit is to *A* as *B* is to *C.* But the unit is to *A* as *A* is to *B,* therefore *A* is to *B* as *B* is to *C.*
+Therefore the unit is to *A* as *B* is to *C.* But the unit is to *A* as *A* is to *B,* therefore *A* is to *B* as *B* is to *C.* ([VII.Def.20](../BookVII/DefVII.20.md))
 
 And, since *B* and *C* are cubes, therefore they are similar solid numbers.
 
-[VIII.19](../BookVIII/PropVIII.19.md)
+Therefore there are two mean proportional numbers between *B* and *C.* And *B* is to *C* as *A* is to *B.* Therefore there are two mean proportional numbers between *A* and *B* also. ([VIII.19](../BookVIII/PropVIII.19.md), [VIII.8](../BookVIII/PropVIII.8.md))
 
-[VIII.8](../BookVIII/PropVIII.8.md)
-Therefore there are two mean proportional numbers between *B* and *C.* And *B* is to *C* as *A* is to *B.* Therefore there are two mean proportional numbers between *A* and *B* also.
-
-[VIII.23](../BookVIII/PropVIII.23.md)
-And *B* is a cube, therefore *A* is also a cube.
+And *B* is a cube, therefore *A* is also a cube. ([VIII.23](../BookVIII/PropVIII.23.md))
 
 Therefore, *if a number multiplied by itself makes a cubic number, then it itself is also cubic.*
 

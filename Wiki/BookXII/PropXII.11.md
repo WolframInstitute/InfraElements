@@ -15,11 +15,9 @@ For, if not, then the circle *ABCD* is to the circle *EFGH* as the cone *AL* is 
 
 First, let it be in that ratio to a less solid *O,* and let the solid *X* be equal to that by which the solid *O* is less than the cone *EN.* Therefore the cone *EN* equals the sum of the solids *O* and *X.*
 
-[IV.6](../BookIV/PropIV.6.md)
-Inscribe the square *EFGH* in the circle *EFGH.* Therefore the square is greater than the half of the circle.
+Inscribe the square *EFGH* in the circle *EFGH.* Therefore the square is greater than the half of the circle. ([IV.6](../BookIV/PropIV.6.md))
 
-[XII.6](PropXII.6.md)
-Set up from the square *EFGH* a pyramid of equal height with the cone. Therefore the pyramid so set up is greater than the half of the cone, for if we circumscribe a square about the circle, and set up from it a pyramid of equal height with the cone, then the inscribed pyramid is half of the circumscribed pyramid, for they are to one another as their bases, while the cone is less than the circumscribed pyramid.
+Set up from the square *EFGH* a pyramid of equal height with the cone. Therefore the pyramid so set up is greater than the half of the cone, for if we circumscribe a square about the circle, and set up from it a pyramid of equal height with the cone, then the inscribed pyramid is half of the circumscribed pyramid, for they are to one another as their bases, while the cone is less than the circumscribed pyramid. ([XII.6](PropXII.6.md))
 
 Bisect the circumferences *EF, FG, GH,* and *HE* at the points *P, Q, R,* and *S,* and join *HP, PE, EQ, QF, FR, RG, GS,* and *SH.*
 
@@ -27,25 +25,17 @@ Therefore each of the triangles *HPE, EQF, FRG,* and *GSH* is greater than the h
 
 Set up on each of the triangles *HPE, EQF, FRG,* and *GSH* a pyramid of equal height with the cone. Therefore each of the pyramids so set up is also greater than the half of that segment of the cone about it.
 
-[X.1](../BookX/PropX.1.md)
-Thus, bisecting the circumferences which are left, joining straight lines, setting up on each of the triangles pyramids of equal height with the cone, and doing this repeatedly, we shall leave some segments of the cone which are less than the solid *X.*
+Thus, bisecting the circumferences which are left, joining straight lines, setting up on each of the triangles pyramids of equal height with the cone, and doing this repeatedly, we shall leave some segments of the cone which are less than the solid *X.* ([X.1](../BookX/PropX.1.md))
 
 Let such be left, and let them be the segments on *HP, PE, EQ, QF, FR, RG, GS,* and *SH.* Therefore the remainder, the pyramid with the polygonal base *HPEQFRGS* and the same height as that of the cone, is greater than the solid *O.*
 
 Now inscribe in the circle *ABCD* the polygon *DTAUBVCW* similar and similarly situated to the polygon *HPEQFRGS,* and on it set up a pyramid of equal height with the cone *AL.*
 
-[XII.1](PropXII.1.md)
+Since then the square on *AC* is to the square on *EG* as the polygon *DTAUBVCW* is to the polygon *HPEQFRGS,* while the square on *AC* is to the square on *EG* as the circle *ABCD* is to the circle *EFGH,* therefore the circle *ABCD* is to the circle *EFGH* as the polygon *DTAUBVCW* is to the polygon *HPEQFRGS.* ([XII.1](PropXII.1.md), [XII.2](PropXII.2.md))
 
-[XII.2](PropXII.2.md)
-Since then the square on *AC* is to the square on *EG* as the polygon *DTAUBVCW* is to the polygon *HPEQFRGS,* while the square on *AC* is to the square on *EG* as the circle *ABCD* is to the circle *EFGH,* therefore the circle *ABCD* is to the circle *EFGH* as the polygon *DTAUBVCW* is to the polygon *HPEQFRGS.*
+But the circle *ABCD* is to the circle *EFGH* as the cone *AL* is to the solid 0, and the polygon *DTAUBVCW* is to the polygon *HPEQFRGS* as the pyramid with the polygonal base *DTAUBVCW* and the vertex *L* is to the pyramid with the polygonal base *HPEQFRGS* and the vertex *N.* ([XII.6](PropXII.6.md))
 
-[XII.6](PropXII.6.md)
-But the circle *ABCD* is to the circle *EFGH* as the cone *AL* is to the solid 0, and the polygon *DTAUBVCW* is to the polygon *HPEQFRGS* as the pyramid with the polygonal base *DTAUBVCW* and the vertex *L* is to the pyramid with the polygonal base *HPEQFRGS* and the vertex *N.*
-
-[V.11](../BookV/PropV.11.md)
-
-[V.16](../BookV/PropV.16.md)
-Therefore the cone *AL* is to the solid *O* as the pyramid with the polygonal base *DTAUBVCW* and vertex *L* is to the pyramid with the polygonal base *HPEQFRGS* and vertex *N.* Therefore, alternately the cone *AL* is to the pyramid in it as the solid *O* is to the pyramid in the cone *EN.*
+Therefore the cone *AL* is to the solid *O* as the pyramid with the polygonal base *DTAUBVCW* and vertex *L* is to the pyramid with the polygonal base *HPEQFRGS* and vertex *N.* Therefore, alternately the cone *AL* is to the pyramid in it as the solid *O* is to the pyramid in the cone *EN.* ([V.11](../BookV/PropV.11.md), [V.16](../BookV/PropV.16.md))
 
 But the cone *AL* is greater than the pyramid in it, therefore the solid *O* is also greater than the pyramid in the cone *EN.*
 
@@ -65,8 +55,7 @@ Therefore the cone *AL* is not to any solid greater than the cone *EN* as the ci
 
 But it was proved that neither is it in this ratio to a less solid, therefore the circle *ABCD* is to the circle *EFGH* as the cone *AL* is to the cone *EN.*
 
-[XII.10](PropXII.10.md)
-But the cone is to the cone as the cylinder is to the cylinder, for each is triple each. Therefore the circle *ABCD* is to the circle *EFGH* as are the cylinders on them of equal height.
+But the cone is to the cone as the cylinder is to the cylinder, for each is triple each. Therefore the circle *ABCD* is to the circle *EFGH* as are the cylinders on them of equal height. ([XII.10](PropXII.10.md))
 
 Therefore, *cones and cylinders of the same height are to one another as their bases.*
 

@@ -6,16 +6,7 @@ To construct a dodecahedron and comprehend it in a sphere, like the aforesaid fi
 
 ## Proof
 
-[XIII.15](PropXIII.15.md)
-
-[I.10](../BookI/PropI.10.md)
-
-[II.11](../BookII/PropII.11.md)/[VI.30](../BookVI/PropVI.30.md)
-
-[XI.11](../BookXI/PropXI.11.md)
-
-[I.3](../BookI/PropI.3.md)
-Let *ABCD* and *CBEF,* two planes of the aforesaid cube at right angles to one another, be set out. Bisect the sides *AB, BC, CD, DA, EF, EB,* and *FC* at *G, H, K, L, M, N,* and *O* respectively, and join *GK, HL, MH,* and *NO.* Cut the straight lines *NP, PO,* and *HQ* in extreme and mean ratio at the points *R, S,* and *T* respectively, and let *RP, PS,* and *TQ* be their greater segments. Set up *RU, SV,* and *TW* from the points *R, S,* and *T* at right angles to the planes of the cube towards the outside of the cube, and make them equal to *RP, PS,* and *TQ.* Join *UB, BW, WC, CV,* and *VU.*
+Let *ABCD* and *CBEF,* two planes of the aforesaid cube at right angles to one another, be set out. Bisect the sides *AB, BC, CD, DA, EF, EB,* and *FC* at *G, H, K, L, M, N,* and *O* respectively, and join *GK, HL, MH,* and *NO.* Cut the straight lines *NP, PO,* and *HQ* in extreme and mean ratio at the points *R, S,* and *T* respectively, and let *RP, PS,* and *TQ* be their greater segments. Set up *RU, SV,* and *TW* from the points *R, S,* and *T* at right angles to the planes of the cube towards the outside of the cube, and make them equal to *RP, PS,* and *TQ.* Join *UB, BW, WC, CV,* and *VU.* ([XIII.15](PropXIII.15.md), [I.10](../BookI/PropI.10.md), [II.11](../BookII/PropII.11.md), [VI.30](../BookVI/PropVI.30.md), [XI.11](../BookXI/PropXI.11.md), [I.3](../BookI/PropI.3.md))
 
 I say that the pentagon *UBWCV* is equilateral, in one plane, and equiangular.
 
@@ -23,13 +14,11 @@ I say that the pentagon *UBWCV* is equilateral, in one plane, and equiangular.
 
 Join *RB, SB,* and *VB.*
 
-[XIII.4](PropXIII.4.md)
-Then, since the straight line *NP* is cut in extreme and mean ratio at *R,* and *RP* is the greater segment, therefore the sum of the squares on *PN* and *NR* is triple the square on *RP.*
+Then, since the straight line *NP* is cut in extreme and mean ratio at *R,* and *RP* is the greater segment, therefore the sum of the squares on *PN* and *NR* is triple the square on *RP.* ([XIII.4](PropXIII.4.md))
 
 But *PN* equals *NB,* and *PR* equals *RU,* therefore the sum of the squares on *BN* and *NR* is triple the square on *RU.*
 
-[I.47](../BookI/PropI.47.md)
-But the square on *BR* equals the sum of the squares on *BN* and *NR,* therefore the square on *BR* is triple the square on *RU.* Hence the sum of the squares on *BR* and *RU* is quadruple the square on *RU.*
+But the square on *BR* equals the sum of the squares on *BN* and *NR,* therefore the square on *BR* is triple the square on *RU.* Hence the sum of the squares on *BR* and *RU* is quadruple the square on *RU.* ([I.47](../BookI/PropI.47.md))
 
 But the square on *BU* equals the sum of the squares on *BR* and *RU,* therefore the square on *BU* is quadruple the square on *RU.* Therefore *BU* is double *RU.*
 
@@ -39,28 +28,21 @@ Similarly it can be proved that each of the straight lines *BW, WC,* and *CV* al
 
 I say next that it is also in one plane.
 
-[I.31](../BookI/PropI.31.md)
-Draw *PX* from *P* parallel to each of the straight lines *RU* and *SV* and toward the outside of the cube, and join *XH* and *HW.*
+Draw *PX* from *P* parallel to each of the straight lines *RU* and *SV* and toward the outside of the cube, and join *XH* and *HW.* ([I.31](../BookI/PropI.31.md))
 
 I say that *XHW* is a straight line.
 
 Since *HQ* is cut in extreme and mean ratio at *T,* and *QT* is its greater segment, therefore *HQ* is to *QT* as *QT* is to *TH.* But *HQ* equals *HP,* and *QT* equals each of the straight lines *TW* and *PX,* therefore *HP* is to *PX* as *WT* is to *TH.*
 
-[XI.6](../BookXI/PropXI.6.md)
-And *HP* is parallel to *TW,* for each of them is at right angles to the plane *BD,* and *TH* is parallel to *PX,* for each of them is at right angles to the plane *BF.*
+And *HP* is parallel to *TW,* for each of them is at right angles to the plane *BD,* and *TH* is parallel to *PX,* for each of them is at right angles to the plane *BF.* ([XI.6](../BookXI/PropXI.6.md))
 
-[VI.32](../BookVI/PropVI.32.md)
-But if two triangles *XPH* and *HTW,* which have two sides proportional to two sides are placed together at one angle so that their corresponding sides are also parallel, then the remaining straight lines are in a straight line, therefore *XH* is in a straight line with *HW.*
+But if two triangles *XPH* and *HTW,* which have two sides proportional to two sides are placed together at one angle so that their corresponding sides are also parallel, then the remaining straight lines are in a straight line, therefore *XH* is in a straight line with *HW.* ([VI.32](../BookVI/PropVI.32.md))
 
-[XI.1](../BookXI/PropXI.1.md)
-But every straight line is in one plane, therefore the pentagon *UBWCV* is in one plane.
+But every straight line is in one plane, therefore the pentagon *UBWCV* is in one plane. ([XI.1](../BookXI/PropXI.1.md))
 
 I say next that it is also equiangular.
 
-[XIII.5](PropXIII.5.md)
-
-[XIII.4](PropXIII.4.md)
-Since the straight line *NP* is cut in extreme and mean ratio at *R,* and *PR* is the greater segment, while *PR* equals *PS,* therefore *NS* is also cut in extreme and mean ratio at *P,* and *NP* is the greater segment. Therefore the sum of the squares on *NS* and *SP* is triple the square on *NP.*
+Since the straight line *NP* is cut in extreme and mean ratio at *R,* and *PR* is the greater segment, while *PR* equals *PS,* therefore *NS* is also cut in extreme and mean ratio at *P,* and *NP* is the greater segment. Therefore the sum of the squares on *NS* and *SP* is triple the square on *NP.* ([XIII.5](PropXIII.5.md), [XIII.4](PropXIII.4.md))
 
 But *NP* equals *NB,* and *PS* equals *SV,* therefore the squares on *NS* and *SV* is triple the square on *NB.* Hence the sum of the squares on *VS, SN,* and *NB* is quadruple the square on *NB.*
 
@@ -68,32 +50,27 @@ But the square on *SB* equals the sum of the squares on *SN* and *NB,* therefore
 
 But *BC* is also double *BN,* therefore *BV* equals *BC.*
 
-[I.8](../BookI/PropI.8.md)
-And, since the two sides *BU* and *UV* equal the two sides *BW* and *WC,* and the base *BV* equals the base *BC,* therefore the angle *BUV* equals the angle *BWC.*
+And, since the two sides *BU* and *UV* equal the two sides *BW* and *WC,* and the base *BV* equals the base *BC,* therefore the angle *BUV* equals the angle *BWC.* ([I.8](../BookI/PropI.8.md))
 
 Similarly we can prove that the angle *UVC* also equals the angle *BWC.* Therefore the three angles *BWC, BUV,* and *UVC* equal one another.
 
-[XIII.7](PropXIII.7.md)
-But if in an equilateral pentagon three angles equal one another, then the pentagon is equiangular, therefore the pentagon *BUVCW* is equiangular.
+But if in an equilateral pentagon three angles equal one another, then the pentagon is equiangular, therefore the pentagon *BUVCW* is equiangular. ([XIII.7](PropXIII.7.md))
 
 And it was also proved equilateral, therefore the pentagon *BUVCW* is equilateral and equiangular, and it is on one side *BC* of the cube.
 
-[XI.Def.28](../BookXI/DefXI.25.md)
-Therefore, if we make the same construction in the case of each of the twelve sides of the cube, a solid figure will be constructed which is contained by twelve equilateral and equiangular pentagons, and which is called a dodecahedron.
+Therefore, if we make the same construction in the case of each of the twelve sides of the cube, a solid figure will be constructed which is contained by twelve equilateral and equiangular pentagons, and which is called a dodecahedron. ([XI.Def.28](../BookXI/DefXI.25.md))
 
 It is now required to comprehend it in the given sphere, and to prove that the side of the dodecahedron is the irrational straight line called apotome.
 
 Produce *XP,* and let the produced straight line be *XZ.*
 
-[XI.38](../BookXI/PropXI.38.md)
-Therefore *PZ* meets the diameter of the cube, and they bisect one another, for this has been proved in the next to the last theorem of the eleventh book.
+Therefore *PZ* meets the diameter of the cube, and they bisect one another, for this has been proved in the next to the last theorem of the eleventh book. ([XI.38](../BookXI/PropXI.38.md))
 
 Let them cut at *Z.* Therefore *Z* is the center of the sphere which comprehends the cube, and *ZP* is half of the side of the cube.
 
 Join *UZ.*
 
-[XIII.4](PropXIII.4.md)
-Now, since the straight line *NS* is cut in extreme and mean ratio at *P,* and *NP* is its greater segment, therefore the sum of the squares on *NS* and *SP* is triple the square on *NP.*
+Now, since the straight line *NS* is cut in extreme and mean ratio at *P,* and *NP* is its greater segment, therefore the sum of the squares on *NS* and *SP* is triple the square on *NP.* ([XIII.4](PropXIII.4.md))
 
 But *NS* equals *XZ,* for *NP* also equals *PZ,* and *XP* equals *PS.*
 
@@ -101,8 +78,7 @@ But *PS* also equals *XU,* since it also equals *RP.* Therefore the sum of the s
 
 But the square on *UZ* equals the sum of the squares on *ZX* and *XU,* therefore the square on *UZ* is triple the square on *NP.*
 
-[XIII.15](PropXIII.15.md)
-But the square on the radius of the sphere which comprehends the cube is also triple the square on the half of the side of the cube, for it has previously been shown how to construct a cube and comprehend it in a sphere, and to prove that the square on the diameter of the sphere is triple the square on the side of the cube.
+But the square on the radius of the sphere which comprehends the cube is also triple the square on the half of the side of the cube, for it has previously been shown how to construct a cube and comprehend it in a sphere, and to prove that the square on the diameter of the sphere is triple the square on the side of the cube. ([XIII.15](PropXIII.15.md))
 
 But, if the whole is so related to the whole as the half to the half also, and *NP* is half of the side of the cube, therefore *UZ* equals the radius of the sphere which comprehends the cube.
 
@@ -114,15 +90,13 @@ I say next that the side of the dodecahedron is the irrational straight line cal
 
 Since, when *NP* is cut in extreme and mean ratio, *RP* is the greater segment, and, when *PO* is cut in extreme and mean ratio, *PS* is the greater segment, therefore, when the whole *NO* is cut in extreme and mean ratio, *RS* is the great er segment.
 
-[V.15](../BookV/PropV.15.md)
-Thus, since *NP* is to *PR* as *PR* is to *RN,* the same is true of the doubles also, for parts have the same ratio as their equimultiples, therefore *NO* is to *RS* as *RS* is to the sum of *NR* and *SO.* But *NO* is greater than *RS,* therefore *RS* is also greater than the sum of *NR* and *SO,* therefore *NO* is cut in extreme and mean ratio, and *RS* is its greater segment.
+Thus, since *NP* is to *PR* as *PR* is to *RN,* the same is true of the doubles also, for parts have the same ratio as their equimultiples, therefore *NO* is to *RS* as *RS* is to the sum of *NR* and *SO.* But *NO* is greater than *RS,* therefore *RS* is also greater than the sum of *NR* and *SO,* therefore *NO* is cut in extreme and mean ratio, and *RS* is its greater segment. ([V.15](../BookV/PropV.15.md))
 
 But *RS* equals *UV,* therefore, when *NO* is cut in extreme and mean ratio, *UV* is the greater segment. And, since the diameter of the sphere is rational, and the square on it is triple the square on the side of the cube, therefore *NO,* being a side of the cube, is rational.
 
 But if a rational line is cut in extreme and mean ratio, each of the segments is an irrational apotome.
 
-[XIII.6](PropXIII.6.md)
-Therefore *UV,* being a side of the dodecahedron, is an irrational apotome.
+Therefore *UV,* being a side of the dodecahedron, is an irrational apotome. ([XIII.6](PropXIII.6.md))
 
 Q.E.F.
 

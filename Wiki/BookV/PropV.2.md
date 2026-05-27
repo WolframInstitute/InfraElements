@@ -6,8 +6,7 @@ If a first magnitude is the same multiple of a second that a third is of a fourt
 
 ## Proof
 
-[V.Def.2](DefV.1.md)
-Let a first magnitude *AB* be the same multiple of a second *C* that a third *DE* is of a fourth *F,* and let a fifth *BG* be the same multiple of the second *C* that a sixth *EH* is of the fourth *F.*
+Let a first magnitude *AB* be the same multiple of a second *C* that a third *DE* is of a fourth *F,* and let a fifth *BG* be the same multiple of the second *C* that a sixth *EH* is of the fourth *F.* ([V.Def.2](DefV.1.md))
 
 I say that the sum *AG* of the first and fifth is the same multiple of the second, *C,* that the sum *DH* of the third and sixth is of the fourth, *F.*
 

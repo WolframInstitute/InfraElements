@@ -12,19 +12,15 @@ I say that, as many numbers fall between *A* and *B* in continued proportion as 
 
 ![java applet or image](propVIII9.gif)
 
-[VIII.2](PropVIII.2.md)
-Take two numbers *F* and *G,* the least that are in the ratio of *A, C, D,* and *B,* three numbers *H, K,* and *L* with the same property, and others more by one continually, until their multitude equals the multitude of *A, C, D,* and *B.* Let them be *M, N, O,* and *P.*
+Take two numbers *F* and *G,* the least that are in the ratio of *A, C, D,* and *B,* three numbers *H, K,* and *L* with the same property, and others more by one continually, until their multitude equals the multitude of *A, C, D,* and *B.* Let them be *M, N, O,* and *P.* ([VIII.2](PropVIII.2.md))
 
-[VIII.2,Cor](PropVIII.2.md)
-It is now manifest that *F* multiplied by itself makes *H* and multiplied by *H* makes *M,* while *G* multiplied by itself makes *L* and multiplied by *L* makes *P.*
+It is now manifest that *F* multiplied by itself makes *H* and multiplied by *H* makes *M,* while *G* multiplied by itself makes *L* and multiplied by *L* makes *P.* ([VIII.2,Cor](PropVIII.2.md))
 
-[VIII.1](PropVIII.1.md)
-And, since *M, N, O,* and *P* are the least of those which have the same ratio with *F* and *G,* and *A, C, D,* and *B* are also the least of those which have the same ratio with *F* and *G,* while the multitude of the numbers *M, N, O,* and *P* equals the multitude of the numbers *A, C, D,* and *B,* therefore *M, N, O,* and *P* equal *A, C, D,* and *B* respectively. Therefore *M* equals *A,* and *P* equals *B.*
+And, since *M, N, O,* and *P* are the least of those which have the same ratio with *F* and *G,* and *A, C, D,* and *B* are also the least of those which have the same ratio with *F* and *G,* while the multitude of the numbers *M, N, O,* and *P* equals the multitude of the numbers *A, C, D,* and *B,* therefore *M, N, O,* and *P* equal *A, C, D,* and *B* respectively. Therefore *M* equals *A,* and *P* equals *B.* ([VIII.1](PropVIII.1.md))
 
 Now, since *F* multiplied by itself makes *H,* therefore *F* measures *H* according to the units in *F.* But the unit *E* also measures *F* according to the units in it, therefore the unit *E* measures the number *F* the same number of times as *F* measures *H.*
 
-[VII.Def.20](../BookVII/DefVII.20.md)
-Therefore the unit *E* is to the number *F* as *F* is to *H.*
+Therefore the unit *E* is to the number *F* as *F* is to *H.* ([VII.Def.20](../BookVII/DefVII.20.md))
 
 Again, since *F* multiplied by *H* makes *M,* therefore *H* measures *M* according to the units in *F.* But the unit *E* also measures the number *F* according to the units in it, therefore the unit *E* measures the number *F* the same number of times as *H* measures *M.*
 

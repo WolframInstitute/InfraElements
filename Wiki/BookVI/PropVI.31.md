@@ -10,24 +10,19 @@ Let *ABC* be a right-angled triangle having the angle *BAC* right.
 
 I say that the figure on *BC* equals the sum of the similar and similarly described figures on *BA* and *AC.*
 
-[I.12](../BookI/PropI.12.md)
-Draw the perpendicular *AD.*
+Draw the perpendicular *AD.* ([I.12](../BookI/PropI.12.md))
 
 ![java applet or image](propVI31.gif)
 
-[VI.8](PropVI.8.md)
-Then, since in the right-angled triangle *ABC, AD* has been drawn from the right angle at *A* perpendicular to the base *BC,* therefore the triangles *DBA* and *DAC* adjoining the perpendicular are similar both to the whole *ABC* and to one another.
+Then, since in the right-angled triangle *ABC, AD* has been drawn from the right angle at *A* perpendicular to the base *BC,* therefore the triangles *DBA* and *DAC* adjoining the perpendicular are similar both to the whole *ABC* and to one another. ([VI.8](PropVI.8.md))
 
-[VI.Def.1](DefVI.1.md)
-And, since *ABC* is similar to *DBA,* therefore *BC* is to *BA* as *BA* is to *BD.*
+And, since *ABC* is similar to *DBA,* therefore *BC* is to *BA* as *BA* is to *BD.* ([VI.Def.1](DefVI.1.md))
 
-[VI.19,Cor](PropVI.19.md)
-And, since three straight lines are proportional, the first is to the third as the figure on the first is to the similar and similarly described figure on the second.
+And, since three straight lines are proportional, the first is to the third as the figure on the first is to the similar and similarly described figure on the second. ([VI.19,Cor](PropVI.19.md))
 
 Therefore *BC* is to *BD* as the figure on *BC* is to the similar and similarly described figure on *BA.*
 
-[V.24](../BookV/PropV.24.md)
-For the same reason also, *BC* is to *CD* as the figure on *BC* is to that on *CA,* so that, in addition, *BC* is to the sum of *BD* and *DC* as the figure on *BC* is to the sum of the similar and similarly described figures on *BA* and *AC.*
+For the same reason also, *BC* is to *CD* as the figure on *BC* is to that on *CA,* so that, in addition, *BC* is to the sum of *BD* and *DC* as the figure on *BC* is to the sum of the similar and similarly described figures on *BA* and *AC.* ([V.24](../BookV/PropV.24.md))
 
 But *BC* equals the sum of *BD* and *DC,* therefore the figure on *BC* equals the sum of the similar and similarly described figures on *BA* and *AC.*
 

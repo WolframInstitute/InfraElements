@@ -12,8 +12,7 @@ Let as many even numbers as we please, *AB, BC, CD,* and *DE,* be added together
 
 I say that the sum *AE* is even.
 
-[VII.Def.6](../BookVII/DefVII.6.md)
-Since each of the numbers *AB, BC, CD,* and *DE* is even, therefore each has a half part, so that the sum *AE* also has a half part. But an even number is that which is divisible into two equal parts, therefore *AE* is even.
+Since each of the numbers *AB, BC, CD,* and *DE* is even, therefore each has a half part, so that the sum *AE* also has a half part. But an even number is that which is divisible into two equal parts, therefore *AE* is even. ([VII.Def.6](../BookVII/DefVII.6.md))
 
 Therefore, *if as many even numbers as we please are added together, then the sum is even.*
 

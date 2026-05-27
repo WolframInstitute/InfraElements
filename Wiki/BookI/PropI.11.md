@@ -12,21 +12,13 @@ It is required to draw a straight line at right angles to the straight line *AB*
 
 ![java applet or image](propI11.gif)
 
-[I.3](PropI.3.md),
-[I.1](PropI.1.md)
-
-[I.Post.1](PostI.1.md)
-Take an arbitrary point *D* on *AC.* Make *CE* equal to *CD.* Construct the equilateral triangle *FDE* on *DE,* and join *CF.*
+Take an arbitrary point *D* on *AC.* Make *CE* equal to *CD.* Construct the equilateral triangle *FDE* on *DE,* and join *CF.* ([I.3](PropI.3.md), [I.1](PropI.1.md), [I.Post.1](PostI.1.md))
 
 I say that the straight line *CF* has been drawn at right angles to the given straight line *AB* from *C* the given point on it.
 
-[I.Def.20](DefI.20.md)
+Since *CD* equals *CE,* and *CF* is common, therefore the two sides *CD* and *CF* equal the two sides *CE* and *CF* respectively, and the base *DF* equals the base *EF.* Therefore the angle *DCF* equals the angle *ECF,* and they are adjacent angles. ([I.Def.20](DefI.20.md), [I.8](PropI.8.md))
 
-[I.8](PropI.8.md)
-Since *CD* equals *CE,* and *CF* is common, therefore the two sides *CD* and *CF* equal the two sides *CE* and *CF* respectively, and the base *DF* equals the base *EF.* Therefore the angle *DCF* equals the angle *ECF,* and they are adjacent angles.
-
-[I.Def.10](DefI.10.md)
-But, when a straight line standing on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, therefore each of the angles *DCF* and *FCE* is right.
+But, when a straight line standing on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, therefore each of the angles *DCF* and *FCE* is right. ([I.Def.10](DefI.10.md))
 
 Therefore the straight line *CF* has been drawn at right angles to the given straight line *AB* from the given point *C* on it.
 

@@ -14,36 +14,25 @@ Make the same construction as shown before.
 
 ![java applet or image](propX60.gif)
 
-[X.39](PropX.39.md)
-Since *AB* is a major straight line divided at *C*, therefore *AC* and *CB* are straight lines incommensurable in square which make the sum of the squares on them rational, but the rectangle contained by them medial.
+Since *AB* is a major straight line divided at *C*, therefore *AC* and *CB* are straight lines incommensurable in square which make the sum of the squares on them rational, but the rectangle contained by them medial. ([X.39](PropX.39.md))
 
-[X.20](PropX.20.md)
-Since the sum of the squares on *AC* and *CB* is rational, therefore *DL* is rational. Therefore *DM* is also rational and commensurable in length with *DE*.
+Since the sum of the squares on *AC* and *CB* is rational, therefore *DL* is rational. Therefore *DM* is also rational and commensurable in length with *DE*. ([X.20](PropX.20.md))
 
-[X.22](PropX.22.md)
-Again, since twice the rectangle *AC* by *CB*, that is, *MF*, is medial, and it is applied to the rational straight line *ML*, therefore *MG* is also rational and incommensurable in length with *DE*.
+Again, since twice the rectangle *AC* by *CB*, that is, *MF*, is medial, and it is applied to the rational straight line *ML*, therefore *MG* is also rational and incommensurable in length with *DE*. ([X.22](PropX.22.md))
 
-[X.13](PropX.13.md)
-
-[X.36](PropX.36.md)
-Therefore *DM* is also incommensurable in length with *MG*. Therefore *DM* and *MG* are rational straight lines commensurable in square only. Therefore *DG* is binomial.
+Therefore *DM* is also incommensurable in length with *MG*. Therefore *DM* and *MG* are rational straight lines commensurable in square only. Therefore *DG* is binomial. ([X.13](PropX.13.md), [X.36](PropX.36.md))
 
 It is to be proved that it is a fourth binomial straight line.
 
 In manner similar to the foregoing we can prove that *DM* is greater than *MG*, and that the rectangle *DK* by *KM* equals the square on *MN*.
 
-[VI.1](../BookVI/PropVI.1.md)
+Since the square on *AC* is incommensurable with the square on *CB*, therefore *DH* is also incommensurable with *KL*, so that *DK* is also incommensurable with *KM*. ([VI.1](../BookVI/PropVI.1.md), [X.11](PropX.11.md))
 
-[X.11](PropX.11.md)
-Since the square on *AC* is incommensurable with the square on *CB*, therefore *DH* is also incommensurable with *KL*, so that *DK* is also incommensurable with *KM*.
-
-[X.18](PropX.18.md)
-But, if there are two unequal straight lines, and to the greater there is applied a parallelogram equal to the fourth part of the square on the less and deficient by a square figure, and if it divides it into incommensurable parts, then the square on the greater is greater than the square on the less by the square on a straight line incommensurable in length with the greater, therefore the square on *DM* is greater than the square on *MG* by the square on a straight line incommensurable with *DM*.
+But, if there are two unequal straight lines, and to the greater there is applied a parallelogram equal to the fourth part of the square on the less and deficient by a square figure, and if it divides it into incommensurable parts, then the square on the greater is greater than the square on the less by the square on a straight line incommensurable in length with the greater, therefore the square on *DM* is greater than the square on *MG* by the square on a straight line incommensurable with *DM*. ([X.18](PropX.18.md))
 
 And *DM* and *MG* are rational straight lines commensurable in square only, and *DM* is commensurable with the rational straight line *DE* set out.
 
-[X.Def.II.4](DefX.II.4.md)
-Therefore *DG* is a fourth binomial straight line.
+Therefore *DG* is a fourth binomial straight line. ([X.Def.II.4](DefX.II.4.md))
 
 Therefore, *the square on the major straight line applied to a rational straight line produces as breadth the fourth binomial.*
 

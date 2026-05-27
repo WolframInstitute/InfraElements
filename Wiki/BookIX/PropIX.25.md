@@ -12,12 +12,9 @@ I say that the remainder *CA* is odd.
 
 ![java applet or image](propIX25.gif)
 
-[VII.Def.7](../BookVII/DefVII.6.md)
-Subtract the unit *CD* from *BC,* therefore *DB* is even.
+Subtract the unit *CD* from *BC,* therefore *DB* is even. ([VII.Def.7](../BookVII/DefVII.6.md))
 
-[IX.24](PropIX.24.md)
-[VII.Def.7](../BookVII/DefVII.6.md)
-But *AB* is also even, therefore the remainder *AD* is also even. And *CD* is a unit, therefore *CA* is odd.
+But *AB* is also even, therefore the remainder *AD* is also even. And *CD* is a unit, therefore *CA* is odd. ([IX.24](PropIX.24.md), [VII.Def.7](../BookVII/DefVII.6.md))
 
 Therefore, *if an odd number is subtracted from an even number, then the remainder is odd.*
 

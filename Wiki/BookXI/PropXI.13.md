@@ -10,11 +10,9 @@ For, if possible, from the same point *A* let the two straight lines *AB* and *A
 
 ![java applet or image](propXI13.gif)
 
-[XI.3](PropXI.3.md)
-Draw a plane through *BA* and *AC.* It intersects the plane of reference in a straight line through *A.* Let the line be *DAE.*
+Draw a plane through *BA* and *AC.* It intersects the plane of reference in a straight line through *A.* Let the line be *DAE.* ([XI.3](PropXI.3.md))
 
-[XI.Def.3](DefXI.3.md)
-Therefore the straight lines *AB, AC,* and *DAE* lie in one plane. And, since *CA* is at right angles to the plane of reference, it also makes right angles with all the straight lines which meet it and lie in the plane of reference.
+Therefore the straight lines *AB, AC,* and *DAE* lie in one plane. And, since *CA* is at right angles to the plane of reference, it also makes right angles with all the straight lines which meet it and lie in the plane of reference. ([XI.Def.3](DefXI.3.md))
 
 But *DAE* meets it and lies in the plane of reference, therefore the angle *CAE* is right. For the same reason the angle *BAE* is also right. Therefore the angle *CAE* equals the angle *BAE.*
 

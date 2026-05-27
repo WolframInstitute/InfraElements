@@ -10,18 +10,13 @@ For, if possible, let the circle *ABC* cut the circle *DEF* at more points than 
 
 ![java applet or image](propIII10.gif)
 
-[I.10](../BookI/PropI.10.md)
+Join *BH* and *BG,* and bisect them at the points *K* and *L.* Draw *KC* and *LM* from *K* and *L* at right angles to *BH* and *BG,* and carry them through to the points *A* and *E.* ([I.10](../BookI/PropI.10.md), [I.11](../BookI/PropI.11.md))
 
-[I.11](../BookI/PropI.11.md)
-Join *BH* and *BG,* and bisect them at the points *K* and *L.* Draw *KC* and *LM* from *K* and *L* at right angles to *BH* and *BG,* and carry them through to the points *A* and *E.*
-
-[III.1,Cor](PropIII.1.md)
-Then, since in the circle *ABC* a straight line *AC* cuts a straight line *BH* into two equal parts and at right angles, the center of the circle *ABC* lies on *AC.* Again, since in the same circle *ABC* a straight line *NO* cuts a straight line *BG* into two equal parts and at right angles, the center of the circle *ABC* lies on *NO.*>
+Then, since in the circle *ABC* a straight line *AC* cuts a straight line *BH* into two equal parts and at right angles, the center of the circle *ABC* lies on *AC.* Again, since in the same circle *ABC* a straight line *NO* cuts a straight line *BG* into two equal parts and at right angles, the center of the circle *ABC* lies on *NO.*> ([III.1,Cor](PropIII.1.md))
 
 But it was also proved to lie on *AC,* and the straight lines *AC* and *NO* meet at no point except at *P,* therefore the point *P* is the center of the circle *ABC.*
 
-[III.5](PropIII.5.md)
-Similarly we can prove that *P* is also the center of the circle *DEF,* therefore the two circles *ABC* and *DEF* which cut one another have the same center *P,* which is impossible.
+Similarly we can prove that *P* is also the center of the circle *DEF,* therefore the two circles *ABC* and *DEF* which cut one another have the same center *P,* which is impossible. ([III.5](PropIII.5.md))
 
 Therefore *a circle does not cut a circle at more than two points.*
 

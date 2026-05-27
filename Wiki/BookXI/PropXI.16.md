@@ -6,8 +6,7 @@ If two parallel planes are cut by any plane, then their intersections are parall
 
 ## Proof
 
-[XI.3](PropXI.3.md)
-Let the two parallel planes *AB* and *CD* be cut by the plane *EFGH,* and let *EF* and *GH* be their intersections.
+Let the two parallel planes *AB* and *CD* be cut by the plane *EFGH,* and let *EF* and *GH* be their intersections. ([XI.3](PropXI.3.md))
 
 I say that *EF* is parallel to *GH.*
 
@@ -17,8 +16,7 @@ If not, then *EF* and *GH* will, when produced, meet either in the direction of 
 
 First, let them meet when produced in the direction of *F* and *H* at *K.*
 
-[XI.1](PropXI.1.md)
-Now, since *EFK* lies in the plane *AB,* therefore all the points on *EFK* also lie in the plane *AB.* But *K* is one of the points on the straight line *EFK,* therefore *K* lies in the plane *AB.* For the same reason *K* also lies in the plane *CD.* Therefore the planes *AB* and *CD* will meet when produced.
+Now, since *EFK* lies in the plane *AB,* therefore all the points on *EFK* also lie in the plane *AB.* But *K* is one of the points on the straight line *EFK,* therefore *K* lies in the plane *AB.* For the same reason *K* also lies in the plane *CD.* Therefore the planes *AB* and *CD* will meet when produced. ([XI.1](PropXI.1.md))
 
 But they do not meet, because, by hypothesis, they are parallel. Therefore the straight lines *EF* and *GH* do not meet when produced in the direction of *F* and *H.*
 

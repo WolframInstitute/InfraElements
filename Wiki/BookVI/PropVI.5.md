@@ -12,28 +12,19 @@ I say that the triangle *ABC* is equiangular with the triangle *DEF* where the e
 
 ![java applet or image](propVI5.gif)
 
-[I.23](../BookI/PropI.23.md)
-
-[I.32](../BookI/PropI.32.md)
-Construct the angle *FEG* equal to the angle *CBA* and the angle *EFG* equal to the angle *BCA* on the straight line *EF* and at the points *E* and *F* on it. Therefore the remaining angle at *A* equals the remaining angle at *G.*
+Construct the angle *FEG* equal to the angle *CBA* and the angle *EFG* equal to the angle *BCA* on the straight line *EF* and at the points *E* and *F* on it. Therefore the remaining angle at *A* equals the remaining angle at *G.* ([I.23](../BookI/PropI.23.md), [I.32](../BookI/PropI.32.md))
 
 Therefore the triangle *ABC* is equiangular with the triangle *GEF.*
 
-[VI.4](PropVI.4.md)
-Therefore in the triangles *ABC* and *GEF* the sides about the equal angles are proportional where the corresponding sides are opposite the equal angles, therefore *AB* is to *BC* as *GE* is to *EF.*
+Therefore in the triangles *ABC* and *GEF* the sides about the equal angles are proportional where the corresponding sides are opposite the equal angles, therefore *AB* is to *BC* as *GE* is to *EF.* ([VI.4](PropVI.4.md))
 
-[V.11](../BookV/PropV.11.md)
-But, by hypothesis, *AB* is to *BC* as *DE* to *EF,* therefore *DE* is to *EF* as *GE* is to *EF.*
+But, by hypothesis, *AB* is to *BC* as *DE* to *EF,* therefore *DE* is to *EF* as *GE* is to *EF.* ([V.11](../BookV/PropV.11.md))
 
-[V.9](../BookV/PropV.9.md)
-Therefore each of the straight lines *DE* and *GE* has the same ratio to *EF,* therefore *DE* equals *GE.*
+Therefore each of the straight lines *DE* and *GE* has the same ratio to *EF,* therefore *DE* equals *GE.* ([V.9](../BookV/PropV.9.md))
 
 For the same reason *DF* also equals *GF.*
 
-[I.8](../BookI/PropI.8.md)
-
-[I.4](../BookI/PropI.4.md)
-Then since *DE* equals *GE,* and *EF* is common, the two sides *DE* and *EF* equal the two sides *GE* and *EF,* and the base *DF* equals the base *GF,* therefore the angle *DEF* equals the angle *GEF,* and the triangle *DEF* equals the triangle *GEF,* and the remaining angles equal the remaining angles, namely those opposite the equal sides.
+Then since *DE* equals *GE,* and *EF* is common, the two sides *DE* and *EF* equal the two sides *GE* and *EF,* and the base *DF* equals the base *GF,* therefore the angle *DEF* equals the angle *GEF,* and the triangle *DEF* equals the triangle *GEF,* and the remaining angles equal the remaining angles, namely those opposite the equal sides. ([I.8](../BookI/PropI.8.md), [I.4](../BookI/PropI.4.md))
 
 Therefore the angle *DFE* also equals the angle *GFE,* and the angle *EDF* equals the angle *EGF.*
 

@@ -16,13 +16,11 @@ Divide *AB* into the magnitudes *AG, GH,* and *HB* equal to *C,* and divide *DE*
 
 ![java applet or image](propV15.gif)
 
-[V.7](PropV.7.md)
-And, since *AG, GH,* and *HB* equal one another, and *DK, KL,* and *LE* also equal one another, therefore *AG* is to *DK* as *GH* is to *KL,* and as *HB* is to *LE.*
+And, since *AG, GH,* and *HB* equal one another, and *DK, KL,* and *LE* also equal one another, therefore *AG* is to *DK* as *GH* is to *KL,* and as *HB* is to *LE.* ([V.7](PropV.7.md))
 
 Therefore one of the antecedents is to one of the consequents as the sum of the antecedents is to the sum of the consequents. Therefore *AG* is to *DK* as *AB* is to *DE.*
 
-[V.12](PropV.12.md)
-But *AG* equals *C* and *DK* equals *F,* therefore *C* is to *F* as *AB* is to *DE.*
+But *AG* equals *C* and *DK* equals *F,* therefore *C* is to *F* as *AB* is to *DE.* ([V.12](PropV.12.md))
 
 Therefore, *parts have the same ratio as their equimultiples.*
 

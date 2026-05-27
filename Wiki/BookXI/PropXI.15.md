@@ -12,28 +12,21 @@ I say that the plane produced through *AB* and *BC* and the plane produced throu
 
 ![java applet or image](propXI15.gif)
 
-[XI.11](PropXI.11.md)
-Draw *BG* from the point *B* perpendicular to the plane through *DE* and *EF* to where it meets the plane at the point *G.*
+Draw *BG* from the point *B* perpendicular to the plane through *DE* and *EF* to where it meets the plane at the point *G.* ([XI.11](PropXI.11.md))
 
-[I.31](../BookI/PropI.31.md)
-Draw *GH* through *G* parallel to *ED,* and *GK* parallel to *EF.*
+Draw *GH* through *G* parallel to *ED,* and *GK* parallel to *EF.* ([I.31](../BookI/PropI.31.md))
 
-[XI.Def.3](DefXI.3.md)
-Now, since *BG* is at right angles to the plane through *DE* and *EF,* therefore it makes right angles with all the straight lines which meet it and lie in the plane through *DE* and *EF.*
+Now, since *BG* is at right angles to the plane through *DE* and *EF,* therefore it makes right angles with all the straight lines which meet it and lie in the plane through *DE* and *EF.* ([XI.Def.3](DefXI.3.md))
 
 But each of the straight lines *GH* and *GK* meets it and lies in the plane through *DE* and *EF,* therefore each of the angles *BGH* and *BGK* is right.
 
-[XI.9](PropXI.9.md),
-[I.29](../BookI/PropI.29.md)
-And, since *BA* is parallel to *GH,* therefore the sum of the angles *GBA* and *BGH* equals two right angles.
+And, since *BA* is parallel to *GH,* therefore the sum of the angles *GBA* and *BGH* equals two right angles. ([XI.9](PropXI.9.md), [I.29](../BookI/PropI.29.md))
 
 But the angle *BGH* is right, therefore the angle *GBA* is also right. Therefore *GB* is at right angles to *BA.* For the same reason *GB* is also at right angles to *BC.*
 
-[XI.4](PropXI.4.md)
-Since then the straight line *GB* is set up at right angles to the two straight lines *BA* and *BC* which cut one another, therefore *GB* is also at right angles to the plane through *BA* and *BC.*
+Since then the straight line *GB* is set up at right angles to the two straight lines *BA* and *BC* which cut one another, therefore *GB* is also at right angles to the plane through *BA* and *BC.* ([XI.4](PropXI.4.md))
 
-[XI.14](PropXI.14.md)
-But planes to which the same straight line is at right angles are parallel, therefore the plane through *AB* and *BC* is parallel to the plane through *DE* and *EF.*
+But planes to which the same straight line is at right angles are parallel, therefore the plane through *AB* and *BC* is parallel to the plane through *DE* and *EF.* ([XI.14](PropXI.14.md))
 
 Therefore, *if two straight lines meeting one another are parallel to two straight lines meeting one another not in the same plane, then the planes through them are parallel.*
 

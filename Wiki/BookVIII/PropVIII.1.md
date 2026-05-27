@@ -13,13 +13,9 @@ If not, let *E, F, G,* and *H* be less than *A, B, C,* and *D,* and in the same 
 
 ![java applet or image](propVIII1.gif)
 
-[VII.14](../BookVII/PropVII.14.md)
-Now, since *A, B, C,* and *D* are in the same ratio with *E, F, G,* and *H,* and the multitude of the numbers *A, B, C,* and *D* equals the multitude of the numbers *E, F, G,* and *H,* therefore, *ex aequali A* is to *D* as *E* is to *H.*
+Now, since *A, B, C,* and *D* are in the same ratio with *E, F, G,* and *H,* and the multitude of the numbers *A, B, C,* and *D* equals the multitude of the numbers *E, F, G,* and *H,* therefore, *ex aequali A* is to *D* as *E* is to *H.* ([VII.14](../BookVII/PropVII.14.md))
 
-[VII.21](../BookVII/PropVII.21.md)
-
-[VII.20](../BookVII/PropVII.20.md)
-But *A* and *D* are relatively prime, numbers which are relatively prime are also least, and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent. Therefore *A* measures *E,* the greater the less, which is impossible.
+But *A* and *D* are relatively prime, numbers which are relatively prime are also least, and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent. Therefore *A* measures *E,* the greater the less, which is impossible. ([VII.21](../BookVII/PropVII.21.md), [VII.20](../BookVII/PropVII.20.md))
 
 Therefore *E, F, G,* and *H,* which are less than *A, B, C,* and *D,* are not in the same ratio with them. Therefore *A, B, C,* and *D* are the least of those which have the same ratio with them.
 

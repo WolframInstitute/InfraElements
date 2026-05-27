@@ -12,14 +12,11 @@ Let *ABCD* be a circle, and in it let the two straight lines *AC* and *BD,* whic
 
 I say that they do not bisect one another.
 
-[III.1](PropIII.1.md)
-For, if so, let them bisect one another, so that *AE* equals *EC,* and *BE* equals *ED.* Take the center *F* of the circle *ABCD.* Join *FE.*
+For, if so, let them bisect one another, so that *AE* equals *EC,* and *BE* equals *ED.* Take the center *F* of the circle *ABCD.* Join *FE.* ([III.1](PropIII.1.md))
 
-[III.3](PropIII.3.md)
-Then, since a straight line *FE* passing through the center bisects a straight line *AC* not passing through the center, it also cuts it at right angles, therefore the angle *FEA* is right.
+Then, since a straight line *FE* passing through the center bisects a straight line *AC* not passing through the center, it also cuts it at right angles, therefore the angle *FEA* is right. ([III.3](PropIII.3.md))
 
-[III.3](PropIII.3.md)
-Again, since a straight line *FE* bisects a straight line *BD,* it also cuts it at right angles. Therefore the angle *FEB* is right.
+Again, since a straight line *FE* bisects a straight line *BD,* it also cuts it at right angles. Therefore the angle *FEB* is right. ([III.3](PropIII.3.md))
 
 But the angle *FEA* was also proved right, therefore the angle *FEA* equals the angle *FEB,* the less equals the greater, which is impossible.
 

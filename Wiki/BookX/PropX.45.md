@@ -14,8 +14,7 @@ I say that *AB* is not so divided at another point.
 
 If possible, let it also be divided at *D*, so that *AD* and *DB* are incommensurable in square and the sum of the squares on *AD* and *DB* is rational, but the rectangle contained by them medial.
 
-[X.26](PropX.26.md)
-Then, since that by which the sum of the squares on *AC* and *CB* differs from the sum of the squares on *AD* and *DB* is also that by which twice the rectangle *AD* by *DB* differs from twice the rectangle *AC* by *CB*, while the sum of the squares on *AC* and *CB* exceeds the sum of the squares on *AD* and *DB* by a rational area, for both are rational, therefore twice the rectangle *AD* by *DB* also exceeds twice the rectangle *AC* by *CB* by a rational area, though they are medial, which is impossible.
+Then, since that by which the sum of the squares on *AC* and *CB* differs from the sum of the squares on *AD* and *DB* is also that by which twice the rectangle *AD* by *DB* differs from twice the rectangle *AC* by *CB*, while the sum of the squares on *AC* and *CB* exceeds the sum of the squares on *AD* and *DB* by a rational area, for both are rational, therefore twice the rectangle *AD* by *DB* also exceeds twice the rectangle *AC* by *CB* by a rational area, though they are medial, which is impossible. ([X.26](PropX.26.md))
 
 Therefore a major straight line is not divided at different points. Therefore it is only divided at one and the same point.
 

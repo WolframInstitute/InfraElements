@@ -18,8 +18,7 @@ If it measures it, and it does measures itself, then *AB* is a common measure of
 
 Next, let *AB* not measure *CD*.
 
-[X.2](PropX.2.md)
-Then, if the less is continually subtracted in turn from the greater, then that which is left over will sometime measure the one before it, because *AB* and *CD* are not incommensurable.
+Then, if the less is continually subtracted in turn from the greater, then that which is left over will sometime measure the one before it, because *AB* and *CD* are not incommensurable. ([X.2](PropX.2.md))
 
 Let *AB*, measuring *ED*, leave *EC* less than itself, let *EC*, measuring *FB*, leave *AF* less than itself, and let *AF* measure *CE*.
 

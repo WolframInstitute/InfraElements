@@ -12,19 +12,15 @@ I say that *AB* is parallel to *CD.*
 
 ![java applet or image](propXI9.gif)
 
-[I.11](../BookI/PropI.11.md)
-Let a point *G* be taken at random on *EF,* and from it draw *GH* in the plane through *EF* and *AB* at right angles to *EF,* and *GK* in the plane through *EF* and *CD* again at right angles to *EF.*
+Let a point *G* be taken at random on *EF,* and from it draw *GH* in the plane through *EF* and *AB* at right angles to *EF,* and *GK* in the plane through *EF* and *CD* again at right angles to *EF.* ([I.11](../BookI/PropI.11.md))
 
-[XI.4](PropXI.4.md)
-Now, since *EF* is at right angles to each of the straight lines *GH* and *GK,* therefore *EF* is also at right angles to the plane through *GH* and *GK.*
+Now, since *EF* is at right angles to each of the straight lines *GH* and *GK,* therefore *EF* is also at right angles to the plane through *GH* and *GK.* ([XI.4](PropXI.4.md))
 
-[XI.8](PropXI.8.md)
-And *EF* is parallel to *AB,* therefore *AB* is also at right angles to the plane through *HG* and *GK.*
+And *EF* is parallel to *AB,* therefore *AB* is also at right angles to the plane through *HG* and *GK.* ([XI.8](PropXI.8.md))
 
 For the same reason *CD* is also at right angles to the plane through *HG* and *GK.* Therefore each of the straight lines *AB* and *CD* is at right angles to the plane through *HG* and *GK.*
 
-[XI.6](PropXI.6.md)
-But if two straight lines are at right angles to the same plane, then the straight lines are parallel. Therefore *AB* is parallel to *CD.*
+But if two straight lines are at right angles to the same plane, then the straight lines are parallel. Therefore *AB* is parallel to *CD.* ([XI.6](PropXI.6.md))
 
 Therefore, *straight lines which are parallel to the same straight line but do not lie in the same plane with it are also parallel to each other.*
 

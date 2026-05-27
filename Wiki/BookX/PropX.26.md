@@ -16,30 +16,19 @@ Since each of the rectangles *AB* and *AC* is medial, and *AB* equals *FH* while
 
 ![java applet or image](propX26.gif)
 
-[X.22](PropX.22.md)
-They are applied to the rational straight line *EF*, therefore each of the straight lines *HE* and *EG* is rational and incommensurable in length with *EF*.
+They are applied to the rational straight line *EF*, therefore each of the straight lines *HE* and *EG* is rational and incommensurable in length with *EF*. ([X.22](PropX.22.md))
 
-[X.20](PropX.20.md)
-Since *DB* is rational and equals *KH*, therefore *KH* is rational. And it is applied to the rational straight line *EF*, therefore *GH* is rational and commensurable in length with *EF*.
+Since *DB* is rational and equals *KH*, therefore *KH* is rational. And it is applied to the rational straight line *EF*, therefore *GH* is rational and commensurable in length with *EF*. ([X.20](PropX.20.md))
 
-[X.13](PropX.13.md)
-But *EG* is also rational, and is incommensurable in length with *EF*, therefore *EG* is incommensurable in length with *GH*.
+But *EG* is also rational, and is incommensurable in length with *EF*, therefore *EG* is incommensurable in length with *GH*. ([X.13](PropX.13.md))
 
-[X.11](PropX.11.md)
-And *EG* is to *GH* as the square on *EG* is to the rectangle *EG* by *GH*, therefore the square on *EG* is incommensurable with the rectangle *EG* by *GH*.
+And *EG* is to *GH* as the square on *EG* is to the rectangle *EG* by *GH*, therefore the square on *EG* is incommensurable with the rectangle *EG* by *GH*. ([X.11](PropX.11.md))
 
-[X.6](PropX.6.md)
+But the squares on *EG* and *GH* are commensurable with the square on *EG*, for both are rational, and twice the rectangle *EG* by *GH* is commensurable with the rectangle *EG* by *GH*, for it is double it, therefore the sum of the squares on *EG* and *GH* is incommensurable with twice the rectangle *EG* by *GH*. ([X.6](PropX.6.md), [X.13](PropX.13.md))
 
-[X.13](PropX.13.md)
-But the squares on *EG* and *GH* are commensurable with the square on *EG*, for both are rational, and twice the rectangle *EG* by *GH* is commensurable with the rectangle *EG* by *GH*, for it is double it, therefore the sum of the squares on *EG* and *GH* is incommensurable with twice the rectangle *EG* by *GH*.
+Therefore the sum of the squares on *EG* and *GH* plus twice the rectangle *EG* by *GH*, that is, the square on *EH* is incommensurable with the sum of the squares on *EG* and *GH*. ([II.4](../BookII/PropII.4.md), [X.16](PropX.16.md))
 
-[II.4](../BookII/PropII.4.md)
-
-[X.16](PropX.16.md)
-Therefore the sum of the squares on *EG* and *GH* plus twice the rectangle *EG* by *GH*, that is, the square on *EH* is incommensurable with the sum of the squares on *EG* and *GH*.
-
-[X.Def.I.4](DefX.I.4.md)
-But the squares on *EG* and *GH* are rational, therefore the square on *EH* is irrational.
+But the squares on *EG* and *GH* are rational, therefore the square on *EH* is irrational. ([X.Def.I.4](DefX.I.4.md))
 
 Therefore *EH* is irrational. But it is also rational, which is impossible.
 

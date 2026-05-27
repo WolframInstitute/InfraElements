@@ -12,16 +12,11 @@ Let *A* and *B* and *C* be the three given straight lines.
 
 It is required to find a fourth proportional to *A, B,* and *C.*
 
-[I.3](../BookI/PropI.3.md)
+Set out two straight lines *DE* and *DF* containing any angle *EDF.* Make *DG* equal to *A, GE* equal to *B,* and *DH* equal to *C.* Join *GH,* and draw *EF* through *E* parallel to it. ([I.3](../BookI/PropI.3.md), [I.31](../BookI/PropI.31.md))
 
-[I.31](../BookI/PropI.31.md)
-Set out two straight lines *DE* and *DF* containing any angle *EDF.* Make *DG* equal to *A, GE* equal to *B,* and *DH* equal to *C.* Join *GH,* and draw *EF* through *E* parallel to it.
+Then since *GH* is parallel to a side *EF* of the triangle *DEF,* therefore *DG* is to *GE* as *DH* is to *HF.* ([VI.2](PropVI.2.md))
 
-[VI.2](PropVI.2.md)
-Then since *GH* is parallel to a side *EF* of the triangle *DEF,* therefore *DG* is to *GE* as *DH* is to *HF.*
-
-[V.7](../BookV/PropV.7.md)
-But *DG* equals *A* and *GE* to *B,* and *DH* to *C,* therefore *A* is to *B* as *C* is to *HF.*
+But *DG* equals *A* and *GE* to *B,* and *DH* to *C,* therefore *A* is to *B* as *C* is to *HF.* ([V.7](../BookV/PropV.7.md))
 
 Therefore a fourth proportional *HF* has been found to the three given straight lines *A, B,* and *C.*
 

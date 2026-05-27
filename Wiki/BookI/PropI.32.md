@@ -12,24 +12,17 @@ I say that the exterior angle *ACD* equals the sum of the two interior and oppos
 
 ![java applet or image](propI32.gif)
 
-[I.31](PropI.31.md)
-Draw *CE* through the point *C* parallel to the straight line *AB.*
+Draw *CE* through the point *C* parallel to the straight line *AB.* ([I.31](PropI.31.md))
 
-[I.29](PropI.29.md)
-Since *AB* is parallel to *CE,* and *AC* falls upon them, therefore the alternate angles *BAC* and *ACE* equal one another.
+Since *AB* is parallel to *CE,* and *AC* falls upon them, therefore the alternate angles *BAC* and *ACE* equal one another. ([I.29](PropI.29.md))
 
-[I.29](PropI.29.md)
-Again, since *AB* is parallel to *CE,* and the straight line *BD* falls upon them, therefore the exterior angle *ECD* equals the interior and opposite angle *ABC.*
+Again, since *AB* is parallel to *CE,* and the straight line *BD* falls upon them, therefore the exterior angle *ECD* equals the interior and opposite angle *ABC.* ([I.29](PropI.29.md))
 
 But the angle *ACE* was also proved equal to the angle *BAC.* Therefore the whole angle *ACD* equals the sum of the two interior and opposite angles *BAC* and *ABC.*
 
-[C.N.2](CNI.1.md)
-Add the angle *ACB* to each. Then the sum of the angles *ACD* and *ACB* equals the sum of the three angles *ABC, BCA,* and *CAB.*
+Add the angle *ACB* to each. Then the sum of the angles *ACD* and *ACB* equals the sum of the three angles *ABC, BCA,* and *CAB.* ([C.N.2](CNI.1.md))
 
-[I.13](PropI.13.md)
-
-[C.N.1](CNI.1.md)
-But the sum of the angles *ACD* and *ACB* equals two right angles. Therefore the sum of the angles *ABC, BCA,* and *CAB* also equals two right angles.
+But the sum of the angles *ACD* and *ACB* equals two right angles. Therefore the sum of the angles *ABC, BCA,* and *CAB* also equals two right angles. ([I.13](PropI.13.md), [C.N.1](CNI.1.md))
 
 Therefore *in any triangle, if one of the sides is produced, then the exterior angle equals the sum of the two interior and opposite angles, and the sum of the three interior angles of the triangle equals two right angles.*
 

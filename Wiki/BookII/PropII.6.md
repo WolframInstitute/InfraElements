@@ -12,17 +12,11 @@ I say that the rectangle *AD* by *DB* together with the square on *CB* equals th
 
 ![java applet or image](propII6.gif)
 
-[I.46](../BookI/PropI.46.md)
+Describe the square *CEFD* on *CD,* and join *DE.* Draw *BG* through the point *B* parallel to either *EC* or *DF,* draw *KM* through the point *H* parallel to either *AB* or *EF,* and further draw *AK* through *A* parallel to either *CL* or *DM.* ([I.46](../BookI/PropI.46.md), [I.31](../BookI/PropI.31.md))
 
-[I.31](../BookI/PropI.31.md)
-Describe the square *CEFD* on *CD,* and join *DE.* Draw *BG* through the point *B* parallel to either *EC* or *DF,* draw *KM* through the point *H* parallel to either *AB* or *EF,* and further draw *AK* through *A* parallel to either *CL* or *DM.*
+Then, since *AC* equals *CB, AL* also equals *CH.* But *CH* equals *HF.* Therefore *AL* also equals *HF.* ([I.36](../BookI/PropI.36.md), [I.43](../BookI/PropI.43.md))
 
-[I.36](../BookI/PropI.36.md),
-[I.43](../BookI/PropI.43.md)
-Then, since *AC* equals *CB, AL* also equals *CH.* But *CH* equals *HF.* Therefore *AL* also equals *HF.*
-
-II.Def.2
-Add *CM* to each. Therefore the whole *AM* equals the gnomon *NOP.*
+Add *CM* to each. Therefore the whole *AM* equals the gnomon *NOP.* (II.Def.2)
 
 But *AM* is the rectangle *AD* by *DB,* for *DM* equals *DB.* Therefore the gnomon *NOP* also equals the rectangle *AD* by *DB.*
 

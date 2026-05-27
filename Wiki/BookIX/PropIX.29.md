@@ -12,10 +12,7 @@ Let the odd number *A* multiplied by the odd number *B* make *C.*
 
 I say that *C* is odd.
 
-[VII.Def.15](../BookVII/DefVII.15.md)
-
-[IX.23](PropIX.23.md)
-Since *A* multiplied by *B* makes *C,* therefore *C* is made up of as many numbers equal to *B* as there are units in *A.* And each of the numbers *A* and *B* is odd, therefore *C* is made up of odd numbers, the multitude of which is odd. Thus *C* is odd.
+Since *A* multiplied by *B* makes *C,* therefore *C* is made up of as many numbers equal to *B* as there are units in *A.* And each of the numbers *A* and *B* is odd, therefore *C* is made up of odd numbers, the multitude of which is odd. Thus *C* is odd. ([VII.Def.15](../BookVII/DefVII.15.md), [IX.23](PropIX.23.md))
 
 Therefore, *if an odd number is multiplied by an odd number, then the product is odd.*
 

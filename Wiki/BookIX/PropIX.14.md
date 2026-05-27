@@ -16,8 +16,7 @@ If possible, let it be measured by the prime number *E,* and let *E* not be the 
 
 Now, since *E* measures *A,* let it measure it according to *F,* therefore *E* multiplied by *F* makes *A.* And *A* is measured by the prime numbers *B, C,* and *D.*
 
-[VII.30](../BookVII/PropVII.30.md)
-But, if two numbers multiplied by one another make some number, and any prime number measures the product, then it also measures one of the original numbers, therefore each of *B, C,* and *D* measures one of the numbers *E* or *F.*
+But, if two numbers multiplied by one another make some number, and any prime number measures the product, then it also measures one of the original numbers, therefore each of *B, C,* and *D* measures one of the numbers *E* or *F.* ([VII.30](../BookVII/PropVII.30.md))
 
 Now they do not measure *E,* for *E* is prime and not the same with any one of the numbers *B, C,* or *D.* Therefore they measure *F,* which is less than *A,* which is impossible, for *A* is by hypothesis the least number measured by *B, C,* and *D.*
 

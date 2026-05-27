@@ -11,37 +11,25 @@ I say that the square on *AB* equals the sum of the squares on *AC* and *CB* plu
 
 ![java applet or image](propII4.gif)
 
-[I.46](../BookI/PropI.46.md)
+Describe the square *ADEB* on *AB.* Join *BD.* Draw *CF* through *C* parallel to either *AD* or *EB,* and draw *HK* through *G* parallel to either *AB* or *DE.* ([I.46](../BookI/PropI.46.md), [I.31](../BookI/PropI.31.md))
 
-[I.31](../BookI/PropI.31.md)
-Describe the square *ADEB* on *AB.* Join *BD.* Draw *CF* through *C* parallel to either *AD* or *EB,* and draw *HK* through *G* parallel to either *AB* or *DE.*
+Then, since *CF* is parallel to *AD,* and *BD* falls on them, the exterior angle *CGB* equals the interior and opposite angle *ADB.* ([I.29](../BookI/PropI.29.md))
 
-[I.29](../BookI/PropI.29.md)
-Then, since *CF* is parallel to *AD,* and *BD* falls on them, the exterior angle *CGB* equals the interior and opposite angle *ADB.*
+But the angle *ADB* equals the angle *ABD,* since the side *BA* also equals *AD.* Therefore the angle *CGB* also equals the angle *GBC,* so that the side *BC* also equals the side *CG.* ([I.5](../BookI/PropI.5.md), [I.6](../BookI/PropI.6.md))
 
-[I.5](../BookI/PropI.5.md)
-
-[I.6](../BookI/PropI.6.md)
-But the angle *ADB* equals the angle *ABD,* since the side *BA* also equals *AD.* Therefore the angle *CGB* also equals the angle *GBC,* so that the side *BC* also equals the side *CG.*
-
-[I.34](../BookI/PropI.34.md)
-But *CB* equals *GK,* and *CG* to *KB.* Therefore *GK* also equals *KB.* Therefore *CGKB* is equilateral.
+But *CB* equals *GK,* and *CG* to *KB.* Therefore *GK* also equals *KB.* Therefore *CGKB* is equilateral. ([I.34](../BookI/PropI.34.md))
 
 I say next that it is also right-angled.
 
-[I.29](../BookI/PropI.29.md)
-Since *CG* is parallel to *BK,* the sum of the angles *KBC* and *GCB* equals two right angles.
+Since *CG* is parallel to *BK,* the sum of the angles *KBC* and *GCB* equals two right angles. ([I.29](../BookI/PropI.29.md))
 
-[I.34](../BookI/PropI.34.md)
-But the angle *KBC* is right. Therefore the angle *BCG* is also right, so that the opposite angles *CGK* and *GKB* are also right.
+But the angle *KBC* is right. Therefore the angle *BCG* is also right, so that the opposite angles *CGK* and *GKB* are also right. ([I.34](../BookI/PropI.34.md))
 
 Therefore *CGKB* is right-angled, and it was also proved equilateral, therefore it is a square, and it is described on *CB.*
 
-[I.34](../BookI/PropI.34.md)
-For the same reason *HF* is also a square, and it is described on *HG,* that is *AC.* Therefore the squares *HF* and *KC* are the squares on *AC* and *CB.*
+For the same reason *HF* is also a square, and it is described on *HG,* that is *AC.* Therefore the squares *HF* and *KC* are the squares on *AC* and *CB.* ([I.34](../BookI/PropI.34.md))
 
-[I.43](../BookI/PropI.43.md)
-Now, since *AG* equals *GE,* and *AG* is the rectangle *AC* by *CB,* for *GC* equals *CB,* therefore *GE* also equals the rectangle *AC* by *CB.* Therefore the sum of *AG* and *GE* equals twice the rectangle *AC* by *CB.*
+Now, since *AG* equals *GE,* and *AG* is the rectangle *AC* by *CB,* for *GC* equals *CB,* therefore *GE* also equals the rectangle *AC* by *CB.* Therefore the sum of *AG* and *GE* equals twice the rectangle *AC* by *CB.* ([I.43](../BookI/PropI.43.md))
 
 But the squares *HF* and *CK* are also the squares on *AC* and *CB,* therefore the sum of the four figures *HF, CK, AG,* and *GE* equals the sum of the squares on *AC* and *CB* plus twice the rectangle *AC* by *CB.*
 

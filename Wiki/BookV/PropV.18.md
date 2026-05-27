@@ -6,11 +6,9 @@ If magnitudes are proportional taken separately, then they are also proportional
 
 ## Proof
 
-[V.Def.15](DefV.14.md)
-Let *AE, EB, CF,* and *FD* be magnitudes proportional taken separately, so that *AE* is to *EB* as *CF* is to *FD.*
+Let *AE, EB, CF,* and *FD* be magnitudes proportional taken separately, so that *AE* is to *EB* as *CF* is to *FD.* ([V.Def.15](DefV.14.md))
 
-[V.Def.14](DefV.14.md)
-I say that they are also proportional taken jointly, that is, *AB* is to *BE* as *CD* is to *FD.*
+I say that they are also proportional taken jointly, that is, *AB* is to *BE* as *CD* is to *FD.* ([V.Def.14](DefV.14.md))
 
 For, if *CD* is not to *DF* as *AB* is to *BE,* then *AB* is to *BE* as *CD* is either to some magnitude less than *DF* or to a greater.
 
@@ -18,14 +16,11 @@ First, let it be in that ratio to a less magnitude *DG.*
 
 ![java applet or image](propV18.gif)
 
-[V.17](PropV.17.md)
-Then, since *AB* is to *BE* as *CD* is to *DG,* they are magnitudes proportional taken jointly, so that they are also proportional taken separately. Therefore *AE* is to *EB* as *CG* is to *GD.*
+Then, since *AB* is to *BE* as *CD* is to *DG,* they are magnitudes proportional taken jointly, so that they are also proportional taken separately. Therefore *AE* is to *EB* as *CG* is to *GD.* ([V.17](PropV.17.md))
 
-[V.11](PropV.11.md)
-But also, by hypothesis, *AE* is to *EB* as *CF* is to *FD.* Therefore *CG* is to *GD* as *CF* is to *FD.*
+But also, by hypothesis, *AE* is to *EB* as *CF* is to *FD.* Therefore *CG* is to *GD* as *CF* is to *FD.* ([V.11](PropV.11.md))
 
-[V.14](PropV.14.md)
-But the first *CG* is greater than the third *CF,* therefore the second *GD* is also greater than the fourth *FD.*
+But the first *CG* is greater than the third *CF,* therefore the second *GD* is also greater than the fourth *FD.* ([V.14](PropV.14.md))
 
 But it is also less, which is impossible. Therefore *AB* is to *BE* as *CD* is not to a less magnitude than *FD.*
 

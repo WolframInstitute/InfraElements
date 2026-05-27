@@ -16,10 +16,7 @@ If now *CD* measures *AB,* since it also measures itself, then *CD* is a common 
 
 But, if *CD* does not measure *AB,* then, when the less of the numbers *AB* and *CD* being continually subtracted from the greater, some number is left which measures the one before it.
 
-[VII.Def.12](DefVII.11.md)
-
-[VII.1](PropVII.1.md)
-For a unit is not left, otherwise *AB* and *CD* would be relatively prime, which is contrary to the hypothesis.
+For a unit is not left, otherwise *AB* and *CD* would be relatively prime, which is contrary to the hypothesis. ([VII.Def.12](DefVII.11.md), [VII.1](PropVII.1.md))
 
 Therefore some number is left which measures the one before it.
 

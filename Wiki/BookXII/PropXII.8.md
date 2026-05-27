@@ -18,18 +18,13 @@ Now, since the pyramid *ABCG* is similar to the pyramid *DEFH,* therefore the an
 
 And since *AB* is to *DE* as *BC* is to *EF,* and the sides are proportional about equal angles, therefore the parallelogram *BM* is similar to the parallelogram *EQ.* For the same reason *BN* is also similar to *ER,* and *BR* similar to *EO.*
 
-[XI.24](../BookXI/PropXI.24.md)
-Therefore the three parallelograms *MB, BK,* and *BN* are similar to the three *EQ, EO,* and *ER.* But the three parallelograms *MB, BK,* and *BN* are equal and similar to their three opposites, and the three *EQ, EO,* and *ER* are equal and similar to their three opposites.
+Therefore the three parallelograms *MB, BK,* and *BN* are similar to the three *EQ, EO,* and *ER.* But the three parallelograms *MB, BK,* and *BN* are equal and similar to their three opposites, and the three *EQ, EO,* and *ER* are equal and similar to their three opposites. ([XI.24](../BookXI/PropXI.24.md))
 
 Therefore the solids *BGML* and *EHQP* are contained by similar planes equal in multitude. Therefore the solid *BGML* is similar to the solid *EHQP.*
 
-[XI.33](../BookXI/PropXI.33.md)
-But similar parallelepipedal solids are in the triplicate ratio of their corresponding sides. Therefore the solid *BGML* has to the solid *EHQP* the ratio triplicate of that which the corresponding side *BC* has to the corresponding side *EF.*
+But similar parallelepipedal solids are in the triplicate ratio of their corresponding sides. Therefore the solid *BGML* has to the solid *EHQP* the ratio triplicate of that which the corresponding side *BC* has to the corresponding side *EF.* ([XI.33](../BookXI/PropXI.33.md))
 
-[XI.28](../BookXI/PropXI.28.md)
-
-[XII.7](PropXII.7.md)
-But the solid *BGML* is to the solid *EHQP* as the pyramid *ABCG* is to the pyramid *DEFH,* for the pyramid is a sixth part of the solid, because the prism which is half of the parallelepipedal solid is also triple the pyramid. Therefore the pyramid *ABCG* has to the pyramid *DEFH* the ratio triplicate of that which *BC* has to *EF.*
+But the solid *BGML* is to the solid *EHQP* as the pyramid *ABCG* is to the pyramid *DEFH,* for the pyramid is a sixth part of the solid, because the prism which is half of the parallelepipedal solid is also triple the pyramid. Therefore the pyramid *ABCG* has to the pyramid *DEFH* the ratio triplicate of that which *BC* has to *EF.* ([XI.28](../BookXI/PropXI.28.md), [XII.7](PropXII.7.md))
 
 Q.E.D.
 

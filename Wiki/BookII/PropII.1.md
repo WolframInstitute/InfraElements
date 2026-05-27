@@ -12,18 +12,11 @@ Let *A* and *BC* be two straight lines, and let *BC* be cut at random at the poi
 
 I say that the rectangle *A* by *BC* equals the sum of the rectangle *A* by *BD,* the rectangle *A* by *DE,* and the rectangle *A* by *EC.*
 
-[I.11](../BookI/PropI.11.md),
-[I.3](../BookI/PropI.3.md)
-
-[I.31](../BookI/PropI.31.md)
-Draw *BF* from *B* at right angles to *BC.* Make *BG* equal to *A.* Draw *GH* through *G* parallel to *BC.* Through *D, E,* and *C* draw *DK, EL,* and *CH* parallel to *BG.*
+Draw *BF* from *B* at right angles to *BC.* Make *BG* equal to *A.* Draw *GH* through *G* parallel to *BC.* Through *D, E,* and *C* draw *DK, EL,* and *CH* parallel to *BG.* ([I.11](../BookI/PropI.11.md), [I.3](../BookI/PropI.3.md), [I.31](../BookI/PropI.31.md))
 
 Then *BH* equals the sum of *BK, DL,* and *EH.*
 
-II.Def.1
-
-[I.34](../BookI/PropI.34.md)
-Now *BH* is the rectangle *A* by *BC,* for it is contained by *GB* and *BC,* and *BG* equals *A*; *BK* is the rectangle *A* by *BD,* for it is contained by *GB* and *BD,* and *BG* equals *A*; and *DL* is the rectangle *A* by *DE,* for *DK,* that is *BG,* equals *A.* Similarly also *EH* is the rectangle *A* by *EC.*
+Now *BH* is the rectangle *A* by *BC,* for it is contained by *GB* and *BC,* and *BG* equals *A*; *BK* is the rectangle *A* by *BD,* for it is contained by *GB* and *BD,* and *BG* equals *A*; and *DL* is the rectangle *A* by *DE,* for *DK,* that is *BG,* equals *A.* Similarly also *EH* is the rectangle *A* by *EC.* (II.Def.1, [I.34](../BookI/PropI.34.md))
 
 Therefore the rectangle *A* by *BC* equals the sum of the rectangle *A* by *BD,* the rectangle *A* by *DE,* and the rectangle *A* by *EC.*
 

@@ -12,13 +12,9 @@ Let *ABC* be the given circle, and the angle at *D* the given rectilinear angle.
 
 It is required to cut off from the circle *ABC* a segment admitting an angle equal to the given rectilinear angle, the angle at *D.*
 
-[III.17](PropIII.17.md)
+Draw *EF* touching *ABC* at the point *B.* Construct the angle *FBC* equal to the angle at *D* on the straight line *FB* and at the point *B* on it. ([III.17](PropIII.17.md), [I.23](../BookI/PropI.23.md))
 
-[I.23](../BookI/PropI.23.md)
-Draw *EF* touching *ABC* at the point *B.* Construct the angle *FBC* equal to the angle at *D* on the straight line *FB* and at the point *B* on it.
-
-[III.32](PropIII.32.md)
-Then, since a straight line *EF* touches the circle *ABC,* and *BC* has been drawn across from the point of contact at *B,* the angle *FBC* equals the angle constructed in the alternate segment *BAC.*
+Then, since a straight line *EF* touches the circle *ABC,* and *BC* has been drawn across from the point of contact at *B,* the angle *FBC* equals the angle constructed in the alternate segment *BAC.* ([III.32](PropIII.32.md))
 
 But the angle *FBC* equals the angle at *D,* therefore the angle in the segment *BAC* equals the angle at *D.*
 

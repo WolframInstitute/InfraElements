@@ -12,8 +12,7 @@ Let *A, B, C,* and *D* be four numbers in continued proportion, and let *A* be a
 
 I say that *D* is also a cube.
 
-[VIII.21](PropVIII.21.md)
-Since between *A* and *D* there are two mean proportional numbers *B* and *C,* therefore *A* and *D* are similar solid numbers. But *A* is a cube, therefore *D* is also a cube.
+Since between *A* and *D* there are two mean proportional numbers *B* and *C,* therefore *A* and *D* are similar solid numbers. But *A* is a cube, therefore *D* is also a cube. ([VIII.21](PropVIII.21.md))
 
 Therefore, *if four numbers are in continued proportion, and the first is a cube, then the fourth is also a cube.*
 

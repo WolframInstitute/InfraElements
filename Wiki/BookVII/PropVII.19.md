@@ -12,30 +12,18 @@ Let *A, B, C,* and *D* be four numbers in proportion, so that *A* is to *B* as *
 
 I say that *E* equals *F.*
 
-[VII.17](PropVII.17.md)
+Multiply *A* by *C* to make *G.* Since, then, *A* multiplied by *C* makes *G,* and multiplied by *D* makes *E,* therefore the number *A* multiplied by the two numbers *C* and *D* makes *G* and *E.* Therefore *C* is to *D* as *G* is to *E.* But *C* is to *D* as *A* is to *B,* therefore *A* is to *B* as *G* is to *E.* ([VII.17](PropVII.17.md), [V.11](../BookV/PropV.11.md))
 
-([V.11](../BookV/PropV.11.md))
-Multiply *A* by *C* to make *G.* Since, then, *A* multiplied by *C* makes *G,* and multiplied by *D* makes *E,* therefore the number *A* multiplied by the two numbers *C* and *D* makes *G* and *E.* Therefore *C* is to *D* as *G* is to *E.* But *C* is to *D* as *A* is to *B,* therefore *A* is to *B* as *G* is to *E.*
+Again, since *A* multiplied by *C* makes *G,* but, further, *B* multiplied by *C* makes *F,* therefore the two numbers *A* and *B* multiplied by a certain number *C* make *G* and *F.* Therefore *A* is to *B* as *G* is to *F.* ([VII.18](PropVII.18.md))
 
-[VII.18](PropVII.18.md)
-Again, since *A* multiplied by *C* makes *G,* but, further, *B* multiplied by *C* makes *F,* therefore the two numbers *A* and *B* multiplied by a certain number *C* make *G* and *F.* Therefore *A* is to *B* as *G* is to *F.*
-
-([V.11](../BookV/PropV.11.md))
-
-([V.9](../BookV/PropV.9.md))
-But further *A* is to *B* as *G* is to *E,* therefore *G* is to *E* as *G* is to *F.* Therefore *G* has to each of the numbers *E* and *F* the same ratio. Therefore *E* equals *F.*
+But further *A* is to *B* as *G* is to *E,* therefore *G* is to *E* as *G* is to *F.* Therefore *G* has to each of the numbers *E* and *F* the same ratio. Therefore *E* equals *F.* ([V.11](../BookV/PropV.11.md), [V.9](../BookV/PropV.9.md))
 
 Again, let *E* equal *F.*
 I say that *A* is to *B* as *C* is to *D.*
 
-([V.7](../BookV/PropV.7.md))
-With the same construction, since *E* equals *F,* therefore *G* is to *E* as *G* is to *F.*
+With the same construction, since *E* equals *F,* therefore *G* is to *E* as *G* is to *F.* ([V.7](../BookV/PropV.7.md))
 
-[VII.17](PropVII.17.md),
-[VII.18](PropVII.18.md)
-
-([V.11](../BookV/PropV.11.md))
-But *G* is to *E* as *C* is to *D,* and *G* is to *F* as *A* is to *B,* therefore *A* is to *B* as *C* is to *D.*
+But *G* is to *E* as *C* is to *D,* and *G* is to *F* as *A* is to *B,* therefore *A* is to *B* as *C* is to *D.* ([VII.17](PropVII.17.md), [VII.18](PropVII.18.md), [V.11](../BookV/PropV.11.md))
 
 Therefore, *if four numbers are proportional, then the number produced from the first and fourth equals the number produced from the second and third; and, if the number produced from the first and fourth equals that produced from the second and third, then the four numbers are proportional.*
 

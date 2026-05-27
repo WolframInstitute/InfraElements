@@ -12,24 +12,17 @@ I say that *C* is also commensurable with *D*.
 
 ![java applet or image](propX11.gif)
 
-[X.5](PropX.5.md)
-Since *A* is commensurable with *B*, therefore *A* has to *B* the ratio which a number has to a number.
+Since *A* is commensurable with *B*, therefore *A* has to *B* the ratio which a number has to a number. ([X.5](PropX.5.md))
 
-[V.11](../BookV/PropV.11.md)
-
-[X.6](PropX.6.md)
-And *A* is to *B* as *C* is to *D*, therefore *C* also has to *D* the ratio which a number has to a number. Therefore *C* is commensurable with *D*.
+And *A* is to *B* as *C* is to *D*, therefore *C* also has to *D* the ratio which a number has to a number. Therefore *C* is commensurable with *D*. ([V.11](../BookV/PropV.11.md), [X.6](PropX.6.md))
 
 Next, let *A* be incommensurable with *B*.
 
 I say that *C* is also incommensurable with *D*.
 
-[X.7](PropX.7.md)
-Since *A* is incommensurable with *B*, therefore *A* does not have to *B* the ratio which a number has to a number.
+Since *A* is incommensurable with *B*, therefore *A* does not have to *B* the ratio which a number has to a number. ([X.7](PropX.7.md))
 
-[V.11](../BookV/PropV.11.md),
-[X.8](PropX.8.md)
-And *A* is to *B* as *C* is to *D*, therefore neither has *C* to *D* the ratio which a number has to a number. Therefore *C* is incommensurable with *D*.
+And *A* is to *B* as *C* is to *D*, therefore neither has *C* to *D* the ratio which a number has to a number. Therefore *C* is incommensurable with *D*. ([V.11](../BookV/PropV.11.md), [X.8](PropX.8.md))
 
 Therefore, *if four magnitudes are proportional, and the first is commensurable with the second, then the third also is commensurable with the fourth; but, if the first is incommensurable with the second, then the third also is incommensurable with the fourth.*
 

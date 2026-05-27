@@ -22,13 +22,9 @@ Therefore *AC* is not the same with *DB*.
 
 For this reason also the points *C* and *D* are not equidistant from the point of bisection.
 
-[II.4](../BookII/PropII.4.md)
-Therefore that by which the sum of the squares on *AC* and *CB* differs from the sum of the squares on *AD* and *DB* is also that by which twice the rectangle *AD* by *DB* differs from twice the rectangle *AC* by *CB*, because both the squares on *AC* and *CB* together with twice the rectangle *AC* by *CB*, and the squares on *AD* and *DB* together with twice the rectangle *AD* by *DB*, equal the square on *AB*.
+Therefore that by which the sum of the squares on *AC* and *CB* differs from the sum of the squares on *AD* and *DB* is also that by which twice the rectangle *AD* by *DB* differs from twice the rectangle *AC* by *CB*, because both the squares on *AC* and *CB* together with twice the rectangle *AC* by *CB*, and the squares on *AD* and *DB* together with twice the rectangle *AD* by *DB*, equal the square on *AB*. ([II.4](../BookII/PropII.4.md))
 
-[X.21](PropX.21.md)
-
-[X.26](PropX.26.md)
-But the sum of the squares on *AC* and *CB* differs from the sum of the squares on *AD* and *DB* by a rational area, for both are rational, therefore twice the rectangle *AD* by *DB* also differs from twice the rectangle *AC* by *CB* by a rational area, though they are medial, which is absurd, for a medial area does not exceed a medial by a rational area.
+But the sum of the squares on *AC* and *CB* differs from the sum of the squares on *AD* and *DB* by a rational area, for both are rational, therefore twice the rectangle *AD* by *DB* also differs from twice the rectangle *AC* by *CB* by a rational area, though they are medial, which is absurd, for a medial area does not exceed a medial by a rational area. ([X.21](PropX.21.md), [X.26](PropX.26.md))
 
 Therefore a binomial straight line is not divided at different points. Therefore it is divided at one point only.
 

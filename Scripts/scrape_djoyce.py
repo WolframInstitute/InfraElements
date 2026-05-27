@@ -328,6 +328,45 @@ def _node_is_guide_anchor(node) -> bool:
     return False
 
 
+def reposition_just_divs(soup):
+    """D. Joyce places each proof step's marginal justifications in a
+    <div class="just"> *before* the step it justifies, so they otherwise scrape
+    as links dangling on their own lines. Move each just-div's reference links
+    to the end of the paragraph it precedes, as one comma-separated parenthetical
+    (e.g. "... the points A and B. (I.Post.3, I.Post.1)"). Computes all targets
+    on the unmodified tree first, then mutates, so nesting and consecutive
+    just-divs are handled uniformly.
+    """
+    plan = []
+    for justdiv in soup.find_all("div", class_="just"):
+        links = [a for a in justdiv.find_all("a") if a.get("href") and a.get_text(strip=True)]
+        if not links:
+            continue
+        theorem = justdiv.find_parent("div", class_="theorem")
+        target = next(
+            (p for p in justdiv.find_all_next(["p", "tp"])
+             if theorem is None or p is theorem or theorem in p.parents),
+            None
+        )
+        if target is not None:
+            plan.append((justdiv, links, target))
+    for justdiv, links, target in plan:
+        # Drop the paragraph's trailing whitespace so the refs glue to the last
+        # word rather than dangling after a line break.
+        while target.contents and isinstance(target.contents[-1], NavigableString) and not target.contents[-1].strip():
+            target.contents[-1].extract()
+        if target.contents and isinstance(target.contents[-1], NavigableString):
+            target.contents[-1].replace_with(str(target.contents[-1]).rstrip())
+        target.append(" (")
+        for index, anchor in enumerate(links):
+            if index:
+                target.append(", ")
+            target.append(anchor.extract())
+        target.append(")")
+        target.append("\n\n")  # restore the paragraph break the rstrip removed
+        justdiv.decompose()
+
+
 def extract_theorem_blocks(html: str):
     """Walk the page body and split into per-theorem sections.
 
@@ -341,6 +380,7 @@ def extract_theorem_blocks(html: str):
                         Use this when own_guide_md is empty for an item.
     """
     soup = BeautifulSoup(html, "html5lib")
+    reposition_just_divs(soup)
     body = soup.body or soup
 
     # Flatten body's descendants we care about, in document order.

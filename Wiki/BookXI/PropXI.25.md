@@ -10,23 +10,17 @@ Let the parallelepipedal solid *ABCD* be cut by the plane *FG* which is parallel
 
 I say that the base *AEFV* is to the base *FHCF* as the solid *ABFU* is to the solid *EGCD.*
 
-[I.3](../BookI/PropI.3.md)
-
-[I.31](../BookI/PropI.31.md)
-Produce *AH* in each direction. Make any number of straight lines *AK* and *KL* equal to *AE,* and any number *HM* and *MN* equal to *EH.* Complete the parallelograms *LP, KV, HW,* and *MS* and the solids *LQ, KR, DM,* and *MT.*
+Produce *AH* in each direction. Make any number of straight lines *AK* and *KL* equal to *AE,* and any number *HM* and *MN* equal to *EH.* Complete the parallelograms *LP, KV, HW,* and *MS* and the solids *LQ, KR, DM,* and *MT.* ([I.3](../BookI/PropI.3.md), [I.31](../BookI/PropI.31.md))
 
 ![java applet or image](propXI25.gif)
 
-[XI.24](PropXI.24.md)
-Then, since the straight lines *LK, KA,* and *AE* equal one another, therefore the parallelograms *LP, KV,* and *AF* equal one another, *KO, KB,* and *AG* equal one another, and further *LX, KQ,* and *AR* equal one another, for they are opposite. For the same reason the parallelograms *EC, HW,* and *MS* are equal one another, *HG, HI,* and *IN* equal one another, and further, *DH, MY, NT* and equal one another.
+Then, since the straight lines *LK, KA,* and *AE* equal one another, therefore the parallelograms *LP, KV,* and *AF* equal one another, *KO, KB,* and *AG* equal one another, and further *LX, KQ,* and *AR* equal one another, for they are opposite. For the same reason the parallelograms *EC, HW,* and *MS* are equal one another, *HG, HI,* and *IN* equal one another, and further, *DH, MY, NT* and equal one another. ([XI.24](PropXI.24.md))
 
-[XI.Def.10](DefXI.9.md)
-Therefore in the solids *LQ, KR,* and *AU* three planes equal three planes. But the three planes equal the three opposite, therefore the three solids *LQ, KR,* and *AU* equal one another. For the same reason the three solids *ED, DM,* and *MT* also equal one another. Therefore, the solid *LU* is the same multiple of the solid *AU* that the base *LF* is of the base *AF.* For the same reason, the solid *NU* is the same multiple of the solid *HU* that the base *NF* is of the base *FH.*
+Therefore in the solids *LQ, KR,* and *AU* three planes equal three planes. But the three planes equal the three opposite, therefore the three solids *LQ, KR,* and *AU* equal one another. For the same reason the three solids *ED, DM,* and *MT* also equal one another. Therefore, the solid *LU* is the same multiple of the solid *AU* that the base *LF* is of the base *AF.* For the same reason, the solid *NU* is the same multiple of the solid *HU* that the base *NF* is of the base *FH.* ([XI.Def.10](DefXI.9.md))
 
 And, if the base *LF* equals the base *NF,* then the solid *LU* also equals the solid *NU*; if the base *LF* exceeds the base *NF,* then the solid *LU* also exceeds the solid *NU*; and, if one falls short, then the other falls short.
 
-[V.Def.5](../BookV/DefV.5.md)
-Therefore, there being four magnitudes, the two bases *AF* and *FH,* and the two solids *AU* and *UH,* equimultiples have been taken of the base *AF* and the solid *AU,* namely the base *LF* and the solid *LU,* and equimultiples of the base *HF* and the solid *HU,* namely the base *NF* and the solid *NU,* and it has been proved that, if the base *LF* exceeds the base *FN,* then the solid *LU* also exceeds the solid *NU*; if the bases are equal, then the solids are equal; and if the base falls short, then the solid falls short. Therefore, the base *AF* is to the base *FH* as the solid *AU* is to the solid *UH.*
+Therefore, there being four magnitudes, the two bases *AF* and *FH,* and the two solids *AU* and *UH,* equimultiples have been taken of the base *AF* and the solid *AU,* namely the base *LF* and the solid *LU,* and equimultiples of the base *HF* and the solid *HU,* namely the base *NF* and the solid *NU,* and it has been proved that, if the base *LF* exceeds the base *FN,* then the solid *LU* also exceeds the solid *NU*; if the bases are equal, then the solids are equal; and if the base falls short, then the solid falls short. Therefore, the base *AF* is to the base *FH* as the solid *AU* is to the solid *UH.* ([V.Def.5](../BookV/DefV.5.md))
 
 Therefore *If a parallelepipedal solid is cut by a plane parallel to the opposite planes, then the base is to the base as the solid is to the solid.*
 

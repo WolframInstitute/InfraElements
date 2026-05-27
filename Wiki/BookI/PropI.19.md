@@ -14,11 +14,9 @@ I say that the side *AC* is greater than the side *AB.*
 
 If not, either *AC* equals *AB* or it is less than it.
 
-[I.5](PropI.5.md)
-Now *AC* does not equal *AB,* for then the angle *ABC* would equal the angle *ACB,* but it does not. Therefore *AC* does not equal *AB.*
+Now *AC* does not equal *AB,* for then the angle *ABC* would equal the angle *ACB,* but it does not. Therefore *AC* does not equal *AB.* ([I.5](PropI.5.md))
 
-[I.18](PropI.18.md)
-Neither is *AC* less than *AB,* for then the angle *ABC* would be less than the angle *ACB,* but it is not. Therefore *AC* is not less than *AB.*
+Neither is *AC* less than *AB,* for then the angle *ABC* would be less than the angle *ACB,* but it is not. Therefore *AC* is not less than *AB.* ([I.18](PropI.18.md))
 
 And it was proved that it is not equal either. Therefore *AC* is greater than *AB.*
 

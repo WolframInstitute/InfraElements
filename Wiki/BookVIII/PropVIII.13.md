@@ -16,8 +16,7 @@ Multiply *A* by *B* to make *L,* and multiply the numbers *A* and *B* by *L* to 
 
 Then, in manner similar to the foregoing, we can prove that *D, L,* and *E* and *G, M, N,* and *H* are continuously proportional in the ratio of *A* to *B,* and further *E, O,* and *F* and *H, P, Q,* and *K* are continuously proportional in the ratio of *B* to *C.*
 
-[VII.14](../BookVII/PropVII.14.md)
-Now *A* is to *B* as *B* is to *C,* therefore *D, L,* and *E* are also in the same ratio with *E, O,* and *F,* and further *G, M, N,* and *H* in the same ratio with *H, P, Q,* and *K.* And the multitude of *D, L,* and *E* equals the multitude of *E, O,* and *F* and that of *G, M, N,* and *H* to that of *H, P, Q,* and *K,* therefore, *ex aequali D* is to *E* as *E* is to *F,* and *G* is to *H* as *H* is to *K.*
+Now *A* is to *B* as *B* is to *C,* therefore *D, L,* and *E* are also in the same ratio with *E, O,* and *F,* and further *G, M, N,* and *H* in the same ratio with *H, P, Q,* and *K.* And the multitude of *D, L,* and *E* equals the multitude of *E, O,* and *F* and that of *G, M, N,* and *H* to that of *H, P, Q,* and *K,* therefore, *ex aequali D* is to *E* as *E* is to *F,* and *G* is to *H* as *H* is to *K.* ([VII.14](../BookVII/PropVII.14.md))
 
 Therefore, *if there are as many numbers as we please in continued proportion, and each multiplied by itself makes some number, then the products are proportional; and, if the original numbers multiplied by the products make certain numbers, then the latter are also proportional.*
 

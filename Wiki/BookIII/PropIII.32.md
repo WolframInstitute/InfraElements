@@ -12,24 +12,19 @@ I say that the angles which *BD* makes with the tangent *EF* equal the angles in
 
 ![java applet or image](propIII32.gif)
 
-[I.11](../BookI/PropI.11.md)
-Draw *BA* from *B* at right angles to *EF,* take a point *C* at random on the circumference *BD,* and join *AD, DC,* and *CB.*
+Draw *BA* from *B* at right angles to *EF,* take a point *C* at random on the circumference *BD,* and join *AD, DC,* and *CB.* ([I.11](../BookI/PropI.11.md))
 
-[III.19](PropIII.19.md)
-Then, since a straight line *EF* touches the circle *ABCD* at *B,* and *BA* has been drawn from the point of contact at right angles to the tangent, the center of the circle *ABCD* is on *BA.*
+Then, since a straight line *EF* touches the circle *ABCD* at *B,* and *BA* has been drawn from the point of contact at right angles to the tangent, the center of the circle *ABCD* is on *BA.* ([III.19](PropIII.19.md))
 
-[III.31](PropIII.31.md)
-Therefore *BA* is a diameter of the circle *ABCD.* Therefore the angle *ADB,* being an angle in a semicircle, is right.
+Therefore *BA* is a diameter of the circle *ABCD.* Therefore the angle *ADB,* being an angle in a semicircle, is right. ([III.31](PropIII.31.md))
 
-[I.32](../BookI/PropI.32.md)
-Therefore the sum of the remaining angles *BAD* and *ABD* equals one right angle.
+Therefore the sum of the remaining angles *BAD* and *ABD* equals one right angle. ([I.32](../BookI/PropI.32.md))
 
 But the angle *ABF* is also right, therefore the angle *ABF* equals the sum of the angles *BAD* and *ABD.*
 
 Subtract the angle *ABD* from each. Therefore the remaining angle *DBF* equals the angle *BAD* in the alternate segment of the circle.
 
-[III.22](PropIII.22.md)
-Next, since *ABCD* is a quadrilateral in a circle, the sum of its opposite angles equals two right angles.
+Next, since *ABCD* is a quadrilateral in a circle, the sum of its opposite angles equals two right angles. ([III.22](PropIII.22.md))
 
 But the sum of the angles *DBF* and *DBE* also equals two right angles, therefore the sum of the angles *DBF* and *DBE* equals the sum of the angles *BAD* and *BCD,* of which the angle *BAD* was proved equal to the angle *DBF,* therefore the remaining angle *DBE* equals the angle *DCB* in the alternate segment *DCB* of the circle.
 

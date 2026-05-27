@@ -6,8 +6,7 @@ If there are three magnitudes, and others equal to them in multitude, which take
 
 ## Proof
 
-[V.Def.18](DefV.17.md)
-Let there be three magnitudes *A, B,* and *C,* and others *D, E,* and *F,* equal to them in multitude, which, taken two and two together, are in the same proportion, and let the proportion of them be perturbed, so that *A* is to *B* as *E* is to *F,* and *B* is to *C* as *D* is to *E.*
+Let there be three magnitudes *A, B,* and *C,* and others *D, E,* and *F,* equal to them in multitude, which, taken two and two together, are in the same proportion, and let the proportion of them be perturbed, so that *A* is to *B* as *E* is to *F,* and *B* is to *C* as *D* is to *E.* ([V.Def.18](DefV.17.md))
 
 I say that *A* is to *C* as *D* is to *F.*
 
@@ -15,37 +14,27 @@ Take equimultiples *G, H,* and *K* of *A, B,* and *D,* and take other, arbitrary
 
 ![java applet or image](propV23.gif)
 
-[V.15](PropV.15.md)
-Then, since *G* and *H* are equimultiples of *A* and *B,* and parts have the same ratio as their multiples, therefore *A* is to *B* as *G* is to *H.*
+Then, since *G* and *H* are equimultiples of *A* and *B,* and parts have the same ratio as their multiples, therefore *A* is to *B* as *G* is to *H.* ([V.15](PropV.15.md))
 
-[V.11](PropV.11.md)
-For the same reason *E* is to *F* as *M* is to *N.* And *A* is to *B* as *E* is to *F,* therefore *G* is to *H* as *M* is to *N.*
+For the same reason *E* is to *F* as *M* is to *N.* And *A* is to *B* as *E* is to *F,* therefore *G* is to *H* as *M* is to *N.* ([V.11](PropV.11.md))
 
-([V.16](PropV.16.md))
-Next, since *B* is to *C* as *D* is to *E,* alternately, also, *B* is to *D* as *C* is to *E.*
+Next, since *B* is to *C* as *D* is to *E,* alternately, also, *B* is to *D* as *C* is to *E.* ([V.16](PropV.16.md))
 
-[V.15](PropV.15.md)
-And, since *H* and *K* are equimultiples of *B* and *D,* and parts have the same ratio as their equimultiples, therefore *B* is to *D* as *H* is to *K.*
+And, since *H* and *K* are equimultiples of *B* and *D,* and parts have the same ratio as their equimultiples, therefore *B* is to *D* as *H* is to *K.* ([V.15](PropV.15.md))
 
-[V.11](PropV.11.md)
-But *B* is to *D* as *C* is to *E,* therefore also, *H* is to *K* as *C* is to *E.*
+But *B* is to *D* as *C* is to *E,* therefore also, *H* is to *K* as *C* is to *E.* ([V.11](PropV.11.md))
 
-[V.15](PropV.15.md)
-Again, since *L* and *M* are equimultiples of *C* and *E,* therefore *C* is to *E* as *L* is to *M.*
+Again, since *L* and *M* are equimultiples of *C* and *E,* therefore *C* is to *E* as *L* is to *M.* ([V.15](PropV.15.md))
 
-[V.11](PropV.11.md),
-([V.16](PropV.16.md))
-But *C* is to *E* as *H* is to *K,* therefore also, *H* is to *K* as *L* is to *M,* and, alternately, *H* is to *L* as *K* is to *M.*
+But *C* is to *E* as *H* is to *K,* therefore also, *H* is to *K* as *L* is to *M,* and, alternately, *H* is to *L* as *K* is to *M.* ([V.11](PropV.11.md), [V.16](PropV.16.md))
 
 But it was also proved that *G* is to *H* as *M* is to *N.*
 
-[V.21](PropV.21.md)
-Since, then, there are three magnitudes *G, H,* and *L,* and others equal to them in multitude *K, M,* and *N,* which taken two and two together are in the same ratio, and the proportion of them is perturbed, therefore, *ex aequali,* if *G* is in excess of *L, K* is also in excess of *N*; if equal, equal; and if less, less.
+Since, then, there are three magnitudes *G, H,* and *L,* and others equal to them in multitude *K, M,* and *N,* which taken two and two together are in the same ratio, and the proportion of them is perturbed, therefore, *ex aequali,* if *G* is in excess of *L, K* is also in excess of *N*; if equal, equal; and if less, less. ([V.21](PropV.21.md))
 
 And *G* and *K* are equimultiples of *A* and *D,* and *L* and *N* of *C* and *F.*
 
-[V.Def.5](DefV.5.md)
-Therefore *A* is to *C* as *D* is to *F.*
+Therefore *A* is to *C* as *D* is to *F.* ([V.Def.5](DefV.5.md))
 
 Therefore, *if there are three magnitudes, and others equal to them in multitude, which taken two and two together are in the same ratio, and the proportion of them be perturbed, then they are also in the same ratio ex aequali.*
 

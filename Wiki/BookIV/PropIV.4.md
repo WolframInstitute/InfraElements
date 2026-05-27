@@ -12,22 +12,15 @@ It is required to inscribe a circle in the triangle *ABC.*
 
 ![IV.4](propIV4.gif)
 
-[I.9](../BookI/PropI.9.md)
+Bisect the angles *ABC* and *ACB* by the straight lines *BD* and *CD,* and let these meet one another at the point *D.* Draw *DE, DF,* and *DG* from *D* perpendicular to the straight lines *AB, BC,* and *CA.* ([I.9](../BookI/PropI.9.md), [I.12](../BookI/PropI.12.md))
 
-[I.12](../BookI/PropI.12.md)
-Bisect the angles *ABC* and *ACB* by the straight lines *BD* and *CD,* and let these meet one another at the point *D.* Draw *DE, DF,* and *DG* from *D* perpendicular to the straight lines *AB, BC,* and *CA.*
-
-[I.26](../BookI/PropI.26.md)
-Now, since the angle *ABD* equals the angle *CBD,* and the right angle *BED* also equals the right angle *BFD, EBD* and *FBD* are two triangles having two angles equal to two angles and one side equal to one side, namely that opposite one of the equal angles, which is *BD* common to the triangles, therefore they will also have the remaining sides equal to the remaining sides, therefore *DE* equals *DF.*
+Now, since the angle *ABD* equals the angle *CBD,* and the right angle *BED* also equals the right angle *BFD, EBD* and *FBD* are two triangles having two angles equal to two angles and one side equal to one side, namely that opposite one of the equal angles, which is *BD* common to the triangles, therefore they will also have the remaining sides equal to the remaining sides, therefore *DE* equals *DF.* ([I.26](../BookI/PropI.26.md))
 
 For the same reason *DG* also equals *DF.*
 
 Therefore the three straight lines *DE, DF,* and *DG* equal one another. Therefore the circle described with center *D* and radius one of the straight lines *DE, DF,* or *DG* also passes through the remaining points and touches the straight lines *AB, BC,* and *CA,* because the angles at the points *E, F,* and *G* are right.
 
-[III.16](../BookIII/PropIII.16.md)
-
-IV.Def.5
-For, if it cuts them, the straight line drawn at right angles to the diameter of the circle from its end will be found to fall within the circle, which was proved absurd, therefore the circle described with center *D* and radius one of the straight lines *DE, DF,* or *DG* does not cut the straight lines *AB, BC,* and *CA* Therefore it touches them, and is the circle inscribed in the triangle *ABC.*
+For, if it cuts them, the straight line drawn at right angles to the diameter of the circle from its end will be found to fall within the circle, which was proved absurd, therefore the circle described with center *D* and radius one of the straight lines *DE, DF,* or *DG* does not cut the straight lines *AB, BC,* and *CA* Therefore it touches them, and is the circle inscribed in the triangle *ABC.* ([III.16](../BookIII/PropIII.16.md), IV.Def.5)
 
 Let it be inscribed as *FGE.*
 

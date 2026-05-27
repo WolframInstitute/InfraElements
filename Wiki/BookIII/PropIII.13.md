@@ -10,11 +10,9 @@ For, if possible, let the circle *ABDC* touch the circle *EBFD,* first internall
 
 ![java applet or image](propIII13a.gif)
 
-[III.1](PropIII.1.md)
-Take the center *G* of the circle *ABDC* and the center *H* of *EBFD.*
+Take the center *G* of the circle *ABDC* and the center *H* of *EBFD.* ([III.1](PropIII.1.md))
 
-[III.11](PropIII.11.md)
-Therefore the straight line joined from *G* to *H* falls on *B* and *D.*
+Therefore the straight line joined from *G* to *H* falls on *B* and *D.* ([III.11](PropIII.11.md))
 
 Let it so fall, as *BGHD.*
 
@@ -30,10 +28,7 @@ I say further that neither does it so touch it externally.
 
 For, if possible, let the circle *ACK* touch the circle *ABDC* at more points than one, namely *A* and *C.* Join *AC.*
 
-[III.2](PropIII.2.md)
-
-[III.Def.3](DefIII.2.md)
-Then, since on the circumference of each of the circles *ABDC* and *ACK* two points *A* and *C* have been taken at random, the straight line joining the points falls within each circle, but it fell within the circle *ABCD* and outside *ACK,* which is absurd.
+Then, since on the circumference of each of the circles *ABDC* and *ACK* two points *A* and *C* have been taken at random, the straight line joining the points falls within each circle, but it fell within the circle *ABCD* and outside *ACK,* which is absurd. ([III.2](PropIII.2.md), [III.Def.3](DefIII.2.md))
 
 Therefore a circle does not touch a circle externally at more points than one.
 

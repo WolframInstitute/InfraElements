@@ -12,18 +12,13 @@ I say that the remainder *EB* is also to the remainder *FD* as the whole *AB* is
 
 ![java applet or image](propV19.gif)
 
-[V.16](PropV.16.md)
-Since *AB* is to *CD* as *AE* is to *CF,* therefore alternately, *BA* is to *AE* as *DC* is to *CF.*
+Since *AB* is to *CD* as *AE* is to *CF,* therefore alternately, *BA* is to *AE* as *DC* is to *CF.* ([V.16](PropV.16.md))
 
-[V.17](PropV.17.md)
-
-[V.16](PropV.16.md)
-And, since the magnitudes are proportional taken jointly, they are also proportional taken separately, that is, *BE* is to *EA* as *DF* is to *CF,* and, alternately, *BE* is to *DF* as *EA* is to *FC.*
+And, since the magnitudes are proportional taken jointly, they are also proportional taken separately, that is, *BE* is to *EA* as *DF* is to *CF,* and, alternately, *BE* is to *DF* as *EA* is to *FC.* ([V.17](PropV.17.md), [V.16](PropV.16.md))
 
 But, by hypothesis, *AE* is to *CF* as is the whole *AB* to the whole *CD.*
 
-[V.11](PropV.11.md)
-Therefore the remainder *EB* is also to the remainder *FD* as the whole *AB* is to the whole *CD.*
+Therefore the remainder *EB* is also to the remainder *FD* as the whole *AB* is to the whole *CD.* ([V.11](PropV.11.md))
 
 Therefore *if a whole is to a whole as a part subtracted is to a part subtracted, then the remainder is also to the remainder as the whole is to the whole.*
 

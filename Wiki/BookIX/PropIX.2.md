@@ -14,18 +14,13 @@ Multiply *A* by itself to make *D.* Then *D* is square.
 
 ![java applet or image](propIX1.gif)
 
-[VII.17](../BookVII/PropVII.17.md)
-Now, since *A* multiplied by itself makes *D,* and multiplied by *B* makes *C,* therefore *A* is to *B* as *D* is to *C.*
+Now, since *A* multiplied by itself makes *D,* and multiplied by *B* makes *C,* therefore *A* is to *B* as *D* is to *C.* ([VII.17](../BookVII/PropVII.17.md))
 
 And, since *D* is square, and *C* is so also, therefore *D* and *C* are similar plane numbers.
 
-[VIII.18](../BookVIII/PropVIII.18.md)
+Therefore one mean proportional number falls between *D* and *C.* And *D* is to *C* as *A* is to *B,* therefore one mean proportional number falls between *A* and *B* also. ([VIII.18](../BookVIII/PropVIII.18.md), [VIII.8](../BookVIII/PropVIII.8.md))
 
-[VIII.8](../BookVIII/PropVIII.8.md)
-Therefore one mean proportional number falls between *D* and *C.* And *D* is to *C* as *A* is to *B,* therefore one mean proportional number falls between *A* and *B* also.
-
-[VIII.20](../BookVIII/PropVIII.20.md)
-But, if one mean proportional number falls between two numbers, then they are similar plane numbers, therefore *A* and *B* are similar plane numbers.
+But, if one mean proportional number falls between two numbers, then they are similar plane numbers, therefore *A* and *B* are similar plane numbers. ([VIII.20](../BookVIII/PropVIII.20.md))
 
 Therefore, *if two numbers multiplied by one another make a square number, then they are similar plane numbers.*
 

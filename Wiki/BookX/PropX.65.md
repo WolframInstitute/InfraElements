@@ -14,20 +14,15 @@ Make the same construction as before.
 
 ![java applet or image](propX60.gif)
 
-[X.41](PropX.41.md)
-Since *AB* is the side of the sum of two medial areas divided at *C*, therefore *AC* and *CB* are straight lines incommensurable in square which make the sum of the squares on them medial, the rectangle contained by them medial, and moreover the sum of the squares on them incommensurable with the rectangle contained by them.
+Since *AB* is the side of the sum of two medial areas divided at *C*, therefore *AC* and *CB* are straight lines incommensurable in square which make the sum of the squares on them medial, the rectangle contained by them medial, and moreover the sum of the squares on them incommensurable with the rectangle contained by them. ([X.41](PropX.41.md))
 
-[X.22](PropX.22.md)
-So that, in accordance with what was before proved, each of the rectangles *DL* and *MF* is medial. And they are applied to the rational straight line *DE*, therefore each of the straight lines *DM* and *MG* is rational and incommensurable in length with *DE*.
+So that, in accordance with what was before proved, each of the rectangles *DL* and *MF* is medial. And they are applied to the rational straight line *DE*, therefore each of the straight lines *DM* and *MG* is rational and incommensurable in length with *DE*. ([X.22](PropX.22.md))
 
 Since the sum of the squares on *AC* and *CB* is incommensurable with twice the rectangle *AC* by *CB*, therefore *DL* is incommensurable with *MF*.
 
-[VI.1](../BookVI/PropVI.1.md),
-[X.11](PropX.11.md)
-Therefore *DM* is also incommensurable with *MG*.
+Therefore *DM* is also incommensurable with *MG*. ([VI.1](../BookVI/PropVI.1.md), [X.11](PropX.11.md))
 
-[X.36](PropX.36.md)
-Therefore *DM* and *MG* are rational straight lines commensurable in square only. Therefore *DG* is binomial.
+Therefore *DM* and *MG* are rational straight lines commensurable in square only. Therefore *DG* is binomial. ([X.36](PropX.36.md))
 
 I say next that it is a sixth binomial straight line.
 

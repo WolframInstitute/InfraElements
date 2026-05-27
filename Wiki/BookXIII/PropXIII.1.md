@@ -12,18 +12,13 @@ Let the straight line *AB* be cut in extreme and mean ratio at the point *C,* an
 
 I say that the square on *CD* is five times the square on *AD.*
 
-[I.46](../BookI/PropI.46.md)
-Describe the squares *AE* and *DF* on *AB* and *DC,* draw the figure in *DF,* and carry *FC* through to *G.*
+Describe the squares *AE* and *DF* on *AB* and *DC,* draw the figure in *DF,* and carry *FC* through to *G.* ([I.46](../BookI/PropI.46.md))
 
-[VI.Def.3](../BookVI/DefVI.3.md)
-
-[VI.17](../BookVI/PropVI.17.md)
-Now, since *AB* is cut in extreme and mean ratio at *C,* therefore the rectangle *AB* by *BC* equals the square on *AC.* And *CE* is the rectangle *AB* by *BC,* and *FH* is the square on *AC,* therefore *CE* equals *FH.*
+Now, since *AB* is cut in extreme and mean ratio at *C,* therefore the rectangle *AB* by *BC* equals the square on *AC.* And *CE* is the rectangle *AB* by *BC,* and *FH* is the square on *AC,* therefore *CE* equals *FH.* ([VI.Def.3](../BookVI/DefVI.3.md), [VI.17](../BookVI/PropVI.17.md))
 
 And, since *BA* is double *AD,* while *BA* equals *KA,* and *AD* equals *AH,* therefore *KA* is also double *AH.*
 
-[VI.1](../BookVI/PropVI.1.md)
-But *KA* is to *AH* as *CK* is to *CH,* therefore *CK* is double *CH.* But the sum of *LH* and *HC* is also double *CH.* Therefore *KC* equals the sum of *LH* and *HC.*
+But *KA* is to *AH* as *CK* is to *CH,* therefore *CK* is double *CH.* But the sum of *LH* and *HC* is also double *CH.* Therefore *KC* equals the sum of *LH* and *HC.* ([VI.1](../BookVI/PropVI.1.md))
 
 But *CE* was also proved equal to *HF,* therefore the whole square *AE* equals the gnomon *MNO.*
 

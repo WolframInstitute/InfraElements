@@ -12,32 +12,19 @@ I say that the exterior angle *ACD* is greater than either of the interior and o
 
 ![java applet or image](propI16.gif)
 
-[I.10](PropI.10.md),
-[I.Post.1](PostI.1.md)
-
-[I.Post.2](PostI.2.md)
 Bisect *AC* at *E.* Join *BE,* and
 
-produce it in a straight line to *F.*
+produce it in a straight line to *F.* ([I.10](PropI.10.md), [I.Post.1](PostI.1.md), [I.Post.2](PostI.2.md))
 
-[I.3](PropI.3.md),
-[I.Post.1](PostI.1.md)
-
-[I.Post.2](PostI.2.md)
 Make *EF* equal to *BE,* join *FC,*
 
-and draw *AC* through to *G.*
+and draw *AC* through to *G.* ([I.3](PropI.3.md), [I.Post.1](PostI.1.md), [I.Post.2](PostI.2.md))
 
-[I.15](PropI.15.md)
+Since *AE* equals *EC,* and *BE* equals *EF,* therefore the two sides *AE* and *EB* equal the two sides *CE* and *EF* respectively, and the angle *AEB* equals the angle *FEC,* for they are vertical angles. Therefore the base *AB* equals the base *FC,* the triangle *ABE* equals the triangle *CFE,* and the remaining angles equal the remaining angles respectively, namely those opposite the equal sides. Therefore the angle *BAE* equals the angle *ECF.* ([I.15](PropI.15.md), [I.4](PropI.4.md))
 
-[I.4](PropI.4.md)
-Since *AE* equals *EC,* and *BE* equals *EF,* therefore the two sides *AE* and *EB* equal the two sides *CE* and *EF* respectively, and the angle *AEB* equals the angle *FEC,* for they are vertical angles. Therefore the base *AB* equals the base *FC,* the triangle *ABE* equals the triangle *CFE,* and the remaining angles equal the remaining angles respectively, namely those opposite the equal sides. Therefore the angle *BAE* equals the angle *ECF.*
+But the angle *ECD* is greater than the angle *ECF,* therefore the angle *ACD* is greater than the angle *BAE.* ([C.N.5](CNI.1.md))
 
-[C.N.5](CNI.1.md)
-But the angle *ECD* is greater than the angle *ECF,* therefore the angle *ACD* is greater than the angle *BAE.*
-
-[I.15](PropI.15.md)
-Similarly, if *BC* is bisected, then the angle *BCG,* that is, the angle *ACD,* can also be proved to be greater than the angle *ABC.*
+Similarly, if *BC* is bisected, then the angle *BCG,* that is, the angle *ACD,* can also be proved to be greater than the angle *ABC.* ([I.15](PropI.15.md))
 
 Therefore *in any triangle, if one of the sides is produced, then the exterior angle is greater than either of the interior and opposite angles.*
 

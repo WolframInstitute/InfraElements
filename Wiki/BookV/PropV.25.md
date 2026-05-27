@@ -14,16 +14,11 @@ I say that the sum of *AB* and *F* is greater than the sum of *CD* and *E.*
 
 Make *AG* equal to *E,* and *CH* equal to *F.*
 
-[V.7](PropV.7.md)
+Since *AB* is to *CD* as *E* is to *F,* and *E* equals *AG,* and *F* equals *CH,* therefore *AB* is to *CD* as *AG* is to *CH.* ([V.7](PropV.7.md), [V.11](PropV.11.md))
 
-[V.11](PropV.11.md)
-Since *AB* is to *CD* as *E* is to *F,* and *E* equals *AG,* and *F* equals *CH,* therefore *AB* is to *CD* as *AG* is to *CH.*
+And since the whole *AB* is to the whole *CD* as the part *AG* subtracted is to the part *CH* subtracted, therefore the remainder *GB* is also to the remainder *HD* as the whole *AB* is to the whole *CD.* ([V.19](PropV.19.md))
 
-[V.19](PropV.19.md)
-And since the whole *AB* is to the whole *CD* as the part *AG* subtracted is to the part *CH* subtracted, therefore the remainder *GB* is also to the remainder *HD* as the whole *AB* is to the whole *CD.*
-
-[V.Def.5](DefV.5.md)
-But *AB* is greater than *CD,* therefore *GB* is also greater than *HD.*
+But *AB* is greater than *CD,* therefore *GB* is also greater than *HD.* ([V.Def.5](DefV.5.md))
 
 And, since *AG* equals *E,* and *CH* equals *F,* therefore the sum of *AG* and *F* equals the sum of *CH* and *E.*
 

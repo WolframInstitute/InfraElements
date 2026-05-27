@@ -12,19 +12,15 @@ Let *A* and *B* be plane numbers, and let the numbers *C* and *D* be the sides o
 
 I say that *A* has to *B* the ratio compounded of the ratios of the sides.
 
-[VIII.4](PropVIII.4.md)
-The ratios being given which *C* has to *E* and *D* to *F,* take the least numbers *G, H,* and *K* that are continuously in the ratios *C, E, D,* and *F,* so that *C* is to *E* as *G* is to *H,* and *D* is to *F* as *H* is to *K.*
+The ratios being given which *C* has to *E* and *D* to *F,* take the least numbers *G, H,* and *K* that are continuously in the ratios *C, E, D,* and *F,* so that *C* is to *E* as *G* is to *H,* and *D* is to *F* as *H* is to *K.* ([VIII.4](PropVIII.4.md))
 
 Multiply *D* by *E* to make *L.*
 
-[VII.17](../BookVII/PropVII.17.md)
-Now, since *D* multiplied by *C* makes *A,* and multiplied by *E* makes *L,* therefore *C* is to *E* as *A* is to *L.* But *C* is to *E* as *G* is to *H,* therefore *G* is to *H* as *A* is to *L.*
+Now, since *D* multiplied by *C* makes *A,* and multiplied by *E* makes *L,* therefore *C* is to *E* as *A* is to *L.* But *C* is to *E* as *G* is to *H,* therefore *G* is to *H* as *A* is to *L.* ([VII.17](../BookVII/PropVII.17.md))
 
-[VII.17](../BookVII/PropVII.17.md)
-Again, since *E* multiplied by *D* makes *L,* and further multiplied by *F* makes *B,* therefore *D* is to *F* as *L* is to *B.* But *D* is to *F* as *H* is to *K,* therefore *H* is to *K* as *L* is to *B.*
+Again, since *E* multiplied by *D* makes *L,* and further multiplied by *F* makes *B,* therefore *D* is to *F* as *L* is to *B.* But *D* is to *F* as *H* is to *K,* therefore *H* is to *K* as *L* is to *B.* ([VII.17](../BookVII/PropVII.17.md))
 
-[VII.14](../BookVII/PropVII.14.md)
-But it was also proved that, *H* as *G* is to *H* as *A* is to *L,* therefore, *ex aequali, L* as *G* is to *K* as *A* is to *B.*
+But it was also proved that, *H* as *G* is to *H* as *A* is to *L,* therefore, *ex aequali, L* as *G* is to *K* as *A* is to *B.* ([VII.14](../BookVII/PropVII.14.md))
 
 But *G* has to *K* the ratio compounded of the ratios of the sides, therefore *A* also has to *B* the ratio compounded of the ratios of the sides.
 

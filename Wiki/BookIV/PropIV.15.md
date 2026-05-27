@@ -10,8 +10,7 @@ Let *ABCDEF* be the given circle.
 
 It is required to inscribe an equilateral and equiangular hexagon in the circle *ABCDEF.*
 
-[III.1](../BookIII/PropIII.1.md)
-Draw the diameter *AD* of the circle *ABCDEF.* Take the center *G* of the circle. Describe the circle *EGCH* with center *D* and radius *DG.* Join *EG* and *CG* and carry them through to the points *B* and *F.* Join *AB,* *BC, CD, DE, EF,* and *FA.*
+Draw the diameter *AD* of the circle *ABCDEF.* Take the center *G* of the circle. Describe the circle *EGCH* with center *D* and radius *DG.* Join *EG* and *CG* and carry them through to the points *B* and *F.* Join *AB,* *BC, CD, DE, EF,* and *FA.* ([III.1](../BookIII/PropIII.1.md))
 
 I say that the hexagon *ABCDEF* is equilateral and equiangular.
 
@@ -21,32 +20,25 @@ For, since the point *G* is the center of the circle *ABCDEF, GE* equals *GD.*
 
 Again, since the point *D* is the center of the circle *GCH, DE* equals *DG.*
 
-[I.5](../BookI/PropI.5.md)
-But *GE* was proved equal to *GD,* therefore *GE* also equals *ED.* Therefore the triangle *EGD* is equilateral, and therefore its three angles *EGD,* *GDE,* and *DEG* equal one another, inasmuch as, in isosceles triangles, the angles at the base equal one another.
+But *GE* was proved equal to *GD,* therefore *GE* also equals *ED.* Therefore the triangle *EGD* is equilateral, and therefore its three angles *EGD,* *GDE,* and *DEG* equal one another, inasmuch as, in isosceles triangles, the angles at the base equal one another. ([I.5](../BookI/PropI.5.md))
 
-[I.32](../BookI/PropI.32.md)
-And the sum of the three angles of the triangle equals two right angles, therefore the angle *EGD* is one-third of two right angles.
+And the sum of the three angles of the triangle equals two right angles, therefore the angle *EGD* is one-third of two right angles. ([I.32](../BookI/PropI.32.md))
 
 Similarly, the angle *DGC* can also be proved to be one third of two right angles.
 
-[I.13](../BookI/PropI.13.md)
-And, since the straight line *CG* standing on *EB* makes the sum of the adjacent angles *EGC* and *CGB* equal to two right angles, therefore the remaining angle *CGB* is also one-third of two right angles.
+And, since the straight line *CG* standing on *EB* makes the sum of the adjacent angles *EGC* and *CGB* equal to two right angles, therefore the remaining angle *CGB* is also one-third of two right angles. ([I.13](../BookI/PropI.13.md))
 
-[I.15](../BookI/PropI.15.md)
-Therefore the angles *EGD, DGC,* and *CGB* equal one another, so that the angles vertical to them, the angles *BGA, AGF,* and *FGE,* are equal.
+Therefore the angles *EGD, DGC,* and *CGB* equal one another, so that the angles vertical to them, the angles *BGA, AGF,* and *FGE,* are equal. ([I.15](../BookI/PropI.15.md))
 
 Therefore the six angles *EGD, DGC, CGB, BGA, AGF,* and *FGE* equal one another.
 
-[III.26](../BookIII/PropIII.26.md)
-But equal angles stand on equal circumferences, therefore the six circumferences *AB, BC, CD, DE, EF,* and *FA* equal one another.
+But equal angles stand on equal circumferences, therefore the six circumferences *AB, BC, CD, DE, EF,* and *FA* equal one another. ([III.26](../BookIII/PropIII.26.md))
 
-[III.29](../BookIII/PropIII.29.md)
-And straight lines that cut off equal circumferences are equal, therefore the six straight lines equal one another. Therefore the hexagon *ABCDEF* is equilateral.
+And straight lines that cut off equal circumferences are equal, therefore the six straight lines equal one another. Therefore the hexagon *ABCDEF* is equilateral. ([III.29](../BookIII/PropIII.29.md))
 
 I say next that it is also equiangular.
 
-[III.27](../BookIII/PropIII.27.md)
-For, since the circumference *FA* equals the circumference *ED,* add the circumference *ABCD* to each, therefore the whole *FABCD* equals the whole *EDCBA.* And the angle *FED* stands on the circumference *FABCD,* and the angle *AFE* on the circumference *EDCBA,* therefore the angle *AFE* equals the angle *DEF.*
+For, since the circumference *FA* equals the circumference *ED,* add the circumference *ABCD* to each, therefore the whole *FABCD* equals the whole *EDCBA.* And the angle *FED* stands on the circumference *FABCD,* and the angle *AFE* on the circumference *EDCBA,* therefore the angle *AFE* equals the angle *DEF.* ([III.27](../BookIII/PropIII.27.md))
 
 Similarly it can be proved that the remaining angles of the hexagon *ABCDEF* are also severally equal to each of the angles *AFE* and *FED,* therefore the hexagon *ABCDEF* is equiangular.
 

@@ -12,18 +12,15 @@ I say that *AB* has to *D* a greater ratio than *C* has to *D,* and *D* has to *
 
 ![java applet or image](propV8a.gif)
 
-([V.Def.4](DefV.4.md))
-Since *AB* is greater than *C,* make *EB* equal to *C.* Then the less of the magnitudes *AE* and *EB,* if multiplied, will eventually be greater than *D.*
+Since *AB* is greater than *C,* make *EB* equal to *C.* Then the less of the magnitudes *AE* and *EB,* if multiplied, will eventually be greater than *D.* ([V.Def.4](DefV.4.md))
 
 First, let *AE* be less than *EB.* Let *AE* be multiplied, and let *FG* be a multiple of it which is greater than *D.* Make *GH* the same multiple of *EB* and *K* the same multiple of *C* that *FG* is of *AE.*
 
-([V.Def.4](DefV.4.md))
-Take *L* double of *D* and *M* triple of it, and successive multiples increasing by one, until what is taken is the first multiple of *D* that is greater than *K.* Let it be taken, and let it be *N* which is quadruple of *D* and the first multiple of it greater than *K.*
+Take *L* double of *D* and *M* triple of it, and successive multiples increasing by one, until what is taken is the first multiple of *D* that is greater than *K.* Let it be taken, and let it be *N* which is quadruple of *D* and the first multiple of it greater than *K.* ([V.Def.4](DefV.4.md))
 
 Since *K* is less than *N* first, therefore *K* is not less than *M.*
 
-[V.1](PropV.1.md)
-And, since *FG* is the same multiple of *AE* that *GH* is of *EB,* therefore *FG* is the same multiple of *AE* that *FH* is of *AB.*
+And, since *FG* is the same multiple of *AE* that *GH* is of *EB,* therefore *FG* is the same multiple of *AE* that *FH* is of *AB.* ([V.1](PropV.1.md))
 
 But *FG* is the same multiple of *AE* that *K* is of *C,* therefore *FH* is the same multiple of *AB* that *K* is of *C.* Therefore *FH* and *K* are equimultiples of *AB* and *C.*
 
@@ -37,27 +34,23 @@ But the sum of *D* and *M* equals *N,* inasmuch as *M* is triple *D,* and the su
 
 But *FH* is greater than the sum of *M* and *D,* therefore *FH* is in excess of *N,* while *K* is not in excess of *N.*
 
-[V.Def.7](DefV.7.md)
-And *FH* and *K* are equimultiples of *AB* and *C,* while *N* is another, arbitrary, multiple of *D,* therefore *AB* has to *D* a greater ratio than *C* has to *D.*
+And *FH* and *K* are equimultiples of *AB* and *C,* while *N* is another, arbitrary, multiple of *D,* therefore *AB* has to *D* a greater ratio than *C* has to *D.* ([V.Def.7](DefV.7.md))
 
 I say next, that *D* has to *C* a greater ratio than *D* has to *AB.*
 
 With the same construction, we can prove similarly that *N* is in excess of *K,* while *N* is not in excess of *FH.*
 
-[V.Def.7](DefV.7.md)
-And *N* is a multiple of *D,* while *FH* and *K* are other, arbitrary, equimultiples of *AB* and *C,* therefore *D* has to *C* a greater ratio than *D* has to *AB.*
+And *N* is a multiple of *D,* while *FH* and *K* are other, arbitrary, equimultiples of *AB* and *C,* therefore *D* has to *C* a greater ratio than *D* has to *AB.* ([V.Def.7](DefV.7.md))
 
 ![java applet or image](propV8b.gif)
 
 Next, let *AE* be greater than *EB.*
 
-([V.Def.4](DefV.4.md))
-Then the less, *EB,* if multiplied, will eventually be greater than *D.*
+Then the less, *EB,* if multiplied, will eventually be greater than *D.* ([V.Def.4](DefV.4.md))
 
 Let it be multiplied, and let *GH* be a multiple of *EB* and greater than *D.* Make *FG* the same multiple of *AE,* and *K* the same multiple of *C* that *GH* is of *EB.*
 
-([V.Def.4](DefV.4.md))
-Then we can prove similarly that *FH* and *K* are equimultiples of *AB* and *C,* and, similarly, take *N* the first multiple of *D* that is greater than *FG,* so that *FG* is again not less than *M.*
+Then we can prove similarly that *FH* and *K* are equimultiples of *AB* and *C,* and, similarly, take *N* the first multiple of *D* that is greater than *FG,* so that *FG* is again not less than *M.* ([V.Def.4](DefV.4.md))
 
 But *GH* is greater than *D,* therefore the whole *FH* is in excess of the sum of *D* and *M,* that is, of *N.*
 

@@ -14,10 +14,7 @@ If possible as *A* is to *B,* let *B* be to *C.*
 
 ![java applet or image](propIX16.gif)
 
-[VII.21](../BookVII/PropVII.21.md)
-
-[VII.20](../BookVII/PropVII.20.md)
-Now *A* and *B* are relatively prime, numbers which are relatively prime are also least, and the least numbers measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent, therefore *A* measures *B* as antecedent antecedent.
+Now *A* and *B* are relatively prime, numbers which are relatively prime are also least, and the least numbers measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent, therefore *A* measures *B* as antecedent antecedent. ([VII.21](../BookVII/PropVII.21.md), [VII.20](../BookVII/PropVII.20.md))
 
 But it also measures itself, therefore *A* measures *A* and *B* which are relatively prime, which is absurd.
 

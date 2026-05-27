@@ -12,51 +12,29 @@ I say that the sum of the squares on *AD* and *DB* is double the sum of the squa
 
 ![java applet or image](propII10.gif)
 
-[I.11](../BookI/PropI.11.md),
-[I.3](../BookI/PropI.3.md)
+Draw *CE* from the point *C* at right angles to *AB* and equal to either *AC* or *CB.* Join *EA* and *EB.* Draw *EF* through *E* parallel to *AD,* and draw *FD* through *D* parallel to *CE.* ([I.11](../BookI/PropI.11.md), [I.3](../BookI/PropI.3.md), [I.31](../BookI/PropI.31.md))
 
-[I.31](../BookI/PropI.31.md)
-Draw *CE* from the point *C* at right angles to *AB* and equal to either *AC* or *CB.* Join *EA* and *EB.* Draw *EF* through *E* parallel to *AD,* and draw *FD* through *D* parallel to *CE.*
+Then, since a straight line *EF* falls on the parallel straight lines *EC* and *FD,* the sum of the angles *CEF* and *EFD* equals two right angles. Therefore the sum of the angles *FEB* and *EFD* is less than two right angles. ([I.29](../BookI/PropI.29.md))
 
-[I.29](../BookI/PropI.29.md)
-Then, since a straight line *EF* falls on the parallel straight lines *EC* and *FD,* the sum of the angles *CEF* and *EFD* equals two right angles. Therefore the sum of the angles *FEB* and *EFD* is less than two right angles.
-
-[Post.5](../BookI/PostI.1.md)
-But straight lines produced from angles less than two right angles meet. Therefore *EB* and *FD,* if produced in the direction *B* and *D,* will meet.
+But straight lines produced from angles less than two right angles meet. Therefore *EB* and *FD,* if produced in the direction *B* and *D,* will meet. ([Post.5](../BookI/PostI.1.md))
 
 Let them be produced and meet at *G,* and join *AG.*
 
-[I.5](../BookI/PropI.5.md)
-
-[I.32](../BookI/PropI.32.md)
-Then, since *AC* equals *CE,* the angle *EAC* also equals the angle *AEC.* The angle at *C* is right, therefore each of the angles *EAC* and *AEC* is half of a right angle.
+Then, since *AC* equals *CE,* the angle *EAC* also equals the angle *AEC.* The angle at *C* is right, therefore each of the angles *EAC* and *AEC* is half of a right angle. ([I.5](../BookI/PropI.5.md), [I.32](../BookI/PropI.32.md))
 
 For the same reason each of the angles *CEB* and *EBC* is also half of a right angle, therefore the angle *AEB* is right.
 
-[I.15](../BookI/PropI.15.md),
-[I.29](../BookI/PropI.29.md)
+And, since the angle *EBC* is half of a right angle, the angle *DBG* is also half of a right angle. But the angle *BDG* is also right, for it equals the angle *DCE,* since they are alternate. Therefore the remaining angle *DGB* is half of a right angle. Therefore the angle *DGB* equals the angle *DBG,* so that the side *BD* also equals the side *GD.* ([I.15](../BookI/PropI.15.md), [I.29](../BookI/PropI.29.md), [I.32](../BookI/PropI.32.md), [I.6](../BookI/PropI.6.md))
 
-[I.32](../BookI/PropI.32.md),
-[I.6](../BookI/PropI.6.md)
-And, since the angle *EBC* is half of a right angle, the angle *DBG* is also half of a right angle. But the angle *BDG* is also right, for it equals the angle *DCE,* since they are alternate. Therefore the remaining angle *DGB* is half of a right angle. Therefore the angle *DGB* equals the angle *DBG,* so that the side *BD* also equals the side *GD.*
+Again, since the angle *EGF* is half of a right angle, and the angle at *F* is right, for it equals the opposite angle, the angle at *C,* the remaining angle *FEG* is half of a right angle. Therefore the angle *EGF* equals the angle *FEG,* so that the side *GF* also equals the side *EF.* ([I.34](../BookI/PropI.34.md), [I.32](../BookI/PropI.32.md), [I.6](../BookI/PropI.6.md))
 
-[I.34](../BookI/PropI.34.md),
-[I.32](../BookI/PropI.32.md)
+Now, since the square on *EC* equals the square on *CA,* the sum of the squares on *EC* and *CA* is double the square on *CA.* But the square on EA equals the sum of the squares on *EC* and *CA,* therefore the square on *EA* is double the square on *AC.* ([I.47](../BookI/PropI.47.md))
 
-[I.6](../BookI/PropI.6.md)
-Again, since the angle *EGF* is half of a right angle, and the angle at *F* is right, for it equals the opposite angle, the angle at *C,* the remaining angle *FEG* is half of a right angle. Therefore the angle *EGF* equals the angle *FEG,* so that the side *GF* also equals the side *EF.*
+Again, since *FG* equals *EF,* the square on *FG* also equals the square on *FE.* Therefore the sum of the squares on *GF* and *FE* is double the square on *EF.* But the square on *EG* equals the sum of the squares on *GF* and *FE,* therefore the square on *EG* is double the square on *EF.* ([I.47](../BookI/PropI.47.md))
 
-[I.47](../BookI/PropI.47.md)
-Now, since the square on *EC* equals the square on *CA,* the sum of the squares on *EC* and *CA* is double the square on *CA.* But the square on EA equals the sum of the squares on *EC* and *CA,* therefore the square on *EA* is double the square on *AC.*
+And *EF* equals *CD,* therefore the square on *EG* is double the square on *CD.* But the square on *EA* was also proved to be double the square on *AC,* therefore the sum of the squares on *AE* and *EG* is double the sum of the squares on *AC* and *CD.* ([I.34](../BookI/PropI.34.md))
 
-[I.47](../BookI/PropI.47.md)
-Again, since *FG* equals *EF,* the square on *FG* also equals the square on *FE.* Therefore the sum of the squares on *GF* and *FE* is double the square on *EF.* But the square on *EG* equals the sum of the squares on *GF* and *FE,* therefore the square on *EG* is double the square on *EF.*
-
-[I.34](../BookI/PropI.34.md)
-And *EF* equals *CD,* therefore the square on *EG* is double the square on *CD.* But the square on *EA* was also proved to be double the square on *AC,* therefore the sum of the squares on *AE* and *EG* is double the sum of the squares on *AC* and *CD.*
-
-[I.47](../BookI/PropI.47.md)
-And the square on *AG* equals the sum of the squares on *AE* and *EG,* therefore the square on *AG* is double the sum of the squares on *AC* and *CD.* But the sum of the squares on *AD* and *DG* equals the square on *AG,* therefore the sum of the squares on *AD* and *DG* is double the sum of the squares on *AC* and *CD.*
+And the square on *AG* equals the sum of the squares on *AE* and *EG,* therefore the square on *AG* is double the sum of the squares on *AC* and *CD.* But the sum of the squares on *AD* and *DG* equals the square on *AG,* therefore the sum of the squares on *AD* and *DG* is double the sum of the squares on *AC* and *CD.* ([I.47](../BookI/PropI.47.md))
 
 And *DG* equals *DB,* therefore the sum of the squares on *AD* and *DB* is double the sum of the squares on *AC* and *CD.*
 

@@ -12,23 +12,13 @@ It is required to construct in *D* a parallelogram equal to the triangle *ABC* i
 
 ![java applet or image](propI42.gif)
 
-[I.10](PropI.10.md)
-
-[I.Post.1](PostI.1.md)
-
-[I.23](PropI.23.md),
-[I.31](PropI.31.md)
-Bisect *BC* at *E,* and join *AE.* Construct the angle *CEF* on the straight line *EC* at the point *E* on it equal to the angle *D.* Draw *AG* through *A* parallel to *EC,* and draw *CG* through *C* parallel to *EF.*
+Bisect *BC* at *E,* and join *AE.* Construct the angle *CEF* on the straight line *EC* at the point *E* on it equal to the angle *D.* Draw *AG* through *A* parallel to *EC,* and draw *CG* through *C* parallel to *EF.* ([I.10](PropI.10.md), [I.Post.1](PostI.1.md), [I.23](PropI.23.md), [I.31](PropI.31.md))
 
 Then *FECG* is a parallelogram.
 
-[I.38](PropI.38.md)
-Since *BE* equals *EC,* therefore the triangle *ABE* also equals the triangle *AEC,* for they are on equal bases *BE* and *EC* and in the same parallels *BC* and *AG.* Therefore the triangle *ABC* is double the triangle *AEC.*
+Since *BE* equals *EC,* therefore the triangle *ABE* also equals the triangle *AEC,* for they are on equal bases *BE* and *EC* and in the same parallels *BC* and *AG.* Therefore the triangle *ABC* is double the triangle *AEC.* ([I.38](PropI.38.md))
 
-[I.41](PropI.41.md)
-
-[C.N.1](CNI.1.md)
-But the parallelogram *FECG* is also double the triangle *AEC,* for it has the same base with it and is in the same parallels with it, therefore the parallelogram *FECG* equals the triangle *ABC.*
+But the parallelogram *FECG* is also double the triangle *AEC,* for it has the same base with it and is in the same parallels with it, therefore the parallelogram *FECG* equals the triangle *ABC.* ([I.41](PropI.41.md), [C.N.1](CNI.1.md))
 
 And it has the angle *CEF* equal to the given angle *D.*
 

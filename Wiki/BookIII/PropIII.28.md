@@ -11,14 +11,11 @@ Let *ABC* and *DEF* be equal circles, and in the circles let *AB* and *DE* be eq
 ![java applet or image](propIII28.gif)
 I say that the greater circumference *ACB* equals the greater circumference *DFE,* and the less circumference *AGB* equals *DHE.*
 
-[III.1](PropIII.1.md)
-Take the centers *K* and *L* of the circles, and join *AK, KB, DL,* and *LE.*
+Take the centers *K* and *L* of the circles, and join *AK, KB, DL,* and *LE.* ([III.1](PropIII.1.md))
 
-[I.8](../BookI/PropI.8.md)
-Now, since the circles are equal, the radii are also equal, therefore the two sides *AK* and *KB* equal the two sides *DL* and *LE,* and the base *AB* equals the base *DE,* therefore the angle *AKB* equals the angle *DLE.*
+Now, since the circles are equal, the radii are also equal, therefore the two sides *AK* and *KB* equal the two sides *DL* and *LE,* and the base *AB* equals the base *DE,* therefore the angle *AKB* equals the angle *DLE.* ([I.8](../BookI/PropI.8.md))
 
-[III.26](PropIII.26.md)
-But equal angles stand on equal circumferences when they are at the centers, therefore the circumference *AGB* equals *DHE.*
+But equal angles stand on equal circumferences when they are at the centers, therefore the circumference *AGB* equals *DHE.* ([III.26](PropIII.26.md))
 
 And the whole circle *ABC* also equals the whole circle *DEF,* therefore the remaining circumference *ACB* also equals the remaining circumference *DFE.*
 

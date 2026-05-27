@@ -12,8 +12,7 @@ It is to be proved that *CD* is also the side of the sum of two medial areas.
 
 ![java applet or image](propX66.gif)
 
-[X.41](PropX.41.md)
-Since *AB* is the side of the sum of two medial areas, divide it into its straight lines at *E*, therefore *AE* and *EB* are straight lines incommensurable in square which make the sum of the squares on them medial, the rectangle contained by them medial, and furthermore the sum of the squares on *AE* and *EB* incommensurable with the rectangle *AE* by *EB*.
+Since *AB* is the side of the sum of two medial areas, divide it into its straight lines at *E*, therefore *AE* and *EB* are straight lines incommensurable in square which make the sum of the squares on them medial, the rectangle contained by them medial, and furthermore the sum of the squares on *AE* and *EB* incommensurable with the rectangle *AE* by *EB*. ([X.41](PropX.41.md))
 
 Make the same construction as before.
 

@@ -18,8 +18,7 @@ First, let it be prime. Then the prime numbers *A, B, C,* and *EF* have been fou
 
 ![java applet or image](propIX20.gif)
 
-[VII.31](../BookVII/PropVII.31.md)
-Next, let *EF* not be prime. Therefore it is measured by some prime number. Let it be measured by the prime number *G.*
+Next, let *EF* not be prime. Therefore it is measured by some prime number. Let it be measured by the prime number *G.* ([VII.31](../BookVII/PropVII.31.md))
 
 I say that *G* is not the same with any of the numbers *A, B,* and *C.*
 

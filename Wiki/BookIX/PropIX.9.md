@@ -12,30 +12,25 @@ Let there be as many numbers as we please, *A, B, C, D, E,* and *F,* beginning f
 
 I say that all the rest are also square.
 
-[IX.8](PropIX.8.md)
-Now it was proved that *B,* the third from the unit, is square as are all those which leave out one.
+Now it was proved that *B,* the third from the unit, is square as are all those which leave out one. ([IX.8](PropIX.8.md))
 
 I say that all the rest are also square.
 
-[VIII.22](../BookVIII/PropVIII.22.md)
-Since *A, B,* and *C* are in continued proportion, and *A* is square, therefore *C* is also square. Again, since *B, C,* and *D* are in continued proportion, and *B* is square, therefore *D* is also square. Similarly we can prove that all the rest are also square.
+Since *A, B,* and *C* are in continued proportion, and *A* is square, therefore *C* is also square. Again, since *B, C,* and *D* are in continued proportion, and *B* is square, therefore *D* is also square. Similarly we can prove that all the rest are also square. ([VIII.22](../BookVIII/PropVIII.22.md))
 
 Next, let *A* be a cube.
 
 I say that all the rest are also cubes.
 
-[IX.8](PropIX.8.md)
-Now it was proved that *C,* the fourth from the unit, is a cube as are all those which leave out two.
+Now it was proved that *C,* the fourth from the unit, is a cube as are all those which leave out two. ([IX.8](PropIX.8.md))
 
 I say that all the rest are also cubic.
 
 Since the unit is to *A* as *A* is to *B,* therefore the unit measures *A* the same number of times as *A* measures *B.* But the unit measures *A* according to the units in it, therefore *A* also measures *B* according to the units in itself, therefore *A* multiplied by itself makes *B.*
 
-[IX.3](PropIX.3.md)
-And *A* is cubic. But, if cubic number multiplied by itself makes some number, then the product is also a cube, therefore *B* is also a cube.
+And *A* is cubic. But, if cubic number multiplied by itself makes some number, then the product is also a cube, therefore *B* is also a cube. ([IX.3](PropIX.3.md))
 
-[VIII.23](../BookVIII/PropVIII.23.md)
-And, since the four numbers *A, B, C,* and *D* are in continued proportion, and *A* is a cube, therefore *D* also is a cube.
+And, since the four numbers *A, B, C,* and *D* are in continued proportion, and *A* is a cube, therefore *D* also is a cube. ([VIII.23](../BookVIII/PropVIII.23.md))
 
 For the same reason *E* is also a cube, and similarly all the rest are cubes.
 

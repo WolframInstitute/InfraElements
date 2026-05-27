@@ -14,17 +14,13 @@ For, however many *A, B, C,* and *D* are in multitude, take so many *E, HK, L,* 
 
 ![java applet or image](propIX36.gif)
 
-[VII.14](../BookVII/PropVII.14.md)
-
-[VII.19](../BookVII/PropVII.19.md)
-Therefore, *ex aequali A* is to *D* as *E* is to *M.* Therefore the product of *E* and *D* equals the product of *A* and *M.* And the product of *E* and *D* is *FG,* therefore the product of *A* and *M* is also *FG.*
+Therefore, *ex aequali A* is to *D* as *E* is to *M.* Therefore the product of *E* and *D* equals the product of *A* and *M.* And the product of *E* and *D* is *FG,* therefore the product of *A* and *M* is also *FG.* ([VII.14](../BookVII/PropVII.14.md), [VII.19](../BookVII/PropVII.19.md))
 
 Therefore *A* multiplied by *M* makes *FG.* Therefore *M* measures *FG* according to the units in *A.* And *A* is a dyad, therefore *FG* is double of *M.*
 
 But *M, L, HK,* and *E* are continuously double of each other, therefore *E, HK, L, M,* and *FG* are continuously proportional in double proportion.
 
-[IX.35](PropIX.35.md)
-Subtract from the second *HK* and the last *FG* the numbers *HN* and *FO,* each equal to the first *E.* Therefore the excess of the second is to the first as the excess of the last is to the sum of those before it. Therefore *NK* is to *E* as *OG* is to the sum of *M, L, KH,* and *E.*
+Subtract from the second *HK* and the last *FG* the numbers *HN* and *FO,* each equal to the first *E.* Therefore the excess of the second is to the first as the excess of the last is to the sum of those before it. Therefore *NK* is to *E* as *OG* is to the sum of *M, L, KH,* and *E.* ([IX.35](PropIX.35.md))
 
 And *NK* equals *E,* therefore *OG* also equals *M, L, HK, E.* But *FO* also equals *E,* and *E* equals the sum of *A, B, C, D* and the unit. Therefore the whole *FG* equals the sum of *E, HK, L, M, A, B, C, D,* and the unit, and it is measured by them.
 
@@ -34,40 +30,29 @@ If possible, let some number *P* measure *FG,* and let *P* not be the same with 
 
 And, as many times as *P* measures *FG,* so many units let there be in *Q,* therefore *Q* multiplied by *P* makes *FG.*
 
-[VII.19](../BookVII/PropVII.19.md)
-But, further, *E* multiplied by *D* makes *FG,* therefore *E* is to *Q* as *P* is to *D.*
+But, further, *E* multiplied by *D* makes *FG,* therefore *E* is to *Q* as *P* is to *D.* ([VII.19](../BookVII/PropVII.19.md))
 
-[IX.13](PropIX.13.md)
-And, since *A, B, C,* and *D* are continuously proportional beginning from a unit, therefore *D* is not measured by any other number except *A, B,* or *C.*
+And, since *A, B, C,* and *D* are continuously proportional beginning from a unit, therefore *D* is not measured by any other number except *A, B,* or *C.* ([IX.13](PropIX.13.md))
 
-[VII.Def.20](../BookVII/DefVII.20.md)
-And, by hypothesis, *P* is not the same with any of the numbers *A, B,* or *C,* therefore *P* does not measure *D.* But *P* is to *D* as *E* is to *Q,* therefore neither does *E* measure *Q.*
+And, by hypothesis, *P* is not the same with any of the numbers *A, B,* or *C,* therefore *P* does not measure *D.* But *P* is to *D* as *E* is to *Q,* therefore neither does *E* measure *Q.* ([VII.Def.20](../BookVII/DefVII.20.md))
 
-[VII.29](../BookVII/PropVII.29.md)
-And *E* is prime, and any prime number is prime to any number which it does not measure. Therefore *E* and *Q* are relatively prime.
+And *E* is prime, and any prime number is prime to any number which it does not measure. Therefore *E* and *Q* are relatively prime. ([VII.29](../BookVII/PropVII.29.md))
 
-[VII.21](../BookVII/PropVII.21.md)
-
-[VII.20](../BookVII/PropVII.20.md)
-But primes are also least, and the least numbers measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent, and *E* is to *Q* as *P* is to *D,* therefore *E* measures *P* the same number of times that *Q* measures *D.*
+But primes are also least, and the least numbers measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent, and *E* is to *Q* as *P* is to *D,* therefore *E* measures *P* the same number of times that *Q* measures *D.* ([VII.21](../BookVII/PropVII.21.md), [VII.20](../BookVII/PropVII.20.md))
 
 But *D* is not measured by any other number except *A, B,* or *C,* therefore *Q* is the same with one of the numbers *A, B,* or *C.* Let it be the same with *B.*
 
 And, however many *B, C,* and *D* are in multitude, take so many *E, HK,* and *L* beginning from *E.*
 
-[VII.14](../BookVII/PropVII.14.md)
-Now *E, HK,* and *L* are in the same ratio with *B, C,* and *D,* therefore, *ex aequali B* is to *D* as *E* is to *L.*
+Now *E, HK,* and *L* are in the same ratio with *B, C,* and *D,* therefore, *ex aequali B* is to *D* as *E* is to *L.* ([VII.14](../BookVII/PropVII.14.md))
 
-[VII.19](../BookVII/PropVII.19.md)
-Therefore the product of *B* and *L* equals the product of *D* and *E.* But the product of *D* and *E* equals the product of *Q* and *P,* therefore the product of *Q* and *P* also equals the product of *B* and *L.*
+Therefore the product of *B* and *L* equals the product of *D* and *E.* But the product of *D* and *E* equals the product of *Q* and *P,* therefore the product of *Q* and *P* also equals the product of *B* and *L.* ([VII.19](../BookVII/PropVII.19.md))
 
-[VII.19](../BookVII/PropVII.19.md)
-Therefore *Q* is to *B* as *L* is to *P.* And *Q* is the same with *B,* therefore *L* is also the same with *P,* which is impossible, for by hypothesis *P* is not the same with any of the numbers set out.
+Therefore *Q* is to *B* as *L* is to *P.* And *Q* is the same with *B,* therefore *L* is also the same with *P,* which is impossible, for by hypothesis *P* is not the same with any of the numbers set out. ([VII.19](../BookVII/PropVII.19.md))
 
 Therefore no number measures *FG* except *A, B, C, D, E, HK, L, M,* and the unit.
 
-[VII.Def.22](../BookVII/DefVII.22.md)
-And *FG* was proved equal to the sum of *A, B, C, D, E, HK, L, M,* and the unit, and a perfect number is that which equals its own parts, therefore *FG* is perfect.
+And *FG* was proved equal to the sum of *A, B, C, D, E, HK, L, M,* and the unit, and a perfect number is that which equals its own parts, therefore *FG* is perfect. ([VII.Def.22](../BookVII/DefVII.22.md))
 
 Therefore, *if as many numbers as we please beginning from a unit are set out continuously in double proportion until the sum of all becomes prime, and if the sum multiplied into the last makes some number, then the product is perfect.*
 

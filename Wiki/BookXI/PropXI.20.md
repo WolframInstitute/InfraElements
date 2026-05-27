@@ -14,19 +14,13 @@ I say that the sum of any two of the angles *BAC, CAD,* and *DAB* is greater tha
 
 If the angles *BAC, CAD,* and *DAB* are equal to one another, then it is clear that the sum of any two is greater than the remaining one.
 
-[I.23](../BookI/PropI.23.md)
+But, if not, let *BAC* be greater. In the plane through *BA* and *AC,* construct the angle *BAE* equal to the angle *DAB* at the point *A* on the straight line *AB.* Make *AE* equal to *AD,* draw *BEC* across through the point *E* cutting the straight lines *AB* and *AC* at the points *B* and *C,* and join *DB* and *DC.* ([I.23](../BookI/PropI.23.md), [I.3](../BookI/PropI.3.md))
 
-[I.3](../BookI/PropI.3.md)
-But, if not, let *BAC* be greater. In the plane through *BA* and *AC,* construct the angle *BAE* equal to the angle *DAB* at the point *A* on the straight line *AB.* Make *AE* equal to *AD,* draw *BEC* across through the point *E* cutting the straight lines *AB* and *AC* at the points *B* and *C,* and join *DB* and *DC.*
+Now, since *DA* equals *AE,* and *AB* is common, therefore two sides are equal to two sides. And the angle *DAB* equals the angle *BAE,* therefore the base *DB* equals the base *BE.* ([I.4](../BookI/PropI.4.md))
 
-[I.4](../BookI/PropI.4.md)
-Now, since *DA* equals *AE,* and *AB* is common, therefore two sides are equal to two sides. And the angle *DAB* equals the angle *BAE,* therefore the base *DB* equals the base *BE.*
+And, since the sum of the two sides *BD* and *DC* is greater than *BC,* and of these *DB* was proved equal to *BE,* therefore the remainder *DC* is greater than the remainder *EC.* ([I.20](../BookI/PropI.20.md))
 
-[I.20](../BookI/PropI.20.md)
-And, since the sum of the two sides *BD* and *DC* is greater than *BC,* and of these *DB* was proved equal to *BE,* therefore the remainder *DC* is greater than the remainder *EC.*
-
-[I.25](../BookI/PropI.25.md)
-Now, since *DA* equals *AE,* and *AC* is common, and the base *DC* is greater than the base *EC,* therefore the angle *DAC* is greater than the angle *EAC.*
+Now, since *DA* equals *AE,* and *AC* is common, and the base *DC* is greater than the base *EC,* therefore the angle *DAC* is greater than the angle *EAC.* ([I.25](../BookI/PropI.25.md))
 
 But the angle *BAE* equals the angle *DAB,* therefore the sum of the angles *DAB* and *DAC* is greater than the angle *BAC.*
 

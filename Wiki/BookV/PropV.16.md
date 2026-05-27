@@ -9,31 +9,24 @@ If four magnitudes are proportional, then they are also proportional alternately
 Let *A, B, C,* and *D* be four proportional magnitudes, so that *A* is to *B* as *C* is to *D.*
 
 I say that they are also so alternately, that is *A* is to *C* as *B* is to *D.*
-[V.Def.12](DefV.11.md)
 
 ![java applet or image](propV16.gif)
 
-Take equimultiples *E* and *F* of *A* and *B,* and take other, arbitrary, equimultiples *G* and *H* of *C* and *D.*
+Take equimultiples *E* and *F* of *A* and *B,* and take other, arbitrary, equimultiples *G* and *H* of *C* and *D.* ([V.Def.12](DefV.11.md))
 
-[V.15](PropV.15.md)
-Then, since *E* is the same multiple of *A* that *F* is of *B,* and parts have the same ratio as their equimultiples, therefore *A* is to *B* as *E* is to *F.*
+Then, since *E* is the same multiple of *A* that *F* is of *B,* and parts have the same ratio as their equimultiples, therefore *A* is to *B* as *E* is to *F.* ([V.15](PropV.15.md))
 
-[V.11](PropV.11.md)
-But *A* is to *B* as *C* is to *D,* therefore *C* is to *D* also as *E* is to *F.*
+But *A* is to *B* as *C* is to *D,* therefore *C* is to *D* also as *E* is to *F.* ([V.11](PropV.11.md))
 
-[V.15](PropV.15.md)
-Again, since *G* and *H* are equimultiples of *C* and *D,* therefore *C* is to *D* as *G* is to *H.*
+Again, since *G* and *H* are equimultiples of *C* and *D,* therefore *C* is to *D* as *G* is to *H.* ([V.15](PropV.15.md))
 
-[V.11](PropV.11.md)
-But *C* is to *D* as *E* is to *F,* therefore as *E* is to *F* also as *G* is to *H.*
+But *C* is to *D* as *E* is to *F,* therefore as *E* is to *F* also as *G* is to *H.* ([V.11](PropV.11.md))
 
-[V.14](PropV.14.md)
-But, if four magnitudes are proportional, and the first is greater than the third, then the second is also greater than the fourth; if equal, equal; and if less, less.
+But, if four magnitudes are proportional, and the first is greater than the third, then the second is also greater than the fourth; if equal, equal; and if less, less. ([V.14](PropV.14.md))
 
 Therefore, if *E* is in excess of *G, F* is also in excess of *H*; if equal, equal; and if less, less.
 
-[V.Def.5](DefV.5.md)
-Now *E* and *F* are equimultiples of *A* and *B,* and *G* and *H* other, arbitrary, equimultiples of *C* and *D,* therefore *A* is to *C* as *B* is to *D.*
+Now *E* and *F* are equimultiples of *A* and *B,* and *G* and *H* other, arbitrary, equimultiples of *C* and *D,* therefore *A* is to *C* as *B* is to *D.* ([V.Def.5](DefV.5.md))
 
 Therefore, *if four magnitudes are proportional, then they are also proportional alternately.*
 

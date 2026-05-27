@@ -13,8 +13,7 @@ It is required to find the greatest common measure of *A, B,* and *C.*
 
 ![java applet or image](propVII3.gif)
 
-[VII.2](PropVII.2.md)
-Take the greatest common measure, *D,* of the two numbers *A* and *B.* Then either *D* measures, or does not measure, *C.*
+Take the greatest common measure, *D,* of the two numbers *A* and *B.* Then either *D* measures, or does not measure, *C.* ([VII.2](PropVII.2.md))
 
 First, let *D* measure *C.*
 
@@ -24,8 +23,7 @@ I say that it is also the greatest.
 
 If *D* is not the greatest common measure of *A, B,* and *C,* then some number *E,* greater than *D,* measures the numbers *A, B,* and *C.*
 
-[VII.2,Cor.](PropVII.2.md)
-Since then *E* measures *A, B,* and *C,* therefore it measures *A* and *B.* Therefore it also measures the greatest common measure of *A* and *B.* But the greatest common measure of *A* and *B* is *D,* therefore *E* measures *D,* the greater the less, which is impossible.
+Since then *E* measures *A, B,* and *C,* therefore it measures *A* and *B.* Therefore it also measures the greatest common measure of *A* and *B.* But the greatest common measure of *A* and *B* is *D,* therefore *E* measures *D,* the greater the less, which is impossible. ([VII.2,Cor.](PropVII.2.md))
 
 Therefore no number which is greater than *D* measures the numbers *A, B,* and *C.* Therefore *D* is the greatest common measure of *A, B,* and *C.*
 
@@ -35,11 +33,9 @@ I say first that *C* and *D* are not relatively prime.
 
 Since *A, B,* and *C* are not relatively prime, therefore some number measures them.
 
-[VII.2,Cor.](PropVII.2.md)
-Now that which measures *A, B,* and *C* also measures *A* and *B,* and therefore measures *D,* the greatest common measure of *A* and *B.* But it measures *C* also, therefore some number measures the numbers *D* and *C.* Therefore *D* and *C* are not relatively prime.
+Now that which measures *A, B,* and *C* also measures *A* and *B,* and therefore measures *D,* the greatest common measure of *A* and *B.* But it measures *C* also, therefore some number measures the numbers *D* and *C.* Therefore *D* and *C* are not relatively prime. ([VII.2,Cor.](PropVII.2.md))
 
-[VII.2](PropVII.2.md)
-Take their greatest common measure *E.*
+Take their greatest common measure *E.* ([VII.2](PropVII.2.md))
 
 Then, since *E* measures *D,* and *D* measures *A* and *B,* therefore *E* also measures *A* and *B.* But it measures *C* also, therefore *E* measures *A, B,* and *C.* Therefore *E* is a common measure of *A, B,* and *C.*
 
@@ -47,11 +43,9 @@ I say next that it is also the greatest.
 
 If *E* is not the greatest common measure of *A, B,* and *C,* then some number *F,* greater than *E,* measures the numbers *A, B,* and *C.*
 
-[VII.2,Cor.](PropVII.2.md)
-Now, since *F* measures *A, B,* and *C,* it also measures *A* and *B,* therefore it measures the greatest common measure of *A* and *B.* But the greatest common measure of *A* and *B* is *D,* therefore *F* measures *D.*
+Now, since *F* measures *A, B,* and *C,* it also measures *A* and *B,* therefore it measures the greatest common measure of *A* and *B.* But the greatest common measure of *A* and *B* is *D,* therefore *F* measures *D.* ([VII.2,Cor.](PropVII.2.md))
 
-[VII.2,Cor.](PropVII.2.md)
-And it measures *C* also, therefore *F* measures *D* and *C.* Therefore it also measures the greatest common measure of *D* and *C.* But the greatest common measure of *D* and *C* is *E,* therefore *F* measures *E,* the greater the less, which is impossible.
+And it measures *C* also, therefore *F* measures *D* and *C.* Therefore it also measures the greatest common measure of *D* and *C.* But the greatest common measure of *D* and *C* is *E,* therefore *F* measures *E,* the greater the less, which is impossible. ([VII.2,Cor.](PropVII.2.md))
 
 Therefore no number which is greater than *E* measures the numbers *A, B,* and *C.* Therefore *E* is the greatest common measure of *A, B,* and *C.*
 

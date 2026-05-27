@@ -16,15 +16,13 @@ Draw a diameter *BC* of the circle *ABC.*
 
 If *BC* equals *D,* then that which was proposed is done, for *BC* has been fitted into the circle *ABC* equal to the straight line *D.*
 
-[I.3](../BookI/PropI.3.md)
-But, if *BC* is greater than *D,* make *CE* equal to *D,* describe the circle *EAF* with center *C* and radius *CE,* and join *CA.*
+But, if *BC* is greater than *D,* make *CE* equal to *D,* describe the circle *EAF* with center *C* and radius *CE,* and join *CA.* ([I.3](../BookI/PropI.3.md))
 
 Then, since the point *C* is the center of the circle *EAF, CA* equals *CE.*
 
 But *CE* equals *D,* therefore *D* also equals *CA.*
 
-IV.Def.7
-Therefore *CA* has been fitted into the given circle *ABC* equal to the given straight line *D.*
+Therefore *CA* has been fitted into the given circle *ABC* equal to the given straight line *D.* (IV.Def.7)
 
 Q.E.F.
 

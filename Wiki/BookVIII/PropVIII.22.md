@@ -12,8 +12,7 @@ Let *A, B,* and *C* be three numbers in continued proportion, and let *A* the fi
 
 I say that *C* the third is also square.
 
-[VIII.20](PropVIII.20.md)
-Since between *A* and *C* there is one mean proportional number, *B,* therefore *A* and *C* are similar plane numbers. But *A* is square, therefore *C* is also square.
+Since between *A* and *C* there is one mean proportional number, *B,* therefore *A* and *C* are similar plane numbers. But *A* is square, therefore *C* is also square. ([VIII.20](PropVIII.20.md))
 
 Therefore, *if three numbers are in continued proportion, and the first is square, then the third is also square.*
 

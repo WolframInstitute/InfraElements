@@ -13,37 +13,27 @@ I say that each of them has been cut in extreme and mean ratio at the point *H,*
 
 ![java applet or image](propXIII8.gif)
 
-[IV.14](../BookIV/PropIV.14.md)
-Circumscribe the circle *ABCDE* about the pentagon *ABCDE.*
+Circumscribe the circle *ABCDE* about the pentagon *ABCDE.* ([IV.14](../BookIV/PropIV.14.md))
 
-[I.4](../BookI/PropI.4.md)
-Then, since the two straight lines *EA* and *AB* equal the two lines *AB* and *BC,* and they contain equal angles, therefore the base *BE* equals the base *AC,* the triangle *ABE* equals the triangle *ABC,* and the remaining angles equal the remaining angles respectively, namely those opposite the equal sides.
+Then, since the two straight lines *EA* and *AB* equal the two lines *AB* and *BC,* and they contain equal angles, therefore the base *BE* equals the base *AC,* the triangle *ABE* equals the triangle *ABC,* and the remaining angles equal the remaining angles respectively, namely those opposite the equal sides. ([I.4](../BookI/PropI.4.md))
 
-[I.32](../BookI/PropI.32.md)
-Therefore the angle *BAC* equals the angle *ABE.* Therefore the angle *AHE* is double the angle *BAH.*
+Therefore the angle *BAC* equals the angle *ABE.* Therefore the angle *AHE* is double the angle *BAH.* ([I.32](../BookI/PropI.32.md))
 
-[III.28](../BookIII/PropIII.28.md),
-[VI.33](../BookVI/PropVI.33.md)
-But the angle *EAC* is also double the angle *BAC,* for the circumference *EDC* is also double the circumference *CB.*
+But the angle *EAC* is also double the angle *BAC,* for the circumference *EDC* is also double the circumference *CB.* ([III.28](../BookIII/PropIII.28.md), [VI.33](../BookVI/PropVI.33.md))
 
-[I.6](../BookI/PropI.6.md)
-Therefore the angle *HAE* equals the angle *AHE.* Hence the straight line *HE* also equals *EA,* that is, *AB.*
+Therefore the angle *HAE* equals the angle *AHE.* Hence the straight line *HE* also equals *EA,* that is, *AB.* ([I.6](../BookI/PropI.6.md))
 
-[I.5](../BookI/PropI.5.md)
-And, since the straight line *BA* equals *AE,* therefore the angle *ABE* also equals the angle *AEB.*
+And, since the straight line *BA* equals *AE,* therefore the angle *ABE* also equals the angle *AEB.* ([I.5](../BookI/PropI.5.md))
 
 But the angle *ABE* was proved equal to the angle *BAH,* therefore the angle *BEA* also equals the angle *BAH.*
 
-[I.32](../BookI/PropI.32.md)
-And the angle *ABE* is common to the two triangles *ABE* and *ABH,* therefore the remaining angle *BAE* equals the remaining angle *AHB.* Therefore the triangle *ABE* is equiangular with the triangle *ABH.*
+And the angle *ABE* is common to the two triangles *ABE* and *ABH,* therefore the remaining angle *BAE* equals the remaining angle *AHB.* Therefore the triangle *ABE* is equiangular with the triangle *ABH.* ([I.32](../BookI/PropI.32.md))
 
-[VI.4](../BookVI/PropVI.4.md)
-Therefore, proportionally *EB* is to *BA* as *AB* is to *BH.*
+Therefore, proportionally *EB* is to *BA* as *AB* is to *BH.* ([VI.4](../BookVI/PropVI.4.md))
 
 But *BA* equals *EH,* therefore *BE* is to *EH* as *EH* is to *HB.*
 
-[VI.14](../BookV/PropV.14.md)
-And *BE* is greater than *EH,* therefore *EH* is also greater than *HB.*
+And *BE* is greater than *EH,* therefore *EH* is also greater than *HB.* ([VI.14](../BookV/PropV.14.md))
 
 Therefore *BE* has been cut in extreme and mean ratio at *H,* and the greater segment *HE* equals the side of the pentagon.
 

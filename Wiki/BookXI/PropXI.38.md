@@ -14,27 +14,19 @@ Join *DU, UE, BS,* and *SG.*
 
 ![java applet or image](propXI38.gif)
 
-[I.29](../BookI/PropI.29.md)
-Then, since *DO* is parallel to *PE,* therefore the alternate angles *DOU* and *UPE* equal one another.
+Then, since *DO* is parallel to *PE,* therefore the alternate angles *DOU* and *UPE* equal one another. ([I.29](../BookI/PropI.29.md))
 
-[I.4](../BookI/PropI.4.md)
-Since *DO* equals *PE,* and *OU* equals *UP,* and they contain equal angles, therefore the base *DU* equals the base *UE,* the triangle *DOU* equals the triangle *PUE,* and the remaining angles equal the remaining angles. Therefore the angle *OUD* equals the angle *PUE.*
+Since *DO* equals *PE,* and *OU* equals *UP,* and they contain equal angles, therefore the base *DU* equals the base *UE,* the triangle *DOU* equals the triangle *PUE,* and the remaining angles equal the remaining angles. Therefore the angle *OUD* equals the angle *PUE.* ([I.4](../BookI/PropI.4.md))
 
-[I.14](../BookI/PropI.14.md)
-Therefore *DUE* is a straight line. For the same reason *BSG* is also a straight line, and *BS* equals *SG.*
+Therefore *DUE* is a straight line. For the same reason *BSG* is also a straight line, and *BS* equals *SG.* ([I.14](../BookI/PropI.14.md))
 
-[XI.9](PropXI.9.md)
-Now, since *CA* equals and is parallel to *DB,* while *CA* also equals and is parallel to *EG,* therefore *DB* equals and is parallel to *EG.*
+Now, since *CA* equals and is parallel to *DB,* while *CA* also equals and is parallel to *EG,* therefore *DB* equals and is parallel to *EG.* ([XI.9](PropXI.9.md))
 
-[I.33](../BookI/PropI.33.md)
-And the straight lines *DE* and *BG* join their ends, therefore *DE* is parallel to *BG.*
+And the straight lines *DE* and *BG* join their ends, therefore *DE* is parallel to *BG.* ([I.33](../BookI/PropI.33.md))
 
-[I.29](../BookI/PropI.29.md),
-[I.15](../BookI/PropI.15.md)
-Therefore the angle *EDT* equals the angle *BGT,* for they are alternate, and the angle *DTU* equals the angle *GTS.*
+Therefore the angle *EDT* equals the angle *BGT,* for they are alternate, and the angle *DTU* equals the angle *GTS.* ([I.29](../BookI/PropI.29.md), [I.15](../BookI/PropI.15.md))
 
-[I.26](../BookI/PropI.26.md)
-Therefore *DTU* and *GTS* are two triangles which have two angles equal to two angles and one side equal to one side, namely that opposite one of the equal angles, that is, *DU* equals *GS,* for they are the halves of *DE* and *BG,* therefore the remaining sides equal the remaining sides. Therefore *DT* equals *TG,* and *UT* equals *TS.*
+Therefore *DTU* and *GTS* are two triangles which have two angles equal to two angles and one side equal to one side, namely that opposite one of the equal angles, that is, *DU* equals *GS,* for they are the halves of *DE* and *BG,* therefore the remaining sides equal the remaining sides. Therefore *DT* equals *TG,* and *UT* equals *TS.* ([I.26](../BookI/PropI.26.md))
 
 Therefore, *if the sides of the opposite planes of a cube are bisected, and the planes are carried through the points of section, then the intersection of the planes and the diameter of the cube bisect one another.*
 

@@ -16,20 +16,15 @@ For, if the square on *BD* is not to the square on *FH* as the circle *ABCD* is 
 
 First, let it be in that ratio to a less area *S.*
 
-[IV.6](../BookIV/PropIV.6.md)
-
-[III.17](../BookIII/PropIII.17.md)
-Inscribe the square *EFGH* in the circle *EFGH.* Then the inscribed square is greater than the half of the circle *EFGH,* for if through the points *E, F, G,* and *H* we draw tangents to the circle, then the square *EFGH* is half the square circumscribed about the circle, and the circle is less than the circumscribed square, hence the inscribed square *EFGH* is greater than the half of the circle *EFGH.*
+Inscribe the square *EFGH* in the circle *EFGH.* Then the inscribed square is greater than the half of the circle *EFGH,* for if through the points *E, F, G,* and *H* we draw tangents to the circle, then the square *EFGH* is half the square circumscribed about the circle, and the circle is less than the circumscribed square, hence the inscribed square *EFGH* is greater than the half of the circle *EFGH.* ([IV.6](../BookIV/PropIV.6.md), [III.17](../BookIII/PropIII.17.md))
 
 Bisect the circumferences *EF, FG, GH,* and *HE* at the points *K, L, M,* and *N.* Join *EK, KF, FL, LG, GM, MH, HN,* and *NE.*
 
-[III.17](../BookIII/PropIII.17.md)
-Therefore each of the triangles *EKF, FLG, GMH,* and *HNE* is also greater than the half of the segment of the circle about it, for if through the points *K, L, M,* and *N* we draw tangents to the circle and complete the parallelograms on the straight lines *EF, FG, GH,* and *HE,* then each of the triangles *EKF, FLG, GMH,* and *HNE* is half of the parallelogram about it, while the segment about it is less than the parallelogram, hence each of the triangles *EKF, FLG, GMH,* and *HNE* is greater than the half of the segment of the circle about it.
+Therefore each of the triangles *EKF, FLG, GMH,* and *HNE* is also greater than the half of the segment of the circle about it, for if through the points *K, L, M,* and *N* we draw tangents to the circle and complete the parallelograms on the straight lines *EF, FG, GH,* and *HE,* then each of the triangles *EKF, FLG, GMH,* and *HNE* is half of the parallelogram about it, while the segment about it is less than the parallelogram, hence each of the triangles *EKF, FLG, GMH,* and *HNE* is greater than the half of the segment of the circle about it. ([III.17](../BookIII/PropIII.17.md))
 
 Thus, by bisecting the remaining circumferences and joining straight lines, and by doing this repeatedly, we shall leave some segments of the circle which will be less than the excess by which the circle *EFGH* exceeds the area *S.*
 
-[X.1](../BookX/PropX.1.md)
-For it was proved in the first theorem of the tenth book that if two unequal magnitudes are set out, and if from the greater there is subtracted a magnitude greater than the half, and from that which is left a greater than the half, and if this is done repeatedly, then there will be left some magnitude which is less than the lesser magnitude set out.
+For it was proved in the first theorem of the tenth book that if two unequal magnitudes are set out, and if from the greater there is subtracted a magnitude greater than the half, and from that which is left a greater than the half, and if this is done repeatedly, then there will be left some magnitude which is less than the lesser magnitude set out. ([X.1](../BookX/PropX.1.md))
 
 Let segments be left such as described, and let the segments of the circle *EFGH* on *EK, KF, FL, LG, GM, MH, HN,* and *NE* be less than the excess by which the circle *EFGH* exceeds the area *S.*
 
@@ -37,13 +32,9 @@ Therefore the remainder, the polygon *EKFLGMHN,* is greater than the area *S.*
 
 Now inscribe in the circle *ABCD* the polygon *AOBPCQDR* similar to the polygon *EKFLGMHN.*
 
-[XII.1](PropXII.1.md)
-Therefore the square on *BD* is to the square on *FH* as the polygon *AOBPCQDR* is to the polygon *EKFLGMHN.*
+Therefore the square on *BD* is to the square on *FH* as the polygon *AOBPCQDR* is to the polygon *EKFLGMHN.* ([XII.1](PropXII.1.md))
 
-[V.11](../BookV/PropV.11.md)
-
-[V.16](../BookV/PropV.16.md)
-But the square on *BD* is to the square on *FH* as the circle *ABCD* to the area *S,* therefore the circle *ABCD* is to the area *S* as the polygon *AOBPCQDR* is to the polygon *EKFLGMHN.* Therefore, alternately the circle *ABCD* is to the polygon inscribed in it as the area *S* is to the polygon *EKFLGMHN.*
+But the square on *BD* is to the square on *FH* as the circle *ABCD* to the area *S,* therefore the circle *ABCD* is to the area *S* as the polygon *AOBPCQDR* is to the polygon *EKFLGMHN.* Therefore, alternately the circle *ABCD* is to the polygon inscribed in it as the area *S* is to the polygon *EKFLGMHN.* ([V.11](../BookV/PropV.11.md), [V.16](../BookV/PropV.16.md))
 
 But the circle *ABCD* is greater than the polygon inscribed in it, therefore the area *S* is also greater than the polygon *EKFLGMHN.* But it is also less, which is impossible.
 
@@ -55,10 +46,7 @@ I say next that neither is the circle *ABCD* to any area greater than the circle
 
 For, if possible, let it be in that ratio to a greater area *S.* Therefore, inversely the square on *FH* is to the square on *DB* as the area *S* is to the circle *ABCD.*
 
-Lemma
-
-[V.11](../BookV/PropV.11.md)
-But the area *S* is to the circle *ABCD* as the circle *EFGH* is to some area less than the circle *ABCD,* therefore the square on *FH* is to the square on *BD* as the circle *EFGH* is to some area less than the circle *ABCD,* which was proved impossible. Therefore the square on *BD* is to the square on *FH* not as the circle *ABCD* to any area greater than the circle *EFGH.*
+But the area *S* is to the circle *ABCD* as the circle *EFGH* is to some area less than the circle *ABCD,* therefore the square on *FH* is to the square on *BD* as the circle *EFGH* is to some area less than the circle *ABCD,* which was proved impossible. Therefore the square on *BD* is to the square on *FH* not as the circle *ABCD* to any area greater than the circle *EFGH.* (Lemma, [V.11](../BookV/PropV.11.md))
 
 And it was proved that neither is it in that ratio to any area less than the circle *EFGH,* therefore the square on *BD* is to the square on *FH* as the circle *ABCD* is to the circle *EFGH.*
 

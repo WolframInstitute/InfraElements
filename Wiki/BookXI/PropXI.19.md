@@ -12,14 +12,11 @@ I say that *BD* is at right angles to the plane of reference.
 
 ![java applet or image](propXI19.gif)
 
-[I.11](../BookI/PropI.11.md)
-Suppose it is not. From the point *D* draw *DE* at right angles to the straight line *AD* in the plane *AB,* and draw *DF* at right angles to *CD* in the plane *BC.*
+Suppose it is not. From the point *D* draw *DE* at right angles to the straight line *AD* in the plane *AB,* and draw *DF* at right angles to *CD* in the plane *BC.* ([I.11](../BookI/PropI.11.md))
 
-[XI.Def.4](DefXI.3.md)
-Now, since the plane *AB* is at right angles to the plane of reference, and *DE* is at right angles in the plane *AB* to *AD,* their intersection, therefore *DE* is at right angles to the plane of reference.
+Now, since the plane *AB* is at right angles to the plane of reference, and *DE* is at right angles in the plane *AB* to *AD,* their intersection, therefore *DE* is at right angles to the plane of reference. ([XI.Def.4](DefXI.3.md))
 
-[XI.13](PropXI.13.md)
-Similarly we can prove that *DF* is also at right angles to the plane of reference. Therefore from the same point *D* two straight lines have been set up at right angles to the plane of reference on the same side, which is impossible.
+Similarly we can prove that *DF* is also at right angles to the plane of reference. Therefore from the same point *D* two straight lines have been set up at right angles to the plane of reference on the same side, which is impossible. ([XI.13](PropXI.13.md))
 
 Therefore no straight line except the intersection *DB* of the planes *AB* and *BC* can be set up from the point *D* at right angles to the plane of reference.
 

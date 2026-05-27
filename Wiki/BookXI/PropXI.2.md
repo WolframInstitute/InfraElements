@@ -18,13 +18,11 @@ I say first that the triangle *ECB* lies in one plane.
 
 For, if part of the triangle *ECB,* either *FHC* or *GBK,* is in the plane of reference, and the rest in another, then a part also of one of the straight lines *EC* or *EB* is in the plane of reference, and a part in another.
 
-[XI.1](PropXI.1.md)
-But, if the part *FCBG* of the triangle *ECB* is in the plane of reference, and the rest in another, then a part also of both the straight lines *EC* and *EB* is in the plane of reference and a part in another, which was proved absurd.
+But, if the part *FCBG* of the triangle *ECB* is in the plane of reference, and the rest in another, then a part also of both the straight lines *EC* and *EB* is in the plane of reference and a part in another, which was proved absurd. ([XI.1](PropXI.1.md))
 
 Therefore the triangle *ECB* lies in one plane.
 
-[XI.1](PropXI.1.md)
-But, in whatever plane the triangle *ECB* lies, each of the straight lines *EC* and *EB* also lies, and in whatever plane each of the straight lines *EC* and *EB* lies, *AB* and *CD* also lie.
+But, in whatever plane the triangle *ECB* lies, each of the straight lines *EC* and *EB* also lies, and in whatever plane each of the straight lines *EC* and *EB* lies, *AB* and *CD* also lie. ([XI.1](PropXI.1.md))
 
 Therefore the straight lines *AB* and *CD* lie in one plane; and every triangle lies in one plane.
 

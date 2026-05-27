@@ -12,19 +12,13 @@ Let the angle *BAC* be the given rectilinear angle.
 
 It is required to bisect it.
 
-[I.3](PropI.3.md)
-
-[I.Post.1](PostI.1.md),
-[I.1](PropI.1.md)
-Take an arbitrary point *D* on *AB.* Cut off *AE* from *AC* equal to *AD,* and join *DE.* Construct the equilateral triangle *DEF* on *DE,* and join *AF.*
+Take an arbitrary point *D* on *AB.* Cut off *AE* from *AC* equal to *AD,* and join *DE.* Construct the equilateral triangle *DEF* on *DE,* and join *AF.* ([I.3](PropI.3.md), [I.Post.1](PostI.1.md), [I.1](PropI.1.md))
 
 I say that the angle *BAC* is bisected by the straight line *AF.*
 
 Since *AD* equals *AE,* and *AF* is common, therefore the two sides *AD* and *AF* equal the two sides *EA* and *AF* respectively.
 
-[I.Def.20](DefI.20.md),
-[I.8](PropI.8.md)
-And the base *DF* equals the base *EF,* therefore the angle *DAF* equals the angle *EAF.*
+And the base *DF* equals the base *EF,* therefore the angle *DAF* equals the angle *EAF.* ([I.Def.20](DefI.20.md), [I.8](PropI.8.md))
 
 Therefore the given rectilinear angle *BAC* is bisected by the straight line *AF.*
 

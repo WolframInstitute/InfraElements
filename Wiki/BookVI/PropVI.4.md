@@ -14,27 +14,17 @@ I say that in the triangles *ABC* and *DEC* the sides about the equal angles are
 
 Let *BC* be placed in a straight line with *CE.*
 
-[I.17](../BookI/PropI.17.md)
+Then, since the sum of the angles *ABC* and *ACB* is less than two right angles, and the angle *ACB* equals the angle *DEC,* therefore the sum of the angles *ABC* and *DEC* is less than two right angles. Therefore *BA* and *ED,* when produced, will meet. Let them be produced and meet at *F.* ([I.17](../BookI/PropI.17.md), [I.Post.5](../BookI/PostI.1.md))
 
-[I.Post.5](../BookI/PostI.1.md)
-Then, since the sum of the angles *ABC* and *ACB* is less than two right angles, and the angle *ACB* equals the angle *DEC,* therefore the sum of the angles *ABC* and *DEC* is less than two right angles. Therefore *BA* and *ED,* when produced, will meet. Let them be produced and meet at *F.*
+Now, since the angle *DCE* equals the angle *ABC, DC* is parallel to *FB.* Again, since the angle *ACB* equals the angle *DEC, AC* is parallel to *FE.* ([I.28](../BookI/PropI.28.md))
 
-[I.28](../BookI/PropI.28.md)
-Now, since the angle *DCE* equals the angle *ABC, DC* is parallel to *FB.* Again, since the angle *ACB* equals the angle *DEC, AC* is parallel to *FE.*
+Therefore *FACD* is a parallelogram, therefore *FA* equals *DC,* and *AC* equals *FD.* ([I.34](../BookI/PropI.34.md))
 
-[I.34](../BookI/PropI.34.md)
-Therefore *FACD* is a parallelogram, therefore *FA* equals *DC,* and *AC* equals *FD.*
+And, since *AC* is parallel to a side *FE* of the triangle *FBE,* therefore *BA* is to *AF* as *BC* is to *CE.* ([VI.2](PropVI.2.md))
 
-[VI.2](PropVI.2.md)
-And, since *AC* is parallel to a side *FE* of the triangle *FBE,* therefore *BA* is to *AF* as *BC* is to *CE.*
+But *FD* equals *AC,* therefore *BC* is to *CE* as *AC* is to *DE,* and alternately *BC* is to *CA* as *CE* is to *ED.* ([V.7](../BookV/PropV.7.md), [V.16](../BookV/PropV.16.md))
 
-[V.7](../BookV/PropV.7.md)
-
-[V.16](../BookV/PropV.16.md)
-But *FD* equals *AC,* therefore *BC* is to *CE* as *AC* is to *DE,* and alternately *BC* is to *CA* as *CE* is to *ED.*
-
-[V.22](../BookV/PropV.22.md)
-Since then it was proved that *AB* is to *BC* as *DC* is to *CE,* and *BC* is to *CA* as *CE* is to *ED,* therefore, *ex aequali, BA* is to *AC* as *CD* is to *DE.*
+Since then it was proved that *AB* is to *BC* as *DC* is to *CE,* and *BC* is to *CA* as *CE* is to *ED,* therefore, *ex aequali, BA* is to *AC* as *CD* is to *DE.* ([V.22](../BookV/PropV.22.md))
 
 Therefore, *in equiangular triangles the sides about the equal angles are proportional where the corresponding sides are opposite the equal angles.*
 

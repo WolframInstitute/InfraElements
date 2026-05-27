@@ -12,21 +12,13 @@ Let *ABCD* be the given circle.
 
 It is required to inscribe in the circle *ABCD* a fifteen-angled figure which shall be both equilateral and equiangular.
 
-[IV.2](PropIV.2.md)
+Inscribe a side *AC* of an equilateral triangle and a side *AB* of an equilateral pentagon in in the circle *ABCD.* Therefore, of the equal segments of which there are fifteen in the circle *ABCD,* there will be five in the circumference *ABC* which is one-third of the circle, and there will be three in the circumference *AB* which is one-fifth of the circle. Therefore in the remainder *BC* there will be two of the equal segments. ([IV.2](PropIV.2.md), [IV.11](PropIV.11.md))
 
-[IV.11](PropIV.11.md)
-Inscribe a side *AC* of an equilateral triangle and a side *AB* of an equilateral pentagon in in the circle *ABCD.* Therefore, of the equal segments of which there are fifteen in the circle *ABCD,* there will be five in the circumference *ABC* which is one-third of the circle, and there will be three in the circumference *AB* which is one-fifth of the circle. Therefore in the remainder *BC* there will be two of the equal segments.
+Inscribe a side *AC* of an equilateral triangle and a side *AB* of an equilateral pentagon in in the circle *ABCD.* Therefore, of the equal segments of which there are fifteen in the circle *ABCD,* there will be five in the circumference *ABC* which is one-third of the circle, and there will be three in the circumference *AB* which is one-fifth of the circle. Therefore in the remainder *BC* there will be two of the equal segments. ([IV.2](PropIV.2.md), [IV.11](PropIV.11.md))
 
-[IV.2](PropIV.2.md)
+Bisect *BC* at *E.* Therefore each of the circumferences *BE* and *EC* is a fifteenth of the circle *ABCD.* ([III.30](../BookIII/PropIII.30.md))
 
-[IV.11](PropIV.11.md)
-Inscribe a side *AC* of an equilateral triangle and a side *AB* of an equilateral pentagon in in the circle *ABCD.* Therefore, of the equal segments of which there are fifteen in the circle *ABCD,* there will be five in the circumference *ABC* which is one-third of the circle, and there will be three in the circumference *AB* which is one-fifth of the circle. Therefore in the remainder *BC* there will be two of the equal segments.
-
-[III.30](../BookIII/PropIII.30.md)
-Bisect *BC* at *E.* Therefore each of the circumferences *BE* and *EC* is a fifteenth of the circle *ABCD.*
-
-[IV.1](PropIV.1.md)
-If therefore we join *BE* and *EC* and continually fit into the circle *ABCD* straight lines equal to them, a fifteen-angled figure which is both equilateral and equiangular will be inscribed in it.
+If therefore we join *BE* and *EC* and continually fit into the circle *ABCD* straight lines equal to them, a fifteen-angled figure which is both equilateral and equiangular will be inscribed in it. ([IV.1](PropIV.1.md))
 
 Q.E.F.
 

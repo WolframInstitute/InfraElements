@@ -18,45 +18,21 @@ Suppose it does not.
 
 ![java applet or image](propIX12.gif)
 
-[VII.29](../BookVII/PropVII.29.md)
-Now *E* is prime, and any prime number is relatively prime to any which it does not measure, therefore *E* and *A* are relatively prime. And, since *E* measures *D,* let it measure it according to *F,* therefore *E* multiplied by *F* makes *D.*
+Now *E* is prime, and any prime number is relatively prime to any which it does not measure, therefore *E* and *A* are relatively prime. And, since *E* measures *D,* let it measure it according to *F,* therefore *E* multiplied by *F* makes *D.* ([VII.29](../BookVII/PropVII.29.md))
 
-[IX.11](PropIX.11.md)
+Again, since *A* measures *D* according to the units in *C,* therefore *A* multiplied by *C* makes *D.* But, further, *E* multiplied by *F* makes *D,* therefore the product of *A* and *C* equals the product of *E* and *F.* ([IX.11](PropIX.11.md), [Cor.](PropIX.11.md))
 
-and [Cor.](PropIX.11.md)
-Again, since *A* measures *D* according to the units in *C,* therefore *A* multiplied by *C* makes *D.* But, further, *E* multiplied by *F* makes *D,* therefore the product of *A* and *C* equals the product of *E* and *F.*
+Therefore *A* is to *E* as *F* is to *C.* But *A* and *E* are relatively prime, primes are also least, and the least measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent, therefore *E* measures *C.* Let it measure it according to *G.* ([VII.19](../BookVII/PropVII.19.md), [VII.21](../BookVII/PropVII.21.md), [VII.20](../BookVII/PropVII.20.md))
 
-[VII.19](../BookVII/PropVII.19.md)
+Therefore *E* multiplied by *G* makes *C.* But, further, by the previous theorem, *A* multiplied by *B* makes *C.* Therefore the product of *A* and *B* equals the product of *E* and *G.* ([IX.11](PropIX.11.md), [Cor.](PropIX.11.md))
 
-[VII.21](../BookVII/PropVII.21.md)
+Therefore *A* is to *E* as *G* is to *B.* But *A* and *E* are relatively prime, primes are also least, and the least numbers measure those which have the same ratio with them the same number of times, the antecedent the antecedent and the consequent the consequent, therefore *E* measures *B.* Let it measure it according to *H.* Then *E* multiplied by *H* makes *B.* ([VII.19](../BookVII/PropVII.19.md), [VII.21](../BookVII/PropVII.21.md), [VII.20](../BookVII/PropVII.20.md))
 
-[VII.20](../BookVII/PropVII.20.md)
-Therefore *A* is to *E* as *F* is to *C.* But *A* and *E* are relatively prime, primes are also least, and the least measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent, therefore *E* measures *C.* Let it measure it according to *G.*
+But, further, *A* multiplied by itself makes *B,* therefore the product of *E* and *H* equals the square on *A.* Therefore *E* is to *A* as *A* is to *H.* ([IX.8](PropIX.8.md), [VII.19](../BookVII/PropVII.19.md))
 
-[IX.11](PropIX.11.md)
+But *A* and *E* are relatively prime, primes are also least, and the least measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent, therefore *E* measures *A* antecedent antecedent. But, again, it also does not measure it, which is impossible. ([VII.21](../BookVII/PropVII.21.md), [VII.20](../BookVII/PropVII.20.md))
 
-and
-[Cor.](PropIX.11.md)
-Therefore *E* multiplied by *G* makes *C.* But, further, by the previous theorem, *A* multiplied by *B* makes *C.* Therefore the product of *A* and *B* equals the product of *E* and *G.*
-
-[VII.19](../BookVII/PropVII.19.md)
-
-[VII.21](../BookVII/PropVII.21.md)
-
-[VII.20](../BookVII/PropVII.20.md)
-Therefore *A* is to *E* as *G* is to *B.* But *A* and *E* are relatively prime, primes are also least, and the least numbers measure those which have the same ratio with them the same number of times, the antecedent the antecedent and the consequent the consequent, therefore *E* measures *B.* Let it measure it according to *H.* Then *E* multiplied by *H* makes *B.*
-
-[IX.8](PropIX.8.md),
-[VII.19](../BookVII/PropVII.19.md)
-But, further, *A* multiplied by itself makes *B,* therefore the product of *E* and *H* equals the square on *A.* Therefore *E* is to *A* as *A* is to *H.*
-
-[VII.21](../BookVII/PropVII.21.md)
-
-[VII.20](../BookVII/PropVII.20.md)
-But *A* and *E* are relatively prime, primes are also least, and the least measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent, therefore *E* measures *A* antecedent antecedent. But, again, it also does not measure it, which is impossible.
-
-[VII.Def.14](../BookVII/DefVII.11.md)
-Therefore *E* and *A* are not relatively prime. Therefore they are relatively composite. But numbers relatively composite are measured by some number.
+Therefore *E* and *A* are not relatively prime. Therefore they are relatively composite. But numbers relatively composite are measured by some number. ([VII.Def.14](../BookVII/DefVII.11.md))
 
 And, since *E* is by hypothesis prime, and a prime is not measured by any number other than itself, therefore *E* measures *A* and *E,* so that *E* measures *A.*
 

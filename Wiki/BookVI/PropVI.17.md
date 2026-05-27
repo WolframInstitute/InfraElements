@@ -12,16 +12,11 @@ I say that the rectangle *A* by *C* equals the square on *B.*
 
 ![java applet or image](propVI17.gif)
 
-[I.3](../BookI/PropI.3.md)
-Make *D* equal to *B.*
+Make *D* equal to *B.* ([I.3](../BookI/PropI.3.md))
 
-[V.7](../BookV/PropV.7.md)
+Then, since *A* is to *B* as *B* is to *C,* and *B* equals *D,* therefore *A* is to *B* as *D* is to *C.* ([V.7](../BookV/PropV.7.md), [V.11](../BookV/PropV.11.md))
 
-[V.11](../BookV/PropV.11.md)
-Then, since *A* is to *B* as *B* is to *C,* and *B* equals *D,* therefore *A* is to *B* as *D* is to *C.*
-
-[VI.16](PropVI.16.md)
-But, if four straight lines are proportional, then the rectangle contained by the extremes equals the rectangle contained by the means.
+But, if four straight lines are proportional, then the rectangle contained by the extremes equals the rectangle contained by the means. ([VI.16](PropVI.16.md))
 
 Therefore the rectangle *A* by *C* equals the rectangle *B* by *D.* But the rectangle *B* by *D* is the square on *B,* for *B* equals *D,* therefore the rectangle *A* by *C* equals the square on *B.*
 
@@ -31,8 +26,7 @@ I say that *A* is to *B* as *B* is to *C.*
 
 With the same construction, since the rectangle *A* by *C* equals the square on *B,* while the square on *B* is the rectangle *B* by *D,* for *B* equals *D,* therefore the rectangle *A* by *C* equals the rectangle *B* by *D.*
 
-[VI.16](PropVI.16.md)
-But, if the rectangle contained by the extremes equals that contained by the means, then the four straight lines are proportional.
+But, if the rectangle contained by the extremes equals that contained by the means, then the four straight lines are proportional. ([VI.16](PropVI.16.md))
 
 Therefore *A* is to *B* as *D* is to *C.*
 

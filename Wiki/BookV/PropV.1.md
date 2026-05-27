@@ -6,8 +6,7 @@ If any number of magnitudes are each the same multiple of the same number of oth
 
 ## Proof
 
-[V.Def.2](DefV.1.md)
-Let any number of magnitudes *AB* and *CD* each be the same multiple of magnitudes *E* and *F* respectively.
+Let any number of magnitudes *AB* and *CD* each be the same multiple of magnitudes *E* and *F* respectively. ([V.Def.2](DefV.1.md))
 
 I say that the sum of *AB* and *CD* is the same multiple of the sum of *E* and *F* that *AB* is of *E.*
 

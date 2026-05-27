@@ -11,17 +11,13 @@ I say that the sum of the first and fifth, *AG,* has to the second *C* the same 
 
 ![java applet or image](propV24.gif)
 
-[V.7.Cor](PropV.7.md)
-Since *BG* is to *C* as *EH* is to *F,* inversely, *C* is to *BG* as *F* is to *EH.*
+Since *BG* is to *C* as *EH* is to *F,* inversely, *C* is to *BG* as *F* is to *EH.* ([V.7.Cor](PropV.7.md))
 
-[V.22](PropV.22.md)
-Then, since *AB* is to *C* as *DE* is to *F,* and *C* is to *BG* as *F* is to *EH,* therefore, *ex aequali, AB* is to *BG* as *DE* is to *EH.*
+Then, since *AB* is to *C* as *DE* is to *F,* and *C* is to *BG* as *F* is to *EH,* therefore, *ex aequali, AB* is to *BG* as *DE* is to *EH.* ([V.22](PropV.22.md))
 
-[V.18](PropV.18.md)
-And, since the magnitudes are proportional taken separately, they are also proportional taken jointly, therefore *AG* is to *GB* as *DH* is to *HE.*
+And, since the magnitudes are proportional taken separately, they are also proportional taken jointly, therefore *AG* is to *GB* as *DH* is to *HE.* ([V.18](PropV.18.md))
 
-[V.22](PropV.22.md)
-But also *BG* is to *C* as *EH* is to *F,* therefore, *ex aequali, AG* is to *C* as *DH* is to *F.*
+But also *BG* is to *C* as *EH* is to *F,* therefore, *ex aequali, AG* is to *C* as *DH* is to *F.* ([V.22](PropV.22.md))
 
 Therefore, *if a first magnitude has to a second the same ratio as a third has to a fourth, and also a fifth has to the second the same ratio as a sixth to the fourth, then the sum of the first and fifth has to the second the same ratio as the sum of the third and sixth has to the fourth.*
 

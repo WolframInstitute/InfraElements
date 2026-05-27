@@ -6,8 +6,7 @@ If two circles touch one another internally, and their centers are taken, then t
 
 ## Proof
 
-[III.1](PropIII.1.md)
-Let the two circles *ABC* and *ADE* touch one another internally at the point *A,* and let the centers *F* and *G* of the circles *ABC* and *ADE* be taken.
+Let the two circles *ABC* and *ADE* touch one another internally at the point *A,* and let the centers *F* and *G* of the circles *ABC* and *ADE* be taken. ([III.1](PropIII.1.md))
 
 ![java applet or image](propIII11.gif)
 
@@ -15,8 +14,7 @@ I say that the straight line joined from *G* to *F* and produced falls on *A.*
 
 For suppose it does not, but, if possible, let it fall as *FGH.* Join *AF* and *AG.*
 
-[I.20](../BookI/PropI.20.md)
-Then, since the sum of *AG* and *GF* is greater than *FA,* that is, than *FH,* subtract *FG* from each, therefore the remainder *AG* is greater than the remainder *GH.*
+Then, since the sum of *AG* and *GF* is greater than *FA,* that is, than *FH,* subtract *FG* from each, therefore the remainder *AG* is greater than the remainder *GH.* ([I.20](../BookI/PropI.20.md))
 
 But *AG* equals *GD,* therefore *GD* is also greater than *GH,* the less greater than the greater, which is impossible.
 

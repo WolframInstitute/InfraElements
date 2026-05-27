@@ -14,8 +14,7 @@ I say that they do not have the same center.
 
 For, if possible, let it be *F.* Join *FC,* and draw *FEB* through at random.
 
-[I.Def.15](../BookI/DefI.15.md)
-Then, since the point *F* is the center of the circle *ABC, FC* equals *FB.* Again, since the point *F* is the center of the circle *CDE, FC* equals *FE.*
+Then, since the point *F* is the center of the circle *ABC, FC* equals *FB.* Again, since the point *F* is the center of the circle *CDE, FC* equals *FE.* ([I.Def.15](../BookI/DefI.15.md))
 
 But *FC* was proved equal to *FB,* therefore *FE* also equals *FB,* the less equals the greater, which is impossible.
 

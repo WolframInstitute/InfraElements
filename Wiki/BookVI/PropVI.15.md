@@ -12,19 +12,15 @@ I say that in the triangles *ABC* and *ADE* the sides about the equal angles are
 
 ![java applet or image](propVI15.gif)
 
-[I.14](../BookI/PropI.14.md)
-Place them so that *CA* is in a straight line with *AD.* Therefore *EA* is also in a straight line with *AB.*
+Place them so that *CA* is in a straight line with *AD.* Therefore *EA* is also in a straight line with *AB.* ([I.14](../BookI/PropI.14.md))
 
 Join *BD.*
 
-[V.7](../BookV/PropV.7.md)
-Since then the triangle *ABC* equals the triangle *ADE,* and *ABD* is another triangle, therefore the triangle *ABC* is to the triangle *ABD* as the triangle *ADE* is to the triangle *ABD.*
+Since then the triangle *ABC* equals the triangle *ADE,* and *ABD* is another triangle, therefore the triangle *ABC* is to the triangle *ABD* as the triangle *ADE* is to the triangle *ABD.* ([V.7](../BookV/PropV.7.md))
 
-[VI.1](PropVI.1.md)
-But *ABC* is to *ABD* as *AC* is to *AD,* and *ADE* is to *ABD* as *AE* is to *AB.*
+But *ABC* is to *ABD* as *AC* is to *AD,* and *ADE* is to *ABD* as *AE* is to *AB.* ([VI.1](PropVI.1.md))
 
-[V.11](../BookV/PropV.11.md)
-Therefore also *AC* is to *AD* as *AE* is to *AB.*
+Therefore also *AC* is to *AD* as *AE* is to *AB.* ([V.11](../BookV/PropV.11.md))
 
 Therefore in the triangles *ABC* and *ADE* the sides about the equal angles are reciprocally proportional.
 
@@ -32,15 +28,11 @@ Next, let the sides of the triangles *ABC* and *ADE* be reciprocally proportiona
 
 I say that the triangle *ABC* equals the triangle *ADE.*
 
-[VI.1](PropVI.1.md)
-
-[V.11](../BookV/PropV.11.md)
-If *BD* is again joined, since *AC* is to *AD* as *AE* is to *AB,* while *AC* is to *AD* as the triangle *ABC* is to the triangle *ABD,* and *AE* is to *AB* as the triangle *ADE* is to the triangle *ABD,* therefore the triangle *ABC* is to the triangle *ABD* as the triangle *ADE* is to the triangle *ABD.*
+If *BD* is again joined, since *AC* is to *AD* as *AE* is to *AB,* while *AC* is to *AD* as the triangle *ABC* is to the triangle *ABD,* and *AE* is to *AB* as the triangle *ADE* is to the triangle *ABD,* therefore the triangle *ABC* is to the triangle *ABD* as the triangle *ADE* is to the triangle *ABD.* ([VI.1](PropVI.1.md), [V.11](../BookV/PropV.11.md))
 
 Therefore each of the triangles *ABC* and *ADE* has the same ratio to *ABD.*
 
-[V.9](../BookV/PropV.9.md)
-Therefore the triangle *ABC* equals the triangle *ADE.*
+Therefore the triangle *ABC* equals the triangle *ADE.* ([V.9](../BookV/PropV.9.md))
 
 Therefore, *in equal triangles which have one angle equal to one angle the sides about the equal angles are reciprocally proportional; and those triangles which have one angle equal to one angle, and in which the sides about the equal angles are reciprocally proportional, are equal.*
 

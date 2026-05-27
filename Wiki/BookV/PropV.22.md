@@ -8,26 +8,22 @@ If there are any number of magnitudes whatever, and others equal to them in mult
 
 Let there be any number of magnitudes *A, B,* and *C,* and others *D, E,* and *F* equal to them in multitude, which taken two and two together are in the same ratio, so that *A* is to *B* as *D* is to *E,* and *B* is to *C* as *E* is to *F.*
 
-[V.Def.17](DefV.17.md)
-I say that they are also in the same ratio *ex aequali,* that is, *A* is to *C* as *D* is to *F.*
+I say that they are also in the same ratio *ex aequali,* that is, *A* is to *C* as *D* is to *F.* ([V.Def.17](DefV.17.md))
 
 ![java applet or image](propV22.gif)
 
 Take equimultiples *G* and *H* of *A* and *D,* and take
 other, arbitrary, equimultiples *K* and *L* of *B* and *E,* and, further, take other, arbitrary, equimultiples *M* and *N* of *C* and *F.*
 
-[V.4](PropV.4.md)
-Then, since *A* is to *B* as *D* is to *E,* and of *A* and *D* equimultiples *G* and *H* have been taken, and of *B* and *E* other, arbitrary, equimultiples *K* and *L,* therefore *G* is to *K* as *H* is to *L.*
+Then, since *A* is to *B* as *D* is to *E,* and of *A* and *D* equimultiples *G* and *H* have been taken, and of *B* and *E* other, arbitrary, equimultiples *K* and *L,* therefore *G* is to *K* as *H* is to *L.* ([V.4](PropV.4.md))
 
 For the same reason also *K* is to *M* as *L* is to *N.*
 
-[V.20](PropV.20.md)
-Since, then, there are three magnitudes *G, K,* and *M,* and others *H, L,* and *N* equal to them in multitude, which taken two and two together are in the same ratio, therefore, *ex aequali,* if *G* is in excess of *M, H* is also in excess of *N*; if equal, equal; and if less, less.
+Since, then, there are three magnitudes *G, K,* and *M,* and others *H, L,* and *N* equal to them in multitude, which taken two and two together are in the same ratio, therefore, *ex aequali,* if *G* is in excess of *M, H* is also in excess of *N*; if equal, equal; and if less, less. ([V.20](PropV.20.md))
 
 And *G* and *H* are equimultiples of *A* and *D,* and *M* and *N* other, arbitrary, equimultiples of *C* and *F.*
 
-[V.Def.5](DefV.5.md)
-Therefore *A* is to *C* as *D* is to *F.*
+Therefore *A* is to *C* as *D* is to *F.* ([V.Def.5](DefV.5.md))
 
 Therefore, *if there are any number of magnitudes whatever, and others equal to them in multitude, which taken two and two together are in the same ratio, then they are also in the same ratio ex aequali.*
 

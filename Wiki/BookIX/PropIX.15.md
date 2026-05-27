@@ -12,24 +12,15 @@ I say that the sum of any two of the numbers *A, B,* and *C* is relatively prime
 
 ![java applet or image](propIX15.gif)
 
-[VIII.2](../BookVIII/PropVIII.2.md)
-Take two numbers *DE* and *EF* to be the least of those which have the same ratio with *A, B,* and *C.*
+Take two numbers *DE* and *EF* to be the least of those which have the same ratio with *A, B,* and *C.* ([VIII.2](../BookVIII/PropVIII.2.md))
 
-[Cor.](../BookVIII/PropVIII.2.md) to VIII.2
-It is then manifest that *DE* multiplied by itself makes *A,* and multiplied by *EF* makes *B,* and that *EF* multiplied by itself makes *C.*
+It is then manifest that *DE* multiplied by itself makes *A,* and multiplied by *EF* makes *B,* and that *EF* multiplied by itself makes *C.* ([Cor.](../BookVIII/PropVIII.2.md))
 
-[VII.22](../BookVII/PropVII.22.md)
+Now, since *DE* and *EF* are least, therefore they are relatively prime. But, if two numbers are relatively prime, then their sum is also relatively prime to each, therefore *DF* is relatively prime to each of the numbers *DE* and *EF.* ([VII.22](../BookVII/PropVII.22.md), [VII.28](../BookVII/PropVII.28.md))
 
-[VII.28](../BookVII/PropVII.28.md)
-Now, since *DE* and *EF* are least, therefore they are relatively prime. But, if two numbers are relatively prime, then their sum is also relatively prime to each, therefore *DF* is relatively prime to each of the numbers *DE* and *EF.*
+But, further, *DE* is also relatively prime to *EF,* therefore *DF* and *DE* are relatively prime to *EF.* But, if two numbers are relatively prime to any number, then their product is also relatively prime to the other, so that the product of *FD* and *DE* is relatively prime to *EF,* hence the product of *FD* and *DE* is also relatively prime to the square on *EF.* ([VII.24](../BookVII/PropVII.24.md), [VII.25](../BookVII/PropVII.25.md))
 
-[VII.24](../BookVII/PropVII.24.md)
-
-[VII.25](../BookVII/PropVII.25.md)
-But, further, *DE* is also relatively prime to *EF,* therefore *DF* and *DE* are relatively prime to *EF.* But, if two numbers are relatively prime to any number, then their product is also relatively prime to the other, so that the product of *FD* and *DE* is relatively prime to *EF,* hence the product of *FD* and *DE* is also relatively prime to the square on *EF.*
-
-[II.3](../BookII/PropII.3.md)
-But the product of *FD* and *DE* is the square on *DE* together with the product of *DE* and *EF,* therefore the sum of the square on *DE* and the product of *DE* and *EF* is relatively prime to the square on *EF.*
+But the product of *FD* and *DE* is the square on *DE* together with the product of *DE* and *EF,* therefore the sum of the square on *DE* and the product of *DE* and *EF* is relatively prime to the square on *EF.* ([II.3](../BookII/PropII.3.md))
 
 And the square on *DE* is *A,* the product of *DE* and *EF* is *B,* and the square on *EF* is *C,* therefore the sum of *A* and *B* is prime to *C.*
 
@@ -37,13 +28,9 @@ Similarly we can prove that the sum of *B* and *C* is relatively prime to *A.*
 
 I say next that the sum of *A* and *C* is also relatively prime to *B.*
 
-[VII.24](../BookVII/PropVII.24.md)
+Since *DF* is relatively prime to each of the numbers *DE* and *EF,* therefore the square on *DF* is also relatively prime to the product of *DE* and *EF.* ([VII.24](../BookVII/PropVII.24.md), [VII.25](../BookVII/PropVII.25.md))
 
-[VII.25](../BookVII/PropVII.25.md)
-Since *DF* is relatively prime to each of the numbers *DE* and *EF,* therefore the square on *DF* is also relatively prime to the product of *DE* and *EF.*
-
-[II.4](../BookII/PropII.4.md)
-But the sum of the squares on *DE* and *EF* together with twice the product of *DE* and *EF* equals the square on *DF,* therefore the sum of the squares on *DE* and *EF* together with twice the product of *DE* and *EF* is relatively prime to the product of *DE* and *EF.*
+But the sum of the squares on *DE* and *EF* together with twice the product of *DE* and *EF* equals the square on *DF,* therefore the sum of the squares on *DE* and *EF* together with twice the product of *DE* and *EF* is relatively prime to the product of *DE* and *EF.* ([II.4](../BookII/PropII.4.md))
 
 Taken separately, the sum of the squares on *DE* and *EF* together with the product of *DE* and *EF* is relatively prime to the product of *DE* and *EF.*
 

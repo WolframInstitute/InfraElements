@@ -12,8 +12,7 @@ Let there be as many numbers as we please, *B, C, D,* and *E,* beginning from th
 
 I say that *B,* the least of the numbers *B, C, D,* and *E,* measures *E* according to one of the numbers *C* or *D.*
 
-[VII.15](../BookVII/PropVII.15.md)
-Since the unit *A* is to *B* as *D* is to *E,* therefore the unit *A* measures the number *B* the same number of times as *D* measures *E.* Therefore, alternately, the unit *A* measures *D* the same number of times as *B* measures *E.*
+Since the unit *A* is to *B* as *D* is to *E,* therefore the unit *A* measures the number *B* the same number of times as *D* measures *E.* Therefore, alternately, the unit *A* measures *D* the same number of times as *B* measures *E.* ([VII.15](../BookVII/PropVII.15.md))
 
 But the unit *A* measures *D* according to the units in it, therefore *B* also measures *E* according to the units in *D,* so that *B* the less measures *E* the greater according to some number of those which have place among the proportional numbers.
 

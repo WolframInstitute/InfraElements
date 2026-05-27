@@ -12,14 +12,11 @@ Let the four numbers *A, B, C,* and *D* be proportional, so that *A* is to *B* a
 
 I say that they are also proportional alternately, so that *A* is to *C* as *B* is to *D.*
 
-[VII.Def.20](DefVII.20.md)
-Since *A* is to *B* as *C* is to *D,* therefore, *A* is the same part or parts of *B* as *C* is of *D.*
+Since *A* is to *B* as *C* is to *D,* therefore, *A* is the same part or parts of *B* as *C* is of *D.* ([VII.Def.20](DefVII.20.md))
 
-[VII.10](PropVII.10.md)
-Therefore, alternately, *A* is the same part or parts of *C* as *B* is of *D.*
+Therefore, alternately, *A* is the same part or parts of *C* as *B* is of *D.* ([VII.10](PropVII.10.md))
 
-[VII.Def.20](DefVII.20.md)
-Therefore *A* is to *C* as *B* is to *D.*
+Therefore *A* is to *C* as *B* is to *D.* ([VII.Def.20](DefVII.20.md))
 
 Therefore, *if four numbers are proportional, then they are also proportional alternately.*
 

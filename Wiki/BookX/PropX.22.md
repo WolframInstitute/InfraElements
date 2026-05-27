@@ -10,36 +10,25 @@ Let *A* be medial and *CB* rational, and let a rectangular area *BD* equal to th
 
 I say that *CD* is rational and incommensurable in length with *CB*.
 
-[X.21](PropX.21.md)
-Since *A* is medial, the square on it equals a rectangular area contained by rational straight lines commensurable in square only.
+Since *A* is medial, the square on it equals a rectangular area contained by rational straight lines commensurable in square only. ([X.21](PropX.21.md))
 
 ![java applet or image](propX22.gif)
 
 Let the square on it equal *GF*. But the square on it also equals *BD*, therefore *BD* equals *GF*.
 
-[VI.14](../BookVI/PropVI.14.md)
-But it is also equiangular with it, and in equal and equiangular parallelograms the sides about the equal angles are reciprocally proportional, therefore, *BC* is to *EG* as *EF* is to *CD*.
+But it is also equiangular with it, and in equal and equiangular parallelograms the sides about the equal angles are reciprocally proportional, therefore, *BC* is to *EG* as *EF* is to *CD*. ([VI.14](../BookVI/PropVI.14.md))
 
-[VI.22](../BookVI/PropVI.22.md)
-Therefore the square on *BC* is to the square on *EG* as the square on *EF* is to the square on *CD*.
+Therefore the square on *BC* is to the square on *EG* as the square on *EF* is to the square on *CD*. ([VI.22](../BookVI/PropVI.22.md))
 
-[X.11](PropX.11.md)
-But the square on *CB* is commensurable with the square on *EG*, for each of these straight lines is rational, therefore the square on *EF* is also commensurable with the square on *CD*.
+But the square on *CB* is commensurable with the square on *EG*, for each of these straight lines is rational, therefore the square on *EF* is also commensurable with the square on *CD*. ([X.11](PropX.11.md))
 
-[X.Def.I.4](DefX.I.4.md)
-But the square on *EF* is rational, therefore the square on *CD* is also rational. Therefore *CD* is rational.
+But the square on *EF* is rational, therefore the square on *CD* is also rational. Therefore *CD* is rational. ([X.Def.I.4](DefX.I.4.md))
 
-Lemma
+And since *EF* is incommensurable in length with *EG*, for they are commensurable in square only, while *EF* is to *EG* as the square on *EF* is to the rectangle *FE* by *EG*, therefore the square on *EF* is incommensurable with the rectangle *FE* by *EG*. (Lemma, [X.11](PropX.11.md))
 
-[X.11](PropX.11.md)
-And since *EF* is incommensurable in length with *EG*, for they are commensurable in square only, while *EF* is to *EG* as the square on *EF* is to the rectangle *FE* by *EG*, therefore the square on *EF* is incommensurable with the rectangle *FE* by *EG*.
+But the square on *CD* is commensurable with the square on *EF*, for the straight lines are rational in square, and the rectangle *DC* by *CB* is commensurable with the rectangle *FE* by *EG*, for they equal the square on *A*, therefore the square on *CD* is incommensurable with the rectangle *DC* by *CB*. ([X.13](PropX.13.md))
 
-[X.13](PropX.13.md)
-But the square on *CD* is commensurable with the square on *EF*, for the straight lines are rational in square, and the rectangle *DC* by *CB* is commensurable with the rectangle *FE* by *EG*, for they equal the square on *A*, therefore the square on *CD* is incommensurable with the rectangle *DC* by *CB*.
-
-Lemma,
-[X.11](PropX.11.md)
-But the square on *CD* is to the rectangle *DC* by *CB* as *DC* is to *CB*, therefore *DC* is incommensurable in length with *CB*.
+But the square on *CD* is to the rectangle *DC* by *CB* as *DC* is to *CB*, therefore *DC* is incommensurable in length with *CB*. (Lemma, [X.11](PropX.11.md))
 
 Therefore *CD* is rational and incommensurable in length with *CB*.
 

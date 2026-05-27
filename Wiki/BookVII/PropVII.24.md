@@ -14,27 +14,19 @@ I say that *C* and *D* are relatively prime.
 
 If *C* and *D* are not relatively prime, then some number *E* measures *C* and *D.*
 
-[VII.23](PropVII.23.md)
-Now, since *C* and *A* are relatively prime, and a certain number *E* measures *C,* therefore *A* and *E* are relatively prime.
+Now, since *C* and *A* are relatively prime, and a certain number *E* measures *C,* therefore *A* and *E* are relatively prime. ([VII.23](PropVII.23.md))
 
-[VII.16](PropVII.16.md)
-Let there be as many units in *F* as the times that *E* measures *D.* Then *F* also measures *D* according to the units in *E.*
+Let there be as many units in *F* as the times that *E* measures *D.* Then *F* also measures *D* according to the units in *E.* ([VII.16](PropVII.16.md))
 
-[VII.Def.15](DefVII.15.md)
-Therefore *E* multiplied by *F* makes *D.* Also, *A* multiplied by *B* makes *D,* therefore the product of *E* and *F* equals the product of *A* and *B.*
+Therefore *E* multiplied by *F* makes *D.* Also, *A* multiplied by *B* makes *D,* therefore the product of *E* and *F* equals the product of *A* and *B.* ([VII.Def.15](DefVII.15.md))
 
-[VII.19](PropVII.19.md)
-But, if the product of the extremes equal that of the means, then the four numbers are proportional. Therefore *E* is to *A* as *B* is to *F.*
+But, if the product of the extremes equal that of the means, then the four numbers are proportional. Therefore *E* is to *A* as *B* is to *F.* ([VII.19](PropVII.19.md))
 
-[VII.21](PropVII.21.md)
-
-[VII.20](PropVII.20.md)
-But *A* and *E* are relatively prime, numbers which are relatively prime are also the least of those which have the same ratio, and the least numbers of those which have the same ratio with them measure those which have the same ratio the same number of times, the greater the greater, and the less the less, that is, the antecedent the antecedent and the consequent the consequent, therefore *E* measures *B.*
+But *A* and *E* are relatively prime, numbers which are relatively prime are also the least of those which have the same ratio, and the least numbers of those which have the same ratio with them measure those which have the same ratio the same number of times, the greater the greater, and the less the less, that is, the antecedent the antecedent and the consequent the consequent, therefore *E* measures *B.* ([VII.21](PropVII.21.md), [VII.20](PropVII.20.md))
 
 But it also measures *C,* therefore *E* measures *B* and *C* which are relatively prime, which is impossible.
-[VII.Def.12](DefVII.11.md)
 
-Therefore no number measures the numbers *C* and *D.* Therefore *C* and *D* are relatively prime.
+Therefore no number measures the numbers *C* and *D.* Therefore *C* and *D* are relatively prime. ([VII.Def.12](DefVII.11.md))
 
 Therefore, *if two numbers are relatively prime to any number, then their product is also relatively prime to the same.*
 

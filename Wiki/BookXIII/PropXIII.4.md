@@ -11,12 +11,9 @@ I say that the sum of the squares on *AB* and *BC* is triple the square on *CA.*
 
 ![java applet or image](propXIII4.gif)
 
-[I.46](../BookI/PropI.46.md)
-Describe the square *ADEB* on *AB,* and draw the figure.
+Describe the square *ADEB* on *AB,* and draw the figure. ([I.46](../BookI/PropI.46.md))
 
-[VI.Def.3](../BookVI/DefVI.3.md),
-[VI.17](../BookVI/PropVI.17.md)
-Since, then, *AB* is cut in extreme and mean ratio at *C,* and *AC* is the greater segment, therefore the rectangle *AB* by *BC* equals the square on *AC.*
+Since, then, *AB* is cut in extreme and mean ratio at *C,* and *AC* is the greater segment, therefore the rectangle *AB* by *BC* equals the square on *AC.* ([VI.Def.3](../BookVI/DefVI.3.md), [VI.17](../BookVI/PropVI.17.md))
 
 And *AK* is the rectangle *AB* by *BC,* and *HG* is the square on *AC,* therefore *AK* equals *HG.*
 

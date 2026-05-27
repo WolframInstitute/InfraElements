@@ -14,17 +14,13 @@ I say that the angle *BAC* in the semicircle *BAC* is right, the angle *ABC* in 
 
 Join *AE,* and carry *BA* through to *F.*
 
-[I.5](../BookI/PropI.5.md)
-Then, since *BE* equals *EA,* the angle *ABE* also equals the angle *BAE.* Again, since *CE* equals *EA,* the angle *ACE* also equals the angle *CAE.* Therefore the whole angle *BAC* equals the sum of the two angles *ABC* and *ACB.*
+Then, since *BE* equals *EA,* the angle *ABE* also equals the angle *BAE.* Again, since *CE* equals *EA,* the angle *ACE* also equals the angle *CAE.* Therefore the whole angle *BAC* equals the sum of the two angles *ABC* and *ACB.* ([I.5](../BookI/PropI.5.md))
 
-[I.32](../BookI/PropI.32.md)
-But the angle *FAC* exterior to the triangle *ABC* also equals the sum of the two angles *ABC* and *ACB.* Therefore the angle *BAC* also equals the angle *FAC.* Therefore each is right. Therefore the angle *BAC* in the semicircle *BAC* is right.
+But the angle *FAC* exterior to the triangle *ABC* also equals the sum of the two angles *ABC* and *ACB.* Therefore the angle *BAC* also equals the angle *FAC.* Therefore each is right. Therefore the angle *BAC* in the semicircle *BAC* is right. ([I.32](../BookI/PropI.32.md))
 
-[I.17](../BookI/PropI.17.md)
-Next, since in the triangle *ABC* the sum of the two angles *ABC* and *BAC* is less than two right angles, and the angle *BAC* is a right angle, the angle *ABC* is less than a right angle. And it is the angle in the segment *ABC* greater than the semicircle.
+Next, since in the triangle *ABC* the sum of the two angles *ABC* and *BAC* is less than two right angles, and the angle *BAC* is a right angle, the angle *ABC* is less than a right angle. And it is the angle in the segment *ABC* greater than the semicircle. ([I.17](../BookI/PropI.17.md))
 
-[III.22](PropIII.22.md)
-Next, since *ABCD* is a quadrilateral in a circle, and the sum of the opposite angles of quadrilaterals in circles equals two right angles, while the angle *ABC* is less than a right angle, therefore the remaining angle *ADC* is greater than a right angle. And it is the angle in the segment *ADC* less than the semicircle.
+Next, since *ABCD* is a quadrilateral in a circle, and the sum of the opposite angles of quadrilaterals in circles equals two right angles, while the angle *ABC* is less than a right angle, therefore the remaining angle *ADC* is greater than a right angle. And it is the angle in the segment *ADC* less than the semicircle. ([III.22](PropIII.22.md))
 
 I say further that the angle of the greater segment, namely that contained by the circumference *ABC* and the straight line *AC,* is greater than a right angle, and the angle of the less segment, namely that contained by the circumference *ADC* and the straight line *AC,* is less than a right angle.
 

@@ -13,20 +13,15 @@ I say that the prism *ABCDEF* is divided into three pyramids equal to one anothe
 
 Join *BD, EC,* and *CD.*
 
-[I.34](../BookI/PropI.34.md)
-
-[XII.5](PropXII.5.md)
-Since *ABED* is a parallelogram, and *BD* is its diameter, therefore the triangle *ABD* equals the triangle *EBD.* Therefore the pyramid with triangular base *ABD* and vertex *C* equals the pyramid with triangular base *DEB* and vertex *C.*
+Since *ABED* is a parallelogram, and *BD* is its diameter, therefore the triangle *ABD* equals the triangle *EBD.* Therefore the pyramid with triangular base *ABD* and vertex *C* equals the pyramid with triangular base *DEB* and vertex *C.* ([I.34](../BookI/PropI.34.md), [XII.5](PropXII.5.md))
 
 But the pyramid with triangular base *DEB* and vertex *C* is identical with the pyramid with triangular base *EBC* and vertex *D,* for they are contained by the same planes.
 
 Therefore the pyramid with triangular base *ABD* vertex *C* is also equal to the pyramid with triangular base *EBC* and vertex *D.*
 
-[I.34](../BookI/PropI.34.md)
-Again, since *FCBE* is a parallelogram, and *CE* is its diameter, therefore the triangle *CEF* equals the triangle *CBE.*
+Again, since *FCBE* is a parallelogram, and *CE* is its diameter, therefore the triangle *CEF* equals the triangle *CBE.* ([I.34](../BookI/PropI.34.md))
 
-[XII.5](PropXII.5.md)
-Therefore the pyramid with triangular base *BCE* and vertex *D* equals the pyramid with triangular base *ECF* and vertex *D.*
+Therefore the pyramid with triangular base *BCE* and vertex *D* equals the pyramid with triangular base *ECF* and vertex *D.* ([XII.5](PropXII.5.md))
 
 But the pyramid with triangular base *BCE* and vertex *D* was proved equal to the pyramid with triangular base *ABD* and vertex *C,* therefore the pyramid with triangular base *CEF* and vertex *D* equals the pyramid with triangular base *ABD* and vertex *C.* Therefore the prism *ABCDEF* is divided into three pyramids equal to one another which have triangular bases.
 

@@ -6,8 +6,7 @@ If a first magnitude is the same multiple of a second that a third is of a fourt
 
 ## Proof
 
-[V.Def.2](DefV.1.md)
-Let a first magnitude *A* be the same multiple of a second *B* that a third *C* is of a fourth *D,* and let equimultiples *EF* and *GH* be taken of *A* and *C.*
+Let a first magnitude *A* be the same multiple of a second *B* that a third *C* is of a fourth *D,* and let equimultiples *EF* and *GH* be taken of *A* and *C.* ([V.Def.2](DefV.1.md))
 
 I say that *EF* is the same multiple of *B* that *GH* is of *D.*
 
@@ -21,8 +20,7 @@ And, since *A* is the same multiple of *B* that *C* is of *D,* while *EK* equals
 
 For the same reason *KF* is the same multiple of *B* that *LH* is of *D.*
 
-[V.2](PropV.2.md)
-Since a first magnitude *EK* is the same multiple of a second *B* that a third *GL* is of a fourth *D,* and a fifth *KF* is the same multiple of the second *B* that a sixth *LH* is of the fourth *D,* therefore the sum *EF* of the first and fifth is the same multiple of the second *B* that the sum *GH* of the third and sixth is of the fourth *D.*
+Since a first magnitude *EK* is the same multiple of a second *B* that a third *GL* is of a fourth *D,* and a fifth *KF* is the same multiple of the second *B* that a sixth *LH* is of the fourth *D,* therefore the sum *EF* of the first and fifth is the same multiple of the second *B* that the sum *GH* of the third and sixth is of the fourth *D.* ([V.2](PropV.2.md))
 
 Therefore, *if a first magnitude is the same multiple of a second that a third is of a fourth, and if equimultiples are taken of the first and third, then the magnitudes taken also are equimultiples respectively, the one of the second and the other of the fourth.*
 

@@ -14,11 +14,9 @@ I say that the angle *BEC* is double the angle *BAC.*
 
 Join *AE,* and draw it through to *F.*
 
-[I.5](../BookI/PropI.5.md)
-Then, since *EA* equals *EB,* the angle *EAB* also equals the angle *EBA.* Therefore the sum of the angles the angles *EAB* and *EBA* is double the angle *EAB.*
+Then, since *EA* equals *EB,* the angle *EAB* also equals the angle *EBA.* Therefore the sum of the angles the angles *EAB* and *EBA* is double the angle *EAB.* ([I.5](../BookI/PropI.5.md))
 
-[I.32](../BookI/PropI.32.md)
-But the angle *BEF* equals the sum of the angles *EAB* and *EBA,* therefore the angle *BEF,* is also double the angle *EAB.*
+But the angle *BEF* equals the sum of the angles *EAB* and *EBA,* therefore the angle *BEF,* is also double the angle *EAB.* ([I.32](../BookI/PropI.32.md))
 
 For the same reason the angle *FEC* is also double the angle *EAC.*
 

@@ -12,8 +12,7 @@ I say that *A* is both even-times-even and even-times-odd.
 
 ![java applet or image](propIX33.gif)
 
-[VII.Def.8](../BookVII/DefVII.6.md)
-Now that *A* is even-times-even is clear, for it has not its half odd.
+Now that *A* is even-times-even is clear, for it has not its half odd. ([VII.Def.8](../BookVII/DefVII.6.md))
 
 I say next that it is also even-times-odd.
 

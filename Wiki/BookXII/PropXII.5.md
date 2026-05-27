@@ -17,21 +17,15 @@ Let it, first, be in that ratio to a less solid *W.*
 
 Divide the pyramid *DEFH* into two pyramids equal to one another and similar to the whole and into two equal prisms.
 
-[XII.3](PropXII.3.md)
-Then the two prisms are greater than the half of the whole pyramid.
+Then the two prisms are greater than the half of the whole pyramid. ([XII.3](PropXII.3.md))
 
-[X.1](../BookX/PropX.1.md)
-Again, divide the pyramids arising from the division similarly, and let this be done repeatedly until there are left over from the pyramid *DEFH* some pyramids which are less than the excess by which the pyramid *DEFH* exceeds the solid *W.*
+Again, divide the pyramids arising from the division similarly, and let this be done repeatedly until there are left over from the pyramid *DEFH* some pyramids which are less than the excess by which the pyramid *DEFH* exceeds the solid *W.* ([X.1](../BookX/PropX.1.md))
 
 Let such be left, and let them be, for the sake of argument, *DQRS* and *STUH.* Therefore the remainders, the prisms in the pyramid *DEFH,* are greater than the solid *W.*
 
-[XII.4](PropXII.4.md)
-Divide the pyramid *ABCG* similarly, and a same number of times, with the pyramid *DEFH.* Therefore the base *ABC* is to the base *DEF* as the prisms in the pyramid *ABCG* are to the prisms in the pyramid *DEFH.*
+Divide the pyramid *ABCG* similarly, and a same number of times, with the pyramid *DEFH.* Therefore the base *ABC* is to the base *DEF* as the prisms in the pyramid *ABCG* are to the prisms in the pyramid *DEFH.* ([XII.4](PropXII.4.md))
 
-[V.11](../BookV/PropV.11.md)
-
-[V.16](../BookV/PropV.16.md)
-But the base *ABC* is to the base *DEF* as the pyramid *ABCG* is to the solid *W,* therefore the pyramid *ABCG* is to the solid *W* as the prisms in the pyramid *ABCG* are to the prisms in the pyramid *DEFH.* Therefore, alternately the pyramid *ABCG* is to the prisms in it as the solid *W* is to the prisms in the pyramid *DEFH.*
+But the base *ABC* is to the base *DEF* as the pyramid *ABCG* is to the solid *W,* therefore the pyramid *ABCG* is to the solid *W* as the prisms in the pyramid *ABCG* are to the prisms in the pyramid *DEFH.* Therefore, alternately the pyramid *ABCG* is to the prisms in it as the solid *W* is to the prisms in the pyramid *DEFH.* ([V.11](../BookV/PropV.11.md), [V.16](../BookV/PropV.16.md))
 
 But the pyramid *ABCG* is greater than the prisms in it, therefore the solid *W* is also greater than the prisms in the pyramid *DEFH.*
 
@@ -47,10 +41,7 @@ For, if possible, let it be in that ratio to a greater solid *W.*
 
 Therefore, inversely the base *DEF* is to the base *ABC* as the solid *W* is to the pyramid *ABCG.*
 
-[XII.2,Lemma](PropXII.2.md)
-
-[V.11](../BookV/PropV.11.md)
-But it was proved before that the solid *W* is to the solid *ABCG* as the pyramid *DEFH* is to some solid less than the pyramid *ABCG.* Therefore the base *DEF* is to the base *ABC* as the pyramid *DEFH* is to some solid less than the pyramid *ABCG,* which was proved absurd.
+But it was proved before that the solid *W* is to the solid *ABCG* as the pyramid *DEFH* is to some solid less than the pyramid *ABCG.* Therefore the base *DEF* is to the base *ABC* as the pyramid *DEFH* is to some solid less than the pyramid *ABCG,* which was proved absurd. ([XII.2,Lemma](PropXII.2.md), [V.11](../BookV/PropV.11.md))
 
 Therefore the pyramid *ABCG* is not to any solid greater than the pyramid *DEFH* as the base *ABC* is to the base *DEF.*
 

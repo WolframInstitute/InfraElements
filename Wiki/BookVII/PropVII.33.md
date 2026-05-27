@@ -13,16 +13,11 @@ Either *A, B,* and *C* are relatively prime or they are not.
 
 ![java applet or image](propVII33.gif)
 
-[VII.21](PropVII.21.md)
-Now, if *A, B,* and *C* are relatively prime, then they are the least of those which have the same ratio with them.
+Now, if *A, B,* and *C* are relatively prime, then they are the least of those which have the same ratio with them. ([VII.21](PropVII.21.md))
 
-[VII.3](PropVII.3.md)
-But, if not, take *D* the greatest common measure of *A, B,* and *C.* Let there be as many units in the numbers *E, F,* and *G* as the times that *D* measures the numbers *A, B,* and *C* respectively.
+But, if not, take *D* the greatest common measure of *A, B,* and *C.* Let there be as many units in the numbers *E, F,* and *G* as the times that *D* measures the numbers *A, B,* and *C* respectively. ([VII.3](PropVII.3.md))
 
-[VII.16](PropVII.16.md)
-
-[VII.Def.20](DefVII.20.md)
-Therefore the numbers *E, F,* and *G* measure the numbers *A, B,* and *C* respectively according to the units in *D.* Therefore *E, F,* and *G* measure *A, B,* and *C* the same number of times. Therefore *E, F,* and *G* are in the same ratio with *A, B,* and *C.*
+Therefore the numbers *E, F,* and *G* measure the numbers *A, B,* and *C* respectively according to the units in *D.* Therefore *E, F,* and *G* measure *A, B,* and *C* the same number of times. Therefore *E, F,* and *G* are in the same ratio with *A, B,* and *C.* ([VII.16](PropVII.16.md), [VII.Def.20](DefVII.20.md))
 
 I say next that they are the least that are in that ratio.
 
@@ -30,14 +25,11 @@ If *E, F,* and *G* are not the least of those which have the same ratio with *A,
 
 Let there be as many units in *M* as the times that *H* measures *A.* Then the numbers *K* and *L* also measure the numbers *B* and *C* respectively according to the units in *M.*
 
-[VII.16](PropVII.16.md)
-And, since *H* measures *A* according to the units in *M,* therefore *M* also measures *A* according to the units in *H.* For the same reason *M* also measures the numbers *B* and *C* according to the units in the numbers *K* and *L* respectively. Therefore *M* measures *A, B,* and *C.*
+And, since *H* measures *A* according to the units in *M,* therefore *M* also measures *A* according to the units in *H.* For the same reason *M* also measures the numbers *B* and *C* according to the units in the numbers *K* and *L* respectively. Therefore *M* measures *A, B,* and *C.* ([VII.16](PropVII.16.md))
 
-[VII.Def.15](DefVII.15.md)
-Now, since *H* measures *A* according to the units in *M,* therefore *H* multiplied by *M* makes *A.* For the same reason also *E* multiplied by *D* makes *A.*
+Now, since *H* measures *A* according to the units in *M,* therefore *H* multiplied by *M* makes *A.* For the same reason also *E* multiplied by *D* makes *A.* ([VII.Def.15](DefVII.15.md))
 
-[VII.19](PropVII.19.md)
-Therefore the product of *E* and *D* equals the product of *H* and *M.* Therefore *E* is to *H* as *M* is to *D.*
+Therefore the product of *E* and *D* equals the product of *H* and *M.* Therefore *E* is to *H* as *M* is to *D.* ([VII.19](PropVII.19.md))
 
 But *E* is greater than *H,* therefore *M* is also greater than *D.* And it measures *A, B,* and *C,* which is impossible, for by hypothesis, *D* is the greatest common measure of *A, B,* and *C.*
 

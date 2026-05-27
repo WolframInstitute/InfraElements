@@ -14,22 +14,15 @@ Set out a rational straight line *H*, and to *CD* apply a rectangle equal to the
 
 ![java applet or image](propX114.gif)
 
-[X.112](PropX.112.md)
-Let its terms be *KM* and *ML* commensurable with the terms *CE* and *ED* of the binomial straight line and in the same ratio.
+Let its terms be *KM* and *ML* commensurable with the terms *CE* and *ED* of the binomial straight line and in the same ratio. ([X.112](PropX.112.md))
 
 But *CE* and *ED* are also commensurable with *AF* and *FB* and in the same ratio, therefore *AF* is to *FB* as *KM* is to *ML*.
 
-[V.19](../BookV/PropV.19.md)
-Therefore, alternately, *AF* is to *KM* as *BF* is to *LM*. Therefore the remainder *AB* is to the remainder *KL* as *AF* is to *KM*.
+Therefore, alternately, *AF* is to *KM* as *BF* is to *LM*. Therefore the remainder *AB* is to the remainder *KL* as *AF* is to *KM*. ([V.19](../BookV/PropV.19.md))
 
-[X.12](PropX.12.md),
-[X.11](PropX.11.md)
-But *AF* is commensurable with *KM*, therefore *AB* is also commensurable with *KL*.
+But *AF* is commensurable with *KM*, therefore *AB* is also commensurable with *KL*. ([X.12](PropX.12.md), [X.11](PropX.11.md))
 
-[VI.1](../BookVI/PropVI.1.md)
-
-[X.11](PropX.11.md)
-And *AB* is to *KL* as the rectangle *CD* by *AB* is to the rectangle *CD* by *KL*, therefore the rectangle *CD* by *AB* is also commensurable with the rectangle *CD* by *KL*.
+And *AB* is to *KL* as the rectangle *CD* by *AB* is to the rectangle *CD* by *KL*, therefore the rectangle *CD* by *AB* is also commensurable with the rectangle *CD* by *KL*. ([VI.1](../BookVI/PropVI.1.md), [X.11](PropX.11.md))
 
 But the rectangle *CD* by *KL* equals the square on *H*, therefore the rectangle *CD* by *AB* is commensurable with the square on *H*.
 

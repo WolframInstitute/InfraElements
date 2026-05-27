@@ -14,19 +14,13 @@ I say that the remaining sides equal the remaining sides respectively, namely *A
 
 If *AB* does not equal *DE,* then one of them is greater.
 
-[I.3](PropI.3.md),
-[I.Post.1](PostI.1.md)
-Let *AB* be greater. Make *BG* equal to *DE,* and join *GC.*
+Let *AB* be greater. Make *BG* equal to *DE,* and join *GC.* ([I.3](PropI.3.md), [I.Post.1](PostI.1.md))
 
-[I.4](PropI.4.md)
-
-[C.N.1](CNI.1.md)
-Since *BG* equals *DE,* and *BC* equals *EF,* the two sides *GB* and *BC* equal the two sides *DE* and *EF* respectively, and the angle *GBC* equals the angle *DEF,* therefore the base *GC* equals the base *DF,* the triangle *GBC* equals the triangle *DEF,* and the remaining angles equal the remaining angles, namely those opposite the equal sides. Therefore the angle *GCB* equals the angle *DFE.* But the angle *DFE* equals the angle *ACB* by hypothesis. Therefore the angle *BCG* equals the angle *BCA,* the less equals the greater, which is impossible.
+Since *BG* equals *DE,* and *BC* equals *EF,* the two sides *GB* and *BC* equal the two sides *DE* and *EF* respectively, and the angle *GBC* equals the angle *DEF,* therefore the base *GC* equals the base *DF,* the triangle *GBC* equals the triangle *DEF,* and the remaining angles equal the remaining angles, namely those opposite the equal sides. Therefore the angle *GCB* equals the angle *DFE.* But the angle *DFE* equals the angle *ACB* by hypothesis. Therefore the angle *BCG* equals the angle *BCA,* the less equals the greater, which is impossible. ([I.4](PropI.4.md), [C.N.1](CNI.1.md))
 
 Therefore *AB* is not unequal to *DE,* and therefore equals it.
 
-[I.4](PropI.4.md)
-But *BC* also equals *EF.* Therefore the two sides *AB* and *BC* equal the two sides *DE* and *EF* respectively, and the angle *ABC* equals the angle *DEF.* Therefore the base *AC* equals the base *DF,* and the remaining angle *BAC* equals the remaining angle *EDF.*
+But *BC* also equals *EF.* Therefore the two sides *AB* and *BC* equal the two sides *DE* and *EF* respectively, and the angle *ABC* equals the angle *DEF.* Therefore the base *AC* equals the base *DF,* and the remaining angle *BAC* equals the remaining angle *EDF.* ([I.4](PropI.4.md))
 
 Next, let sides opposite equal angles be equal, as *AB* equals *DE.*
 
@@ -36,22 +30,15 @@ If *BC* is unequal to *EF,* then one of them is greater.
 
 ![java applet or image](propI26b.gif)
 
-[I.3](PropI.3.md),
-[I.Post.1](PostI.1.md)
-Let *BC* be greater, if possible. Make *BH* equal to *EF,* and join *AH.*
+Let *BC* be greater, if possible. Make *BH* equal to *EF,* and join *AH.* ([I.3](PropI.3.md), [I.Post.1](PostI.1.md))
 
-[I.4](PropI.4.md)
-Since *BH* equals *EF,* and *AB* equals *DE,* the two sides *AB* and *BH* equal the two sides *DE* and *EF* respectively, and they contain equal angles, therefore the base *AH* equals the base *DF,* the triangle *ABH* equals the triangle *DEF,* and the remaining angles equal the remaining angles, namely those opposite the equal sides. Therefore the angle *BHA* equals the angle *EFD.*
+Since *BH* equals *EF,* and *AB* equals *DE,* the two sides *AB* and *BH* equal the two sides *DE* and *EF* respectively, and they contain equal angles, therefore the base *AH* equals the base *DF,* the triangle *ABH* equals the triangle *DEF,* and the remaining angles equal the remaining angles, namely those opposite the equal sides. Therefore the angle *BHA* equals the angle *EFD.* ([I.4](PropI.4.md))
 
-[C.N.1](CNI.1.md)
-
-[I.16](PropI.16.md)
-But the angle *EFD* equals the angle *BCA,* therefore, in the triangle *AHC,* the exterior angle *BHA* equals the interior and opposite angle *BCA,* which is impossible.
+But the angle *EFD* equals the angle *BCA,* therefore, in the triangle *AHC,* the exterior angle *BHA* equals the interior and opposite angle *BCA,* which is impossible. ([C.N.1](CNI.1.md), [I.16](PropI.16.md))
 
 Therefore *BC* is not unequal to *EF,* and therefore equals it.
 
-[I.4](PropI.4.md)
-But *AB* also equals *DE.* Therefore the two sides *AB* and *BC* equal the two sides *DE* and *EF* respectively, and they contain equal angles. Therefore the base *AC* equals the base *DF,* the triangle *ABC* equals the triangle *DEF,* and the remaining angle *BAC* equals the remaining angle *EDF.*
+But *AB* also equals *DE.* Therefore the two sides *AB* and *BC* equal the two sides *DE* and *EF* respectively, and they contain equal angles. Therefore the base *AC* equals the base *DF,* the triangle *ABC* equals the triangle *DEF,* and the remaining angle *BAC* equals the remaining angle *EDF.* ([I.4](PropI.4.md))
 
 Therefore *if two triangles have two angles equal to two angles respectively, and one side equal to one side, namely, either the side adjoining the equal angles, or that opposite one of the equal angles, then the remaining sides equal the remaining sides and the remaining angle equals the remaining angle.*
 

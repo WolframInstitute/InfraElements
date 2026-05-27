@@ -14,11 +14,9 @@ For suppose it does not, but, if possible, let it fall within as *CA,* and join 
 
 ![java applet or image](propIII16.gif)
 
-[I.5](../BookI/PropI.5.md)
-Since *DA* equals *DC,* the angle *DAC* also equals the angle *ACD.*
+Since *DA* equals *DC,* the angle *DAC* also equals the angle *ACD.* ([I.5](../BookI/PropI.5.md))
 
-[I.17](../BookI/PropI.17.md)
-But the angle *DAC* is right, therefore the angle *ACD* is also right. Thus, in the triangle *ACD,* the two angles *DAC* and *ACD* equal two right angles, which is impossible.
+But the angle *DAC* is right, therefore the angle *ACD* is also right. Thus, in the triangle *ACD,* the two angles *DAC* and *ACD* equal two right angles, which is impossible. ([I.17](../BookI/PropI.17.md))
 
 Therefore the straight line drawn from the point *A* at right angles to *BA* will not fall within the circle.
 
@@ -26,12 +24,9 @@ Similarly we can prove that neither will it fall on the circumference, therefore
 
 I say next that into the space between the straight line *AE* and the circumference *CHA* another straight line cannot be interposed.
 
-[I.12](../BookI/PropI.12.md)
-For, if possible, let another straight line be so interposed, as *FA.* Draw *DG* from the point *D* perpendicular to *FA.*
+For, if possible, let another straight line be so interposed, as *FA.* Draw *DG* from the point *D* perpendicular to *FA.* ([I.12](../BookI/PropI.12.md))
 
-[I.17](../BookI/PropI.17.md),
-[I.19](../BookI/PropI.19.md)
-Then, since the angle *AGD* is right, and the angle *DAG* is less than a right angle, *AD* is greater than *DG.*
+Then, since the angle *AGD* is right, and the angle *DAG* is less than a right angle, *AD* is greater than *DG.* ([I.17](../BookI/PropI.17.md), [I.19](../BookI/PropI.19.md))
 
 But *DA* equals *DH,* therefore *DH* is greater than *DG,* the less greater than the greater, which is impossible.
 

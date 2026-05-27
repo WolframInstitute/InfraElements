@@ -16,16 +16,13 @@ Now, since *A* is a square and *C* is its side, therefore *C* multiplied by itse
 
 ![java applet or image](propVIII11.gif)
 
-[VII.17](../BookVII/PropVII.17.md)
-Since, then, *C* multiplied by the numbers *C* and *D* makes *A* and *E* respectively, therefore *C* is to *D* as *A* is to *E.*
+Since, then, *C* multiplied by the numbers *C* and *D* makes *A* and *E* respectively, therefore *C* is to *D* as *A* is to *E.* ([VII.17](../BookVII/PropVII.17.md))
 
-[VII.18](../BookVII/PropVII.18.md)
-For the same reason also *C* is to *D* as *E* is to *B.* Therefore *A* is to *E* as *E* is to *B.* Therefore between *A* and *B* there is one mean proportional number.
+For the same reason also *C* is to *D* as *E* is to *B.* Therefore *A* is to *E* as *E* is to *B.* Therefore between *A* and *B* there is one mean proportional number. ([VII.18](../BookVII/PropVII.18.md))
 
 I say next that *A* also has to *B* the ratio duplicate of that which *C* has to *D.*
 
-[V.Def.9](../BookV/DefV.8.md)
-Since *A, E,* and *B* are three numbers in proportion, therefore *A* has to *B* the ratio duplicate of that which *A* has to *E.*
+Since *A, E,* and *B* are three numbers in proportion, therefore *A* has to *B* the ratio duplicate of that which *A* has to *E.* ([V.Def.9](../BookV/DefV.8.md))
 
 But *A* is to *E* as *C* is to *D,* therefore *A* has to *B* the ratio duplicate of that which the side *C* has to *D.*
 

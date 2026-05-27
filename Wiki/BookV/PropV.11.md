@@ -14,16 +14,13 @@ Take equimultiples *G, H,* and *K* of *A, C,* and *E,* and take other, arbitrary
 
 ![java applet or image](propV11.gif)
 
-[V.Def.5](DefV.5.md)
-Then since *A* is to *B* as *C* is to *D,* and of *A* and *C* equimultiples *G* and *H* have been taken, and of *B* and *D* other, arbitrary, equimultiples *L* and *M,* therefore, if *G* is in excess of *L, H* is also in excess of *M*; if equal, equal; and if less, less.
+Then since *A* is to *B* as *C* is to *D,* and of *A* and *C* equimultiples *G* and *H* have been taken, and of *B* and *D* other, arbitrary, equimultiples *L* and *M,* therefore, if *G* is in excess of *L, H* is also in excess of *M*; if equal, equal; and if less, less. ([V.Def.5](DefV.5.md))
 
 Again, since *C* is to *D* as *E* is to *F,* and of *C* and *E* equimultiples *H* and *K* have been taken, and of *D* and *F* other, arbitrary, equimultiples *M* and *N,* therefore, if *H* is in excess of *M, K* is also in excess of *N*; if equal, equal; and if less, less.
 
-[V.Def.5](DefV.5.md)
-But we saw that, if *H* was in excess of *M, G* was also in excess of *L*; if equal, equal; and if less, less, so that, in addition, if *G* is in excess of *L, K* is also in excess of *N*; if equal, equal; and if less, less.
+But we saw that, if *H* was in excess of *M, G* was also in excess of *L*; if equal, equal; and if less, less, so that, in addition, if *G* is in excess of *L, K* is also in excess of *N*; if equal, equal; and if less, less. ([V.Def.5](DefV.5.md))
 
-[V.Def.5](DefV.5.md)
-And *G* and *K* are equimultiples of *A* and *E,* while *L* and *N* are other, arbitrary, equimultiples of *B* and *F,* therefore *A* is to *B* as *E* is to *F.*
+And *G* and *K* are equimultiples of *A* and *E,* while *L* and *N* are other, arbitrary, equimultiples of *B* and *F,* therefore *A* is to *B* as *E* is to *F.* ([V.Def.5](DefV.5.md))
 
 Therefore, *ratios which are the same with the same ratio are also the same with one another.*
 

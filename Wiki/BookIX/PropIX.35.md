@@ -16,13 +16,9 @@ Then, since *FK* equals *BC,* and of these the part *FH* equals the part *BG,* t
 
 ![java applet or image](propIX35.gif)
 
-[VII.11](../BookVII/PropVII.11.md)
+And since *EF* is to *D* as *D* is to *BC,* and as *BC* is to *A,* while *D* equals *FL, BC* equals *FK,* and *A* equals *FH,* therefore *EF* is to *FL* as *LF* is to *FK,* and as *FK* is to *FH.* Taken separately *EL* is to *LF* as *LK* is to *FK,* and as *KH* is to *FH.* ([VII.11](../BookVII/PropVII.11.md), [VII.13](../BookVII/PropVII.13.md))
 
-[VII.13](../BookVII/PropVII.13.md)
-And since *EF* is to *D* as *D* is to *BC,* and as *BC* is to *A,* while *D* equals *FL, BC* equals *FK,* and *A* equals *FH,* therefore *EF* is to *FL* as *LF* is to *FK,* and as *FK* is to *FH.* Taken separately *EL* is to *LF* as *LK* is to *FK,* and as *KH* is to *FH.*
-
-[VII.12](../BookVII/PropVII.12.md)
-Since one of the antecedents is to one of the consequents as the sum of the antecedents is to the sum of the consequents, therefore *KH* is to *FH* as the sum of *EL, LK,* and *KH* is to the sum of *LF, FK,* and *HF.*
+Since one of the antecedents is to one of the consequents as the sum of the antecedents is to the sum of the consequents, therefore *KH* is to *FH* as the sum of *EL, LK,* and *KH* is to the sum of *LF, FK,* and *HF.* ([VII.12](../BookVII/PropVII.12.md))
 
 But *KH* equals *CG, FH* equals *A,* and the sum of *LF, FK,* and *HF* equals the sum of *D, BC,* and *A,* therefore *CG* is to *A* as *EH* is to the sum of *D, BC,* and *A.*
 

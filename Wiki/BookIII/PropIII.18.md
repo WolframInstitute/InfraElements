@@ -6,20 +6,15 @@ If a straight line touches a circle, and a straight line is joined from the cent
 
 ## Proof
 
-[III.1](PropIII.1.md)
-For let a straight line *DE* touch the circle *ABC* at the point *C.* Take the center *F* of the circle *ABC,* and join *FC* from *F* to *C.*
+For let a straight line *DE* touch the circle *ABC* at the point *C.* Take the center *F* of the circle *ABC,* and join *FC* from *F* to *C.* ([III.1](PropIII.1.md))
 
 ![java applet or image](propIII18.gif)
 
 I say that *FC* is perpendicular to *DE.*
 
-[I.12](../BookI/PropI.12.md)
-For, if not, draw *FG* from *F* perpendicular to *DE.*
+For, if not, draw *FG* from *F* perpendicular to *DE.* ([I.12](../BookI/PropI.12.md))
 
-[I.17](../BookI/PropI.17.md)
-
-[I.19](../BookI/PropI.19.md)
-Then, since the angle *FGC* is right, the angle *FCG* is acute, and the side opposite the greater angle is greater, therefore *FC* is greater than *FG.*
+Then, since the angle *FGC* is right, the angle *FCG* is acute, and the side opposite the greater angle is greater, therefore *FC* is greater than *FG.* ([I.17](../BookI/PropI.17.md), [I.19](../BookI/PropI.19.md))
 
 But *FC* equals *FB,* therefore *FB* is also greater than *FG,* the less greater than the greater, which is impossible.
 

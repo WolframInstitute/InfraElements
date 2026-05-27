@@ -14,21 +14,17 @@ Take *C,* the side of *A.* Multiply *C* by itself make *D.* It is then manifest 
 
 ![java applet or image](propIX3.gif)
 
-[VII.Def.20](../BookVII/DefVII.20.md)
-Now, since *C* multiplied by itself makes *D,* therefore *C* measures *D* according to the units in itself. But further the unit also measures *C* according to the units in it, therefore the unit is to *C* as *C* is to *D.*
+Now, since *C* multiplied by itself makes *D,* therefore *C* measures *D* according to the units in itself. But further the unit also measures *C* according to the units in it, therefore the unit is to *C* as *C* is to *D.* ([VII.Def.20](../BookVII/DefVII.20.md))
 
 Again, since *C* multiplied by *D* makes *A,* therefore *D* measures *A* according to the units in *C.* But the unit also measures *C* according to the units in it, therefore the unit is to *C* as *D* is to *A.* But the unit is to *C* as *C* is to *D,* therefore the unit is to *C* as *C* is to *D,* and as *D* is to *A.*
 
 Therefore between the unit and the number *A* two mean proportional numbers *C* and *D* have fallen in continued proportion.
 
-[VII.Def.20](../BookVII/DefVII.20.md)
-Again, since *A* multiplied by itself makes *B,* therefore *A* measures *B* according to the units in itself. But the unit also measures *A* according to the units in it, therefore the unit is to *A* as *A* is to *B.*
+Again, since *A* multiplied by itself makes *B,* therefore *A* measures *B* according to the units in itself. But the unit also measures *A* according to the units in it, therefore the unit is to *A* as *A* is to *B.* ([VII.Def.20](../BookVII/DefVII.20.md))
 
-[VIII.8](../BookVIII/PropVIII.8.md)
-But between the unit and *A* two mean proportional numbers have fallen, therefore two mean proportional numbers also fall between *A* and *B.*
+But between the unit and *A* two mean proportional numbers have fallen, therefore two mean proportional numbers also fall between *A* and *B.* ([VIII.8](../BookVIII/PropVIII.8.md))
 
-[VIII.23](../BookVIII/PropVIII.23.md)
-But, if two mean proportional numbers fall between two numbers, and the first is a cube, then the second is also a cube. And *A* is a cube, therefore *B* is also a cube.
+But, if two mean proportional numbers fall between two numbers, and the first is a cube, then the second is also a cube. And *A* is a cube, therefore *B* is also a cube. ([VIII.23](../BookVIII/PropVIII.23.md))
 
 Therefore, *if a cubic number multiplied by itself makes some number, then the product is a cube.*
 

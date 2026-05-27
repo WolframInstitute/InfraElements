@@ -15,10 +15,7 @@ Since *D* is the same part of *EF* that *A* is of *BC,* therefore there are as m
 
 Divide *BC* into the numbers equal to *A,* namely *BG* and *GC,* and divide *EF* into those equal to *D,* namely *EH* and *HF.* Then the multitude of *BG* and *GC* equals the multitude of *EH* and *HF.*
 
-[VII.5](PropVII.5.md)
-
-[VII.6](PropVII.6.md)
-Now, since the numbers *BG* and *GC* equal one another, and the numbers *EH* and *HF* also equal one another, while the multitude of *BG* and *GC* equals the multitude of *EH* and *HF,* therefore *GC* is the same part or parts of *HF* that *BG* is of *EH,* so that, in addition, the sum *BC* is the same part or parts of the sum *EF* that *BG* is of *EH.*
+Now, since the numbers *BG* and *GC* equal one another, and the numbers *EH* and *HF* also equal one another, while the multitude of *BG* and *GC* equals the multitude of *EH* and *HF,* therefore *GC* is the same part or parts of *HF* that *BG* is of *EH,* so that, in addition, the sum *BC* is the same part or parts of the sum *EF* that *BG* is of *EH.* ([VII.5](PropVII.5.md), [VII.6](PropVII.6.md))
 
 But *BG* equals *A,* and *EH* equals *D,* therefore *BC* is the same part or parts of *EF* that *A* is of *D.*
 

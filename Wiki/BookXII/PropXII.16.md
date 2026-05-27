@@ -12,24 +12,18 @@ It is required to inscribe in the greater circle *ABCD* an equilateral polygon w
 
 ![java applet or image](propXII16.gif)
 
-[I.11](../BookI/PropI.11.md)
 Draw the straight line *BKD* through the center *K,*
-and draw *GA* from the point *G* at right angles to the straight line *BD,* and carry it through to *C.*
+and draw *GA* from the point *G* at right angles to the straight line *BD,* and carry it through to *C.* ([I.11](../BookI/PropI.11.md))
 
-[III.16,Cor](../BookIII/PropIII.16.md)
-Therefore *AC* touches the circle *EFGH.*
+Therefore *AC* touches the circle *EFGH.* ([III.16,Cor](../BookIII/PropIII.16.md))
 
-[X.1](../BookX/PropX.1.md)
-Then, bisecting the circumference *BAD,* bisecting the half of it, and doing this repeatedly, we shall leave a circumference less than *AD.*
+Then, bisecting the circumference *BAD,* bisecting the half of it, and doing this repeatedly, we shall leave a circumference less than *AD.* ([X.1](../BookX/PropX.1.md))
 
 Let such be left, and let it be *LD.*
 
-[I.12](../BookI/PropI.12.md)
-Draw *LM* from *L* perpendicular to *BD,* and carry it through to *N.* Join *LD* and *DN.*
+Draw *LM* from *L* perpendicular to *BD,* and carry it through to *N.* Join *LD* and *DN.* ([I.12](../BookI/PropI.12.md))
 
-[III.3](../BookIII/PropIII.3.md),
-[I.4](../BookI/PropI.4.md)
-Therefore *LD* equals *DN.*
+Therefore *LD* equals *DN.* ([III.3](../BookIII/PropIII.3.md), [I.4](../BookI/PropI.4.md))
 
 Now, since *LN* is parallel to *AC,* and *AC* touches the circle *EFGH,* therefore *LN* does not touch the circle *EFGH.* Therefore *LD* and *DN* are far from touching the circle *EFGH.*
 

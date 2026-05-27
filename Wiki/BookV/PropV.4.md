@@ -14,14 +14,11 @@ I say that *E* is to *G* as *F* is to *H.*
 
 Take equimultiples *K* and *L* of *E* and *F,* and other, arbitrary, equimultiples *M* and *N* of *G* and *H.*
 
-[V.3](PropV.3.md)
-Since *E* is the same multiple of *A* that *F* is of *C,* and equimultiples *K* and *L* of *E* and *F* have been taken, therefore *K* is the same multiple of *A* that *L* is of *C.* For the same reason *M* is the same multiple of *B* that *N* is of *D.*
+Since *E* is the same multiple of *A* that *F* is of *C,* and equimultiples *K* and *L* of *E* and *F* have been taken, therefore *K* is the same multiple of *A* that *L* is of *C.* For the same reason *M* is the same multiple of *B* that *N* is of *D.* ([V.3](PropV.3.md))
 
-[V.Def.5](DefV.5.md)
-And, since *A* is to *B* as *C* is to *D,* and equimultiples *K* and *L* have been taken of *A* and *C,* and other, arbitrary, equimultiples *M* and *N* of *B* and *D,* therefore, if *K* is in excess of *M,* then *L* is in excess of *N*; if it is equal, equal; and if less, less.
+And, since *A* is to *B* as *C* is to *D,* and equimultiples *K* and *L* have been taken of *A* and *C,* and other, arbitrary, equimultiples *M* and *N* of *B* and *D,* therefore, if *K* is in excess of *M,* then *L* is in excess of *N*; if it is equal, equal; and if less, less. ([V.Def.5](DefV.5.md))
 
-[V.Def.5](DefV.5.md)
-And *K* and *L* are equimultiples of *E* and *F,* and *M* and *N* are other, arbitrary, equimultiples of *G* and *H,* therefore *E* is to *G* as *F* is to *H.*
+And *K* and *L* are equimultiples of *E* and *F,* and *M* and *N* are other, arbitrary, equimultiples of *G* and *H,* therefore *E* is to *G* as *F* is to *H.* ([V.Def.5](DefV.5.md))
 
 Therefore, *if a first magnitude has to a second the same ratio as a third to a fourth, then any equimultiples whatever of the first and third also have the same ratio to any equimultiples whatever of the second and fourth respectively, taken in corresponding order.*
 

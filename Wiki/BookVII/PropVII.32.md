@@ -15,8 +15,7 @@ I say that *A* either is prime or is measured by some prime number.
 
 If now *A* is prime, then that which was proposed is done.
 
-[VII.31](PropVII.31.md)
-But if it is composite, then some prime number measures it.
+But if it is composite, then some prime number measures it. ([VII.31](PropVII.31.md))
 
 Therefore any number either is prime or is measured by some prime number.
 

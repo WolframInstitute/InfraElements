@@ -12,19 +12,13 @@ Let *ABC* and *DBC* be triangles on the same base *BC* and in the same parallels
 
 I say that the triangle *ABC* equals the triangle *DBC.*
 
-[I.Post.2](PostI.2.md)
+Produce *AD* in both directions to *E* and *F.* Draw *BE* through *B* parallel to *CA,* and draw *CF* through *C* parallel to *BD.* ([I.Post.2](PostI.2.md), [I.31](PropI.31.md))
 
-[I.31](PropI.31.md)
-Produce *AD* in both directions to *E* and *F.* Draw *BE* through *B* parallel to *CA,* and draw *CF* through *C* parallel to *BD.*
+Then each of the figures *EBCA* and *DBCF* is a parallelogram, and they are equal, for they are on the same base *BC* and in the same parallels *BC* and *EF.* ([I.35](PropI.35.md))
 
-[I.35](PropI.35.md)
-Then each of the figures *EBCA* and *DBCF* is a parallelogram, and they are equal, for they are on the same base *BC* and in the same parallels *BC* and *EF.*
+Moreover the triangle *ABC* is half of the parallelogram *EBCA,* for the diameter *AB* bisects it. And the triangle *DBC* is half of the parallelogram *DBCF,* for the diameter *DC* bisects it. ([I.34](PropI.34.md))
 
-[I.34](PropI.34.md)
-Moreover the triangle *ABC* is half of the parallelogram *EBCA,* for the diameter *AB* bisects it. And the triangle *DBC* is half of the parallelogram *DBCF,* for the diameter *DC* bisects it.
-
-[C.N](CNI.1.md)
-Therefore the triangle *ABC* equals the triangle *DBC.*
+Therefore the triangle *ABC* equals the triangle *DBC.* ([C.N](CNI.1.md))
 
 Therefore *triangles which are on the same base and in the same parallels equal one another.*
 

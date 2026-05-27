@@ -20,8 +20,7 @@ Suppose this done, and let there be left *AG* less than *E.*
 
 Then, since *E* measures *AB,* while *AB* measures *DF,* therefore *E* also measures *FD.* But it measures the whole *CD* also, therefore it also measures the remainder *CF.* But *CF* measures *BG,* therefore *E* also measures *BG.* But it measures the whole *AB* also, therefore it also measures the remainder *AG,* the greater the less, which is impossible.
 
-[X.Def.I.1](DefX.I.1.md)
-Therefore no magnitude measures the magnitudes *AB* and *CD.* Therefore the magnitudes *AB* and *CD* are incommensurable.
+Therefore no magnitude measures the magnitudes *AB* and *CD.* Therefore the magnitudes *AB* and *CD* are incommensurable. ([X.Def.I.1](DefX.I.1.md))
 
 Therefore, *if, when the less of two unequal magnitudes is continually subtracted in turn from the greater that which is left never measures the one before it, then the two magnitudes are incommensurable.*
 

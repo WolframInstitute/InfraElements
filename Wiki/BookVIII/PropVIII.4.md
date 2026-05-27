@@ -12,8 +12,7 @@ It is required to find numbers in continued proportion which are the least that 
 
 ![java applet or image](propVIII4a.gif)
 
-[VII.34](../BookVII/PropVII.34.md)
-Take *G,* the least number measured by *B* and *C.*
+Take *G,* the least number measured by *B* and *C.* ([VII.34](../BookVII/PropVII.34.md))
 
 Let *A* measure *H* as many times as *B* measures *G,* and let *D* measure *K* as many times as *C* measures *G.*
 
@@ -21,10 +20,7 @@ Now *E* either measures or does not measure *K.*
 
 First, let it measure it. Let *K* measure *L* as many times as *E* measures *K.*
 
-[VII.Def.20](../BookVII/DefVII.20.md)
-
-[VII.13](../BookVII/PropVII.13.md)
-Now, since *A* measures *H* the same number of times that *B* measures *G,* therefore *A* is to *B* as *H* is to *G.*
+Now, since *A* measures *H* the same number of times that *B* measures *G,* therefore *A* is to *B* as *H* is to *G.* ([VII.Def.20](../BookVII/DefVII.20.md), [VII.13](../BookVII/PropVII.13.md))
 
 For the same reason *C* is to *D* as *G* is to *K,* and *E* is to *F* as *K* is to *L.* Therefore *H, G, K,* and *L* are continuously proportional in the ratio of *A* to *B,* in the ratio of *C* to *D,* and in the ratio of *E* to *F.*
 
@@ -32,11 +28,9 @@ I say next that they are also the least that have this property.
 
 If *H, G, K,* and *L* are not the least numbers continuously proportional in the ratios of *A* to *B,* of *C* to *D,* and of *E* to *F,* let them be *N, O, M,* and *P.*
 
-[VII.20](../BookVII/PropVII.20.md)
-Then since *A* is to *B* as *N* is to *O,* while *A* and *B* are least, and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent, therefore *B* measures *O.*
+Then since *A* is to *B* as *N* is to *O,* while *A* and *B* are least, and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent, therefore *B* measures *O.* ([VII.20](../BookVII/PropVII.20.md))
 
-[VII.35](../BookVII/PropVII.35.md)
-For the same reason *C* also measures *O.* Therefore *B* and *C* measure *O.* Therefore the least number measured by *B* and *C* also measures *O.*
+For the same reason *C* also measures *O.* Therefore *B* and *C* measure *O.* Therefore the least number measured by *B* and *C* also measures *O.* ([VII.35](../BookVII/PropVII.35.md))
 
 But *G* is the least number measured by *B* and *C,* therefore *G* measures *O,* the greater the less, which is impossible. Therefore there are no numbers less than *H, G, K,* and *L* which are continuously in the ratio of *A* to *B,* of *C* to *D,* and of *E* to *F.*
 
@@ -46,35 +40,25 @@ Take *M,* the least number measured by *E* and *K.* Let *H* and *G* measure *N* 
 
 ![java applet or image](propVIII4b.gif)
 
-[VII.13](../BookVII/PropVII.13.md)
+Since *H* measures *N* the same number of times that *G* measures *O,* therefore *H* is to *G* as *N* is to *O.* But *H* is to *G* as *A* is to *B,* therefore *A* is to *B* as is *N* is to *O.* For the same reason *C* is to *D* as is *O* is to *M.* ([VII.13](../BookVII/PropVII.13.md), [VII.Def.20](../BookVII/DefVII.20.md))
 
-[VII.Def.20](../BookVII/DefVII.20.md)
-Since *H* measures *N* the same number of times that *G* measures *O,* therefore *H* is to *G* as *N* is to *O.* But *H* is to *G* as *A* is to *B,* therefore *A* is to *B* as is *N* is to *O.* For the same reason *C* is to *D* as is *O* is to *M.*
-
-[VII.13](../BookVII/PropVII.13.md)
-
-[VII.Def.20](../BookVII/DefVII.20.md)
-Again, since *E* measures *M* the same number of times that *F* measures *P,* therefore *E* is to *F* as *M* is to *P.* Therefore *N, O, M,* and *P* are continuously proportional in the ratios of *A* to *B,* of *C* to *D,* and of *E* to *F.*
+Again, since *E* measures *M* the same number of times that *F* measures *P,* therefore *E* is to *F* as *M* is to *P.* Therefore *N, O, M,* and *P* are continuously proportional in the ratios of *A* to *B,* of *C* to *D,* and of *E* to *F.* ([VII.13](../BookVII/PropVII.13.md), [VII.Def.20](../BookVII/DefVII.20.md))
 
 I say next that they are also the least that are in the ratios *A, B, C, D, E,* and *F.*
 
 If not, there are numbers less than *N, O, M,* and *P* continuously proportional in the ratios *A, B, C, D, E,* and *F.* Let them be *Q, R, S,* and *T.*
 
-[VII.20](../BookVII/PropVII.20.md)
-Now since *Q* is to *R* as *A* is to *B,* while *A* and *B* are least, and the least numbers measure those which have the same ratio with them the same number of times, the antecedent the antecedent and the consequent the consequent, therefore *B* measures *R.* For the same reason *C* also measures *R,* therefore *B* and *C* measure *R.*
+Now since *Q* is to *R* as *A* is to *B,* while *A* and *B* are least, and the least numbers measure those which have the same ratio with them the same number of times, the antecedent the antecedent and the consequent the consequent, therefore *B* measures *R.* For the same reason *C* also measures *R,* therefore *B* and *C* measure *R.* ([VII.20](../BookVII/PropVII.20.md))
 
-[VII.35](../BookVII/PropVII.35.md)
-Therefore the least number measured by *B* and *C* also measures *R.* But *G* is the least number measured by *B* and *C,* therefore *G* measures *R.*
+Therefore the least number measured by *B* and *C* also measures *R.* But *G* is the least number measured by *B* and *C,* therefore *G* measures *R.* ([VII.35](../BookVII/PropVII.35.md))
 
-[VII.13](../BookVII/PropVII.13.md)
-And *G* is to *R* as *K* is to *S,* therefore *K* also measures *S.*
+And *G* is to *R* as *K* is to *S,* therefore *K* also measures *S.* ([VII.13](../BookVII/PropVII.13.md))
 
 But *E* also measures *S.* Therefore *E* and *K* measure *S.*
 
 Therefore the least number measured by *E* and *K* also measures *S.* But *M* is the least number measured by *E* and *K,* therefore *M* measures *S,* the greater the less, which is impossible.
-[VII.35](../BookVII/PropVII.35.md)
 
-Therefore there are no numbers less than *N, O, M,* and *P* continuously proportional in the ratios of *A* to *B,* of *C* to *D,* and of *E* to *F.* Therefore *N, O, M,* and *P* are the least numbers continuously proportional in the ratios *A, B, C, D, E,* and *F.*
+Therefore there are no numbers less than *N, O, M,* and *P* continuously proportional in the ratios of *A* to *B,* of *C* to *D,* and of *E* to *F.* Therefore *N, O, M,* and *P* are the least numbers continuously proportional in the ratios *A, B, C, D, E,* and *F.* ([VII.35](../BookVII/PropVII.35.md))
 
 Q.E.D.
 

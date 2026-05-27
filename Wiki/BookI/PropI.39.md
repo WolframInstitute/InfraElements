@@ -6,22 +6,17 @@ Equal triangles which are on the same base and on the same side are also in the 
 
 ## Proof
 
-[I.Post.1](PostI.1.md)
-Let *ABC* and *DBC* be equal triangles which are on the same base *BC* and on the same side of it. Join *AD.*
+Let *ABC* and *DBC* be equal triangles which are on the same base *BC* and on the same side of it. Join *AD.* ([I.Post.1](PostI.1.md))
 
 ![java applet or image](propI39.gif)
 
 I say that *AD* is parallel to *BC.*
 
-[I.31](PropI.31.md),
-[I.Post.1](PostI.1.md)
-If not, draw *AE* through the point *A* parallel to the straight line *BC,* and join *EC.*
+If not, draw *AE* through the point *A* parallel to the straight line *BC,* and join *EC.* ([I.31](PropI.31.md), [I.Post.1](PostI.1.md))
 
-[I.37](PropI.37.md)
-Therefore the triangle *ABC* equals the triangle *EBC,* for it is on the same base *BC* with it and in the same parallels.
+Therefore the triangle *ABC* equals the triangle *EBC,* for it is on the same base *BC* with it and in the same parallels. ([I.37](PropI.37.md))
 
-[C.N.1](CNI.1.md)
-But *ABC* equals *DBC,* therefore *DBC* also equals *EBC,* the greater equals the less, which is impossible.
+But *ABC* equals *DBC,* therefore *DBC* also equals *EBC,* the greater equals the less, which is impossible. ([C.N.1](CNI.1.md))
 
 Therefore *AE* is not parallel to *BC.*
 

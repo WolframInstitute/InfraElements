@@ -12,11 +12,9 @@ I say that *E* and *F* are relatively prime.
 
 ![java applet or image](propVII26.gif)
 
-[VII.24](PropVII.24.md)
-Since each of the numbers *A* and *B* is relatively prime to *C,* therefore the product of *A* and *B* is also relatively prime to *C.* But the product of *A* and *B* is *E,* therefore *E* and *C* are relatively prime. For the same reason *E* and *D* are also relatively prime. Therefore each of the numbers *C* and *D* is relatively prime to *E.*
+Since each of the numbers *A* and *B* is relatively prime to *C,* therefore the product of *A* and *B* is also relatively prime to *C.* But the product of *A* and *B* is *E,* therefore *E* and *C* are relatively prime. For the same reason *E* and *D* are also relatively prime. Therefore each of the numbers *C* and *D* is relatively prime to *E.* ([VII.24](PropVII.24.md))
 
-[VII.24](PropVII.24.md)
-Therefore the product of *C* and *D* is also relatively prime to *E.* But the product of *C* and *D* is *F.* Therefore *E* and *F* are relatively prime.
+Therefore the product of *C* and *D* is also relatively prime to *E.* But the product of *C* and *D* is *F.* Therefore *E* and *F* are relatively prime. ([VII.24](PropVII.24.md))
 
 Therefore, *if two numbers are relatively prime to two numbers, both to each, then their products are also relatively prime.*
 

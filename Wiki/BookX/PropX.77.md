@@ -12,10 +12,7 @@ I say that the remainder *AC* is the irrational straight line aforesaid.
 
 ![java applet or image](propX73.gif)
 
-[II.7](../BookII/PropII.7.md)
-
-[X.16](PropX.16.md)
-Since the sum of the squares on *AB* and *BC* is medial, while twice the rectangle *AB* by *BC* is rational, therefore the sum of the squares on *AB* and *BC* is incommensurable with twice the rectangle *AB* by *BC*. Therefore the remainder, the square on *AC*, is also incommensurable with twice the rectangle *AB* by *BC*.
+Since the sum of the squares on *AB* and *BC* is medial, while twice the rectangle *AB* by *BC* is rational, therefore the sum of the squares on *AB* and *BC* is incommensurable with twice the rectangle *AB* by *BC*. Therefore the remainder, the square on *AC*, is also incommensurable with twice the rectangle *AB* by *BC*. ([II.7](../BookII/PropII.7.md), [X.16](PropX.16.md))
 
 And twice the rectangle *AB* by *BC* is rational, therefore the square on *AC* is irrational. Therefore *AC* is irrational. Let it be called that which produces with a rational area a medial whole.
 

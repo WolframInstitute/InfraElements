@@ -13,14 +13,11 @@ I say that *A* is to *B* as the sum of *A, C,* and *E* is to the sum of *B, D,* 
 
 Take equimultiples *G, H,* and *K* of *A, C,* and *E,* and take other, arbitrary, equimultiples *L, M,* and *N* of *B, D,* and *F.*
 
-[V.Def.5](DefV.5.md)
-Then since *A* is to *B* as *C* is to *D,* and as *E* is to *F,* and of *A, C,* and *E* equimultiples *G, H,* and *K* have been taken, and of *B, D,* and *F* other, arbitrary, equimultiples *L, M,* and *N,* therefore, if *G* is in excess of *L,* then *H* is also in excess of *M,* and *K* of *N*; if equal, equal; and if less, less. So that, in addition, if *G* is in excess of *L,* then the sum of *G, H,* and *K* is in excess of the sum of *L, M,* and *N*; if equal, equal; and if less, less.
+Then since *A* is to *B* as *C* is to *D,* and as *E* is to *F,* and of *A, C,* and *E* equimultiples *G, H,* and *K* have been taken, and of *B, D,* and *F* other, arbitrary, equimultiples *L, M,* and *N,* therefore, if *G* is in excess of *L,* then *H* is also in excess of *M,* and *K* of *N*; if equal, equal; and if less, less. So that, in addition, if *G* is in excess of *L,* then the sum of *G, H,* and *K* is in excess of the sum of *L, M,* and *N*; if equal, equal; and if less, less. ([V.Def.5](DefV.5.md))
 
-[V.1](PropV.1.md)
-Now *G* and the sum of *G, H,* and *K* are equimultiples of *A* and the sum of *A, C,* and *E,* since, if any number of magnitudes are each the same multiple the same number of other magnitudes, then the sum is that multiple of the sum.
+Now *G* and the sum of *G, H,* and *K* are equimultiples of *A* and the sum of *A, C,* and *E,* since, if any number of magnitudes are each the same multiple the same number of other magnitudes, then the sum is that multiple of the sum. ([V.1](PropV.1.md))
 
-[V.Def.5](DefV.5.md)
-For the same reason *L* and the sum of *L, M,* and *N* are also equimultiples of *B* and the sum of *B, D,* and *F,* therefore *A* is to *B* as the sum of *A, C,* and *E* is to the sum of *B, D,* and *F.*
+For the same reason *L* and the sum of *L, M,* and *N* are also equimultiples of *B* and the sum of *B, D,* and *F,* therefore *A* is to *B* as the sum of *A, C,* and *E* is to the sum of *B, D,* and *F.* ([V.Def.5](DefV.5.md))
 
 Therefore, *if any number of magnitudes are proportional, then one of the antecedents is to one of the consequents as the sum of the antecedents is to the sum of the consequents.*
 

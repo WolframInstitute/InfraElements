@@ -14,8 +14,7 @@ I say that *C* measures *A.*
 
 Since *B* is a part of *A* called by the same name as *C,* and the unit *D* is also a part of *C* called by the same name as it, therefore the part *B* of *A* is the same part of the unit *D* of the number *C.* Therefore the unit *D* measures the number *C* the same number of times that *B* measures *A.*
 
-[VII.15](PropVII.15.md)
-Therefore, alternately, the unit *D* measures the number *B* the same number of times that *C* measures *A.* Therefore *C* measures *A.*
+Therefore, alternately, the unit *D* measures the number *B* the same number of times that *C* measures *A.* Therefore *C* measures *A.* ([VII.15](PropVII.15.md))
 
 Therefore, *if a number has any part whatever, then it is measured by a number called by the same name as the part.*
 

@@ -14,36 +14,28 @@ Let four be prescribed. Multiply *A* by itself to make *C,* and by *B* to make *
 
 ![java applet or image](propVIII2.gif)
 
-[VII.17](../BookVII/PropVII.17.md)
-Now, since *A* multiplied by itself makes *C,* and multiplied by *B* makes *D,* therefore *A* is to *B* as *C* is to *D.*
+Now, since *A* multiplied by itself makes *C,* and multiplied by *B* makes *D,* therefore *A* is to *B* as *C* is to *D.* ([VII.17](../BookVII/PropVII.17.md))
 
 Again, since *A* multiplied by *B* makes *D,* and *B* multiplied by itself makes *E,* therefore the numbers *A* and *B* multiplied by *B* make the numbers *D* and *E* respectively.
 
-[VII.18](../BookVII/PropVII.18.md)
-Therefore *A* is to *B* as *D* is to *E.* But *A* is to *B* as *C* is to *D,* therefore *C* is to *D* as *D* is to *E.*
+Therefore *A* is to *B* as *D* is to *E.* But *A* is to *B* as *C* is to *D,* therefore *C* is to *D* as *D* is to *E.* ([VII.18](../BookVII/PropVII.18.md))
 
-[VII.17](../BookVII/PropVII.17.md)
-And, since *A* multiplied by *C* and *D* makes *F* and *G,* therefore *C* is to *D* as *F* is to *G.*
+And, since *A* multiplied by *C* and *D* makes *F* and *G,* therefore *C* is to *D* as *F* is to *G.* ([VII.17](../BookVII/PropVII.17.md))
 
 But *C* is to *D* as *A* is to *B,* therefore *A* is to *B* as *F* is to *G.*
 
-[VII.17](../BookVII/PropVII.17.md)
-Again, since *A* multiplied by *D* and *E* makes *G* and *H,* therefore *D* is to *E* as *G* is to *H.* But *D* is to *E* as *A* is to *B.* Therefore *A* is to *B* as *G* is to *H.*
+Again, since *A* multiplied by *D* and *E* makes *G* and *H,* therefore *D* is to *E* as *G* is to *H.* But *D* is to *E* as *A* is to *B.* Therefore *A* is to *B* as *G* is to *H.* ([VII.17](../BookVII/PropVII.17.md))
 
-[VII.18](../BookVII/PropVII.18.md)
-And, since *A* and *B* multiplied by *E* make *H* and *K,* therefore *A* is to *B* as *H* is to *K.* But *A* is to *B* as *F* is to *G,* and as *G* is to *H.* Therefore *F* is to *G* as *G* is to *H,* and as *H* is to *K.*
+And, since *A* and *B* multiplied by *E* make *H* and *K,* therefore *A* is to *B* as *H* is to *K.* But *A* is to *B* as *F* is to *G,* and as *G* is to *H.* Therefore *F* is to *G* as *G* is to *H,* and as *H* is to *K.* ([VII.18](../BookVII/PropVII.18.md))
 
 Therefore *C, D,* and *E,* and *F, G, H,* and *K* are proportional in the ratio of *A* to *B.*
 I say next that they are the least numbers that are so.
 
-[VII.22](../BookVII/PropVII.22.md)
-Since *A* and *B* are the least of those which have the same ratio with them, and the least of those which have the same ratio are relatively prime, therefore *A* and *B* are relatively prime.
+Since *A* and *B* are the least of those which have the same ratio with them, and the least of those which have the same ratio are relatively prime, therefore *A* and *B* are relatively prime. ([VII.22](../BookVII/PropVII.22.md))
 
-[VII.27](../BookVII/PropVII.27.md)
-And the numbers *A* and *B* multiplied by themselves respectively make the numbers *C* and *E,* and multiplied by the numbers *C* and *E* respectively make the numbers *F* and *K,* therefore *C* and *E* and *F* and *K* are relatively prime respectively.
+And the numbers *A* and *B* multiplied by themselves respectively make the numbers *C* and *E,* and multiplied by the numbers *C* and *E* respectively make the numbers *F* and *K,* therefore *C* and *E* and *F* and *K* are relatively prime respectively. ([VII.27](../BookVII/PropVII.27.md))
 
-[VIII.1](PropVIII.1.md)
-But, if there are as many numbers as we please in continued proportion, and the extremes of them are relatively prime, then they are the least of those which have the same ratio with them. Therefore *C, D,* and *E* and *F, G, H* and *K* are the least of those which have the same ratio with *A* and *B.*
+But, if there are as many numbers as we please in continued proportion, and the extremes of them are relatively prime, then they are the least of those which have the same ratio with them. Therefore *C, D,* and *E* and *F, G, H* and *K* are the least of those which have the same ratio with *A* and *B.* ([VIII.1](PropVIII.1.md))
 
 Q.E.D.
 

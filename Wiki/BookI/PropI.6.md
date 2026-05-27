@@ -12,17 +12,11 @@ Let *ABC* be a triangle having the angle *ABC* equal to the angle *ACB.*
 
 I say that the side *AB* also equals the side *AC.*
 
-[C.N](CNI.1.md)
-If *AB* does not equal *AC,* then one of them is greater.
+If *AB* does not equal *AC,* then one of them is greater. ([C.N](CNI.1.md))
 
-[I.3](PropI.3.md),
-[I.Post.1](PostI.1.md)
-Let *AB* be greater. Cut off *DB* from *AB* the greater equal to *AC* the less, and join *DC.*
+Let *AB* be greater. Cut off *DB* from *AB* the greater equal to *AC* the less, and join *DC.* ([I.3](PropI.3.md), [I.Post.1](PostI.1.md))
 
-[I.4](PropI.4.md)
-
-[C.N.5](CNI.1.md)
-Since *DB* equals *AC,* and *BC* is common, therefore the two sides *DB* and *BC* equal the two sides *AC* and *CB* respectively, and the angle *DBC* equals the angle *ACB.* Therefore the base *DC* equals the base *AB,* and the triangle *DBC* equals the triangle *ACB,* the less equals the greater, which is absurd. Therefore *AB* is not unequal to *AC,* it therefore equals it.
+Since *DB* equals *AC,* and *BC* is common, therefore the two sides *DB* and *BC* equal the two sides *AC* and *CB* respectively, and the angle *DBC* equals the angle *ACB.* Therefore the base *DC* equals the base *AB,* and the triangle *DBC* equals the triangle *ACB,* the less equals the greater, which is absurd. Therefore *AB* is not unequal to *AC,* it therefore equals it. ([I.4](PropI.4.md), [C.N.5](CNI.1.md))
 
 Therefore *if in a triangle two angles equal one another, then the sides opposite the equal angles also equal one another.*
 

@@ -12,16 +12,11 @@ Let *AB* and *AC* be the two given straight lines, and let them be placed so as 
 
 It is required to find a third proportional to *AB* and *AC.*
 
-[I.3](../BookI/PropI.3.md)
+Produce them to the points *D* and *E,* and make *BD* equal to *AC.* Join *BC,* and draw *DE* through *D* parallel to it. ([I.3](../BookI/PropI.3.md), [I.31](../BookI/PropI.31.md))
 
-[I.31](../BookI/PropI.31.md)
-Produce them to the points *D* and *E,* and make *BD* equal to *AC.* Join *BC,* and draw *DE* through *D* parallel to it.
+Then since *BC* is parallel to a side *DE* of the triangle *ADE,* therefore, proportionally, *AB* is to *BD* as *AC* is to *CE.* ([VI.2](PropVI.2.md))
 
-[VI.2](PropVI.2.md)
-Then since *BC* is parallel to a side *DE* of the triangle *ADE,* therefore, proportionally, *AB* is to *BD* as *AC* is to *CE.*
-
-[V.7](../BookV/PropV.7.md)
-But *BD* equals *AC,* therefore *AB* is to *AC* as *AC* is to *CE.*
+But *BD* equals *AC,* therefore *AB* is to *AC* as *AC* is to *CE.* ([V.7](../BookV/PropV.7.md))
 
 Therefore a third proportional *CE* has been found to two given straight lines *AB* and *AC.*
 

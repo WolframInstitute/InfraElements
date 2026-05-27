@@ -15,11 +15,9 @@ If the triangle *ABC* is superposed on the triangle *DEF,* and if the point *A* 
 
 Again, *AB* coinciding with *DE,* the straight line *AC* also coincides with *DF,* because the angle *BAC* equals the angle *EDF.* Hence the point *C* also coincides with the point *F,* because *AC* again equals *DF.*
 
-[C.N.4](CNI.1.md)
-But *B* also coincides with *E,* hence the base *BC* coincides with the base *EF* and equals it.
+But *B* also coincides with *E,* hence the base *BC* coincides with the base *EF* and equals it. ([C.N.4](CNI.1.md))
 
-[C.N.4](CNI.1.md)
-Thus the whole triangle *ABC* coincides with the whole triangle *DEF* and equals it.
+Thus the whole triangle *ABC* coincides with the whole triangle *DEF* and equals it. ([C.N.4](CNI.1.md))
 
 And the remaining angles also coincide with the remaining angles and equal them, the angle *ABC* equals the angle *DEF,* and the angle *ACB* equals the angle *DFE.*
 

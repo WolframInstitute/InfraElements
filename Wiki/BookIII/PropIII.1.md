@@ -12,22 +12,15 @@ It is required to find the center of the circle *ABC.*
 
 ![java applet or image](propIII1.gif)
 
-[I.10](../BookI/PropI.10.md)
-
-[I.11](../BookI/PropI.11.md), [I.10](../BookI/PropI.10.md)
-Draw a straight line *AB* through it at random, and bisect it at the point *D.* Draw *DC* from *D* at right angles to *AB,* and draw it through to *E.* Bisect *CE* at *F.*
+Draw a straight line *AB* through it at random, and bisect it at the point *D.* Draw *DC* from *D* at right angles to *AB,* and draw it through to *E.* Bisect *CE* at *F.* ([I.10](../BookI/PropI.10.md), [I.11](../BookI/PropI.11.md), [I.10](../BookI/PropI.10.md))
 
 I say that *F* is the center of the circle *ABC.*
 
 For suppose it is not, but, if possible, let *G* be the center. Join *GA, GD,* and *GB.*
 
-[I.Def.15](../BookI/DefI.15.md)
+Then, since *AD* equals *DB,* and *DG* is common, the two sides *AD* and *DG* equal the two sides *BD* and *DG* respectively. And the base *GA* equals the base *GB,* for they are radii, therefore the angle *ADG* equals the angle *GDB.* ([I.Def.15](../BookI/DefI.15.md), [I.8](../BookI/PropI.8.md))
 
-[I.8](../BookI/PropI.8.md)
-Then, since *AD* equals *DB,* and *DG* is common, the two sides *AD* and *DG* equal the two sides *BD* and *DG* respectively. And the base *GA* equals the base *GB,* for they are radii, therefore the angle *ADG* equals the angle *GDB.*
-
-[I.Def.10](../BookI/DefI.10.md)
-But, when a straight line standing on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, therefore the angle *GDB* is right.
+But, when a straight line standing on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, therefore the angle *GDB* is right. ([I.Def.10](../BookI/DefI.10.md))
 
 But the angle *FDB* is also right, therefore the angle *FDB* equals the angle *GDB,* the greater equals the less, which is impossible. Therefore *G* is not the center of the circle *ABC.*
 

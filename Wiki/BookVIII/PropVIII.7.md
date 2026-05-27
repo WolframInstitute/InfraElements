@@ -12,8 +12,7 @@ Let there are as many numbers as we please, *A, B, C,* and *D,* in continued pro
 
 I say that *A* also measures *B.*
 
-[VIII.6](PropVIII.6.md)
-If *A* does not measure *B,* neither does any other of the numbers measure any other. But *A* measures *D.* Therefore *A* also measures *B.*
+If *A* does not measure *B,* neither does any other of the numbers measure any other. But *A* measures *D.* Therefore *A* also measures *B.* ([VIII.6](PropVIII.6.md))
 
 Therefore, *if there are as many numbers as we please in continued proportion, and the first measures the last, then it also measures the second.*
 

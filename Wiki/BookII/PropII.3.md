@@ -12,10 +12,7 @@ Let the straight line *AB* be cut at random at *C.*
 
 I say that the rectangle *AB* by *BC* equals the sum of the rectangle *AC* by *CB* and the square on *BC.*
 
-[I.46](../BookI/PropI.46.md)
-
-[I.31](../BookI/PropI.31.md)
-Describe the square *CDEB* on *CB.* Draw *ED* through to *F,* and draw *AF* through *A* parallel to either *CD* or *BE.*
+Describe the square *CDEB* on *CB.* Draw *ED* through to *F,* and draw *AF* through *A* parallel to either *CD* or *BE.* ([I.46](../BookI/PropI.46.md), [I.31](../BookI/PropI.31.md))
 
 Then *AE* equals *AD* plus *CE.*
 

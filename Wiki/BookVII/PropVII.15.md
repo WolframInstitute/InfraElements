@@ -18,13 +18,11 @@ Divide *BC* into the units in it, *BG, GH,* and *HC,* and divide *EF* into the n
 
 And, since the units *BG, GH,* and *HC* equal one another, and the numbers *EK, KL,* and *LF* also equal one another, while the multitude of the units *BG, GH,* and *HC* equals the multitude of the numbers *EK, KL,* and *LF,* therefore the unit *BG* is to the number *EK* as the unit *GH* is to the number *KL,* and as the unit *HC* is to the number *LF.*
 
-[VII.12](PropVII.12.md)
-Since one of the antecedents is to one of the consequents as the sum of the antecedents is to the sum of the consequents, therefore the unit *BG* is to the number *EK* as *BC* is to *EF.*
+Since one of the antecedents is to one of the consequents as the sum of the antecedents is to the sum of the consequents, therefore the unit *BG* is to the number *EK* as *BC* is to *EF.* ([VII.12](PropVII.12.md))
 
 But the unit *BG* equals the unit *A,* and the number *EK* equals the number *D.* Therefore the unit *A* is to the number *D* as *BC* is to *EF.*
 
-[VII.Def.20](DefVII.20.md)
-Therefore the unit *A* measures the number *D* the same number of times that *BC* measures *EF.*
+Therefore the unit *A* measures the number *D* the same number of times that *BC* measures *EF.* ([VII.Def.20](DefVII.20.md))
 
 Therefore, *if a unit number measures any number, and another number measures any other number the same number of times, then alternately, the unit measures the third number the same number of times that the second measures the fourth.*
 

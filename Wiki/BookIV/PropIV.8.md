@@ -10,15 +10,11 @@ Let *ABCD* be the given square.
 
 It is required to inscribe a circle in the given square *ABCD.*
 
-[I.10](../BookI/PropI.10.md)
-
-[I.31](../BookI/PropI.31.md)
-Bisect the straight lines *AD* and *AB* at the points *E* and *F* respectively. Draw *EH* through *E* parallel to either *AB* or *CD,* and draw *FK* through *F* parallel to either *AD* or *BC.*
+Bisect the straight lines *AD* and *AB* at the points *E* and *F* respectively. Draw *EH* through *E* parallel to either *AB* or *CD,* and draw *FK* through *F* parallel to either *AD* or *BC.* ([I.10](../BookI/PropI.10.md), [I.31](../BookI/PropI.31.md))
 
 ![java applet or image](propIV8.gif)
 
-[I.34](../BookI/PropI.34.md)
-Therefore each of the figures *AK, KB, AH, HD, AG, GC, BG,* and *GD* is a parallelogram, and their opposite sides are evidently equal.
+Therefore each of the figures *AK, KB, AH, HD, AG, GC, BG,* and *GD* is a parallelogram, and their opposite sides are evidently equal. ([I.34](../BookI/PropI.34.md))
 
 Now, since *AD* equals *AB,* and *AE* is half of *AD,* and *AF* half of *AB,* therefore *AE* equals *AF,* so that the opposite sides are also equal, therefore *FG* equals *GE.*
 

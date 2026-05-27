@@ -10,38 +10,26 @@ Let the four straight lines *AB, CD, EF,* and *GH* be proportional, so that *AB*
 
 I say that *KAB* is to *LCD* as *MF* is to *NH.*
 
-[VI.11](PropVI.11.md)
-Take a third proportional *O* to *AB* and *CD,* and a third proportional *P* to *EF* and *GH.*
+Take a third proportional *O* to *AB* and *CD,* and a third proportional *P* to *EF* and *GH.* ([VI.11](PropVI.11.md))
 
 ![java applet or image](propVI22.gif)
 
-[V.11](../BookV/PropV.11.md)
+Then since *AB* is to *CD* as *EF* is to *GH,* therefore *CD* is to *O* as *GH* is to *P.* Therefore, *ex aequali, AB* is to *O* as *EF* is to *P.* ([V.11](../BookV/PropV.11.md), [V.22](../BookV/PropV.22.md))
 
-[V.22](../BookV/PropV.22.md)
-Then since *AB* is to *CD* as *EF* is to *GH,* therefore *CD* is to *O* as *GH* is to *P.* Therefore, *ex aequali, AB* is to *O* as *EF* is to *P.*
-
-[VI.19,Cor](PropVI.19.md)
-
-[V.11](../BookV/PropV.11.md)
-But *AB* is to *O* as *KAB* is to *LCD,* and *EF* is to *P* as *MF* is to *NH,* therefore *KAB* is to *LCD* also as *MF* is to *NH.*
+But *AB* is to *O* as *KAB* is to *LCD,* and *EF* is to *P* as *MF* is to *NH,* therefore *KAB* is to *LCD* also as *MF* is to *NH.* ([VI.19,Cor](PropVI.19.md), [V.11](../BookV/PropV.11.md))
 
 Next, let *KAB* be to *LCD* as *MF* is to *NH.*
 
 I say also that *AB* is to *CD* as *EF* is to *GH.*
 
-[VI.12](PropVI.12.md)
-
-[VI.18](PropVI.18.md)
-For, if *EF* is not to *GH* as *AB* is to *CD,* let *EF* be to *QR* as *AB* is to *CD.* Describe the rectilinear figure *SR* similar and similarly situated to either of the two *MF* or *NH* on *QR.*
+For, if *EF* is not to *GH* as *AB* is to *CD,* let *EF* be to *QR* as *AB* is to *CD.* Describe the rectilinear figure *SR* similar and similarly situated to either of the two *MF* or *NH* on *QR.* ([VI.12](PropVI.12.md), [VI.18](PropVI.18.md))
 
 Above
 Since then *AB* is to *CD* as *EF* is to *QR,* and there have been described on *AB* and *CD* the similar and similarly situated figures *KAB* and *LCD,* and on *EF* and *QR* the similar and similarly situated figures *MF* and *SR,* therefore *KAB* is to *LCD* as *MF* is to *SR.*
 
-[V.11](../BookV/PropV.11.md)
-But also, by hypothesis, *KAB* is to *LCD* as *MF* is to *NH,* therefore also *MF* is to *SR* as *MF* is to *NH.*
+But also, by hypothesis, *KAB* is to *LCD* as *MF* is to *NH,* therefore also *MF* is to *SR* as *MF* is to *NH.* ([V.11](../BookV/PropV.11.md))
 
-[V.9](../BookV/PropV.9.md)
-Therefore *MF* has the same ratio to each of the figures *NH* and *SR,* therefore *NH* equals *SR.*
+Therefore *MF* has the same ratio to each of the figures *NH* and *SR,* therefore *NH* equals *SR.* ([V.9](../BookV/PropV.9.md))
 
 But it is also similar and similarly situated to it, therefore *GH* equals *QR.*
 

@@ -14,13 +14,9 @@ I say that the remainder *AC* is irrational, and let it be called an apotome of 
 
 Since *AB* and *BC* are medial, the squares on *AB* and *BC* are also medial. But twice the rectangle *AB* by *BC* is rational, therefore the sum of the squares on *AB* and *BC* is incommensurable with twice the rectangle *AB* by *BC*.
 
-cf. [II.7](../BookII/PropII.7.md)
+Therefore twice the rectangle *AB* by *BC* is also incommensurable with the remainder, the square on *AC*, since, if the whole is incommensurable with one of the magnitudes, then the original magnitudes are also incommensurable. ([II.7](../BookII/PropII.7.md), [X.16](PropX.16.md))
 
-[X.16](PropX.16.md)
-Therefore twice the rectangle *AB* by *BC* is also incommensurable with the remainder, the square on *AC*, since, if the whole is incommensurable with one of the magnitudes, then the original magnitudes are also incommensurable.
-
-[X.Def.I.4](DefX.I.4.md)
-But twice the rectangle *AB* by *BC* is rational, therefore the square on *AC* is irrational, therefore *AC* is irrational. Let it be called a first apotome of a medial straight line.
+But twice the rectangle *AB* by *BC* is rational, therefore the square on *AC* is irrational, therefore *AC* is irrational. Let it be called a first apotome of a medial straight line. ([X.Def.I.4](DefX.I.4.md))
 
 Q.E.D.
 

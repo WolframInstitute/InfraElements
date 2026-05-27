@@ -12,15 +12,11 @@ Let *ABC* be a triangle having the side *AC* greater than *AB.*
 
 I say that the angle *ABC* is also greater than the angle *BCA.*
 
-[I.3](PropI.3.md),
-[I.Post.1](PostI.1.md)
-Since *AC* is greater than *AB,* make *AD* equal to *AB,* and join *BD.*
+Since *AC* is greater than *AB,* make *AD* equal to *AB,* and join *BD.* ([I.3](PropI.3.md), [I.Post.1](PostI.1.md))
 
-[I.16](PropI.16.md)
-Since the angle *ADB* is an exterior angle of the triangle *BCD,* therefore it is greater than the interior and opposite angle *DCB.*
+Since the angle *ADB* is an exterior angle of the triangle *BCD,* therefore it is greater than the interior and opposite angle *DCB.* ([I.16](PropI.16.md))
 
-[I.5](PropI.5.md)
-But the angle *ADB* equals the angle *ABD,* since the side *AB* equals *AD,* therefore the angle *ABD* is also greater than the angle *ACB.* Therefore the angle *ABC* is much greater than the angle *ACB.*
+But the angle *ADB* equals the angle *ABD,* since the side *AB* equals *AD,* therefore the angle *ABD* is also greater than the angle *ACB.* Therefore the angle *ABC* is much greater than the angle *ACB.* ([I.5](PropI.5.md))
 
 Therefore *in any triangle the angle opposite the greater side is greater.*
 

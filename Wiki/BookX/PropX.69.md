@@ -12,8 +12,7 @@ It is to be proved that *CD* is also the side of a rational plus a medial area.
 
 ![java applet or image](propX66.gif)
 
-[X.40](PropX.40.md)
-Divide *AB* into its straight lines at *E*. Then *AE* and *EB* are straight lines incommensurable in square which make the sum of the squares on them medial but the rectangle contained by them rational.
+Divide *AB* into its straight lines at *E*. Then *AE* and *EB* are straight lines incommensurable in square which make the sum of the squares on them medial but the rectangle contained by them rational. ([X.40](PropX.40.md))
 
 Make the same construction as before.
 

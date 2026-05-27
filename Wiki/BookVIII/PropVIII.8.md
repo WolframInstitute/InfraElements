@@ -12,26 +12,19 @@ I say that, as many numbers as have fallen between *A* and *B* in continued prop
 
 ![java applet or image](propVIII8.gif)
 
-[VII.33](../BookVII/PropVII.33.md)
+As many as *A, B, C,* and *D* are in multitude, take so many numbers *G, H, K,* and *L,* the least of those which have the same ratio with *A, C, D,* and *B.* Then the extremes of them *G* and *L* are relatively prime. ([VII.33](../BookVII/PropVII.33.md), [VIII.3](PropVIII.3.md))
 
-[VIII.3](PropVIII.3.md)
-As many as *A, B, C,* and *D* are in multitude, take so many numbers *G, H, K,* and *L,* the least of those which have the same ratio with *A, C, D,* and *B.* Then the extremes of them *G* and *L* are relatively prime.
-
-[VII.14](../BookVII/PropVII.14.md)
 Now, since *A, C, D,* and *B* are in the same ratio with *G, H, K,* and *L,* and the multitude of the numbers *A, C, D,* and *B* equals the multitude of the numbers *G, H, K,* and *L,* therefore, *ex aequali A* is to *B* as *G* is to *L.*
 
-([V.11](../BookV/PropV.11.md))
+([V.11](../BookV/PropV.11.md)) ([VII.14](../BookVII/PropVII.14.md))
+
 But *A* is to *B* as *E* is to *F,* therefore *G* is to *L* as *E* is to *F.*
 
-[VII.21](../BookVII/PropVII.21.md)
-
-[VII.20](../BookVII/PropVII.20.md)
-But *G* and *L* are relatively prime, numbers which are relatively prime are also least, and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent.
+But *G* and *L* are relatively prime, numbers which are relatively prime are also least, and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent. ([VII.21](../BookVII/PropVII.21.md), [VII.20](../BookVII/PropVII.20.md))
 
 Therefore *G* measures *E* the same number of times as *L* measures *F.*
 
-[VII.Def.20](../BookVII/DefVII.20.md)
-Next, let *H* and *K* measure *M* and *N,* respectively, as many times as *G* measures *E.* Then *G, H, K,* and *L* measure *E, M, N,* and *F* the same number of times. Therefore *G, H, K,* and *L* are in the same ratio with *E, M, N,* and *F.*
+Next, let *H* and *K* measure *M* and *N,* respectively, as many times as *G* measures *E.* Then *G, H, K,* and *L* measure *E, M, N,* and *F* the same number of times. Therefore *G, H, K,* and *L* are in the same ratio with *E, M, N,* and *F.* ([VII.Def.20](../BookVII/DefVII.20.md))
 
 But *G, H, K,* and *L* are in the same ratio with *A, C, D,* and *B,* therefore *A, C, D,* and *B* are also in the same ratio with *E, M, N,* and *F.*
 

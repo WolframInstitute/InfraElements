@@ -16,15 +16,9 @@ Now, since *A* is a cube, and *C* its side, and *C* multiplied by itself makes *
 
 ![java applet or image](propVIII12.gif)
 
-[VII.17](../BookVII/PropVII.17.md)
+And, since *C* multiplied by the numbers *C* and *D* makes *E* and *F* respectively, therefore *C* is to *D* as *E* is to *F.* For the same reason also *C* is to *D* as *F* is to *G.* Again, since *C* multiplied by the numbers *E* and *F* makes *A* and *H* respectively, therefore *E* is to *F* as *A* is to *H.* But *E* is to *F* as *C* is to *D.* Therefore *C* is to *D* as *A* is to *H.* ([VII.17](../BookVII/PropVII.17.md), [VII.18](../BookVII/PropVII.18.md))
 
-[VII.18](../BookVII/PropVII.18.md)
-And, since *C* multiplied by the numbers *C* and *D* makes *E* and *F* respectively, therefore *C* is to *D* as *E* is to *F.* For the same reason also *C* is to *D* as *F* is to *G.* Again, since *C* multiplied by the numbers *E* and *F* makes *A* and *H* respectively, therefore *E* is to *F* as *A* is to *H.* But *E* is to *F* as *C* is to *D.* Therefore *C* is to *D* as *A* is to *H.*
-
-[VII.18](../BookVII/PropVII.18.md)
-
-[VII.17](../BookVII/PropVII.17.md)
-Again, since the numbers *C* and *D* multiplied by *F* make *H* and *K* respectively, therefore *C* is to *D* as *H* is to *K.* Again, since *D* multiplied by each of the numbers *F* and *G* makes *K* and *B* respectively, therefore *F* is to *G* as *K* is to *B.*
+Again, since the numbers *C* and *D* multiplied by *F* make *H* and *K* respectively, therefore *C* is to *D* as *H* is to *K.* Again, since *D* multiplied by each of the numbers *F* and *G* makes *K* and *B* respectively, therefore *F* is to *G* as *K* is to *B.* ([VII.18](../BookVII/PropVII.18.md), [VII.17](../BookVII/PropVII.17.md))
 
 But *F* is to *G* as *C* is to *D,* therefore *C* is to *D* as *A* is to *H,* as *H* is to *K,* and as *K* is to *B.*
 
@@ -32,8 +26,7 @@ Therefore *H* and *K* are two mean proportionals between *A* and *B.*
 
 I say next that *A* also has to *B* the ratio triplicate of that which *C* has to *D.*
 
-[V.Def.10](../BookV/DefV.8.md)
-Since *A, H, K,* and *B* are four numbers in proportion, therefore *A* has to *B* the ratio triplicate of that which *A* has to *H.*
+Since *A, H, K,* and *B* are four numbers in proportion, therefore *A* has to *B* the ratio triplicate of that which *A* has to *H.* ([V.Def.10](../BookV/DefV.8.md))
 
 But *A* is to *H* as *C* is to *D,* therefore *A* also has to *B* the ratio triplicate of that which *C* has to *D.*
 

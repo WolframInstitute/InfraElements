@@ -14,26 +14,19 @@ Multiply *D* by *F* to make *H,* and multiply the numbers *D* and *F* by *H* to 
 
 ![java applet or image](propVIII10.gif)
 
-[VII.Def.20](../BookVII/DefVII.20.md)
-Now, since the unit *C* is to the number *D* as *D* is to *E,* therefore the unit *C* measures the number *D* the same number of times as *D* measures *E.* But the unit *C* measures the number *D* according to the units in *D,* therefore the number *D* also measures *E* according to the units in *D.* Therefore *D* multiplied by itself makes *E.*
+Now, since the unit *C* is to the number *D* as *D* is to *E,* therefore the unit *C* measures the number *D* the same number of times as *D* measures *E.* But the unit *C* measures the number *D* according to the units in *D,* therefore the number *D* also measures *E* according to the units in *D.* Therefore *D* multiplied by itself makes *E.* ([VII.Def.20](../BookVII/DefVII.20.md))
 
 Again, since *C* is to the number *D* as *E* is to *A,* therefore the unit *C* measures the number *D* the same number of times as *E* measures *A.* But the unit *C* measures the number *D* according to the units in *D,* therefore *E* also measures *A* according to the units in *D.* Therefore *D* multiplied by *E* makes *A.*
 
 For the same reason also *F* multiplied by itself makes *G,* and multiplied by *G* makes *B.*
 
-[VII.17](../BookVII/PropVII.17.md)
-And, since *D* multiplied by itself makes *E* and multiplied by *F* makes *H,* therefore *D* is to *F* as *E* is to *H.*
+And, since *D* multiplied by itself makes *E* and multiplied by *F* makes *H,* therefore *D* is to *F* as *E* is to *H.* ([VII.17](../BookVII/PropVII.17.md))
 
-[VII.18](../BookVII/PropVII.18.md)
-For the same reason also *D* is to *F* as *H* is to *G.* Therefore *E* is to *H* as *H* is to *G.*
+For the same reason also *D* is to *F* as *H* is to *G.* Therefore *E* is to *H* as *H* is to *G.* ([VII.18](../BookVII/PropVII.18.md))
 
-[VII.17](../BookVII/PropVII.17.md)
-Again, since *D* multiplied by the numbers *E* and *H* makes *A* and *K* respectively, therefore *E* is to *H* as *A* is to *K.* But *E* is to *H* as *D* is to *F,* therefore *D* is to *F* as *A* is to *K.*
+Again, since *D* multiplied by the numbers *E* and *H* makes *A* and *K* respectively, therefore *E* is to *H* as *A* is to *K.* But *E* is to *H* as *D* is to *F,* therefore *D* is to *F* as *A* is to *K.* ([VII.17](../BookVII/PropVII.17.md))
 
-[VII.18](../BookVII/PropVII.18.md)
-
-[VII.17](../BookVII/PropVII.17.md)
-Again, since the numbers *D* and *F* multiplied by *H* make *K* and *L* respectively, therefore *D* is to *F* as *K* is to *L.* But *D* is to *F* as *A* is to *K,* therefore *A* is to *K* as *K* is to *L.* Further, since *F* multiplied by the numbers *H* and *G* makes *L* and *B* respectively, therefore *H* is to *G* as *L* is to *B.*
+Again, since the numbers *D* and *F* multiplied by *H* make *K* and *L* respectively, therefore *D* is to *F* as *K* is to *L.* But *D* is to *F* as *A* is to *K,* therefore *A* is to *K* as *K* is to *L.* Further, since *F* multiplied by the numbers *H* and *G* makes *L* and *B* respectively, therefore *H* is to *G* as *L* is to *B.* ([VII.18](../BookVII/PropVII.18.md), [VII.17](../BookVII/PropVII.17.md))
 
 But *H* is to *G* as *D* is to *F,* therefore *D* is to *F* as *L* is to *B.* But it was also proved that *D* is to *F* as *A* is to *K* and as *K* is to *L,* therefore *A* is to *K* as *K* is to *L* and as *L* is to *B.* Therefore *A, K, L,* and *B* are in continued proportion.
 

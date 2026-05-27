@@ -12,19 +12,15 @@ Let *ABCD* be the given circle.
 
 It is required to inscribe a square in the circle *ABCD.*
 
-[III.1](../BookIII/PropIII.1.md),
-[I.11](../BookI/PropI.11.md)
-Draw two diameters *AC* and *BD* of the circle *ABCD* at right angles to one another, and join *AB, BC, CD,* and *DA.*
+Draw two diameters *AC* and *BD* of the circle *ABCD* at right angles to one another, and join *AB, BC, CD,* and *DA.* ([III.1](../BookIII/PropIII.1.md), [I.11](../BookI/PropI.11.md))
 
-[I.4](../BookI/PropI.4.md)
-Then, since *BE* equals *ED,* for *E* is the center, and *EA* is common and at right angles, therefore the base *AB* equals the base *AD.*
+Then, since *BE* equals *ED,* for *E* is the center, and *EA* is common and at right angles, therefore the base *AB* equals the base *AD.* ([I.4](../BookI/PropI.4.md))
 
 For the same reason each of the straight lines *BC* and *CD* also equals each of the straight lines *AB* and *AD.* Therefore the quadrilateral *ABCD* is equilateral.
 
 I say next that it is also right-angled.
 
-[III.31](../BookIII/PropIII.31.md)
-For, since the straight line *BD* is a diameter of the circle *ABCD,* therefore *BAD* is a semicircle, therefore the angle *BAD* is right.
+For, since the straight line *BD* is a diameter of the circle *ABCD,* therefore *BAD* is a semicircle, therefore the angle *BAD* is right. ([III.31](../BookIII/PropIII.31.md))
 
 For the same reason each of the angles *ABC, BCD,* and *CDA* is also right. Therefore the quadrilateral *ABCD* is right-angled.
 

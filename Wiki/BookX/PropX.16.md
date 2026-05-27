@@ -16,8 +16,7 @@ For, if *CA* and *AB* are not incommensurable, then some magnitude *D* measures 
 
 Since then *D* measures *CA* and *AB*, therefore it also measures the remainder *BC*. But it also measures *AB*, therefore *D* measures *AB* and *BC*. Therefore *AB* and *BC* are commensurable, but they were also, by hypothesis, incommensurable, which is impossible.
 
-[X.Def.I.1](DefX.I.1.md)
-Therefore no magnitude measures *CA* and *AB*. Therefore *CA* and *AB* are incommensurable.
+Therefore no magnitude measures *CA* and *AB*. Therefore *CA* and *AB* are incommensurable. ([X.Def.I.1](DefX.I.1.md))
 
 Similarly we can prove that *AC* and *CB* are also incommensurable. Therefore *AC* is incommensurable with each of the magnitudes *AB* and *BC*.
 
@@ -31,8 +30,7 @@ For, if they are commensurable, then some magnitude *D* measures them.
 
 Since, then, *D* measures *AB* and *BC*, therefore it also measures the whole *AC*. But it also measures *AB*, therefore *D* measures *CA* and *AB*. Therefore *CA* and *AB* are commensurable, but they were also, by hypothesis, incommensurable, which is impossible.
 
-[X.Def.I.1](DefX.I.1.md)
-Therefore no magnitude measures *AB* and *BC*. Therefore *AB* and *BC* are incommensurable.
+Therefore no magnitude measures *AB* and *BC*. Therefore *AB* and *BC* are incommensurable. ([X.Def.I.1](DefX.I.1.md))
 
 Therefore, *if two incommensurable magnitudes are added together, the sum is also incommensurable with each of them; but, if the sum is incommensurable with one of them, then the original magnitudes are also incommensurable.*
 

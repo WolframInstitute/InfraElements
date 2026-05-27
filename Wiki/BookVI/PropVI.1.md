@@ -10,29 +10,21 @@ Let *ACB* and *ACD* be triangles, and let *CE* and *CF* be parallelograms under 
 
 I say that the base *CB* is to the base *CD* as the triangle *ACB* is to the triangle *ACD,* and as the parallelogram *CE* is to the parallelogram *CF.*
 
-[I.3](../BookI/PropI.3.md)
-Produce *BD* in both directions to the points *H* and *L.* Make any number of straight lines *BG* and *GH* equal to the base *CB,* and any number of straight lines *DK* and *KL* equal to the base *CD.* Join *AG, AH, AK,* and *AL.*
+Produce *BD* in both directions to the points *H* and *L.* Make any number of straight lines *BG* and *GH* equal to the base *CB,* and any number of straight lines *DK* and *KL* equal to the base *CD.* Join *AG, AH, AK,* and *AL.* ([I.3](../BookI/PropI.3.md))
 
 ![java applet or image](propVI1.gif)
 
-[I.38](../BookI/PropI.38.md)
-Then, since *CB, BG,* and *GH* equal one another, the triangles *ACB, ABG,* and *AGH* also equal one another.
+Then, since *CB, BG,* and *GH* equal one another, the triangles *ACB, ABG,* and *AGH* also equal one another. ([I.38](../BookI/PropI.38.md))
 
 Therefore, whatever multiple the base *CH* is of the base *CB,* the triangle *ACH* is also that multiple of the triangle *ACB.*
 
-[I.38](../BookI/PropI.38.md)
-For the same reason, whatever multiple the base *CL* is of the base *CD,* the triangle *ACL* is also that multiple of the triangle *ACD.* And, if the base *CH* equals the base *CL,* then the triangle *ACH* also equals the triangle *ACL*; if the base *CH* is in excess of the base *CL,* the triangle *ACH* is also in excess of the triangle *ACL*; and, if less, less.
+For the same reason, whatever multiple the base *CL* is of the base *CD,* the triangle *ACL* is also that multiple of the triangle *ACD.* And, if the base *CH* equals the base *CL,* then the triangle *ACH* also equals the triangle *ACL*; if the base *CH* is in excess of the base *CL,* the triangle *ACH* is also in excess of the triangle *ACL*; and, if less, less. ([I.38](../BookI/PropI.38.md))
 
-[V.Def.5](../BookV/DefV.5.md)
-Thus, there being four magnitudes, namely two bases *CB* and *CD,* and two triangles *ACB* and *ACD,* equimultiples have been taken of the base *CB* and the triangle *ACB,* namely the base *CH* and the triangle *ACH,* and other, arbitrary, equimultiples of the base *CD* and the triangle *ADC,* namely the base *CL* and the triangle *ACL,* and it has been proved that, if the base *CH* is in excess of the base *CL,* the triangle *ACH* is also in excess of the triangle *ACL*; if equal, equal; and, if less, less. Therefore the base *CB* is to the base *CD* as the triangle *ACB* is to the triangle *ACD.*
+Thus, there being four magnitudes, namely two bases *CB* and *CD,* and two triangles *ACB* and *ACD,* equimultiples have been taken of the base *CB* and the triangle *ACB,* namely the base *CH* and the triangle *ACH,* and other, arbitrary, equimultiples of the base *CD* and the triangle *ADC,* namely the base *CL* and the triangle *ACL,* and it has been proved that, if the base *CH* is in excess of the base *CL,* the triangle *ACH* is also in excess of the triangle *ACL*; if equal, equal; and, if less, less. Therefore the base *CB* is to the base *CD* as the triangle *ACB* is to the triangle *ACD.* ([V.Def.5](../BookV/DefV.5.md))
 
-[I.41](../BookI/PropI.41.md)
+Next, since the parallelogram *CE* is double the triangle *ACB,* and the parallelogram *FC* is double the triangle *ACD,* and parts have the same ratio as their equimultiples, therefore the triangle *ACB* is to the triangle *ACD* as the parallelogram *CE* is to the parallelogram *FC.* ([I.41](../BookI/PropI.41.md), [V.15](../BookV/PropV.15.md))
 
-[V.15](../BookV/PropV.15.md)
-Next, since the parallelogram *CE* is double the triangle *ACB,* and the parallelogram *FC* is double the triangle *ACD,* and parts have the same ratio as their equimultiples, therefore the triangle *ACB* is to the triangle *ACD* as the parallelogram *CE* is to the parallelogram *FC.*
-
-[V.11](../BookV/PropV.11.md)
-Since, then, it was proved that the base *CB* is to *CD* as the triangle *ACB* is to the triangle *ACD,* and the triangle *ACB* is to the triangle *ACD* as the parallelogram *CE* is to the parallelogram *CF,* therefore also the base *CB* is to the base *CD* as the parallelogram *CE* is to the parallelogram *FC.*
+Since, then, it was proved that the base *CB* is to *CD* as the triangle *ACB* is to the triangle *ACD,* and the triangle *ACB* is to the triangle *ACD* as the parallelogram *CE* is to the parallelogram *CF,* therefore also the base *CB* is to the base *CD* as the parallelogram *CE* is to the parallelogram *FC.* ([V.11](../BookV/PropV.11.md))
 
 Therefore, *triangles and parallelograms which are under the same height are to one another as their bases.*
 

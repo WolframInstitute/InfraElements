@@ -14,14 +14,11 @@ I say that the straight line *AE* is to *EB* as *CF* is to *FD.*
 
 Join *AC, BD,* and *AD.* Let *AD* meet the plane *KL* at the point *O.* Join *EO* and *FO.*
 
-[XI.16](PropXI.16.md)
-Now, since the two parallel planes *KL* and *MN* are cut by the plane *EBDO,* therefore their intersections *EO* and *BD* are parallel. For the same reason, since the two parallel planes *GH* and *KL* are cut by the plane *AOFC,* their intersections *AC* and *OF* are parallel.
+Now, since the two parallel planes *KL* and *MN* are cut by the plane *EBDO,* therefore their intersections *EO* and *BD* are parallel. For the same reason, since the two parallel planes *GH* and *KL* are cut by the plane *AOFC,* their intersections *AC* and *OF* are parallel. ([XI.16](PropXI.16.md))
 
-[VI.2](../BookVI/PropVI.2.md)
-And, since the straight line *EO* is parallel to *BC,* one of the sides of the triangle *ABD,* therefore proportionally *AE* is to *EB* as *AO* is to *OD.* Again, since the straight line *FO* is parallel to *CA,* one of the sides of the triangle *ADC,* therefore proportionally *AO* is to *OD* as *CF* is to *FD.*
+And, since the straight line *EO* is parallel to *BC,* one of the sides of the triangle *ABD,* therefore proportionally *AE* is to *EB* as *AO* is to *OD.* Again, since the straight line *FO* is parallel to *CA,* one of the sides of the triangle *ADC,* therefore proportionally *AO* is to *OD* as *CF* is to *FD.* ([VI.2](../BookVI/PropVI.2.md))
 
-[V.11](../BookV/PropV.11.md)
-But it was prove that *AO* is to *OD* as *AE* is to *EB,* therefore *AE* is to *EB* as *CF* is to *FD.*
+But it was prove that *AO* is to *OD* as *AE* is to *EB,* therefore *AE* is to *EB* as *CF* is to *FD.* ([V.11](../BookV/PropV.11.md))
 
 Therefore, *if two straight lines are cut by parallel planes, then they are cut in the same ratios.*
 

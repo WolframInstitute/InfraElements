@@ -11,11 +11,9 @@ It is required to find the number which is the least that will have the parts *A
 
 ![java applet or image](propVII39.gif)
 
-[VII.36](PropVII.36.md)
-Let *D, E,* and *F* be numbers called by the same name as the parts *A, B,* and *C.* Take *G,* the least number measured by *D, E,* and *F.*
+Let *D, E,* and *F* be numbers called by the same name as the parts *A, B,* and *C.* Take *G,* the least number measured by *D, E,* and *F.* ([VII.36](PropVII.36.md))
 
-[VII.37](PropVII.37.md)
-Therefore *G* has parts called by the same name as *D, E,* and *F.*
+Therefore *G* has parts called by the same name as *D, E,* and *F.* ([VII.37](PropVII.37.md))
 
 But *A, B,* and *C* are parts called by the same name as *D, E,* and *F,* therefore *G* has the parts *A, B,* and *C.*
 
@@ -23,8 +21,7 @@ I say next that it is also the least number that has.
 
 If not, there is some number *H* less than *G* which has the parts *A, B,* and *C.*
 
-[VII.38](PropVII.38.md)
-Since *H* has the parts *A, B,* and *C,* therefore *H* is measured by numbers called by the same name as the parts *A, B,* and *C.* But *D, E,* and *F* are numbers called by the same name as the parts *A, B,* and *C,* therefore *H* is measured by *D, E,* and *F.*
+Since *H* has the parts *A, B,* and *C,* therefore *H* is measured by numbers called by the same name as the parts *A, B,* and *C.* But *D, E,* and *F* are numbers called by the same name as the parts *A, B,* and *C,* therefore *H* is measured by *D, E,* and *F.* ([VII.38](PropVII.38.md))
 
 And it is less than *G,* which is impossible. Therefore there is no number less than *G* that has the parts *A, B,* and *C.*
 

@@ -9,22 +9,18 @@ Between two similar plane numbers there is one mean proportional number, and the
 Let *A* and *B* be two similar plane numbers, and let the numbers *C* and *D* be the sides of *A,* and *E* and *F* of *B.*
 
 Now, since similar plane numbers are those which have their sides proportional, therefore *C* is to *D* as *E* is to *F.*
-[VII.Def.21](../BookVII/DefVII.21.md)
 
-I say then that between *A* and *B* there is one mean proportional number, and *A* has to *B* the ratio duplicate of that which *C* has to *E,* or as *D* has to *F,* that is, of that which the corresponding side has to the corresponding side.
+I say then that between *A* and *B* there is one mean proportional number, and *A* has to *B* the ratio duplicate of that which *C* has to *E,* or as *D* has to *F,* that is, of that which the corresponding side has to the corresponding side. ([VII.Def.21](../BookVII/DefVII.21.md))
 
 ![java applet or image](propVIII18a.gif)
 
-[VII.13](../BookVII/PropVII.13.md)
-Now since *C* is to *D* as *E* is to *F,* therefore, alternately *C* is to *E* as *D* is to *F.*
+Now since *C* is to *D* as *E* is to *F,* therefore, alternately *C* is to *E* as *D* is to *F.* ([VII.13](../BookVII/PropVII.13.md))
 
 And, since *A* is plane, and *C* and *D* are its sides, therefore *D* multiplied by *C* makes *A.* For the same reason also *E* multiplied by *F* makes *B.*
 
-[VII.17](../BookVII/PropVII.17.md)
-Multiply *D* by *E* to make *G.* Then, since *D* multiplied by *C* makes *A,* and multiplied by *E* makes *G,* therefore *C* is to *E* as *A* is to *G.*
+Multiply *D* by *E* to make *G.* Then, since *D* multiplied by *C* makes *A,* and multiplied by *E* makes *G,* therefore *C* is to *E* as *A* is to *G.* ([VII.17](../BookVII/PropVII.17.md))
 
-[VII.17](../BookVII/PropVII.17.md)
-But *C* is to *E* as *D* is to *F,* therefore *D* is to *F* as *A* is to *G.* Again, since *E* multiplied by *D* makes *G,* and multiplied by *F* makes *B,* therefore *D* is to *F* as *G* is to *B.*
+But *C* is to *E* as *D* is to *F,* therefore *D* is to *F* as *A* is to *G.* Again, since *E* multiplied by *D* makes *G,* and multiplied by *F* makes *B,* therefore *D* is to *F* as *G* is to *B.* ([VII.17](../BookVII/PropVII.17.md))
 
 But it was also proved that *D* is to *F* as *A* is to *G,* therefore *A* is to *G* as *G* is to *B.* Therefore *A, G,* and *B* are in continued proportion.
 
@@ -32,8 +28,7 @@ Therefore between *A* and *B* there is one mean proportional number.
 
 I say next that *A* also has to *B* the ratio duplicate of that which the corresponding side has to the corresponding side, that is, of that which *C* has to *E* or *D* has to *F.*
 
-[V.Def.9](../BookV/DefV.8.md)
-Since *A, G,* and *B* are in continued proportion, *A* has to *B* the ratio duplicate of that which it has to *G.* And *A* is to *G* as *C* is to *E,* and as *D* is to *F.* Therefore *A* also has to *B* the ratio duplicate of that which *C* has to *E* or *D* has to *F.*
+Since *A, G,* and *B* are in continued proportion, *A* has to *B* the ratio duplicate of that which it has to *G.* And *A* is to *G* as *C* is to *E,* and as *D* is to *F.* Therefore *A* also has to *B* the ratio duplicate of that which *C* has to *E* or *D* has to *F.* ([V.Def.9](../BookV/DefV.8.md))
 
 Therefore, *between two similar plane numbers there is one mean proportional number, and the plane number has to the plane number the ratio duplicate of that which the corresponding side has to the corresponding side.*
 

@@ -10,8 +10,7 @@ Let *A, B,* and *C* be the three given numbers.
 
 It is required to find the least number which they measure.
 
-[VII.34](PropVII.34.md)
-Take *D* the least number measured by the two numbers *A* and *B.*
+Take *D* the least number measured by the two numbers *A* and *B.* ([VII.34](PropVII.34.md))
 
 Then *C* either measures, or does not measure, *D.*
 
@@ -25,8 +24,7 @@ I say next that it is also the least that they measure.
 
 If not, *A, B,* and *C* measure some number *E* less than *D.*
 
-[VII.35](PropVII.35.md)
-Since *A, B,* and *C* measure *E,* therefore *A* and *B* measure *E.* Therefore the least number measured by *A* and *B* also measures *E.*
+Since *A, B,* and *C* measure *E,* therefore *A* and *B* measure *E.* Therefore the least number measured by *A* and *B* also measures *E.* ([VII.35](PropVII.35.md))
 
 But *D* is the least number measured by *A* and *B,* therefore *D* measures *E,* the greater the less, which is impossible.
 
@@ -34,8 +32,7 @@ Therefore *A, B,* and *C* do not measure any number less than *D.* Therefore *D*
 
 Next, let *C* not measure *D.*
 
-[VII.34](PropVII.34.md)
-Take *E,* the least number measured by *C* and *D.*
+Take *E,* the least number measured by *C* and *D.* ([VII.34](PropVII.34.md))
 
 Since *A* and *B* measure *D,* and *D* measures *E,* therefore *A* and *B* also measure *E.* But *C* also measures *E,* therefore *A, B,* and *C* also measure *E.*
 
@@ -45,8 +42,7 @@ I say next that it is also the least that they measure.
 
 If not, *A, B,* and *C* measure some number *F* less than *E.*
 
-[VII.35](PropVII.35.md)
-Since *A, B,* and *C* measure *F,* therefore *A* and *B* measure *F.* Therefore the least number measured by *A* and *B* also measures *F.* But *D* is the least number measured by *A* and *B,* therefore *D* measures *F.* But *C* also measures *F,* therefore *D* and *C* measure *F,* so that the least number measured by *D* and *C* also measures *F.*
+Since *A, B,* and *C* measure *F,* therefore *A* and *B* measure *F.* Therefore the least number measured by *A* and *B* also measures *F.* But *D* is the least number measured by *A* and *B,* therefore *D* measures *F.* But *C* also measures *F,* therefore *D* and *C* measure *F,* so that the least number measured by *D* and *C* also measures *F.* ([VII.35](PropVII.35.md))
 
 But *E* is the least number measured by *C* and *D,* therefore *E* measures *F,* the greater the less, which is impossible.
 

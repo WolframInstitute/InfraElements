@@ -11,13 +11,9 @@ I say that, *ex aequali A* is to *C* as *D* is to *F.*
 
 ![java applet or image](propVII14.gif)
 
-[VII.13](PropVII.13.md)
-Since *A* is to *B* as *D* is to *E,* therefore, alternately *A* is to *D* as *B* is to *E.*
+Since *A* is to *B* as *D* is to *E,* therefore, alternately *A* is to *D* as *B* is to *E.* ([VII.13](PropVII.13.md))
 
-[VII.13](PropVII.13.md)
-
-([V.11](../BookV/PropV.11.md))
-Again, since *B* is to *C* as *E* is to *F,* therefore, alternately *B* is to *E* as *C* is to *F.* But *B* is to *E* as *A* is to *D,* therefore *A* is to *D* as *C* is to *F.* Therefore, alternately *A* is to *C* as *D* is to *F.*
+Again, since *B* is to *C* as *E* is to *F,* therefore, alternately *B* is to *E* as *C* is to *F.* But *B* is to *E* as *A* is to *D,* therefore *A* is to *D* as *C* is to *F.* Therefore, alternately *A* is to *C* as *D* is to *F.* ([VII.13](PropVII.13.md), [V.11](../BookV/PropV.11.md))
 
 Therefore, *if there are any number of numbers, and others equal to them in multitude, which taken two and two together are in the same ratio, then they are also in the same ratio *ex aequali.**
 

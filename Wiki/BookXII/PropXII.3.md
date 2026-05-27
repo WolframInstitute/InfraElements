@@ -10,39 +10,27 @@ Let there be a pyramid of with the triangular base *ABC* and vertex *D.*
 
 I say that the pyramid *ABCD* is divided into two pyramids equal to one another, having triangular bases and similar to the whole pyramid, and into two equal prisms, and the two prisms are greater than the half of the whole pyramid.
 
-[I.10](../BookI/PropI.10.md)
-Bisect *AB, BC, CA, AD, DB,* and *DC* at the points *E, F, G, H, K,* and *L.* Join *HE, EG, GH, HK, KL, LH, KF,* and *FG*.
+Bisect *AB, BC, CA, AD, DB,* and *DC* at the points *E, F, G, H, K,* and *L.* Join *HE, EG, GH, HK, KL, LH, KF,* and *FG*. ([I.10](../BookI/PropI.10.md))
 
 ![java applet or image](propXII3.gif)
 
 Since *AE* equals *EB,* and *AH* equals *DH,* therefore *EH* is parallel to *DB.* For the same reason *HK* is also parallel to *AB.* Therefore *HEBK* is a parallelogram. Therefore *HK* equals *EB.*
-[VI.2](../BookVI/PropVI.2.md)
 
-[I.34](../BookI/PropI.34.md)
+But *EB* equals *EA,* therefore *AE* also equals *HK.* ([VI.2](../BookVI/PropVI.2.md), [I.34](../BookI/PropI.34.md))
 
-But *EB* equals *EA,* therefore *AE* also equals *HK.*
-
-[I.4](../BookI/PropI.4.md)
-But *AH* also equals *HD,* therefore the two sides *EA* and *AH* equal the two sides *KH, HD* respectively, and the angle *EAH* equals the angle *KHD,* therefore the base *EH* equals the base *KD.*
+But *AH* also equals *HD,* therefore the two sides *EA* and *AH* equal the two sides *KH, HD* respectively, and the angle *EAH* equals the angle *KHD,* therefore the base *EH* equals the base *KD.* ([I.4](../BookI/PropI.4.md))
 
 Therefore the triangle *AEH* equals and is similar to the triangle *HKD.* For the same reason the triangle *AHG* also equals and is similar to the triangle *HLD.*
 
-[XI.10](../BookXI/PropXI.10.md)
-Now, since two straight lines *EH* and *HG* meeting one another are parallel to two straight lines *KD* and *DL* meeting one another and are not in the same plane, therefore they contain equal angles. Therefore the angle *EHG* equals the angle *KDL.*
+Now, since two straight lines *EH* and *HG* meeting one another are parallel to two straight lines *KD* and *DL* meeting one another and are not in the same plane, therefore they contain equal angles. Therefore the angle *EHG* equals the angle *KDL.* ([XI.10](../BookXI/PropXI.10.md))
 
-[I.4](../BookI/PropI.4.md)
-And, since the two straight lines *EH* and *HG* equal the two *KD* and *DL* respectively, and the angle *EHG* equals the angle *KDL,* therefore the base *EG* equals the base *KL.* Therefore the triangle *EHG* equals and is similar to the triangle *KDL.* For the same reason the triangle *AEG* also equals and is similar to the triangle *HKL.*
+And, since the two straight lines *EH* and *HG* equal the two *KD* and *DL* respectively, and the angle *EHG* equals the angle *KDL,* therefore the base *EG* equals the base *KL.* Therefore the triangle *EHG* equals and is similar to the triangle *KDL.* For the same reason the triangle *AEG* also equals and is similar to the triangle *HKL.* ([I.4](../BookI/PropI.4.md))
 
-[XI.Def.10](../BookXI/DefXI.9.md)
-Therefore the pyramid with triangular base *AEG* and vertex *H* equals and is similar to the pyramid with triangular base *HKL* and the vertex *D.*
+Therefore the pyramid with triangular base *AEG* and vertex *H* equals and is similar to the pyramid with triangular base *HKL* and the vertex *D.* ([XI.Def.10](../BookXI/DefXI.9.md))
 
-[I.29](../BookI/PropI.29.md)
+And, since *HK* is parallel to *AB,* one of the sides of the triangle *ADB,* the triangle *ADB* is equiangular to the triangle *DHK,* and they have their sides proportional, therefore the triangle *ADB* is similar to the triangle *DHK.* For the same reason the triangle *DBC* is also similar to the triangle *DKL,* and the triangle *ADC* is similar to the triangle *DLH.* ([I.29](../BookI/PropI.29.md), [VI.Def.1](../BookVI/DefVI.1.md))
 
-[VI.Def.1](../BookVI/DefVI.1.md)
-And, since *HK* is parallel to *AB,* one of the sides of the triangle *ADB,* the triangle *ADB* is equiangular to the triangle *DHK,* and they have their sides proportional, therefore the triangle *ADB* is similar to the triangle *DHK.* For the same reason the triangle *DBC* is also similar to the triangle *DKL,* and the triangle *ADC* is similar to the triangle *DLH.*
-
-[XI.10](../BookXI/PropXI.10.md)
-Now, since the two straight lines *BA* and *AC* meeting one another are parallel to the two straight lines *KH* and *HL* meeting one another not in the same plane, therefore they contain equal angles. Therefore the angle *BAC* equals the angle *KHL.*
+Now, since the two straight lines *BA* and *AC* meeting one another are parallel to the two straight lines *KH* and *HL* meeting one another not in the same plane, therefore they contain equal angles. Therefore the angle *BAC* equals the angle *KHL.* ([XI.10](../BookXI/PropXI.10.md))
 
 And *BA* is to *AC* as *KH* is to *HL,* therefore the triangle *ABC* is similar to the triangle *HKL.*
 
@@ -50,8 +38,7 @@ Therefore the pyramid with the triangular base *ABC* and vertex *D* is similar t
 
 But the pyramid with the triangular base *HKL* and vertex *D* was proved similar to the pyramid with the triangular base *AEG* and the vertex *H.* Therefore each of the pyramids *AEGH* and *HKLD* is similar to the whole pyramid *ABCD.*
 
-[XI.39](../BookXI/PropXI.39.md)
-Next, since *BF* equals *FC,* therefore the parallelogram *EBFG* is double the triangle *GFC.* And since, if there are two prisms of equal height, and one has a parallelogram as base and the other a triangle, and if the parallelogram is double the triangle, then the prisms are equal. Therefore the prism contained by the two triangles *BKF* and *EHG,* and the three parallelograms *EBFG, EBKH,* and *HKFG* equals the prism contained by the two triangles *GFC* and *HKL* and the three parallelograms *KFCL, LCGH,* and *HKFG.*
+Next, since *BF* equals *FC,* therefore the parallelogram *EBFG* is double the triangle *GFC.* And since, if there are two prisms of equal height, and one has a parallelogram as base and the other a triangle, and if the parallelogram is double the triangle, then the prisms are equal. Therefore the prism contained by the two triangles *BKF* and *EHG,* and the three parallelograms *EBFG, EBKH,* and *HKFG* equals the prism contained by the two triangles *GFC* and *HKL* and the three parallelograms *KFCL, LCGH,* and *HKFG.* ([XI.39](../BookXI/PropXI.39.md))
 
 And it is clear that each of the prisms, namely that with the parallelogram *EBFG* the base and the straight line *HK* its opposite, and that with the triangle *GFC* the base and the triangle *HKL* its opposite, is greater than each of the pyramids with the triangular bases *AEG* and *HKL* and vertices *H* and *D,* for, if we join the straight lines *EF* and *EK,* the prism with the parallelogram *EBFG* the base and the straight line *HK* opposite is greater than the pyramid with the triangular base *EBF* and vertex *K.*
 

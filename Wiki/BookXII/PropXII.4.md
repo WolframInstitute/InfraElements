@@ -6,8 +6,7 @@ If there are two pyramids of the same height with triangular bases, and each of 
 
 ## Proof
 
-[XII.3](PropXII.3.md)
-Let there be two pyramids of the same height with triangular bases *ABC* and *DEF* the points *G* and *H* the vertices, and let each of them be divided into two pyramids equal to one another and similar to the whole and into two equal prisms.
+Let there be two pyramids of the same height with triangular bases *ABC* and *DEF* the points *G* and *H* the vertices, and let each of them be divided into two pyramids equal to one another and similar to the whole and into two equal prisms. ([XII.3](PropXII.3.md))
 
 I say that the base *ABC* is to the base *DEF* as all the prisms in the pyramid *ABCG* to all the prisms, being equal in multitude, in the pyramid *DEFH.*
 
@@ -17,21 +16,15 @@ Since *BO* equals *OC,* and *AL* equals *LC,* therefore *LO* is parallel to *AB,
 
 And, since *BC* is double *CO,* and *EF* double *FV,* therefore *BC* is to *CO* as *EF* is to *FV.*
 
-[VI.22](../BookVI/PropVI.22.md)
-And on *BC* and *CO* are described the similar and similarly situated rectilinear figures *ABC* and *LOC,* and on *EF* and *FV* the similar and similarly situated figures *DEF* and *RVF,* therefore the triangle *ABC* is to the triangle *LOC* as the triangle *DEF* is to the triangle *RVF.*
+And on *BC* and *CO* are described the similar and similarly situated rectilinear figures *ABC* and *LOC,* and on *EF* and *FV* the similar and similarly situated figures *DEF* and *RVF,* therefore the triangle *ABC* is to the triangle *LOC* as the triangle *DEF* is to the triangle *RVF.* ([VI.22](../BookVI/PropVI.22.md))
 
-[V.16](../BookV/PropV.16.md)
-
-Lemma below
-Therefore, alternately the triangle *ABC* is to the triangle *DEF* as the triangle *LOC* is to the triangle *RVF.* But the triangle *LOC* is to the triangle *RVF* as the prism with the triangle *LOC* the base and *PMN* opposite is to the prism with the triangle *RVF* the base and *STU* opposite.
+Therefore, alternately the triangle *ABC* is to the triangle *DEF* as the triangle *LOC* is to the triangle *RVF.* But the triangle *LOC* is to the triangle *RVF* as the prism with the triangle *LOC* the base and *PMN* opposite is to the prism with the triangle *RVF* the base and *STU* opposite. ([V.16](../BookV/PropV.16.md), Lemma)
 
 Therefore the triangle *ABC* is to the triangle *DEF* as the prism with the triangle *LOC* the base and *PMN* opposite is to the prism with the triangle *RVF* the base and *STU* opposite.
 
-[XI.39](../BookXI/PropXI.39.md)
-But the said prisms are to one another as the prism with the parallelogram *KBOL* the base and the straight line *PM* opposite is to the prism with the parallelogram *QEVR* the base and the straight line *ST* opposite.
+But the said prisms are to one another as the prism with the parallelogram *KBOL* the base and the straight line *PM* opposite is to the prism with the parallelogram *QEVR* the base and the straight line *ST* opposite. ([XI.39](../BookXI/PropXI.39.md))
 
-[V.12](../BookV/PropV.12.md)
-Therefore the two prisms, that with the parallelogram *KBOL* the base and *PM* opposite, and that with the triangle *LOC* the base and *PMN* opposite, are to the prisms with *QEVR* the base and the straight line *ST* opposite and with the triangle *RVF* the base and *STU* opposite in the same ratio.
+Therefore the two prisms, that with the parallelogram *KBOL* the base and *PM* opposite, and that with the triangle *LOC* the base and *PMN* opposite, are to the prisms with *QEVR* the base and the straight line *ST* opposite and with the triangle *RVF* the base and *STU* opposite in the same ratio. ([V.12](../BookV/PropV.12.md))
 
 Therefore the base *ABC* is to the base *DEF* as the said two prisms are to the said two prisms.
 

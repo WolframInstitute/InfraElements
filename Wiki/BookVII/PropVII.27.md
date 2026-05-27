@@ -12,15 +12,13 @@ Let *A* and *B* be two relatively prime numbers, let *A* multiplied by itself ma
 
 I say that *C* and *E* are relatively prime, and that *D* and *F* are relatively prime.
 
-[VII.25](PropVII.25.md)
-Since *A* and *B* are relatively prime, and *A* multiplied by itself makes *C,* therefore *C* and *B* are relatively prime.
+Since *A* and *B* are relatively prime, and *A* multiplied by itself makes *C,* therefore *C* and *B* are relatively prime. ([VII.25](PropVII.25.md))
 
 Since, then, *C* and *B* are relatively prime, and *B* multiplied by itself makes *E,* therefore *C* and *E* are relatively prime.
 
 Again, since *A* and *B* are relatively prime, and *B* multiplied by itself makes *E,* therefore *A* and *E* are relatively prime.
 
-[VII.26](PropVII.26.md)
-Since, then, the two numbers *A* and *C* are relatively prime to the two numbers *B* and *E,* both to each, therefore the product of *A* and *C* is relatively prime to the product of *B* and *E.* And the product of *A* and *C* is *D,* and the product of *B* and *E* is *F.*
+Since, then, the two numbers *A* and *C* are relatively prime to the two numbers *B* and *E,* both to each, therefore the product of *A* and *C* is relatively prime to the product of *B* and *E.* And the product of *A* and *C* is *D,* and the product of *B* and *E* is *F.* ([VII.26](PropVII.26.md))
 
 Therefore *D* and *F* are relatively prime.
 

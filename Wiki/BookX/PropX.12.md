@@ -12,20 +12,15 @@ I say that *A* is also commensurable with *B*.
 
 ![java applet or image](propX12.gif)
 
-[X.5](PropX.5.md)
-Since *A* is commensurable with *C*, therefore *A* has to *C* the ratio which a number has to a number. Let it have the ratio which *D* has to *E*. Again, since *C* is commensurable with *B*, therefore *C* has to *B* the ratio which a number has to a number. Let it have the ratio which *F* has to *G*.
+Since *A* is commensurable with *C*, therefore *A* has to *C* the ratio which a number has to a number. Let it have the ratio which *D* has to *E*. Again, since *C* is commensurable with *B*, therefore *C* has to *B* the ratio which a number has to a number. Let it have the ratio which *F* has to *G*. ([X.5](PropX.5.md))
 
-[VIII.4](../BookVIII/PropVIII.4.md)
-And, given any number of ratios we please, namely the ratio which *D* has to *E* and that which *F* has to *G*, take the numbers *H*, *K*, and *L* continuously in the given ratios, so that *D* is to *E* as *H* is to *K*, and *F* is to *G* as *K* is to *L*.
+And, given any number of ratios we please, namely the ratio which *D* has to *E* and that which *F* has to *G*, take the numbers *H*, *K*, and *L* continuously in the given ratios, so that *D* is to *E* as *H* is to *K*, and *F* is to *G* as *K* is to *L*. ([VIII.4](../BookVIII/PropVIII.4.md))
 
-[V.11](../BookV/PropV.11.md)
-Since *A* is to *C* as *D* is to *E*, while *D* is to *E* as *H* is to *K*, therefore *A* is to *C* as *H* is to *K*. Again, since *C* is to *B* as *F* is to *G*, while *F* is to *G* as *K* is to *L*, therefore *C* is to *B* as *K* is to *L*.
+Since *A* is to *C* as *D* is to *E*, while *D* is to *E* as *H* is to *K*, therefore *A* is to *C* as *H* is to *K*. Again, since *C* is to *B* as *F* is to *G*, while *F* is to *G* as *K* is to *L*, therefore *C* is to *B* as *K* is to *L*. ([V.11](../BookV/PropV.11.md))
 
-[V.22](../BookV/PropV.22.md)
-But *A* is to *C* as *H* is to *K*, therefore, *ex aequali*, *A* is to *B* as *H* is to *L*.
+But *A* is to *C* as *H* is to *K*, therefore, *ex aequali*, *A* is to *B* as *H* is to *L*. ([V.22](../BookV/PropV.22.md))
 
-[X.6](PropX.6.md)
-Therefore *A* has to *B* the ratio which a number has to a number. Therefore *A* is commensurable with *B*.
+Therefore *A* has to *B* the ratio which a number has to a number. Therefore *A* is commensurable with *B*. ([X.6](PropX.6.md))
 
 Therefore, *magnitudes commensurable with the same magnitude are also commensurable with one another.*
 

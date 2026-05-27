@@ -12,16 +12,13 @@ I say that *A* equals *B.*
 
 ![java applet or image](propV9.gif)
 
-[V.8](PropV.8.md)
-
-Otherwise, each of the magnitudes *A* and *B* would not have the same ratio to *C,* but they do, therefore *A* equals *B.*
+Otherwise, each of the magnitudes *A* and *B* would not have the same ratio to *C,* but they do, therefore *A* equals *B.* ([V.8](PropV.8.md))
 
 Next, let *C* have the same ratio to each of the magnitudes *A* and *B.*
 
 I say that *A* equals *B.*
 
-[V.8](PropV.8.md)
-Otherwise, *C* would not have the same ratio to each of the magnitudes *A* and *B,* but it does, therefore *A* equals *B.*
+Otherwise, *C* would not have the same ratio to each of the magnitudes *A* and *B,* but it does, therefore *A* equals *B.* ([V.8](PropV.8.md))
 
 Therefore, *magnitudes which have the same ratio to the same equal one another; and magnitudes to which the same has the same ratio are equal.*
 

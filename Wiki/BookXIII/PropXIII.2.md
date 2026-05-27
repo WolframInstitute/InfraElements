@@ -11,15 +11,13 @@ I say that, when *CD* is cut in extreme and mean ratio, then the greater segment
 
 ![java applet or image](propXIII2.gif)
 
-[I.46](../BookI/PropI.46.md)
-Describe the squares *AF* and *CG* on *AB* and *CD* respectively, draw the figure in *AF,* and draw *BE* through.
+Describe the squares *AF* and *CG* on *AB* and *CD* respectively, draw the figure in *AF,* and draw *BE* through. ([I.46](../BookI/PropI.46.md))
 
 Now, since the square on *BA* is five times the square on *AC,* therefore *AF* is five times *AH.* Therefore the gnomon *MNO* is quadruple *AH.*
 
 And, since *DC* is double *CA,* therefore the square on *DC* is quadruple the square on *CA,* that is, *CG* is quadruple *AH.* But the gnomon *MNO* is also quadruple *AH,* therefore the gnomon *MNO* equals *CG.*
 
-[VI.1](../BookVI/PropVI.1.md)
-And, since *DC* is double *CA,* while *DC* equals *CK,* and *AC* equals *CH,* therefore *KB* is also double *BH.*
+And, since *DC* is double *CA,* while *DC* equals *CK,* and *AC* equals *CH,* therefore *KB* is also double *BH.* ([VI.1](../BookVI/PropVI.1.md))
 
 But the sum of *LH* and *HB* is also double *HB,* therefore *KB* equals the sum of *LH* and *HB.*
 

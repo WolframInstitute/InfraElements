@@ -13,11 +13,9 @@ If not, then *A* either equals *B* or is less than it.
 
 ![java applet or image](propV10.gif)
 
-[V.7](PropV.7.md)
-Now *A* does not equal *B,* for in that case each of the magnitudes *A* and *B* would have the same ratio to *C,* but they do not, therefore *A* does not equal *B.*
+Now *A* does not equal *B,* for in that case each of the magnitudes *A* and *B* would have the same ratio to *C,* but they do not, therefore *A* does not equal *B.* ([V.7](PropV.7.md))
 
-[V.8](PropV.8.md)
-Nor is *A* less than *B,* for in that case *A* would have to *C* a less ratio than *B* has to *C,* but it does not, therefore *A* is not less than *B.*
+Nor is *A* less than *B,* for in that case *A* would have to *C* a less ratio than *B* has to *C,* but it does not, therefore *A* is not less than *B.* ([V.8](PropV.8.md))
 
 But it was proved not to be equal either, therefore *A* is greater than *B.*
 
@@ -26,11 +24,9 @@ I say that *B* is less than *A.*
 
 If not, it is either equal or greater.
 
-[V.7](PropV.7.md)
-Now *B* does not equal *A,* for in that case *C* would have the same ratio to each of the magnitudes *A* and *B,* but it does not, therefore *A* does not equal *B.*
+Now *B* does not equal *A,* for in that case *C* would have the same ratio to each of the magnitudes *A* and *B,* but it does not, therefore *A* does not equal *B.* ([V.7](PropV.7.md))
 
-[V.8](PropV.8.md)
-Nor is *B* greater than *A,* for in that case *C* would have to *B* a less ratio than it has to *A,* but it does not, therefore *B* is not greater than *A.*
+Nor is *B* greater than *A,* for in that case *C* would have to *B* a less ratio than it has to *A,* but it does not, therefore *B* is not greater than *A.* ([V.8](PropV.8.md))
 
 But it was proved that it is not equal either, therefore *B* is less than *A.*
 

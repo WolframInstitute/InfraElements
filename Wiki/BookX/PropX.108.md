@@ -16,30 +16,21 @@ Since, then, *BC* is rational, and *BD* medial, while *BC* equals *GH*, and *BD*
 
 ![java applet or image](propX108.gif)
 
-[X.20](PropX.20.md),
-[X.22](PropX.22.md)
+And they are applied to the rational straight line *FG*, therefore *FH* is rational and commensurable in length with *FG*, while *FK* is rational and incommensurable in length with *FG*. Therefore *FH* is incommensurable in length with *FK*. ([X.20](PropX.20.md), [X.22](PropX.22.md), [X.13](PropX.13.md))
 
-[X.13](PropX.13.md)
-And they are applied to the rational straight line *FG*, therefore *FH* is rational and commensurable in length with *FG*, while *FK* is rational and incommensurable in length with *FG*. Therefore *FH* is incommensurable in length with *FK*.
-
-[X.73](PropX.73.md)
-Therefore *FH* and *FK* are rational straight lines commensurable in square only. Therefore *KH* is an apotome, and *KF* the annex to it.
+Therefore *FH* and *FK* are rational straight lines commensurable in square only. Therefore *KH* is an apotome, and *KF* the annex to it. ([X.73](PropX.73.md))
 
 Now the square on *HF* is greater than the square on *FK* by the square on a straight line either commensurable with *HF* or not commensurable.
 
 First, let the square on it be greater by the square on a straight line commensurable with it.
 
-[X.Def.III.2](DefX.III.1.md)
-Now the whole *HF* is commensurable in length with the rational straight line *FG* set out, therefore *KH* is a first apotome.
+Now the whole *HF* is commensurable in length with the rational straight line *FG* set out, therefore *KH* is a first apotome. ([X.Def.III.2](DefX.III.1.md))
 
-[X.91](PropX.91.md)
-But the side of the rectangle contained by a rational straight line and a first apotome is an apotome. Therefore the side of *LH*, that is, of *EC*, is an apotome.
+But the side of the rectangle contained by a rational straight line and a first apotome is an apotome. Therefore the side of *LH*, that is, of *EC*, is an apotome. ([X.91](PropX.91.md))
 
-[X.Def.III.4](DefX.III.4.md)
-But, if the square on *HF* is greater than the square on *FK* by the square on a straight line incommensurable with *HF*, while the whole *FH* is commensurable in length with the rational straight line *FG* set out, then *KH* is a fourth apotome.
+But, if the square on *HF* is greater than the square on *FK* by the square on a straight line incommensurable with *HF*, while the whole *FH* is commensurable in length with the rational straight line *FG* set out, then *KH* is a fourth apotome. ([X.Def.III.4](DefX.III.4.md))
 
-[X.94](PropX.94.md)
-But the side of the rectangle contained by a rational straight line and a fourth apotome is minor.
+But the side of the rectangle contained by a rational straight line and a fourth apotome is minor. ([X.94](PropX.94.md))
 
 Therefore, *if a medial area is subtracted from a rational area, then the side of the remaining area becomes one of two irrational straight lines, either an apotome or a minor straight line.*
 

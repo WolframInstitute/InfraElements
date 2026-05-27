@@ -16,17 +16,13 @@ I say, then, that neither does any other measure any [later] other.
 
 ![java applet or image](propVIII6.gif)
 
-[VII.33](../BookVII/PropVII.33.md)
-If possible, let *A* measure *C.* And, however many *A, B,* and *C* are, take as many numbers *F, G,* and *H,* the least of those which have the same ratio with *A, B,* and *C.*
+If possible, let *A* measure *C.* And, however many *A, B,* and *C* are, take as many numbers *F, G,* and *H,* the least of those which have the same ratio with *A, B,* and *C.* ([VII.33](../BookVII/PropVII.33.md))
 
-[VII.14](../BookVII/PropVII.14.md)
-Now, since *F, G,* and *H* are in the same ratio with *A, B,* and *C,* and the multitude of the numbers *A, B,* and *C* equals the multitude of the numbers *F, G,* and *H,* therefore, *ex aequali A* is to *C* as *F* is to *H.*
+Now, since *F, G,* and *H* are in the same ratio with *A, B,* and *C,* and the multitude of the numbers *A, B,* and *C* equals the multitude of the numbers *F, G,* and *H,* therefore, *ex aequali A* is to *C* as *F* is to *H.* ([VII.14](../BookVII/PropVII.14.md))
 
-[VII.Def.20](../BookVII/DefVII.20.md)
-And since *A* is to *B* as *F* is to *G,* while *A* does not measure *B,* therefore neither does *F* measure *G.* Therefore *F* is not a unit, for the unit measures any number.
+And since *A* is to *B* as *F* is to *G,* while *A* does not measure *B,* therefore neither does *F* measure *G.* Therefore *F* is not a unit, for the unit measures any number. ([VII.Def.20](../BookVII/DefVII.20.md))
 
-[VIII.3](PropVIII.3.md)
-Now *F* and *H* are relatively prime. And *F* is to *H* as *A* is to *C,* therefore neither does *A* measure *C.*
+Now *F* and *H* are relatively prime. And *F* is to *H* as *A* is to *C,* therefore neither does *A* measure *C.* ([VIII.3](PropVIII.3.md))
 
 Similarly we can prove that neither does any other measure any other.
 

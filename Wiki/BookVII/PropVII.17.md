@@ -12,19 +12,13 @@ I say that *B* is to *C* as *D* is to *E.*
 
 ![java applet or image](propVII17.gif)
 
-[VII.Def.15](DefVII.15.md)
-Since *A* multiplied by *B* makes *D,* therefore *B* measures *D* according to the units in *A.*
+Since *A* multiplied by *B* makes *D,* therefore *B* measures *D* according to the units in *A.* ([VII.Def.15](DefVII.15.md))
 
-[VII.Def.20](DefVII.20.md)
-But the unit *F* also measures the number *A* according to the units in it, therefore the unit *F* measures the number *A* the same number of times that *B* measures *D.* Therefore the unit *F* is to the number *A* as *B* is to *D.*
+But the unit *F* also measures the number *A* according to the units in it, therefore the unit *F* measures the number *A* the same number of times that *B* measures *D.* Therefore the unit *F* is to the number *A* as *B* is to *D.* ([VII.Def.20](DefVII.20.md))
 
-[VII.Def.20](DefVII.20.md)
+For the same reason the unit *F* is to the number *A* as *C* is to *E,* therefore *B* is to *D* as *C* is to *E.* ([VII.Def.20](DefVII.20.md), [V.11](../BookV/PropV.11.md))
 
-([V.11](../BookV/PropV.11.md))
-For the same reason the unit *F* is to the number *A* as *C* is to *E,* therefore *B* is to *D* as *C* is to *E.*
-
-[VII.13](PropVII.13.md)
-Therefore, alternately *B* is to *C* as *D* is to *E.*
+Therefore, alternately *B* is to *C* as *D* is to *E.* ([VII.13](PropVII.13.md))
 
 Therefore, *if a number multiplied by two numbers makes certain numbers, then the numbers so produced have the same ratio as the numbers multiplied.*
 

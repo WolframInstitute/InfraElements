@@ -12,16 +12,11 @@ Let *ABC* be a triangle.
 
 I say that the sum of any two angles of the triangle *ABC* is less than two right angles.
 
-[I.Post.2](PostI.2.md)
-Produce *BC* to *D.*
+Produce *BC* to *D.* ([I.Post.2](PostI.2.md))
 
-[I.16](PropI.16.md)
+Since the angle *ACD* is an exterior angle of the triangle *ABC,* therefore it is greater than the interior and opposite angle *ABC.* Add the angle *ACB* to each. Then the sum of the angles *ACD* and *ACB* is greater than the sum of the angles *ABC* and *BCA.* ([I.16](PropI.16.md), [C.N.](CNI.1.md))
 
-[C.N.](CNI.1.md)
-Since the angle *ACD* is an exterior angle of the triangle *ABC,* therefore it is greater than the interior and opposite angle *ABC.* Add the angle *ACB* to each. Then the sum of the angles *ACD* and *ACB* is greater than the sum of the angles *ABC* and *BCA.*
-
-[I.13](PropI.13.md)
-But the sum of the angles *ACD* and *ACB* is equal to two right angles. Therefore the sum of the angles *ABC* and *BCA* is less than two right angles.
+But the sum of the angles *ACD* and *ACB* is equal to two right angles. Therefore the sum of the angles *ABC* and *BCA* is less than two right angles. ([I.13](PropI.13.md))
 
 Similarly we can prove that the sum of the angles *BAC* and *ACB* is also less than two right angles, and so the sum of the angles *CAB* and *ABC* as well.
 

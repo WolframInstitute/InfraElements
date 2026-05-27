@@ -10,32 +10,21 @@ Let *AC* and *CF* be equiangular parallelograms having the angle *BCD* equal to 
 
 I say that the parallelogram *AC* has to the parallelogram *CF* the ratio compounded of the ratios of the sides.
 
-[I.14](../BookI/PropI.14.md)
-Let them be placed so that *BC* is in a straight line with *CG.* Then *DC* is also in a straight line with *CE.*
+Let them be placed so that *BC* is in a straight line with *CG.* Then *DC* is also in a straight line with *CE.* ([I.14](../BookI/PropI.14.md))
 
 ![java applet or image](propVI23.gif)
 
-[I.31](../BookI/PropI.31.md)
-
-[VI.12](PropVI.12.md)
-Complete the parallelogram *DG.* Set out a straight line *K,* and make it so that *BC* is to *CG* as *K* is to *L,* and *DC* is to *CE* as *L* is to *M.*
+Complete the parallelogram *DG.* Set out a straight line *K,* and make it so that *BC* is to *CG* as *K* is to *L,* and *DC* is to *CE* as *L* is to *M.* ([I.31](../BookI/PropI.31.md), [VI.12](PropVI.12.md))
 
 Then the ratios of *K* to *L* and of *L* to *M* are the same as the ratios of the sides, namely of *BC* to *CG* and of *DC* to *CE.*
 
 But the ratio of *K* to *M* is compounded of the ratio of *K* to *L* and of that of *L* to *M,* so that *K* has also to *M* the ratio compounded of the ratios of the sides.
 
-[VI.1](PropVI.1.md)
+Now since *BC* is to *CG* as the parallelogram *AC* is to the parallelogram *CH,* and *BC* is to *CG* as *K* is to *L,* therefore *K* is to *L* as *AC* is to *CH.* ([VI.1](PropVI.1.md), [V.11](../BookV/PropV.11.md))
 
-[V.11](../BookV/PropV.11.md)
-Now since *BC* is to *CG* as the parallelogram *AC* is to the parallelogram *CH,* and *BC* is to *CG* as *K* is to *L,* therefore *K* is to *L* as *AC* is to *CH.*
+Again, since *DC* is to *CE* as the parallelogram *CH* is to *CF,* and *DC* is to *CE* as *L* is to *M,* therefore *L* is to *M* as the parallelogram *CH* is to the parallelogram *CF.* ([VI.1](PropVI.1.md), [V.11](../BookV/PropV.11.md))
 
-[VI.1](PropVI.1.md)
-
-[V.11](../BookV/PropV.11.md)
-Again, since *DC* is to *CE* as the parallelogram *CH* is to *CF,* and *DC* is to *CE* as *L* is to *M,* therefore *L* is to *M* as the parallelogram *CH* is to the parallelogram *CF.*
-
-[V.22](../BookV/PropV.22.md)
-Since then it was proved that *K* is to *L* as the parallelogram *AC* is to the parallelogram *CH,* and *L* is to *M* as the parallelogram *CH* is to the parallelogram *CF,* therefore, *ex aequali K* is to *M* as *AC* is to the parallelogram *CF.*
+Since then it was proved that *K* is to *L* as the parallelogram *AC* is to the parallelogram *CH,* and *L* is to *M* as the parallelogram *CH* is to the parallelogram *CF,* therefore, *ex aequali K* is to *M* as *AC* is to the parallelogram *CF.* ([V.22](../BookV/PropV.22.md))
 
 But *K* has to *M* the ratio compounded of the ratios of the sides, therefore *AC* also has to *CF* the ratio compounded of the ratios of the sides.
 

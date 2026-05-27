@@ -10,17 +10,13 @@ Let one mean proportional number *C* fall between the two numbers *A* and *B.*
 
 I say that *A* and *B* are similar plane numbers.
 
-[VII.33](../BookVII/PropVII.33.md)
-
-[VII.20](../BookVII/PropVII.20.md)
-Take *D* and *E,* the least numbers of those which have the same ratio with *A* and *C.* Then *D* measures *A* the same number of times that *E* measures *C.*
+Take *D* and *E,* the least numbers of those which have the same ratio with *A* and *C.* Then *D* measures *A* the same number of times that *E* measures *C.* ([VII.33](../BookVII/PropVII.33.md), [VII.20](../BookVII/PropVII.20.md))
 
 ![java applet or image](propVIII20.gif)
 
 Let there be as many units in *F* as times that *D* measures *A.* Then *F* multiplied by *D* makes *A,* so that *A* is plane, and *D* and *F* are its sides.
 
-[VII.20](../BookVII/PropVII.20.md)
-Again, since *D* and *E* are the least of the numbers which have the same ratio with *C* and *B,* therefore *D* measures *C* the same number of times that *E* measures *B.*
+Again, since *D* and *E* are the least of the numbers which have the same ratio with *C* and *B,* therefore *D* measures *C* the same number of times that *E* measures *B.* ([VII.20](../BookVII/PropVII.20.md))
 
 Let there be as many units in *G* as times that *E* measures *B.* Then *E* measures *B* according to the units in *G.* Therefore *G* multiplied by *E* makes *B.*
 
@@ -28,13 +24,9 @@ Therefore *B* is plane, and *E* and *G* are its sides. Therefore *A* and *B* are
 
 I say next that they are also similar.
 
-[VII.17](../BookVII/PropVII.17.md)
-Since *F* multiplied by *D* makes *A,* and multiplied by *E* makes *C,* therefore *D* is to *E* as *A* is to *C,* that is, *C* to *B.*
+Since *F* multiplied by *D* makes *A,* and multiplied by *E* makes *C,* therefore *D* is to *E* as *A* is to *C,* that is, *C* to *B.* ([VII.17](../BookVII/PropVII.17.md))
 
-[VII.17](../BookVII/PropVII.17.md)
-
-[VII.13](../BookVII/PropVII.13.md)
-Again, since *E* multiplied by *F* and *G* makes *C* and *B* respectively, therefore *F* is to *G* as *C* is to *B.* But *C* is to *B* as *D* is to *E,* therefore *D* is to *E* as *F* is to *G.* And alternately *D* is to *F* as *E* is to *G.*
+Again, since *E* multiplied by *F* and *G* makes *C* and *B* respectively, therefore *F* is to *G* as *C* is to *B.* But *C* is to *B* as *D* is to *E,* therefore *D* is to *E* as *F* is to *G.* And alternately *D* is to *F* as *E* is to *G.* ([VII.17](../BookVII/PropVII.17.md), [VII.13](../BookVII/PropVII.13.md))
 
 Therefore *A* and *B* are similar plane numbers, for their sides are proportional.
 

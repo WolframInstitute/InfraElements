@@ -12,20 +12,15 @@ I say that either the angles *CBA* and *ABD* are two right angles or their sum e
 
 ![java applet or image](propI13.gif)
 
-[I.Def.10](DefI.10.md)
-Now, if the angle *CBA* equals the angle *ABD,* then they are two right angles.
+Now, if the angle *CBA* equals the angle *ABD,* then they are two right angles. ([I.Def.10](DefI.10.md))
 
-[I.11](PropI.11.md)
-But, if not, draw *BE* from the point *B* at right angles to *CD.* Therefore the angles *CBE* and *EBD* are two right angles.
+But, if not, draw *BE* from the point *B* at right angles to *CD.* Therefore the angles *CBE* and *EBD* are two right angles. ([I.11](PropI.11.md))
 
-[C.N.2](CNI.1.md)
-Since the angle *CBE* equals the sum of the two angles *CBA* and *ABE,* add the angle *EBD* to each, therefore the sum of the angles *CBE* and *EBD* equals the sum of the three angles *CBA, ABE,* and *EBD.*
+Since the angle *CBE* equals the sum of the two angles *CBA* and *ABE,* add the angle *EBD* to each, therefore the sum of the angles *CBE* and *EBD* equals the sum of the three angles *CBA, ABE,* and *EBD.* ([C.N.2](CNI.1.md))
 
-[C.N.2](CNI.1.md)
-Again, since the angle *DBA* equals the sum of the two angles *DBE* and *EBA,* add the angle *ABC* to each, therefore the sum of the angles *DBA* and *ABC* equals the sum of the three angles *DBE, EBA,* and *ABC.*
+Again, since the angle *DBA* equals the sum of the two angles *DBE* and *EBA,* add the angle *ABC* to each, therefore the sum of the angles *DBA* and *ABC* equals the sum of the three angles *DBE, EBA,* and *ABC.* ([C.N.2](CNI.1.md))
 
-[C.N.1](CNI.1.md)
-But the sum of the angles *CBE* and *EBD* was also proved equal to the sum of the same three angles, and things which equal the same thing also equal one another, therefore the sum of the angles *CBE* and *EBD* also equals the sum of the angles *DBA* and *ABC.* But the angles *CBE* and *EBD* are two right angles, therefore the sum of the angles *DBA* and *ABC* also equals two right angles.
+But the sum of the angles *CBE* and *EBD* was also proved equal to the sum of the same three angles, and things which equal the same thing also equal one another, therefore the sum of the angles *CBE* and *EBD* also equals the sum of the angles *DBA* and *ABC.* But the angles *CBE* and *EBD* are two right angles, therefore the sum of the angles *DBA* and *ABC* also equals two right angles. ([C.N.1](CNI.1.md))
 
 Therefore *if a straight line stands on a straight line, then it makes either two right angles or angles whose sum equals two right angles.*
 

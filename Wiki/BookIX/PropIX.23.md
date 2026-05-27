@@ -12,15 +12,11 @@ I say that the sum *AD* is also odd.
 
 ![java applet or image](propIX23.gif)
 
-[(VII.Def.7)](../BookVII/DefVII.6.md)
-Subtract the unit *DE* from *CD,* therefore the remainder *CE* is even.
+Subtract the unit *DE* from *CD,* therefore the remainder *CE* is even. ([(VII.Def.7)](../BookVII/DefVII.6.md))
 
-[IX.22](PropIX.22.md),
-[IX.21](PropIX.21.md)
-But *CA* is also even, therefore the sum *AE* is also even.
+But *CA* is also even, therefore the sum *AE* is also even. ([IX.22](PropIX.22.md), [IX.21](PropIX.21.md))
 
-[(VII.Def.7)](../BookVII/DefVII.6.md)
-And *DE* is a unit. Therefore *AD* is odd.
+And *DE* is a unit. Therefore *AD* is odd. ([(VII.Def.7)](../BookVII/DefVII.6.md))
 
 Therefore, *if as many odd numbers as we please are added together, and their multitude is odd, then the sum is also odd.*
 

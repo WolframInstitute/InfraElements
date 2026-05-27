@@ -12,20 +12,15 @@ I say that the angle *ABC* equals the angle *DEF.*
 
 ![java applet or image](propXI10.gif)
 
-[I.3](../BookI/PropI.3.md)
-Cut *BA, BC, ED,* and *EF* off equal to one another, and join *AD, CF, BE, AC,* and *DF.*
+Cut *BA, BC, ED,* and *EF* off equal to one another, and join *AD, CF, BE, AC,* and *DF.* ([I.3](../BookI/PropI.3.md))
 
-[I.33](../BookI/PropI.33.md)
-Now, since *BA* equals and is parallel to *ED,* therefore *AD* also equals and is parallel to *BE.* For the same reason *CF* also equals and is parallel to *BE.*
+Now, since *BA* equals and is parallel to *ED,* therefore *AD* also equals and is parallel to *BE.* For the same reason *CF* also equals and is parallel to *BE.* ([I.33](../BookI/PropI.33.md))
 
-[XI.9](PropXI.9.md)
-Therefore each of the straight lines *AD* and *CF* equals and is parallel to *BE.* But straight lines which are parallel to the same straight line and are not in the same plane with it are parallel to one another, therefore *AD* is parallel and equal to *CF.*
+Therefore each of the straight lines *AD* and *CF* equals and is parallel to *BE.* But straight lines which are parallel to the same straight line and are not in the same plane with it are parallel to one another, therefore *AD* is parallel and equal to *CF.* ([XI.9](PropXI.9.md))
 
-[I.33](../BookI/PropI.33.md)
-And *AC* and *DF* join them, therefore *AC* also equals and is parallel to *DF.*
+And *AC* and *DF* join them, therefore *AC* also equals and is parallel to *DF.* ([I.33](../BookI/PropI.33.md))
 
-[I.8](../BookI/PropI.8.md)
-Now, since the two sides *AB* and *BC* equal the two sides *DE* and *EF,* and the base *AC* equals the base *DF,* therefore the angle *ABC* equals the angle *DEF.*
+Now, since the two sides *AB* and *BC* equal the two sides *DE* and *EF,* and the base *AC* equals the base *DF,* therefore the angle *ABC* equals the angle *DEF.* ([I.8](../BookI/PropI.8.md))
 
 Therefore, *if two straight lines meeting one another are parallel to two straight lines meeting one another not in the same plane, then they contain equal angles.*
 

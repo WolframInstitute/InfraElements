@@ -6,8 +6,7 @@ If a straight line touches a circle, and from the point of contact a straight li
 
 ## Proof
 
-[I.11](../BookI/PropI.11.md)
-For let a straight line *DE* touch the circle *ABC* at the point *C.* Draw *CA* from *C* at right angles to *DE.*
+For let a straight line *DE* touch the circle *ABC* at the point *C.* Draw *CA* from *C* at right angles to *DE.* ([I.11](../BookI/PropI.11.md))
 
 ![java applet or image](propIII19.gif)
 
@@ -15,8 +14,7 @@ I say that the center of the circle is on *AC.*
 
 For suppose it is not, but, if possible, let *F* be the center, and join *CF.*
 
-[III.18](PropIII.18.md)
-Since a straight line *DE* touches the circle *ABC,* and *FC* has been joined from the center to the point of contact, *FC* is perpendicular to *DE.* Therefore the angle *FCE* is right.
+Since a straight line *DE* touches the circle *ABC,* and *FC* has been joined from the center to the point of contact, *FC* is perpendicular to *DE.* Therefore the angle *FCE* is right. ([III.18](PropIII.18.md))
 
 But the angle *ACE* is also right, therefore the angle *FCE* equals the angle *ACE,* the less equals the greater, which is impossible.
 

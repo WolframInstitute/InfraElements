@@ -16,10 +16,7 @@ I say that it is also even-times even only.
 
 ![java applet or image](propIX32.gif)
 
-[IX.13](PropIX.13.md)
-
-[VII.Def.8](../BookVII/DefVII.6.md)
-Set out a unit. Since then as many numbers as we please beginning from a unit are in continued proportion, and the number *A* after the unit is prime, therefore *D,* the greatest of the numbers *A, B, C,* and *D,* is not measured by any other number except *A, B,* and *C.* And each of the numbers *A, B,* and *C* is even, therefore *D* is even-times even only.
+Set out a unit. Since then as many numbers as we please beginning from a unit are in continued proportion, and the number *A* after the unit is prime, therefore *D,* the greatest of the numbers *A, B, C,* and *D,* is not measured by any other number except *A, B,* and *C.* And each of the numbers *A, B,* and *C* is even, therefore *D* is even-times even only. ([IX.13](PropIX.13.md), [VII.Def.8](../BookVII/DefVII.6.md))
 
 Similarly we can prove that each of the numbers *B* and *C* is even-times even only.
 

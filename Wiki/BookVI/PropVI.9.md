@@ -14,14 +14,11 @@ It is required to cut off from *AB* a prescribed part.
 
 Let the third part be that prescribed.
 
-[I.3](../BookI/PropI.3.md)
-Draw a straight line *AC* through from A containing with *AB* any angle. Take a point *D* random on *AC,* and make *DE* and *EC* equal to *AD.*
+Draw a straight line *AC* through from A containing with *AB* any angle. Take a point *D* random on *AC,* and make *DE* and *EC* equal to *AD.* ([I.3](../BookI/PropI.3.md))
 
-[I.31](../BookI/PropI.31.md)
-Join *CB,* and draw *DF* through *D* parallel to it.
+Join *CB,* and draw *DF* through *D* parallel to it. ([I.31](../BookI/PropI.31.md))
 
-[VI.2](PropVI.2.md)
-Then, since *DF* is parallel to a side *CB* of the triangle *ABC,* therefore, proportionally, *AD* is to *DC* as *AF* is to *FB.*
+Then, since *DF* is parallel to a side *CB* of the triangle *ABC,* therefore, proportionally, *AD* is to *DC* as *AF* is to *FB.* ([VI.2](PropVI.2.md))
 
 But *DC* is double *AD,* therefore *FB* is also double *AF,* therefore *AB* is triple of *AF.*
 

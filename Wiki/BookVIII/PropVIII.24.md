@@ -12,13 +12,9 @@ Let the two numbers *A* and *B* have to one another the ratio which the square n
 
 I say that *B* is also square.
 
-[VIII.18](PropVIII.18.md)
-Since *C* and *D* are square, *C* and *D* are similar plane numbers. Therefore one mean proportional number falls between *C* and *D.*
+Since *C* and *D* are square, *C* and *D* are similar plane numbers. Therefore one mean proportional number falls between *C* and *D.* ([VIII.18](PropVIII.18.md))
 
-[VIII.18](PropVIII.18.md)
-
-[VIII.22](PropVIII.22.md)
-And *C* is to *D* as *A* is to *B,* therefore one mean proportional number falls between *A* and *B* also. And *A* is square, therefore *B* is also square.
+And *C* is to *D* as *A* is to *B,* therefore one mean proportional number falls between *A* and *B* also. And *A* is square, therefore *B* is also square. ([VIII.18](PropVIII.18.md), [VIII.22](PropVIII.22.md))
 
 Therefore, *if two numbers have to one another the ratio which a square number has to a square number, and the first is square, then the second is also a square.*
 

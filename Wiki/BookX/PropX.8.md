@@ -12,8 +12,7 @@ Let the two magnitudes *A* and *B* not have to one another the ratio which a num
 
 I say that the magnitudes *A* and *B* are incommensurable.
 
-[X.5](PropX.5.md)
-For, if they are commensurable, then *A* has to *B* the ratio which a number has to a number.
+For, if they are commensurable, then *A* has to *B* the ratio which a number has to a number. ([X.5](PropX.5.md))
 
 But it does not, therefore the magnitudes *A* and *B* are incommensurable.
 

@@ -14,24 +14,17 @@ Make the same construction as before.
 
 ![java applet or image](propX60.gif)
 
-[X.40](PropX.40.md)
-Since *AB* is the side of a rational plus a medial area, divided at *C*, therefore *AC* and *CB* are straight lines incommensurable in square which make the sum of the squares on them medial but the rectangle contained by them rational.
+Since *AB* is the side of a rational plus a medial area, divided at *C*, therefore *AC* and *CB* are straight lines incommensurable in square which make the sum of the squares on them medial but the rectangle contained by them rational. ([X.40](PropX.40.md))
 
-[X.22](PropX.22.md)
-Since, then, the sum of the squares on *AC* and *CB* is medial, therefore *DL* is medial, so that *DM* is rational and incommensurable in length with *DE*.
+Since, then, the sum of the squares on *AC* and *CB* is medial, therefore *DL* is medial, so that *DM* is rational and incommensurable in length with *DE*. ([X.22](PropX.22.md))
 
-[X.20](PropX.20.md)
-Again, since twice the rectangle *AC* by *CB*, that is *MF*, is rational, therefore *MG* is rational and commensurable with *DE*.
+Again, since twice the rectangle *AC* by *CB*, that is *MF*, is rational, therefore *MG* is rational and commensurable with *DE*. ([X.20](PropX.20.md))
 
-[X.13](PropX.13.md)
-
-[X.36](PropX.36.md)
-Therefore *DM* is incommensurable with *MG*. Therefore *DM* and *MG* are rational straight lines commensurable in square only. Therefore *DG* is binomial.
+Therefore *DM* is incommensurable with *MG*. Therefore *DM* and *MG* are rational straight lines commensurable in square only. Therefore *DG* is binomial. ([X.13](PropX.13.md), [X.36](PropX.36.md))
 
 I say next that it is also a fifth binomial straight line.
 
-[X.18](PropX.18.md)
-For it can be proved similarly that the rectangle *DK* by *KM* equals the square on *MN*, and that *DK* is incommensurable in length with *KM*. Therefore the square on *DM* is greater than the square on *MG* by the square on a straight line incommensurable with *DM*.
+For it can be proved similarly that the rectangle *DK* by *KM* equals the square on *MN*, and that *DK* is incommensurable in length with *KM*. Therefore the square on *DM* is greater than the square on *MG* by the square on a straight line incommensurable with *DM*. ([X.18](PropX.18.md))
 
 And *DM* and *MG* are commensurable in square only, and the less, *MG*, is commensurable in length with *DE*.
 

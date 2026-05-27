@@ -8,8 +8,7 @@ Given two numbers, to investigate whether it is possible to find a third proport
 
 Let *A* and *B* be the given two numbers. It is required to investigate whether it is possible to find a third proportional to them.
 
-[IX.16](PropIX.16.md)
-Now *A* and *B* are either relatively prime or not. And, if they are relatively prime, it was proved that it is impossible to find a third proportional to them.
+Now *A* and *B* are either relatively prime or not. And, if they are relatively prime, it was proved that it is impossible to find a third proportional to them. ([IX.16](PropIX.16.md))
 
 Next, let *A* and *B* not be relatively prime, and let *B* multiplied by itself make *C.* Then *A* either measures *C* or does not measure it.
 
@@ -17,8 +16,7 @@ First, let it measure it according to *D,* therefore *A* multiplied by *D* makes
 
 ![java applet or image](propIX18.gif)
 
-[VII.19](../BookVII/PropVII.19.md)
-Therefore *A* is to *B* as *B* is to *D,* therefore a third proportional number *D* has been found to *A* and *B.*
+Therefore *A* is to *B* as *B* is to *D,* therefore a third proportional number *D* has been found to *A* and *B.* ([VII.19](../BookVII/PropVII.19.md))
 
 Next, let *A* not measure *C.*
 

@@ -10,10 +10,7 @@ For, if possible, on the same straight line *AB* let two similar and unequal seg
 
 ![java applet or image](propIII23.gif)
 
-[III.Def.11](DefIII.11.md)
-
-[I.16](../BookI/PropI.16.md)
-Then, since the segment *ACB* is similar to the segment *ADB,* and similar segments of circles are those which admit equal angles, the angle *ACB* equals the angle *ADB,* the exterior to the interior, which is impossible.
+Then, since the segment *ACB* is similar to the segment *ADB,* and similar segments of circles are those which admit equal angles, the angle *ACB* equals the angle *ADB,* the exterior to the interior, which is impossible. ([III.Def.11](DefIII.11.md), [I.16](../BookI/PropI.16.md))
 
 Therefore *on the same straight line there cannot be constructed two similar and unequal segments of circles on the same side.*
 

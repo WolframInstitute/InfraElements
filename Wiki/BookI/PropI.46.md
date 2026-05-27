@@ -11,32 +11,23 @@ It is required to describe a square on the straight line *AB.*
 
 ![java applet or image](propI46.gif)
 
-[I.11](PropI.11.md)
+Draw *AC* at right angles to the straight line *AB* from the point *A* on it. Make *AD* equal to *AB.* Draw *DE* through the point *D* parallel to *AB,* and draw *BE* through the point *B* parallel to *AD.* ([I.11](PropI.11.md), [I.3](PropI.3.md), [I.31](PropI.31.md))
 
-[I.3](PropI.3.md),
-[I.31](PropI.31.md)
-Draw *AC* at right angles to the straight line *AB* from the point *A* on it. Make *AD* equal to *AB.* Draw *DE* through the point *D* parallel to *AB,* and draw *BE* through the point *B* parallel to *AD.*
-
-[I.34](PropI.34.md)
-Then *ADEB* is a parallelogram. Therefore *AB* equals *DE,* and *AD* equals *BE.*
+Then *ADEB* is a parallelogram. Therefore *AB* equals *DE,* and *AD* equals *BE.* ([I.34](PropI.34.md))
 
 But *AB* equals *AD,* therefore the four straight lines *BA, AD, DE,* and *EB* equal one another. Therefore the parallelogram *ADEB* is equilateral.
 
 I say next that it is also right-angled.
 
-[I.29](PropI.29.md)
-Since the straight line *AD* falls upon the parallels *AB* and *DE,* therefore the sum of the angles *BAD* and *ADE* equals two right angles.
+Since the straight line *AD* falls upon the parallels *AB* and *DE,* therefore the sum of the angles *BAD* and *ADE* equals two right angles. ([I.29](PropI.29.md))
 
-[I.Post.4](PostI.4.md)
-But the angle *BAD* is right, therefore the angle *ADE* is also right.
+But the angle *BAD* is right, therefore the angle *ADE* is also right. ([I.Post.4](PostI.4.md))
 
-[I.34](PropI.34.md)
-And in parallelogrammic areas the opposite sides and angles equal one another, therefore each of the opposite angles *ABE* and *BED* is also right. Therefore *ADEB* is right-angled.
+And in parallelogrammic areas the opposite sides and angles equal one another, therefore each of the opposite angles *ABE* and *BED* is also right. Therefore *ADEB* is right-angled. ([I.34](PropI.34.md))
 
 And it was also proved equilateral.
 
-[I.Def.22](DefI.22.md)
-Therefore it is a square, and it is described on the straight line *AB.*
+Therefore it is a square, and it is described on the straight line *AB.* ([I.Def.22](DefI.22.md))
 
 Q.E.F.
 

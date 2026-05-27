@@ -11,18 +11,11 @@ I say that *BD* is in a straight line with *CB.*
 
 ![java applet or image](propI14.gif)
 
-[I.Post.2](PostI.2.md)
-If *BD* is not in a straight line with *BC,* then produce *BE* in a straight line with *CB.*
+If *BD* is not in a straight line with *BC,* then produce *BE* in a straight line with *CB.* ([I.Post.2](PostI.2.md))
 
-[I.13](PropI.13.md)
+Since the straight line *AB* stands on the straight line *CBE,* therefore the sum of the angles *ABC* and *ABE* equals two right angles. But the sum of the angles *ABC* and *ABD* also equals two right angles, therefore the sum of the angles *CBA* and *ABE* equals the sum of the angles *CBA* and *ABD.* ([I.13](PropI.13.md), [I.Post.4](PostI.4.md), [C.N.1](CNI.1.md))
 
-[I.Post.4](PostI.4.md)
-
-[C.N.1](CNI.1.md)
-Since the straight line *AB* stands on the straight line *CBE,* therefore the sum of the angles *ABC* and *ABE* equals two right angles. But the sum of the angles *ABC* and *ABD* also equals two right angles, therefore the sum of the angles *CBA* and *ABE* equals the sum of the angles *CBA* and *ABD.*
-
-[C.N.3](CNI.1.md)
-Subtract the angle *CBA* from each. Then the remaining angle *ABE* equals the remaining angle *ABD,* the less equals the greater, which is impossible. Therefore *BE* is not in a straight line with *CB.*
+Subtract the angle *CBA* from each. Then the remaining angle *ABE* equals the remaining angle *ABD,* the less equals the greater, which is impossible. Therefore *BE* is not in a straight line with *CB.* ([C.N.3](CNI.1.md))
 
 Similarly we can prove that neither is any other straight line except *BD.* Therefore *CB* is in a straight line with *BD.*
 

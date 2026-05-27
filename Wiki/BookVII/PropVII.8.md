@@ -22,15 +22,13 @@ Now since *AL* is the same part of *CF* that *GK* is of *CD,* and *CD* is greate
 
 Make *GM* equal to *AL.*
 
-[VII.7](PropVII.7.md)
-Then *GK* is the same part of *CD* that *GM* is of *CF.* Therefore the remainder *MK* is the same part of the remainder *FD* that the whole *GK* is of the whole *CD.*
+Then *GK* is the same part of *CD* that *GM* is of *CF.* Therefore the remainder *MK* is the same part of the remainder *FD* that the whole *GK* is of the whole *CD.* ([VII.7](PropVII.7.md))
 
 Again, since *EL* is the same part of *CF* that *KH* is of *CD,* and *CD* is greater than *CF,* therefore *HK* is also greater than *EL.*
 
 Make *KN* equal to *EL.*
 
-[VII.7](PropVII.7.md)
-Therefore *KN* is the same part of *CF* that *KH* is of *CD.* Therefore the remainder *NH* is the same part of the remainder *FD* that the whole *KH* is of the whole *CD.*
+Therefore *KN* is the same part of *CF* that *KH* is of *CD.* Therefore the remainder *NH* is the same part of the remainder *FD* that the whole *KH* is of the whole *CD.* ([VII.7](PropVII.7.md))
 
 But the remainder *MK* was proved to be the same part of the remainder *FD* that the whole *GK* is of the whole *CD,* therefore the sum of *MK* and *NH* is the same parts of *DF* that the whole *HG* is of the whole *CD.*
 

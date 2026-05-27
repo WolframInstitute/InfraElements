@@ -10,22 +10,17 @@ Let *A* be the assigned straight line.
 
 It is required to find two straight lines incommensurable, the one in length only, and the other in square also, with *A*.
 
-[X.6,Cor.](PropX.6.md)
-Set out two numbers *B* and *C* which do not have to one another the ratio which a square number has to a square number, that is, which are not similar plane numbers, and let it be contrived that *B* is to *C* as the square on *A* is to the square on *D*, for we have learned how to do this.
+Set out two numbers *B* and *C* which do not have to one another the ratio which a square number has to a square number, that is, which are not similar plane numbers, and let it be contrived that *B* is to *C* as the square on *A* is to the square on *D*, for we have learned how to do this. ([X.6,Cor.](PropX.6.md))
 
 ![java applet or image](propX10.gif)
 
-[X.6](PropX.6.md)
-Therefore the square on *A* is commensurable with the square on *D*.
+Therefore the square on *A* is commensurable with the square on *D*. ([X.6](PropX.6.md))
 
-[X.9](PropX.9.md)
-And, since *B* does not have to *C* the ratio which a square number has to a square number, therefore neither has the square on *A* to the square on *D* the ratio which a square number has to a square number, therefore *A* is incommensurable in length with *D*.
+And, since *B* does not have to *C* the ratio which a square number has to a square number, therefore neither has the square on *A* to the square on *D* the ratio which a square number has to a square number, therefore *A* is incommensurable in length with *D*. ([X.9](PropX.9.md))
 
-[V.Def.9](../BookV/DefV.8.md)
-Take a mean proportional *E* between *A* and *D*. Then *A* is to *D* as the square on *A* is to the square on *E*.
+Take a mean proportional *E* between *A* and *D*. Then *A* is to *D* as the square on *A* is to the square on *E*. ([V.Def.9](../BookV/DefV.8.md))
 
-[X.11](PropX.11.md)
-But *A* is incommensurable in length with *D*, therefore the square on *A* is also incommensurable with the square on *E*. Therefore *A* is incommensurable in square with *E*.
+But *A* is incommensurable in length with *D*, therefore the square on *A* is also incommensurable with the square on *E*. Therefore *A* is incommensurable in square with *E*. ([X.11](PropX.11.md))
 
 Therefore two straight lines *D* and *E* have been found incommensurable, *D* in length only, and *E* in square and of course in length also, with the assigned straight line *A*.
 

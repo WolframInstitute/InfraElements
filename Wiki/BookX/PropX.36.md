@@ -12,23 +12,13 @@ I say that the whole *AC* is irrational.
 
 ![java applet or image](propX36.gif)
 
-[X.11](PropX.11.md)
-Since *AB* is incommensurable in length with *BC*, for they are commensurable in square only, and *AB* is to *BC* as the rectangle *AB* by *BC* is to the square on *BC*, therefore the rectangle *AB* by *BC* is incommensurable with the square on *BC*.
+Since *AB* is incommensurable in length with *BC*, for they are commensurable in square only, and *AB* is to *BC* as the rectangle *AB* by *BC* is to the square on *BC*, therefore the rectangle *AB* by *BC* is incommensurable with the square on *BC*. ([X.11](PropX.11.md))
 
-[X.6](PropX.6.md)
+But twice the rectangle *AB* by *BC* is commensurable with the rectangle *AB* by *BC*, and the sum of the squares on *AB* and *BC* is commensurable with the square on *BC*, for *AB* and *BC* are rational straight lines commensurable in square only, therefore twice the rectangle *AB* by *BC* is incommensurable with the sum of the squares on *AB* and *BC*. ([X.6](PropX.6.md), [X.15](PropX.15.md), [X.13](PropX.13.md))
 
-[X.15](PropX.15.md)
+And, taken jointly, twice the rectangle *AB* by *BC* together with the squares on *AB* and *BC*, that is, the square on *AC*, is incommensurable with the sum of the squares on *AB* and *BC*. ([II.4](../BookII/PropII.4.md), [X.16](PropX.16.md))
 
-[X.13](PropX.13.md)
-But twice the rectangle *AB* by *BC* is commensurable with the rectangle *AB* by *BC*, and the sum of the squares on *AB* and *BC* is commensurable with the square on *BC*, for *AB* and *BC* are rational straight lines commensurable in square only, therefore twice the rectangle *AB* by *BC* is incommensurable with the sum of the squares on *AB* and *BC*.
-
-[II.4](../BookII/PropII.4.md)
-
-[X.16](PropX.16.md)
-And, taken jointly, twice the rectangle *AB* by *BC* together with the squares on *AB* and *BC*, that is, the square on *AC*, is incommensurable with the sum of the squares on *AB* and *BC*.
-
-[X.Def.I.4](DefX.I.4.md)
-But the sum of the squares on *AB* and *BC* is rational, therefore the square on *AC* is irrational, so that *AC* is also irrational. Let it be called *binomial*.
+But the sum of the squares on *AB* and *BC* is rational, therefore the square on *AC* is irrational, so that *AC* is also irrational. Let it be called *binomial*. ([X.Def.I.4](DefX.I.4.md))
 
 Q.E.D.
 

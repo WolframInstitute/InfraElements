@@ -13,19 +13,15 @@ For, if the sphere *ABC* has not to the sphere *DEF* the ratio triplicate of tha
 
 First, let it have that ratio to a less sphere *GHK.*
 
-[XII.17](PropXII.17.md)
-Let *DEF* be about the same center with *GHK.* Inscribe in the greater sphere *DEF* a polyhedral solid which does not touch the lesser sphere *GHK* at its surface.
+Let *DEF* be about the same center with *GHK.* Inscribe in the greater sphere *DEF* a polyhedral solid which does not touch the lesser sphere *GHK* at its surface. ([XII.17](PropXII.17.md))
 
 ![java applet or image](propXII18.gif)
 
-[XII.17,Cor.](PropXII.17.md)
-Also inscribe in the sphere *ABC* a polyhedral solid similar to the polyhedral solid in the sphere *DEF.* Therefore the polyhedral solid in *ABC* has to the polyhedral solid in *DEF* the ratio triplicate of that which *BC* has to *EF.*
+Also inscribe in the sphere *ABC* a polyhedral solid similar to the polyhedral solid in the sphere *DEF.* Therefore the polyhedral solid in *ABC* has to the polyhedral solid in *DEF* the ratio triplicate of that which *BC* has to *EF.* ([XII.17,Cor.](PropXII.17.md))
 
-[V.16](../BookV/PropV.16.md)
-But the sphere *ABC* also has to the sphere *GHK* the ratio triplicate of that which *BC* has to *EF,* therefore the sphere *ABC* is to the sphere *GHK* as the polyhedral solid in the sphere *ABC* is to the polyhedral solid in the sphere *DEF,* and, alternately the sphere *ABC* is to the polyhedron in it as the sphere *GHK* is to the polyhedral solid in the sphere *DEF.*
+But the sphere *ABC* also has to the sphere *GHK* the ratio triplicate of that which *BC* has to *EF,* therefore the sphere *ABC* is to the sphere *GHK* as the polyhedral solid in the sphere *ABC* is to the polyhedral solid in the sphere *DEF,* and, alternately the sphere *ABC* is to the polyhedron in it as the sphere *GHK* is to the polyhedral solid in the sphere *DEF.* ([V.16](../BookV/PropV.16.md))
 
-[V.Def.5](../BookV/DefV.5.md)
-But the sphere *ABC* is greater than the polyhedron in it, therefore the sphere *GHK* is also greater than the polyhedron in the sphere *DEF.*
+But the sphere *ABC* is greater than the polyhedron in it, therefore the sphere *GHK* is also greater than the polyhedron in the sphere *DEF.* ([V.Def.5](../BookV/DefV.5.md))
 
 But it is also less, for it is enclosed by it. Therefore the sphere *ABC* has not to a less sphere than the sphere *DEF* the ratio triplicate of that which the diameter *BC* has to *EF.*
 
@@ -35,8 +31,7 @@ I say next that neither has the sphere *ABC* to any greater sphere than the sphe
 
 For, if possible, let it have that ratio to a greater, *LMN.* Therefore, inversely, the sphere *LMN* has to the sphere *ABC* the ratio triplicate of that which the diameter *EF* has to the diameter *BC.*
 
-[XII.2,Lemma](PropXII.2.md)
-But, since *LMN* is greater than *DEF,* therefore the sphere *LMN* is to the sphere *ABC* as the sphere *DEF* is to some less sphere than the sphere *ABC,* as was before proved.
+But, since *LMN* is greater than *DEF,* therefore the sphere *LMN* is to the sphere *ABC* as the sphere *DEF* is to some less sphere than the sphere *ABC,* as was before proved. ([XII.2,Lemma](PropXII.2.md))
 
 Therefore the sphere *DEF* also has to some less sphere than the sphere *ABC* the ratio triplicate of that which *EF* has to *BC,* which was proved impossible.
 

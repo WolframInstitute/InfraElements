@@ -16,15 +16,11 @@ As many times as *C* measures *A*, let so many units be in *D*, and, as many tim
 
 ![java applet or image](propX5.gif)
 
-[VII.Def.20](../BookVII/DefVII.20.md)
-
-[V.7.Cor](../BookV/PropV.7.md)
-Since *C* measures *A* according to the units in *D*, while the unit also measures *D* according to the units in it, therefore the unit measures the number *D* the same number of times as the magnitude *C* measures *A*. Therefore *C* is to *A* as the unit is to *D*. Therefore, inversely, *A* is to *C* as *D* is to the unit.
+Since *C* measures *A* according to the units in *D*, while the unit also measures *D* according to the units in it, therefore the unit measures the number *D* the same number of times as the magnitude *C* measures *A*. Therefore *C* is to *A* as the unit is to *D*. Therefore, inversely, *A* is to *C* as *D* is to the unit. ([VII.Def.20](../BookVII/DefVII.20.md), [V.7.Cor](../BookV/PropV.7.md))
 
 Again, since *C* measures *B* according to the units in *E*, while the unit also measures *E* according to the units in it, therefore the unit measures *E* the same number of times as *C* measures *B*. Therefore *C* is to *B* as the unit is to *E*.
 
-[V.22](../BookV/PropV.22.md)
-But it was also proved that *A* is to *C* as *D* is to the unit, therefore, *ex aequali*, *A* is to *B* as the number *D* is to *E*.
+But it was also proved that *A* is to *C* as *D* is to the unit, therefore, *ex aequali*, *A* is to *B* as the number *D* is to *E*. ([V.22](../BookV/PropV.22.md))
 
 Therefore the commensurable magnitudes *A* and *B* have to one another the ratio which the number *D* has to the number *E*.
 

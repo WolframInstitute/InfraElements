@@ -10,26 +10,19 @@ Let *A* be medial, and let *B* be commensurable with *A*.
 
 I say that *B* is also medial.
 
-[X.22](PropX.22.md)
-Set out a rational straight line *CD*. Apply the rectangular area *CE* to *CD* equal to the square on *A*, producing *ED* as breadth. Then *ED* is rational and incommensurable in length with *CD*. And apply the rectangular area *CF* to *CD* equal to the square on *B*, producing *DF* as breadth.
+Set out a rational straight line *CD*. Apply the rectangular area *CE* to *CD* equal to the square on *A*, producing *ED* as breadth. Then *ED* is rational and incommensurable in length with *CD*. And apply the rectangular area *CF* to *CD* equal to the square on *B*, producing *DF* as breadth. ([X.22](PropX.22.md))
 
 ![java applet or image](propX23.gif)
 
 Since *A* is commensurable with *B*, therefore the square on *A* is also commensurable with the square on *B*. But *EC* equals the square on *A*, and *CF* equals the square on *B*, therefore *EC* is commensurable with *CF*.
 
-[VI.1](../BookVI/PropVI.1.md),
-[X.11](PropX.11.md)
-And *EC* is to *CF* as *ED* is to *DF*, therefore *ED* is commensurable in length with *DF*.
+And *EC* is to *CF* as *ED* is to *DF*, therefore *ED* is commensurable in length with *DF*. ([VI.1](../BookVI/PropVI.1.md), [X.11](PropX.11.md))
 
-[X.13](PropX.13.md)
-
-[X.Def.3](DefX.I.1.md)
-But *ED* is rational and incommensurable in length with *DC*, therefore *DF* is also rational and incommensurable in length with *DC*.
+But *ED* is rational and incommensurable in length with *DC*, therefore *DF* is also rational and incommensurable in length with *DC*. ([X.13](PropX.13.md), [X.Def.3](DefX.I.1.md))
 
 Therefore *CD* and *DF* are rational and commensurable in square only.
 
-[X.21](PropX.21.md)
-But the straight line is medial on which the square equals the rectangle contained by rational straight lines commensurable in square only, therefore the side of the square equals the rectangle *CD* by *DF* is medial.
+But the straight line is medial on which the square equals the rectangle contained by rational straight lines commensurable in square only, therefore the side of the square equals the rectangle *CD* by *DF* is medial. ([X.21](PropX.21.md))
 
 And *B* is the side of the square equal the rectangle *CD* by *DF*, therefore *B* is medial.
 

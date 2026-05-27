@@ -6,36 +6,25 @@ To find medial straight lines commensurable in square only which contain a media
 
 ## Proof
 
-[VI.13](../BookVI/PropVI.13.md)
-
-[VI.12](../BookVI/PropVI.12.md)
-Set out the rational straight lines *A*, *B*, and *C* commensurable in square only. Take a mean proportional *D* between *A* and *B*. Let it be contrived that *B* is to *C* as *D* is to *E*.
+Set out the rational straight lines *A*, *B*, and *C* commensurable in square only. Take a mean proportional *D* between *A* and *B*. Let it be contrived that *B* is to *C* as *D* is to *E*. ([VI.13](../BookVI/PropVI.13.md), [VI.12](../BookVI/PropVI.12.md))
 
 ![java applet or image](propX28.gif)
 
-[VI.17](../BookVI/PropVI.17.md)
+Since *A* and *B* are rational straight lines commensurable in square only, therefore the rectangle *A* by *B*, that is, the square on *D*, is medial. Therefore *D* is medial. ([VI.17](../BookVI/PropVI.17.md), [X.21](PropX.21.md))
 
-[X.21](PropX.21.md)
-Since *A* and *B* are rational straight lines commensurable in square only, therefore the rectangle *A* by *B*, that is, the square on *D*, is medial. Therefore *D* is medial.
+And since *B* and *C* are commensurable in square only, and *B* is to *C* as *D* is to *E*, therefore *D* and *E* are also commensurable in square only. ([X.11](PropX.11.md))
 
-[X.11](PropX.11.md)
-And since *B* and *C* are commensurable in square only, and *B* is to *C* as *D* is to *E*, therefore *D* and *E* are also commensurable in square only.
-
-[X.23,Note](PropX.23.md)
-But *D* is medial, therefore *E* is also medial.
+But *D* is medial, therefore *E* is also medial. ([X.23,Note](PropX.23.md))
 
 Therefore *D* and *E* are medial straight lines commensurable in square only.
 
 I say next that they also contain a medial rectangle.
 
-[V.16](../BookV/PropV.16.md)
-Since *B* is to *C* as *D* is to *E*, therefore, alternately, *B* is to *D* as *C* is to *E*.
+Since *B* is to *C* as *D* is to *E*, therefore, alternately, *B* is to *D* as *C* is to *E*. ([V.16](../BookV/PropV.16.md))
 
-[VI.16](../BookVI/PropVI.16.md)
-But *B* is to *D* as *D* is to *A*, therefore *D* is to *A* as *C* is to *E*. Therefore the rectangle *A* by *C* equals the rectangle *D* by *E*.
+But *B* is to *D* as *D* is to *A*, therefore *D* is to *A* as *C* is to *E*. Therefore the rectangle *A* by *C* equals the rectangle *D* by *E*. ([VI.16](../BookVI/PropVI.16.md))
 
-[X.21](PropX.21.md)
-But the rectangle *A* by *C* is medial, therefore the rectangle *D* by *E* is also medial.
+But the rectangle *A* by *C* is medial, therefore the rectangle *D* by *E* is also medial. ([X.21](PropX.21.md))
 
 Therefore medial straight lines commensurable in square only have been found which contain a medial rectangle.
 

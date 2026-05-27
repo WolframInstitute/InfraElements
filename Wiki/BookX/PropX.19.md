@@ -12,20 +12,15 @@ Let the rectangle *AC* be contained by the rational straight lines *AB* and *BC*
 
 I say that *AC* is rational.
 
-[I.46](../BookI/PropI.46.md),
-[X.Def.I.4](DefX.I.4.md)
-Describe the square *AD* on *AB*. Then *AD* is rational.
+Describe the square *AD* on *AB*. Then *AD* is rational. ([I.46](../BookI/PropI.46.md), [X.Def.I.4](DefX.I.4.md))
 
 And, since *AB* is commensurable in length with *BC*, while *AB* equals *BD*, therefore *BD* is commensurable in length with *BC*.
 
-[VI.1](../BookVI/PropVI.1.md)
-And *BD* is to *BC* as *DA* is to *AC*.
+And *BD* is to *BC* as *DA* is to *AC*. ([VI.1](../BookVI/PropVI.1.md))
 
-[X.11](PropX.11.md)
-Therefore *DA* is commensurable with *AC*.
+Therefore *DA* is commensurable with *AC*. ([X.11](PropX.11.md))
 
-[X.Def.I.4](DefX.I.4.md)
-But *DA* is rational, therefore *AC* is also rational.
+But *DA* is rational, therefore *AC* is also rational. ([X.Def.I.4](DefX.I.4.md))
 
 Therefore, *the rectangle contained by rational straight lines commensurable in length is rational.*
 

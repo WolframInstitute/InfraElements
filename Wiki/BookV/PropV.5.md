@@ -13,8 +13,7 @@ Make *CG* so that *EB* is the same multiple of *CG* that *AE* is of *CF.*
 
 ![java applet or image](propV5.gif)
 
-[V.1](PropV.1.md)
-Then, since *AE* is the same multiple of *CF* that *EB* is of *GC,* therefore *AE* is the same multiple of *CF* that *AB* is of *GF.*
+Then, since *AE* is the same multiple of *CF* that *EB* is of *GC,* therefore *AE* is the same multiple of *CF* that *AB* is of *GF.* ([V.1](PropV.1.md))
 
 But, by the assumption, *AE* is the same multiple of *CF* that *AB* is of *CD.*
 

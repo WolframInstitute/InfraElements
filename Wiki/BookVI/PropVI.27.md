@@ -16,16 +16,13 @@ Let there be applied to the straight line *AB* the parallelogram *AF* falling sh
 
 I say that *AD* is greater than *AF.*
 
-[VI.26](PropVI.26.md)
-Since the parallelogram *DB* is similar to the parallelogram *FB,* therefore they are about the same diameter.
+Since the parallelogram *DB* is similar to the parallelogram *FB,* therefore they are about the same diameter. ([VI.26](PropVI.26.md))
 
 Draw their diameter *DB,* and describe the figure.
 
-[I.43](../BookI/PropI.43.md)
-Then, since *CF* equals *FE,* and *FB* is common, therefore the whole *CH* equals the whole *KE.*
+Then, since *CF* equals *FE,* and *FB* is common, therefore the whole *CH* equals the whole *KE.* ([I.43](../BookI/PropI.43.md))
 
-[I.36](../BookI/PropI.36.md)
-But *CH* equals *CG,* since *AC* also equals *CB.*
+But *CH* equals *CG,* since *AC* also equals *CB.* ([I.36](../BookI/PropI.36.md))
 
 Therefore *CG* also equals *KE.*
 

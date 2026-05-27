@@ -16,11 +16,9 @@ If the triangle *ABC* is applied to the triangle *DEF,* and if the point *B* is 
 
 Then, *BC* coinciding with *EF,* therefore *BA* and *AC* also coincide with *ED* and *DF,* for, if the base *BC* coincides with the base *EF,* and the sides *BA* and *AC* do not coincide with *ED* and *DF* but fall beside them as *EG* and *GF,* then given two straight lines constructed on a straight line and meeting in a point, there will have been constructed on the same straight line and on the same side of it, two other straight lines meeting in another point and equal to the former two respectively, namely each to that which has the same end with it.
 
-[I.7](PropI.7.md)
-But they cannot be so constructed.
+But they cannot be so constructed. ([I.7](PropI.7.md))
 
-[C.N.4](CNI.1.md)
-Therefore it is not possible that, if the base *BC* is applied to the base *EF,* the sides *BA* and *AC* do not coincide with *ED* and *DF.* Therefore they coincide, so that the angle *BAC* coincides with the angle *EDF,* and equals it.
+Therefore it is not possible that, if the base *BC* is applied to the base *EF,* the sides *BA* and *AC* do not coincide with *ED* and *DF.* Therefore they coincide, so that the angle *BAC* coincides with the angle *EDF,* and equals it. ([C.N.4](CNI.1.md))
 
 Therefore *if two triangles have the two sides equal to two sides respectively, and also have the base equal to the base, then they also have the angles equal which are contained by the equal straight lines.*
 

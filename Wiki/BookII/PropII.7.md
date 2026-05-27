@@ -12,12 +12,9 @@ I say that the sum of the squares on *AB* and *BC* equals twice the rectangle *A
 
 ![java applet or image](propII7.gif)
 
-[I.46](../BookI/PropI.46.md),
-[I.31](../BookI/PropI.31.md)
-Describe the square *ADEB* on *AB,* and let the figure be drawn.
+Describe the square *ADEB* on *AB,* and let the figure be drawn. ([I.46](../BookI/PropI.46.md), [I.31](../BookI/PropI.31.md))
 
-[I.43](../BookI/PropI.43.md)
-Then, since *AG* equals *GE,* add *CF* to each, therefore the whole *AF* equals the whole *CE.*
+Then, since *AG* equals *GE,* add *CF* to each, therefore the whole *AF* equals the whole *CE.* ([I.43](../BookI/PropI.43.md))
 
 Therefore the sum of *AF* and *CE* is double *AF.*
 

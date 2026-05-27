@@ -12,8 +12,7 @@ I say that the remainder *CA* is even.
 
 ![java applet or image](propIX24.gif)
 
-[VII.Def.6](../BookVII/DefVII.6.md)
-Since *AB* is even, therefore it has a half part. For the same reason *BC* also has a half part, so that the remainder *CA* also has a half part, and *CA* is therefore even.
+Since *AB* is even, therefore it has a half part. For the same reason *BC* also has a half part, so that the remainder *CA* also has a half part, and *CA* is therefore even. ([VII.Def.6](../BookVII/DefVII.6.md))
 
 Therefore, *if an even number is subtracted from an even number, then the remainder is even.*
 

@@ -12,31 +12,21 @@ I say that four times the rectangle *AB* by *BC* plus the square on *AC* equals 
 
 ![java applet or image](propII8.gif)
 
-[I.3](../BookI/PropI.3.md),
-[I.46](../BookI/PropI.46.md)
+Produce the straight line *BD* in a straight line with *AB,* and make *BD* equal to *CB.* Describe the square *AEFD* on *AD,* and let the figure be drawn. ([I.3](../BookI/PropI.3.md), [I.46](../BookI/PropI.46.md), [I.31](../BookI/PropI.31.md))
 
-[I.31](../BookI/PropI.31.md)
-Produce the straight line *BD* in a straight line with *AB,* and make *BD* equal to *CB.* Describe the square *AEFD* on *AD,* and let the figure be drawn.
-
-[I.34](../BookI/PropI.34.md)
-Then, since *CB* equals *BD,* while *CB* equals *GK,* and *BD* equals *KN,* therefore *GK* also equals *KN.*
+Then, since *CB* equals *BD,* while *CB* equals *GK,* and *BD* equals *KN,* therefore *GK* also equals *KN.* ([I.34](../BookI/PropI.34.md))
 
 For the same reason *QR* also equals *RP.*
 
-[I.36](../BookI/PropI.36.md)
-And, since *BC* equals *BD,* and *GK* equals *KN,* therefore *CK* also equals *KD,* and *GR* equals *RN.*
+And, since *BC* equals *BD,* and *GK* equals *KN,* therefore *CK* also equals *KD,* and *GR* equals *RN.* ([I.36](../BookI/PropI.36.md))
 
-[I.43](../BookI/PropI.43.md)
-But *CK* equals *RN,* for they are complements of the parallelogram *CP.* Therefore *KD* also equals *GR.* Therefore the four areas *DK, CK, GR, RN* equal one another. Therefore the four are quadruple of *CK.*
+But *CK* equals *RN,* for they are complements of the parallelogram *CP.* Therefore *KD* also equals *GR.* Therefore the four areas *DK, CK, GR, RN* equal one another. Therefore the four are quadruple of *CK.* ([I.43](../BookI/PropI.43.md))
 
-[I.34](../BookI/PropI.34.md)
-Again, since *CB* equals *BD,* while *BD* equals *BK,* that is *CG,* and *CB* equals *GK,* that is *GQ,* therefore *CG* also equals *GQ.*
+Again, since *CB* equals *BD,* while *BD* equals *BK,* that is *CG,* and *CB* equals *GK,* that is *GQ,* therefore *CG* also equals *GQ.* ([I.34](../BookI/PropI.34.md))
 
-[I.36](../BookI/PropI.36.md)
-And, since *CG* equals *GQ,* and *QR* equals *RP, AG* also equals *MQ,* and *QL* equals *RF.*
+And, since *CG* equals *GQ,* and *QR* equals *RP, AG* also equals *MQ,* and *QL* equals *RF.* ([I.36](../BookI/PropI.36.md))
 
-[I.43](../BookI/PropI.43.md)
-But *MQ* equals *QL,* for they are complements of the parallelogram *ML,* therefore *AG* also equals *RF.* Therefore the four areas *AG, MQ, QL, RF* equal one another. Therefore the four are quadruple of *AG.* But the four areas *CK, KD, GR, RN* were proved to be quadruple of *CK,* therefore the eight areas, which contain the gnomon *STU,* are quadruple of *AK.*
+But *MQ* equals *QL,* for they are complements of the parallelogram *ML,* therefore *AG* also equals *RF.* Therefore the four areas *AG, MQ, QL, RF* equal one another. Therefore the four are quadruple of *AG.* But the four areas *CK, KD, GR, RN* were proved to be quadruple of *CK,* therefore the eight areas, which contain the gnomon *STU,* are quadruple of *AK.* ([I.43](../BookI/PropI.43.md))
 
 Now, since *AK* is the rectangle *AB* by *BD,* for *BK* equals *BD,* therefore four times the rectangle *AB* by *BD* is quadruple of *AK.*
 

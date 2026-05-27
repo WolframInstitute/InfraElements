@@ -16,8 +16,7 @@ Since *A* measures *B,* let it measure it according to *C.*
 
 I say that *C* is not odd.
 
-[IX.23](PropIX.23.md)
-If possible, let it be so. Then, since *A* measures *B* according to *C,* therefore *A* multiplied by *C* makes *B.* Therefore *B* is made up of odd numbers the multitude of which is odd. Therefore *B* is odd, which is absurd, for by hypothesis it is even. Therefore *C* is not odd, therefore *C* is even.
+If possible, let it be so. Then, since *A* measures *B* according to *C,* therefore *A* multiplied by *C* makes *B.* Therefore *B* is made up of odd numbers the multitude of which is odd. Therefore *B* is odd, which is absurd, for by hypothesis it is even. Therefore *C* is not odd, therefore *C* is even. ([IX.23](PropIX.23.md))
 
 Thus *A* measures *B* an even number of times. For this reason then it also measures the half of it.
 

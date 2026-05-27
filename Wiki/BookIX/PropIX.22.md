@@ -12,10 +12,7 @@ I say that the sum *AE* is even.
 
 ![java applet or image](propIX21.gif)
 
-([VII.Def.7](../BookVII/DefVII.6.md))
-
-[IX.21](PropIX.21.md)
-Since each of the numbers *AB, BC, CD,* and *DE* is odd, if a unit is subtracted from each, then each of the remainders is even, so that the sum of them is even. But the multitude of the units is also even. Therefore the sum *AE* is also even.
+Since each of the numbers *AB, BC, CD,* and *DE* is odd, if a unit is subtracted from each, then each of the remainders is even, so that the sum of them is even. But the multitude of the units is also even. Therefore the sum *AE* is also even. ([VII.Def.7](../BookVII/DefVII.6.md), [IX.21](PropIX.21.md))
 
 Therefore, *if as many odd numbers as we please are added together, and their multitude is even, then the sum is even.*
 

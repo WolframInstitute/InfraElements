@@ -12,13 +12,11 @@ I say that *A* is measured by some prime number.
 
 ![java applet or image](propVII31.gif)
 
-[VII.Def.13](DefVII.11.md)
-Since *A* is composite, therefore some number *B* measures it.
+Since *A* is composite, therefore some number *B* measures it. ([VII.Def.13](DefVII.11.md))
 
 Now, if *B* is prime, then that which was proposed is done.
 
-[VII.Def.11,13](DefVII.11.md)
-But if it is composite, some number measures it. Let a number *C* measure it.
+But if it is composite, some number measures it. Let a number *C* measure it. ([VII.Def.11,13](DefVII.11.md))
 
 Then, since *C* measures *B,* and *B* measures *A,* therefore *C* also measures *A.* And, if *C* is prime, then that which was proposed is done. But if it is composite, some number measures it. Thus, if the investigation is continued in this way, then some prime number will be found which measures the number before it, which also measures *A.* If it is not found, then an infinite sequence of numbers measures the number *A,* each of which is less than the other, which is impossible in numbers.
 

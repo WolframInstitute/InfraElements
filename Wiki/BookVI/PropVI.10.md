@@ -10,20 +10,15 @@ Let *AB* be the given uncut straight line, and *AC* the straight line cut at the
 
 ![java applet or image](propVI10.gif)
 
-[I.31](../BookI/PropI.31.md)
-Join *CB,* and draw *DF* and *EG* through *D* and *E* parallel to *CB,* and draw *DHK* through *D* parallel to *AB.*
+Join *CB,* and draw *DF* and *EG* through *D* and *E* parallel to *CB,* and draw *DHK* through *D* parallel to *AB.* ([I.31](../BookI/PropI.31.md))
 
-[I.34](../BookI/PropI.34.md)
-Therefore each of the figures *FH* and *HB* is a parallelogram. Therefore *DH* equals *FG* and *HK* equals *GB.*
+Therefore each of the figures *FH* and *HB* is a parallelogram. Therefore *DH* equals *FG* and *HK* equals *GB.* ([I.34](../BookI/PropI.34.md))
 
-[VI.2](PropVI.2.md)
-Now, since the straight line *EH* is parallel to a side *CK* of the triangle *DCK,* therefore, proportionally, *DE* is to *EC* as *DH* is to *HK.*
+Now, since the straight line *EH* is parallel to a side *CK* of the triangle *DCK,* therefore, proportionally, *DE* is to *EC* as *DH* is to *HK.* ([VI.2](PropVI.2.md))
 
-[V.7](../BookV/PropV.7.md)
-But *DH* equals *FG,* and *HK* equals *GB,* therefore *DE* is to *EC* as *FG* is to *GB.*
+But *DH* equals *FG,* and *HK* equals *GB,* therefore *DE* is to *EC* as *FG* is to *GB.* ([V.7](../BookV/PropV.7.md))
 
-[VI.2](PropVI.2.md)
-Again, since *DF* is parallel to a side *EG* of the triangle *AEG,* therefore, proportionally, *AD* is to *DE* as *AF* is to *FG.*
+Again, since *DF* is parallel to a side *EG* of the triangle *AEG,* therefore, proportionally, *AD* is to *DE* as *AF* is to *FG.* ([VI.2](PropVI.2.md))
 
 But it was also proved that *DE* is to *EC* as *FG* is to *GB,* therefore *DE* is to *EC* as *FG* is to *GB,* and *AD* is to *DE* as *AF* is to *FG.*
 

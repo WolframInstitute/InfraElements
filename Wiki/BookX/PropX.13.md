@@ -12,8 +12,7 @@ I say that the remaining one, *B*, is also incommensurable with *C*.
 
 ![java applet or image](propX13.gif)
 
-[X.12](PropX.12.md)
-If *B* is commensurable with *C*, while *A* is also commensurable with *B*, then *A* is also commensurable with *C*.
+If *B* is commensurable with *C*, while *A* is also commensurable with *B*, then *A* is also commensurable with *C*. ([X.12](PropX.12.md))
 
 But it is also incommensurable with it, which is impossible. Therefore *B* is not commensurable with *C*. Therefore it is incommensurable with it.
 

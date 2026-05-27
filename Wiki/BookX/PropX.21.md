@@ -12,17 +12,13 @@ Let the rectangle *AC* be contained by the rational straight lines *AB* and *BC*
 
 I say that *AC* is irrational, and the side of the square equal to it is irrational, and let the latter be called medial.
 
-[X.Def.I.4](DefX.I.4.md)
-Describe the square *AD* on *AB*. Then *AD* is rational.
+Describe the square *AD* on *AB*. Then *AD* is rational. ([X.Def.I.4](DefX.I.4.md))
 
 And, since *AB* is incommensurable in length with *BC*, for by hypothesis they are commensurable in square only, while *AB* equals *BD*, therefore *DB* is also incommensurable in length with *BC*.
 
-[VI.1](../BookVI/PropVI.1.md),
-[X.11](PropX.11.md)
-And *DB* is to *BC* as *AD* is to *AC*, therefore *DA* is incommensurable with *AC*.
+And *DB* is to *BC* as *AD* is to *AC*, therefore *DA* is incommensurable with *AC*. ([VI.1](../BookVI/PropVI.1.md), [X.11](PropX.11.md))
 
-[X.Def.I.4](DefX.I.4.md)
-But *DA* is rational, therefore *AC* is irrational, so that the side of the square *AC* is also irrational.
+But *DA* is rational, therefore *AC* is irrational, so that the side of the square *AC* is also irrational. ([X.Def.I.4](DefX.I.4.md))
 
 Let the latter be called *medial*.
 

@@ -12,15 +12,13 @@ I say that *KA* is to *LC* as *ME* is to *NG.*
 
 ![java applet or image](propXI37.gif)
 
-[XI.33](PropXI.33.md)
-Since the parallelepipedal solid *KA* is similar to *LC,* therefore *KA* has to *LC* the ratio triplicate of that which *AB* has to *CD.* For the same reason *ME* has to *NG* the ratio triplicate of that which *EF* has to *GH.*
+Since the parallelepipedal solid *KA* is similar to *LC,* therefore *KA* has to *LC* the ratio triplicate of that which *AB* has to *CD.* For the same reason *ME* has to *NG* the ratio triplicate of that which *EF* has to *GH.* ([XI.33](PropXI.33.md))
 
 And *AB* is to *CD* as *EF* is to *GH.* Therefore *AK* is to *LC* as *ME* is to *NG.*
 
 Next as the solid *AK* is to the solid *LC,* so let the solid *ME* be to the solid *NG.*
 
-[XI.33](PropXI.33.md)
-I say that the straight line *AB* is to *CD* as *EF* is to *GH.* Since, again, *KA* has to *LC* the ratio triplicate of that which *AB* has to *CD,* and *ME* also has to *NG* the ratio triplicate of that which *EF* has to *GH,* and *KA* is to *LC* as *ME* is to *NG,* therefore *AB* is to *CD* as *EF* is to *GH.*
+I say that the straight line *AB* is to *CD* as *EF* is to *GH.* Since, again, *KA* has to *LC* the ratio triplicate of that which *AB* has to *CD,* and *ME* also has to *NG* the ratio triplicate of that which *EF* has to *GH,* and *KA* is to *LC* as *ME* is to *NG,* therefore *AB* is to *CD* as *EF* is to *GH.* ([XI.33](PropXI.33.md))
 
 Therefore, *if four straight lines are proportional, then parallelepipedal solids on them which are similar and similarly described are also proportional; and, if the parallelepipedal solids on them which are similar and similarly described are proportional, then the straight lines themselves are also proportional.*
 

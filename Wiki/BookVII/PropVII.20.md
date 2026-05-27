@@ -12,10 +12,7 @@ I say that *CD* measures *A* the same number of times that *EF* measures *B.*
 
 ![java applet or image](propVII20.gif)
 
-[VII.13](PropVII.13.md)
-
-[VII.Def.20](DefVII.20.md)
-Now *CD* is not parts of *A.* If possible, let it be so. Therefore *EF* is also the same parts of *B* that *CD* is of *A.*
+Now *CD* is not parts of *A.* If possible, let it be so. Therefore *EF* is also the same parts of *B* that *CD* is of *A.* ([VII.13](PropVII.13.md), [VII.Def.20](DefVII.20.md))
 
 Therefore there are as many parts of *B* in *EF* are there are parts of *A* in *CD.*
 
@@ -23,16 +20,11 @@ Divide *CD* into the parts of *A,* namely *CG* and *GD,* and divide *EF* into th
 
 Now, since the numbers *CG* and *GD* equal one another, and the numbers *EH* and *HF* also equal one another, while the multitude of *CG* and *GD* equals the multitude of *EH* and *HF,* therefore *CG* is to *EH* as *GD* is to *HF.*
 
-[VII.12](PropVII.12.md)
-Since one of the antecedents is to one of the consequents as the sum of the antecedents is to the sum of the consequents, therefore *CG* is to *EH* as *CD* is to *EF.*
+Since one of the antecedents is to one of the consequents as the sum of the antecedents is to the sum of the consequents, therefore *CG* is to *EH* as *CD* is to *EF.* ([VII.12](PropVII.12.md))
 
-[VII.4](PropVII.4.md)
-Therefore *CG* and *EH* are in the same ratio with *CD* and *EF,* being less than they, which is impossible, for by hypothesis *CD* and *EF* are the least numbers of those which have the same ratio with them. Therefore *CD* is not parts of *A,* therefore it is a part of it.
+Therefore *CG* and *EH* are in the same ratio with *CD* and *EF,* being less than they, which is impossible, for by hypothesis *CD* and *EF* are the least numbers of those which have the same ratio with them. Therefore *CD* is not parts of *A,* therefore it is a part of it. ([VII.4](PropVII.4.md))
 
-[VII.13](PropVII.13.md)
-
-[VII.Def.20](DefVII.20.md)
-And *EF* is the same part of *B* that *CD* is of *A,* therefore *CD* measures *A* the same number of times that *EF* measures *B.*
+And *EF* is the same part of *B* that *CD* is of *A,* therefore *CD* measures *A* the same number of times that *EF* measures *B.* ([VII.13](PropVII.13.md), [VII.Def.20](DefVII.20.md))
 
 Therefore, *the least numbers of those which have the same ratio with them measure those which have the same ratio with them the same number of times; the greater the greater; and the less the less.*
 

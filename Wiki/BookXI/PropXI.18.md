@@ -14,20 +14,15 @@ I say that all the planes through *AB* are also at right angles to the plane of 
 
 Let the plane *DE* be drawn through *AB.* Let *CE* be the intersection of the plane *DE* and the plane of reference.
 
-[I.11](../BookI/PropI.11.md)
-Take a point *F* at random on *CE,* and draw *FG* from *F* at right angles to *CE* in the plane *DE.*
+Take a point *F* at random on *CE,* and draw *FG* from *F* at right angles to *CE* in the plane *DE.* ([I.11](../BookI/PropI.11.md))
 
-[XI.Def.3](DefXI.3.md)
-Now, since *AB* is at right angles to the plane of reference, therefore *AB* is also at right angles to all the straight lines which meet it and lie in the plane of reference, so that it is also at right angles to *CE.* Therefore the angle *ABF* is right.
+Now, since *AB* is at right angles to the plane of reference, therefore *AB* is also at right angles to all the straight lines which meet it and lie in the plane of reference, so that it is also at right angles to *CE.* Therefore the angle *ABF* is right. ([XI.Def.3](DefXI.3.md))
 
-[I.28](../BookI/PropI.28.md)
-But the angle *GFB* is also right, therefore *AB* is parallel to *FG.*
+But the angle *GFB* is also right, therefore *AB* is parallel to *FG.* ([I.28](../BookI/PropI.28.md))
 
-[XI.8](PropXI.8.md)
-But *AB* is at right angles to the plane of reference, therefore *FG* is also at right angles to the plane of reference.
+But *AB* is at right angles to the plane of reference, therefore *FG* is also at right angles to the plane of reference. ([XI.8](PropXI.8.md))
 
-[XI.Def.4](DefXI.3.md)
-Now a plane is at right angles to a plane when the straight lines drawn in one of the planes at right angles to the intersection of the planes are at right angles to the remaining plane. And *FG,* drawn in one of the planes *DE* at right angles to *CE,* the intersection of the planes, was proved to be at right angles to the plane of reference. Therefore the plane *DE* is at right angles to the plane of reference.
+Now a plane is at right angles to a plane when the straight lines drawn in one of the planes at right angles to the intersection of the planes are at right angles to the remaining plane. And *FG,* drawn in one of the planes *DE* at right angles to *CE,* the intersection of the planes, was proved to be at right angles to the plane of reference. Therefore the plane *DE* is at right angles to the plane of reference. ([XI.Def.4](DefXI.3.md))
 
 Similarly it can also be proved that all the planes through *AB* are at right angles to the plane of reference.
 

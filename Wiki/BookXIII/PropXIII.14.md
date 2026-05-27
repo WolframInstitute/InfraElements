@@ -6,28 +6,21 @@ To construct an octahedron and comprehend it in a sphere, as in the preceding ca
 
 ## Proof
 
-[I.11](../BookI/PropI.11.md)
-Set out the diameter *AB* of the given sphere, bisect it at *C,* describe the semicircle *ADB* on *AB,* draw *CD* from *C* at right angles to *AB,* and join *DB.*
+Set out the diameter *AB* of the given sphere, bisect it at *C,* describe the semicircle *ADB* on *AB,* draw *CD* from *C* at right angles to *AB,* and join *DB.* ([I.11](../BookI/PropI.11.md))
 
-[I.46](../BookI/PropI.46.md)
-
-[XI.12](../BookXI/PropXI.12.md)
-Set out the square *EFGH,* having each of its sides equal to *DB,* join *HF* and *EG,* set up the straight line *KL* from the point *K* at right angles to the plane of the square *EFGH,* and carry it through to the other side of the plane *KM.*
+Set out the square *EFGH,* having each of its sides equal to *DB,* join *HF* and *EG,* set up the straight line *KL* from the point *K* at right angles to the plane of the square *EFGH,* and carry it through to the other side of the plane *KM.* ([I.46](../BookI/PropI.46.md), [XI.12](../BookXI/PropXI.12.md))
 
 ![java applet or image](propXIII14.gif)
 
-[I.3](../BookI/PropI.3.md)
-Cut off *KL* and *KM* from the straight lines *KL* and *KM* respectively equal to one of the straight lines *EK, FK, GK,* or *HK,* and join *LE, LF, LG, LH, ME, MF, MG,* and *MH.*
+Cut off *KL* and *KM* from the straight lines *KL* and *KM* respectively equal to one of the straight lines *EK, FK, GK,* or *HK,* and join *LE, LF, LG, LH, ME, MF, MG,* and *MH.* ([I.3](../BookI/PropI.3.md))
 
-[I.47](../BookI/PropI.47.md)
-Then, since *KE* equals *KH,* and the angle *EKH* is right, therefore the square on *HE* is double the square on *EK.* Again, since *LK* equals *KE,* and the angle *LKE* is right, therefore the square on *EL* is double the square on *EK.*
+Then, since *KE* equals *KH,* and the angle *EKH* is right, therefore the square on *HE* is double the square on *EK.* Again, since *LK* equals *KE,* and the angle *LKE* is right, therefore the square on *EL* is double the square on *EK.* ([I.47](../BookI/PropI.47.md))
 
 But the square on *HE* was also proved double the square on *EK,* therefore the square on *LE* equals the square on *EH.* Therefore *LE* equals *EH.* For the same reason *LH* also equals *HE.*
 
 Therefore the triangle *LEH* is equilateral.
 
-[XI.Def.26](../BookXI/DefXI.25.md)
-Similarly we can prove that each of the remaining triangles of which the sides of the square *EFGH* are the bases and the points *L* and *M* are the vertices, is equilateral, therefore an octahedron has been constructed which is contained by eight equilateral triangles.
+Similarly we can prove that each of the remaining triangles of which the sides of the square *EFGH* are the bases and the points *L* and *M* are the vertices, is equilateral, therefore an octahedron has been constructed which is contained by eight equilateral triangles. ([XI.Def.26](../BookXI/DefXI.25.md))
 
 It is next required to comprehend it in the given sphere, and to prove that the square on the diameter of the sphere is double the square on the side of the octahedron.
 
@@ -35,12 +28,9 @@ Since the three straight lines *LK, KM,* and *KE* equal one another, therefore t
 
 I say next that it is also comprehended in the given sphere.
 
-[I.4](../BookI/PropI.4.md)
-For, since *LK* equals *KM,* while *KE* is common, and they contain right angles, therefore the base *LE* equals the base *EM.*
+For, since *LK* equals *KM,* while *KE* is common, and they contain right angles, therefore the base *LE* equals the base *EM.* ([I.4](../BookI/PropI.4.md))
 
-[III.31](../BookIII/PropIII.31.md),
-[I.47](../BookI/PropI.47.md)
-And, since the angle *LEM* is right, for it is in a semicircle, therefore the square on *LM* is double the square on *LE.*
+And, since the angle *LEM* is right, for it is in a semicircle, therefore the square on *LM* is double the square on *LE.* ([III.31](../BookIII/PropIII.31.md), [I.47](../BookI/PropI.47.md))
 
 Again, since *AC* equals *CB,* therefore *AB* is double *BC.* But *AB* is to *BC* as the square on *AB* is to the square on *BD,* therefore the square on *AB* is double the square on *BD.*
 

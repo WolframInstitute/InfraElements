@@ -13,16 +13,13 @@ I say that *A* and *B* are the least of those which have the same ratio with the
 
 If not, there are some numbers less than *A* and *B* in the same ratio with *A* and *B.* Let them be *C* and *D.*
 
-[VII.20](PropVII.20.md)
-Since, then, the least numbers of those which have the same ratio measure those which have the same ratio the same number of times, the greater the greater, and the less the less, that is, the antecedent the antecedent and the consequent the consequent, therefore *C* measures *A* the same number of times that *D* measures *B.*
+Since, then, the least numbers of those which have the same ratio measure those which have the same ratio the same number of times, the greater the greater, and the less the less, that is, the antecedent the antecedent and the consequent the consequent, therefore *C* measures *A* the same number of times that *D* measures *B.* ([VII.20](PropVII.20.md))
 
 Let there be as many units in *E* as the times that *C* measures *A.* Then *D* also measures *B* according to the units in *E.*
 
-[VII.16](PropVII.16.md)
-And, since *C* measures *A* according to the units in *E,* therefore *E* also measures *A* according to the units in *C.* For the same reason *E* also measures *B* according to the units in *D.*
+And, since *C* measures *A* according to the units in *E,* therefore *E* also measures *A* according to the units in *C.* For the same reason *E* also measures *B* according to the units in *D.* ([VII.16](PropVII.16.md))
 
-[VII.Def.12](DefVII.11.md)
-Therefore *E* measures *A* and *B* which are relatively prime, which is impossible.
+Therefore *E* measures *A* and *B* which are relatively prime, which is impossible. ([VII.Def.12](DefVII.11.md))
 
 Therefore there are no numbers less than *A* and *B* which are in the same ratio with *A* and *B.* Therefore *A* and *B* are the least of those which have the same ratio with them.
 

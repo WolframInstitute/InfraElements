@@ -12,25 +12,17 @@ Join *BE, AM, GL,* and *FN.*
 
 ![java applet or image](propXII1.gif)
 
-[VI.Def.1](../BookVI/DefVI.1.md)
-Now, since the polygon *ABCDE* is similar to the polygon *FGHKL,* therefore the angle *BAE* equals the angle *GFL,* and *BA* is to *AE* as *GF* is to *FL.*
+Now, since the polygon *ABCDE* is similar to the polygon *FGHKL,* therefore the angle *BAE* equals the angle *GFL,* and *BA* is to *AE* as *GF* is to *FL.* ([VI.Def.1](../BookVI/DefVI.1.md))
 
-[VI.6](../BookVI/PropVI.6.md)
-Thus *BAE* and *GFL* are two triangles which have one angle equal to one angle, namely the angle *BAE* equal to the angle *GFL,* and the sides about the equal angles proportional, therefore the triangle *ABE* is equiangular with the triangle *FGL.* Therefore the angle *AEB* equals the angle *FLG.*
+Thus *BAE* and *GFL* are two triangles which have one angle equal to one angle, namely the angle *BAE* equal to the angle *GFL,* and the sides about the equal angles proportional, therefore the triangle *ABE* is equiangular with the triangle *FGL.* Therefore the angle *AEB* equals the angle *FLG.* ([VI.6](../BookVI/PropVI.6.md))
 
-[III.27](../BookIII/PropIII.27.md)
-But the angle *AEB* equals the angle *AMB,* for they stand on the same circumference, and the angle *FLG* equals the angle *FNG,* therefore the angle *AMB* also equals the angle *FNG.*
+But the angle *AEB* equals the angle *AMB,* for they stand on the same circumference, and the angle *FLG* equals the angle *FNG,* therefore the angle *AMB* also equals the angle *FNG.* ([III.27](../BookIII/PropIII.27.md))
 
-[III.31](../BookIII/PropIII.31.md)
+But the right angle *BAM* also equals the right angle *GFN,* therefore the remaining angle equals the remaining angle. Therefore the triangle *ABM* is equiangular with the triangle *FGN.* ([III.31](../BookIII/PropIII.31.md), [I.32](../BookI/PropI.32.md))
 
-[I.32](../BookI/PropI.32.md)
-But the right angle *BAM* also equals the right angle *GFN,* therefore the remaining angle equals the remaining angle. Therefore the triangle *ABM* is equiangular with the triangle *FGN.*
+Therefore, proportionally *BM* is to *GN* as *BA* is to *GF.* ([VI.4](../BookVI/PropVI.4.md))
 
-[VI.4](../BookVI/PropVI.4.md)
-Therefore, proportionally *BM* is to *GN* as *BA* is to *GF.*
-
-[VI.20](../BookVI/PropVI.20.md)
-But the ratio of the square on *BM* to the square on *GN* is duplicate of the ratio of *BM* to *GN,* and the ratio of the polygon *ABCDE* to the polygon *FGHKL* is duplicate of the ratio of *BA* to *GF.*
+But the ratio of the square on *BM* to the square on *GN* is duplicate of the ratio of *BM* to *GN,* and the ratio of the polygon *ABCDE* to the polygon *FGHKL* is duplicate of the ratio of *BA* to *GF.* ([VI.20](../BookVI/PropVI.20.md))
 
 Therefore the square on *BM* is to the square on *GN* as the polygon *ABCDE* is to the polygon *FGHKL.*
 

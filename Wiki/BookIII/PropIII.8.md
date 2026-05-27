@@ -12,24 +12,19 @@ Let *ABC* be a circle, and let a point *D* be taken outside *ABC.* Let straight 
 
 I say that, of the straight lines falling on the concave circumference *AEFC,* the straight line *DA* through the center is greatest, while *DE* is greater than *DF,* and *DF* greater than *DC.* But, of the straight lines falling on the convex circumference *HLKG,* the straight line *DG* between the point and the diameter *AG* is least, and the nearer to the least *DG* is always less than the more remote, namely *DK* is less than *DL,* and *DL* is less than *DH.*
 
-[III.1](PropIII.1.md)
-Take the center *M* of the circle *ABC.* Join *ME, MF, MC, MK, ML,* and *MH.*
+Take the center *M* of the circle *ABC.* Join *ME, MF, MC, MK, ML,* and *MH.* ([III.1](PropIII.1.md))
 
 Then, since *AM* equals *EM,* add *MD* to each, therefore *AD* equals the sum of *EM* and *MD.*
 
-[I.20](../BookI/PropI.20.md)
-But the sum of *EM* and *MD* is greater than *ED,* therefore *AD* is also greater than *ED.*
+But the sum of *EM* and *MD* is greater than *ED,* therefore *AD* is also greater than *ED.* ([I.20](../BookI/PropI.20.md))
 
-[I.24](../BookI/PropI.24.md)
-Again, since *ME* equals *MF,* and *MD* is common, therefore *EM* and *MD* equal *FM* and *MD,* and the angle *EMD* is greater than the angle *FMD,* therefore the base *ED* is greater than the base *FD.*
+Again, since *ME* equals *MF,* and *MD* is common, therefore *EM* and *MD* equal *FM* and *MD,* and the angle *EMD* is greater than the angle *FMD,* therefore the base *ED* is greater than the base *FD.* ([I.24](../BookI/PropI.24.md))
 
 Similarly we can prove that *FD* is greater than *CD.* Therefore *DA* is greatest, while *DE* is greater than *DF,* and *DF* is greater than *DC.*
 
-[I.20](../BookI/PropI.20.md)
-Next, since the sum of *MK* and *KD* is greater than *MD,* and *MG* equals *MK,* therefore the remainder *KD* is greater than the remainder *GD,* so that *GD* is less than *KD.*
+Next, since the sum of *MK* and *KD* is greater than *MD,* and *MG* equals *MK,* therefore the remainder *KD* is greater than the remainder *GD,* so that *GD* is less than *KD.* ([I.20](../BookI/PropI.20.md))
 
-[I.21](../BookI/PropI.21.md)
-And, since on *MD,* one of the sides of the triangle *MLD,* two straight lines *MK* and *KD* are constructed meeting within the triangle, therefore the sum of *MK* and *KD* is less than the sum of *ML* and *LD.* And *MK* equals *ML,* therefore the remainder *DK* is less than the remainder *DL.*
+And, since on *MD,* one of the sides of the triangle *MLD,* two straight lines *MK* and *KD* are constructed meeting within the triangle, therefore the sum of *MK* and *KD* is less than the sum of *ML* and *LD.* And *MK* equals *ML,* therefore the remainder *DK* is less than the remainder *DL.* ([I.21](../BookI/PropI.21.md))
 
 Similarly we can prove that *DL* is also less than *DH.* Therefore *DG* is least, while *DK* is less than *DL,* and *DL* is less than *DH.*
 
@@ -37,11 +32,9 @@ Similarly we can prove that *DL* is also less than *DH.* Therefore *DG* is least
 
 I say also that only two equal straight lines will fall from the point *D* on the circle, one on each side of the least *DG.*
 
-[I.23](../BookI/PropI.23.md)
-Construct the angle *DMB* equal to the angle *KMD* on the straight line *MD* and at the point *M* on it. Join *DB.*
+Construct the angle *DMB* equal to the angle *KMD* on the straight line *MD* and at the point *M* on it. Join *DB.* ([I.23](../BookI/PropI.23.md))
 
-[I.4](../BookI/PropI.4.md)
-Then, since *MK* equals *MB,* and *MD* is common, the two sides *KM* and *MD* equal the two sides *BM* and *MD* respectively, and the angle *KMD* equals the angle *BMD,* therefore the base *DK* equals the base *DB.*
+Then, since *MK* equals *MB,* and *MD* is common, the two sides *KM* and *MD* equal the two sides *BM* and *MD* respectively, and the angle *KMD* equals the angle *BMD,* therefore the base *DK* equals the base *DB.* ([I.4](../BookI/PropI.4.md))
 
 I say that no other straight line equal to the straight line *DK* falls on the circle from the point *D.*
 

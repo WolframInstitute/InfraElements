@@ -12,12 +12,9 @@ Let the straight line *AB* be cut in extreme and mean ratio at the point *C,* le
 
 I say that the straight line *DB* is cut in extreme and mean ratio at *A,* and the original straight line *AB* is the greater segment.
 
-[I.46](../BookI/PropI.46.md)
-Describe the square *AE* on *AB,* and draw the figure.
+Describe the square *AE* on *AB,* and draw the figure. ([I.46](../BookI/PropI.46.md))
 
-I.Def.3,
-[VI.17](../BookVI/PropVI.17.md)
-Since *AB* is cut in extreme and mean ratio at *C,* therefore the rectangle *AB* by *BC* equals the square on *AC.*
+Since *AB* is cut in extreme and mean ratio at *C,* therefore the rectangle *AB* by *BC* equals the square on *AC.* (I.Def.3, [VI.17](../BookVI/PropVI.17.md))
 
 And *CE* is the rectangle *AB* by *BC,* and *CH* is the square on *AC,* therefore *CE* equals *HC.*
 
@@ -25,9 +22,7 @@ But *HE* equals *CE,* and *DH* equals *HC,* therefore *DH* also equals *HE.* The
 
 And *DK* is the rectangle *BD* by *DA,* for *AD* equals *DL,* and *AE* is the square on *AB,* therefore the rectangle *BD* by *DA* equals the square on *AB.*
 
-[VI.17](../BookVI/PropVI.17.md),
-[V.Def.5](../BookV/DefV.5.md)
-Therefore *DB* is to *BA* as *BA* is to *AD.* And *DB* is greater than *BA,* therefore *BA* is also greater than *AD.*
+Therefore *DB* is to *BA* as *BA* is to *AD.* And *DB* is greater than *BA,* therefore *BA* is also greater than *AD.* ([VI.17](../BookVI/PropVI.17.md), [V.Def.5](../BookV/DefV.5.md))
 
 Therefore *DB* has been cut in extreme and mean ratio at *A,* and *AB* is the greater segment.
 

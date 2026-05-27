@@ -12,11 +12,9 @@ Let *ABCD* be a circle, and let the angles *BAD* and *BED* be angles in the same
 
 I say that the angles *BAD* and *BED* equal one another.
 
-[III.1](PropIII.1.md)
-Take the center *F* of the circle *ABCD,* and join *BF* and *FD.*
+Take the center *F* of the circle *ABCD,* and join *BF* and *FD.* ([III.1](PropIII.1.md))
 
-[III.20](PropIII.20.md)
-Now, since the angle *BFD* is at the center, and the angle *BAD* at the circumference, and they have the same circumference *BCD* as base, therefore the angle *BFD* is double the angle *BAD.*
+Now, since the angle *BFD* is at the center, and the angle *BAD* at the circumference, and they have the same circumference *BCD* as base, therefore the angle *BFD* is double the angle *BAD.* ([III.20](PropIII.20.md))
 
 For the same reason the angle *BFD* is also double the angle *BED.* Therefore the angle *BAD* equals the angle *BED.*
 

@@ -6,8 +6,7 @@ If two circles touch one another externally, then the straight line joining thei
 
 ## Proof
 
-[III.1](PropIII.1.md)
-Let the two circles *ABC* and *ADE* touch one another externally at the point *A.* Take the center *F* of *ABC,* and the center *G* of *ADE.*
+Let the two circles *ABC* and *ADE* touch one another externally at the point *A.* Take the center *F* of *ABC,* and the center *G* of *ADE.* ([III.1](PropIII.1.md))
 
 ![java applet or image](propIII12.gif)
 
@@ -19,8 +18,7 @@ Then, since the point *F* is the center of the circle *ABC, FA* equals *FC.*
 
 Again, since the point *G* is the center of the circle *ADE, GA* equals GD.
 
-[I.20](../BookI/PropI.20.md)
-But *FA* was also proved equal to *FC,* therefore *FA* and *AG* equal *FC* and *GD,* so that the whole *FG* is greater than *FA* and *AG,* but it is also less, which is impossible.
+But *FA* was also proved equal to *FC,* therefore *FA* and *AG* equal *FC* and *GD,* so that the whole *FG* is greater than *FA* and *AG,* but it is also less, which is impossible. ([I.20](../BookI/PropI.20.md))
 
 Therefore the straight line joined from *F* to *G* does not fail to pass through the point of contact at *A,* therefore it passes through it.
 

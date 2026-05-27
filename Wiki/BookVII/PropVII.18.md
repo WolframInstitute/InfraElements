@@ -12,11 +12,9 @@ Let two numbers *A* and *B* multiplied by any number *C* make *D* and *E.*
 
 I say that *A* is to *B* as *D* is to *E.*
 
-[VII.16](PropVII.16.md)
-Since *A* multiplied by *C* makes *D,* therefore *C* multiplied by *A* makes *D.* For the same reason also *C* multiplied by *B* makes *E.*
+Since *A* multiplied by *C* makes *D,* therefore *C* multiplied by *A* makes *D.* For the same reason also *C* multiplied by *B* makes *E.* ([VII.16](PropVII.16.md))
 
-[VII.17](PropVII.17.md)
-Therefore the number *C* multiplied by the two numbers *A* and *B* makes *D* and *E.* Therefore *A* is to *B* as *D*is to *E.*
+Therefore the number *C* multiplied by the two numbers *A* and *B* makes *D* and *E.* Therefore *A* is to *B* as *D*is to *E.* ([VII.17](PropVII.17.md))
 
 Therefore, *if two numbers multiplied by any number make certain numbers, then the numbers so produced have the same ratio as the multipliers.*
 

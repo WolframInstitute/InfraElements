@@ -12,22 +12,13 @@ I say that the remainder *AC* is the irrational straight line called apotome.
 
 ![java applet or image](propX73.gif)
 
-[X.11](PropX.11.md)
-Since *AB* is incommensurable in length with *BC*, and *AB* is to *BC* as the square on *AB* is to the rectangle *AB* by *BC*, therefore the square on *AB* is incommensurable with the rectangle *AB* by *BC*.
+Since *AB* is incommensurable in length with *BC*, and *AB* is to *BC* as the square on *AB* is to the rectangle *AB* by *BC*, therefore the square on *AB* is incommensurable with the rectangle *AB* by *BC*. ([X.11](PropX.11.md))
 
-[X.15](PropX.15.md)
+But the sum of the squares on *AB* and *BC* is commensurable with the square on *AB*, and twice the rectangle *AB* by *BC* is commensurable with the rectangle *AB* by *BC*. ([X.15](PropX.15.md), [X.6](PropX.6.md))
 
-[X.6](PropX.6.md)
-But the sum of the squares on *AB* and *BC* is commensurable with the square on *AB*, and twice the rectangle *AB* by *BC* is commensurable with the rectangle *AB* by *BC*.
+And, inasmuch as the sum of the squares on *AB* and *BC* equal twice the rectangle *AB* by *BC* together with the square on *CA*, therefore the sum of the squares on *AB* and *BC* is also incommensurable with the remainder, the square on *AC*. ([II.7](../BookII/PropII.7.md), [X.13](PropX.13.md), [X.16](PropX.16.md))
 
-[II.7](../BookII/PropII.7.md),
-[X.13](PropX.13.md)
-
-[X.16](PropX.16.md)
-And, inasmuch as the sum of the squares on *AB* and *BC* equal twice the rectangle *AB* by *BC* together with the square on *CA*, therefore the sum of the squares on *AB* and *BC* is also incommensurable with the remainder, the square on *AC*.
-
-[X.Def.I.4](DefX.I.4.md)
-But the sum of the squares on *AB* and *BC* is rational, therefore *AC* is irrational. Let it be called an apotome.
+But the sum of the squares on *AB* and *BC* is rational, therefore *AC* is irrational. Let it be called an apotome. ([X.Def.I.4](DefX.I.4.md))
 
 Q.E.D.
 

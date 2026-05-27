@@ -11,32 +11,21 @@ I say that the whole straight line *BD* is cut in extreme and mean ratio, and *C
 
 ![java applet or image](propXIII9.gif)
 
-[III.1](../BookIII/PropIII.1.md)
-Take the center *E* of the circle, join *EB, EC,* and *ED,* and carry *BE* through to *A.*
+Take the center *E* of the circle, join *EB, EC,* and *ED,* and carry *BE* through to *A.* ([III.1](../BookIII/PropIII.1.md))
 
 Since *BC* is the side of an equilateral decagon, therefore the circumference *ACB* is five times the circumference *BC.* Therefore the circumference *AC* is quadruple *CB.*
 
-[VI.33](../BookVI/PropVI.33.md)
-But the circumference *AC* is to *CB* as the angle *AEC* is to the angle *CEB.* Therefore the angle *AEC* is quadruple the angle *CEB.*
+But the circumference *AC* is to *CB* as the angle *AEC* is to the angle *CEB.* Therefore the angle *AEC* is quadruple the angle *CEB.* ([VI.33](../BookVI/PropVI.33.md))
 
-[I.5](../BookI/PropI.5.md)
+And, since the angle *EBC* equals the angle *ECB,* therefore the angle *AEC* is double the angle *ECB.* ([I.5](../BookI/PropI.5.md), [I.32](../BookI/PropI.32.md))
 
-[I.32](../BookI/PropI.32.md)
-And, since the angle *EBC* equals the angle *ECB,* therefore the angle *AEC* is double the angle *ECB.*
-
-[IV.15,Cor.](../BookIV/PropIV.15.md)
-
-[I.5](../BookI/PropI.5.md),
-[I.32](../BookI/PropI.32.md)
-And, since the straight line *EC* equals *CD,* for each of them equals the side of the hexagon inscribed in the circle *ABC.* Therefore the angle *CED* also equals the angle *CDE.* Therefore the angle *ECB* is double the angle *EDC.*
+And, since the straight line *EC* equals *CD,* for each of them equals the side of the hexagon inscribed in the circle *ABC.* Therefore the angle *CED* also equals the angle *CDE.* Therefore the angle *ECB* is double the angle *EDC.* ([IV.15,Cor.](../BookIV/PropIV.15.md), [I.5](../BookI/PropI.5.md), [I.32](../BookI/PropI.32.md))
 
 But the angle *AEC* was proved double the angle *ECB,* therefore the angle *AEC* is quadruple the angle *EDC.* And the angle *AEC* was also proved quadruple the angle *BEC,* therefore the angle *EDC* equals the angle *BEC.*
 
-[I.32](../BookI/PropI.32.md)
-But the angle *EBD* is common to the two triangles *BEC* and *BED,* therefore the remaining angle *BED* equals the remaining angle *ECB.* Therefore the triangle *EBD* is equiangular with the triangle *EBC.*
+But the angle *EBD* is common to the two triangles *BEC* and *BED,* therefore the remaining angle *BED* equals the remaining angle *ECB.* Therefore the triangle *EBD* is equiangular with the triangle *EBC.* ([I.32](../BookI/PropI.32.md))
 
-[VI.4](../BookVI/PropVI.4.md)
-Therefore, proportionally *DB* is to *BE* as *EB* is to *BC.*
+Therefore, proportionally *DB* is to *BE* as *EB* is to *BC.* ([VI.4](../BookVI/PropVI.4.md))
 
 But *EB* equals *CD.* Therefore *BD* is to *DC* as *DC* is to *CB.* And *BD* is greater than *DC,* therefore *DC* is also greater than *CB.*
 

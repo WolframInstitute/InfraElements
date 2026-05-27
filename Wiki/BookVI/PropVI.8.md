@@ -12,29 +12,22 @@ I say that each of the triangles *DBA* and *DAC* is similar to the whole *ABC,* 
 
 ![java applet or image](propVI8.gif)
 
-[I.32](../BookI/PropI.32.md)
-Since the angle *BAC* equals the angle *BDA,* for each is right, and the angle at *B* is common to the two triangles *ABC* and *DBA,* therefore the remaining angle *ACB* equals the remaining angle *DAB.* Therefore the triangle *ABC* is equiangular with the triangle *DBA.*
+Since the angle *BAC* equals the angle *BDA,* for each is right, and the angle at *B* is common to the two triangles *ABC* and *DBA,* therefore the remaining angle *ACB* equals the remaining angle *DAB.* Therefore the triangle *ABC* is equiangular with the triangle *DBA.* ([I.32](../BookI/PropI.32.md))
 
-[VI.4](PropVI.4.md)
-Therefore *BC,* which is opposite the right angle in the triangle *ABC,* is to *BA,* which is opposite the right angle in the triangle *DBA,* as *AB,* which is opposite the angle at *C* in the triangle *ABC,* is to *DB,* which is opposite the equal angle *BAD* in the triangle *DBA,* and also as *AC* is to *DA,* which is opposite the angle at *B* common to the two triangles.
+Therefore *BC,* which is opposite the right angle in the triangle *ABC,* is to *BA,* which is opposite the right angle in the triangle *DBA,* as *AB,* which is opposite the angle at *C* in the triangle *ABC,* is to *DB,* which is opposite the equal angle *BAD* in the triangle *DBA,* and also as *AC* is to *DA,* which is opposite the angle at *B* common to the two triangles. ([VI.4](PropVI.4.md))
 
 Therefore the triangle *ABC* is both equiangular to the triangle *DBA* and has the sides about the equal angles proportional.
 
-[VI.Def.1](DefVI.1.md)
-Therefore the triangle *ABC* is similar to the triangle *DBA.*
+Therefore the triangle *ABC* is similar to the triangle *DBA.* ([VI.Def.1](DefVI.1.md))
 
 In the same manner we can prove that the triangle *DAC* is also similar to
 the triangle *ABC.* Therefore each of the triangles *DBA* and *DAC* is similar to the whole *ABC.*
 
 I say next that the triangles *DBA* and *DAC* are also similar to one another.
 
-[I.32](../BookI/PropI.32.md)
-Since the right angle *BDA* equals the right angle *ADC,* and moreover the angle *DAB* was also proved equal to the angle at *C,* therefore the remaining angle at *B* also equals the remaining angle *DAC.* Therefore the triangle *DBA* is equiangular with the triangle *ADC.*
+Since the right angle *BDA* equals the right angle *ADC,* and moreover the angle *DAB* was also proved equal to the angle at *C,* therefore the remaining angle at *B* also equals the remaining angle *DAC.* Therefore the triangle *DBA* is equiangular with the triangle *ADC.* ([I.32](../BookI/PropI.32.md))
 
-[VI.4](PropVI.4.md)
-
-[VI.Def.1](DefVI.1.md)
-Therefore *BD,* which is opposite the angle *DAB* in the triangle *DBA,* is to *AD,* which is opposite the angle at *C* in the triangle *DAC* equal to the angle *DAB,* as *AD,* itself which is opposite the angle at *B* in the triangle *DBA,* is to *CD,* which is opposite the angle *DAC* in the triangle *DAC* equal to the angle at *B,* and also as *BA* is to *AC,* these sides opposite the right angles. Therefore the triangle *DBA* is similar to the triangle *DAC.*
+Therefore *BD,* which is opposite the angle *DAB* in the triangle *DBA,* is to *AD,* which is opposite the angle at *C* in the triangle *DAC* equal to the angle *DAB,* as *AD,* itself which is opposite the angle at *B* in the triangle *DBA,* is to *CD,* which is opposite the angle *DAC* in the triangle *DAC* equal to the angle at *B,* and also as *BA* is to *AC,* these sides opposite the right angles. Therefore the triangle *DBA* is similar to the triangle *DAC.* ([VI.4](PropVI.4.md), [VI.Def.1](DefVI.1.md))
 
 Therefore, *if in a right-angled triangle a perpendicular is drawn from the right angle to the base, then the triangles adjoining the perpendicular are similar both to the whole and to one another.*
 

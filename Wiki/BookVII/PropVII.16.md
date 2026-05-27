@@ -12,13 +12,11 @@ I say that *C* equals *D.*
 
 ![java applet or image](propVII16.gif)
 
-[VII.Def.15](DefVII.15.md)
-Since *A* multiplied by *B* makes *C,* therefore *B* measures *C* according to the units in *A.*
+Since *A* multiplied by *B* makes *C,* therefore *B* measures *C* according to the units in *A.* ([VII.Def.15](DefVII.15.md))
 
 But the unit *E* also measures the number *A* according to the units in it, therefore the unit *E* measures *A* the same number of times that *B* measures *C.*
 
-[VII.15](PropVII.15.md)
-Therefore, alternately, the unit *E* measures the number *B* the same number of times that *A* measures *C.*
+Therefore, alternately, the unit *E* measures the number *B* the same number of times that *A* measures *C.* ([VII.15](PropVII.15.md))
 
 Again, since *B* multiplied by *A* makes *D,* therefore *A* measures *D* according to the units in *B.* But the unit *E* also measures *B* according to the units in it, therefore the unit *E* measures the number *B* the same number of times that *A* measures *D.*
 

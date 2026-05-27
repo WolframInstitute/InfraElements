@@ -14,16 +14,11 @@ Complete the parallelepipedal solids *BGML* and *EHQP.*
 
 ![java applet or image](propXII9.gif)
 
-[XII.7,Cor](PropXII.7.md)
-Now, since the pyramid *ABCG* equals the pyramid *DEFH,* and the solid *BGML* is six times the pyramid *ABCG,* and the solid *EHQP* six times the pyramid *DEFH,* therefore the solid *BGML* equals the solid *EHQP.*
+Now, since the pyramid *ABCG* equals the pyramid *DEFH,* and the solid *BGML* is six times the pyramid *ABCG,* and the solid *EHQP* six times the pyramid *DEFH,* therefore the solid *BGML* equals the solid *EHQP.* ([XII.7,Cor](PropXII.7.md))
 
-[XI.34](../BookXI/PropXI.34.md)
-But in equal parallelepipedal solids the bases are reciprocally proportional to the heights, therefore the base *BM* is to the base *EQ* as the height of the solid *EHQP* is to the height of the solid *BGML.*
+But in equal parallelepipedal solids the bases are reciprocally proportional to the heights, therefore the base *BM* is to the base *EQ* as the height of the solid *EHQP* is to the height of the solid *BGML.* ([XI.34](../BookXI/PropXI.34.md))
 
-[I.34](../BookI/PropI.34.md)
-
-[V.11](../BookV/PropV.11.md)
-But the base *BM* is to *EQ* as the triangle *ABC* is to the triangle *DEF.* Therefore the triangle *ABC* is to the triangle *DEF* as the height of the solid *EHQP* is to the height of the solid *BGML.*
+But the base *BM* is to *EQ* as the triangle *ABC* is to the triangle *DEF.* Therefore the triangle *ABC* is to the triangle *DEF* as the height of the solid *EHQP* is to the height of the solid *BGML.* ([I.34](../BookI/PropI.34.md), [V.11](../BookV/PropV.11.md))
 
 But the height of the solid *EHQP* is identical with the height of the pyramid *DEFH,* and the height of the solid *BGML* is identical with the height of the pyramid *ABCG,* therefore the base *ABC* is to the base *DEF* as the height of the pyramid *DEFH* is to the height of the pyramid *ABCG.*
 
@@ -33,13 +28,11 @@ Next, in the pyramids *ABCG* and *DEFH* let the bases be reciprocally proportion
 
 I say that the pyramid *ABCG* equals the pyramid *DEFH.*
 
-[V.11](../BookV/PropV.11.md)
-With the same construction, since the base *ABC* is to the base *DEF* as the height of the pyramid *DEFH* is to the height of the pyramid *ABCG,* while the base *ABC* is to the base *DEF* as the parallelogram *BM* is to the parallelogram *EQ,* therefore the parallelogram *BM* is to the parallelogram *EQ* as the height of the pyramid *DEFH* is to the height of the pyramid *ABCG.*
+With the same construction, since the base *ABC* is to the base *DEF* as the height of the pyramid *DEFH* is to the height of the pyramid *ABCG,* while the base *ABC* is to the base *DEF* as the parallelogram *BM* is to the parallelogram *EQ,* therefore the parallelogram *BM* is to the parallelogram *EQ* as the height of the pyramid *DEFH* is to the height of the pyramid *ABCG.* ([V.11](../BookV/PropV.11.md))
 
 But the height of the pyramid *DEFH* is identical with the height of the parallelepiped *EHQP,* and the height of the pyramid *ABCG* is identical with the height of the parallelepiped *BGML,* therefore the base *BM* is to the base *EQ* as the height of the parallelepiped *EHQP* is to the height of the parallelepiped *BGML.*
 
-[XI.34](../BookXI/PropXI.34.md)
-But those parallelepipedal solids in which the bases are reciprocally proportional to the heights are equal, therefore the parallelepipedal solid *BGML* equals the parallelepipedal solid *EHQP.*
+But those parallelepipedal solids in which the bases are reciprocally proportional to the heights are equal, therefore the parallelepipedal solid *BGML* equals the parallelepipedal solid *EHQP.* ([XI.34](../BookXI/PropXI.34.md))
 
 And the pyramid *ABCG* is a sixth part of *BGML,* and the pyramid *DEFH* a sixth part of the parallelepiped *EHQP,* therefore the pyramid *ABCG* equals the pyramid *DEFH.*
 

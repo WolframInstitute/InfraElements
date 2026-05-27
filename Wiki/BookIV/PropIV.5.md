@@ -11,20 +11,15 @@ It is required to circumscribe a circle about the given triangle *ABC.*
 
 ![java applet or image](propIV5a.gif)
 
-[I.10](../BookI/PropI.10.md)
-
-[I.11](../BookI/PropI.11.md)
-Bisect the straight lines *AB* and *AC* at the points *D* and *E.* Draw *DF* and *EF* from the points *D* and *E* at right angles to *AB* and *AC.* They will then meet within the triangle *ABC,* or on the straight line *BC,* or outside *BC.*
+Bisect the straight lines *AB* and *AC* at the points *D* and *E.* Draw *DF* and *EF* from the points *D* and *E* at right angles to *AB* and *AC.* They will then meet within the triangle *ABC,* or on the straight line *BC,* or outside *BC.* ([I.10](../BookI/PropI.10.md), [I.11](../BookI/PropI.11.md))
 
 First let them meet within at *F.* Join *FB, FC,* and *FA.*
 
-[I.4](../BookI/PropI.4.md)
-Then, since *AD* equals *DB,* and *DF* is common and at right angles, therefore the base *AF* equals the base *FB.*
+Then, since *AD* equals *DB,* and *DF* is common and at right angles, therefore the base *AF* equals the base *FB.* ([I.4](../BookI/PropI.4.md))
 
 Similarly we can prove that *CF* also equals *AF,* so that *FB* also equals *FC,* therefore the three straight lines *FA* and *FB* and *FC* equal one another.
 
-IV.Def.6
-Therefore the circle described with center *F* and radius one of the straight lines *FA, FB,* or *FC* also passes through the remaining points, and the circle is circumscribed about the triangle *ABC.*
+Therefore the circle described with center *F* and radius one of the straight lines *FA, FB,* or *FC* also passes through the remaining points, and the circle is circumscribed about the triangle *ABC.* (IV.Def.6)
 
 ![java applet or image](propIV5b.gif)
 
@@ -38,11 +33,9 @@ Then, similarly, we can prove that the point *F* is the center of the circle cir
 
 Next, let *DF* and *EF* meet outside the triangle *ABC* at *F,* as is the case in the third figure. Join *AF, BF,* and *CF.*
 
-[I.4](../BookI/PropI.4.md)
-Then again, since *AD* equals *DB,* and *DF* is common and at right angles, therefore the base *AF* equals the base *BF.*
+Then again, since *AD* equals *DB,* and *DF* is common and at right angles, therefore the base *AF* equals the base *BF.* ([I.4](../BookI/PropI.4.md))
 
-IV.Def.6
-Similarly we can prove that *CF* also equals *AF,* so that *BF* also equals *FC.* Therefore the circle described with center *F* and radius one of the straight lines *FA, FB,* or *FC* also passes through the remaining points, and is circumscribed about the triangle *ABC.*
+Similarly we can prove that *CF* also equals *AF,* so that *BF* also equals *FC.* Therefore the circle described with center *F* and radius one of the straight lines *FA, FB,* or *FC* also passes through the remaining points, and is circumscribed about the triangle *ABC.* (IV.Def.6)
 
 Therefore a circle has been circumscribed about the given triangle.
 

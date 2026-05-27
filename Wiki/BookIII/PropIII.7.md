@@ -14,18 +14,15 @@ I say that *FA* is greatest, *FD* is least, and of the rest *FB* is greater than
 
 Join *BE, CE,* and *GE.*
 
-[I.20](../BookI/PropI.20.md)
-Then, since in any triangle the sum of any two sides is greater than the remaining one, the sum of *EB* and *EF* is greater than *BF.*
+Then, since in any triangle the sum of any two sides is greater than the remaining one, the sum of *EB* and *EF* is greater than *BF.* ([I.20](../BookI/PropI.20.md))
 
 But *AE* equals *BE,* therefore *AF* is greater than *BF.*
 
-[I.24](../BookI/PropI.24.md)
-Again, since *BE* equals *CE,* and *FE* is common, the two sides *BE* and *EF* equal the two sides *CE* and *EF.* But the angle *BEF* is also greater than the angle CEF, therefore the base *BF* is greater than the base *CF.*
+Again, since *BE* equals *CE,* and *FE* is common, the two sides *BE* and *EF* equal the two sides *CE* and *EF.* But the angle *BEF* is also greater than the angle CEF, therefore the base *BF* is greater than the base *CF.* ([I.24](../BookI/PropI.24.md))
 
 For the same reason *CF* is also greater than *GF.*
 
-[I.20](../BookI/PropI.20.md)
-Again, since the sum of *GF* and *FE* is greater than *EG,* and *EG* equals *ED,* the sum of *GF* and *FE* is greater than *ED.*
+Again, since the sum of *GF* and *FE* is greater than *EG,* and *EG* equals *ED,* the sum of *GF* and *FE* is greater than *ED.* ([I.20](../BookI/PropI.20.md))
 
 Subtract *EF* from each. Therefore the remainder *GF* is greater than the remainder *FD.*
 
@@ -33,13 +30,11 @@ Therefore *FA* is greatest, *FD* is least, *FB* is greater than *FC,* and *FC* g
 
 I say also that from the point *F* only two equal straight lines fall on the circle *ABCD,* one on each side of the least *FD.*
 
-[I.23](../BookI/PropI.23.md)
-Construct the angle *FEH* equal to the angle *GEF* on the straight line *EF* and at the point *E* on it. Join *FH.*
+Construct the angle *FEH* equal to the angle *GEF* on the straight line *EF* and at the point *E* on it. Join *FH.* ([I.23](../BookI/PropI.23.md))
 
 ![java applet or image](propIII7b.gif)
 
-[I.4](../BookI/PropI.4.md)
-Then, since *GE* equals *EH,* and *EF* is common, the two sides *GE* and *EF* equal the two sides *HE* and *EF,* and the angle *GEF* equals the angle *HEF,* therefore the base *FG* equals the base *FH.*
+Then, since *GE* equals *EH,* and *EF* is common, the two sides *GE* and *EF* equal the two sides *HE* and *EF,* and the angle *GEF* equals the angle *HEF,* therefore the base *FG* equals the base *FH.* ([I.4](../BookI/PropI.4.md))
 
 I say again that another straight line equal to *FG* does not fall on the circle from the point *F.*
 

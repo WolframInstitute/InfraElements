@@ -12,17 +12,9 @@ I say that the extremes of them, *A* and *D,* are relatively prime.
 
 ![java applet or image](propVIII3.gif)
 
-[VII.33](../BookVII/PropVII.33.md)
+Take two numbers *E* and *F,* the least that are in the ratio of *A, B, C* and *D,* then three others *G, H* and *K* with the same property, and others, more by one continually, until the multitude taken becomes equal to the multitude of the numbers *A, B, C,* and *D.* Let them be *L, M, N,* and *O.* ([VII.33](../BookVII/PropVII.33.md), [VIII.2](PropVIII.2.md))
 
-[VIII.2](PropVIII.2.md)
-Take two numbers *E* and *F,* the least that are in the ratio of *A, B, C* and *D,* then three others *G, H* and *K* with the same property, and others, more by one continually, until the multitude taken becomes equal to the multitude of the numbers *A, B, C,* and *D.* Let them be *L, M, N,* and *O.*
-
-[VII.22](../BookVII/PropVII.22.md)
-
-[VIII.2,Cor](PropVIII.2.md)
-
-[VII.27](../BookVII/PropVII.27.md)
-Since *E* and *F* are the least of those which have the same ratio with them, therefore they are relatively prime. And, since the numbers *E* and *F* multiplied by themselves respectively make the numbers *G* and *K,* and multiplied by the numbers *G* and *K* respectively make the numbers *L* and *O,* therefore both *G* and *K* and *L* and *O* are relatively prime.
+Since *E* and *F* are the least of those which have the same ratio with them, therefore they are relatively prime. And, since the numbers *E* and *F* multiplied by themselves respectively make the numbers *G* and *K,* and multiplied by the numbers *G* and *K* respectively make the numbers *L* and *O,* therefore both *G* and *K* and *L* and *O* are relatively prime. ([VII.22](../BookVII/PropVII.22.md), [VIII.2,Cor](PropVIII.2.md), [VII.27](../BookVII/PropVII.27.md))
 
 And, since *A, B, C,* and *D* are the least of those which have the same ratio with them, while *L, M, N,* and *O* are the least that are in the same ratio with *A, B, C,* and *D,* and the multitude of the numbers *A, B, C,* and *D* equals the multitude of the numbers *L, M, N,* and *O,* therefore the numbers *A, B, C,* and *D* equal the numbers *L, M, N,* and *O* respectively. Therefore *A* equals *L,* and *D* equals *O.*
 

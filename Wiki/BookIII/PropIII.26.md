@@ -15,14 +15,11 @@ Join *BC* and *EF.*
 
 Now, since the circles *ABC* and *DEF* are equal, the radii are equal.
 
-[I.4](../BookI/PropI.4.md)
-Thus the two straight lines *BG* and *GC* equal the two straight lines *EH* and *HF,* and the angle at *G* equals the angle at *H,* therefore the base *BC* equals the base *EF.*
+Thus the two straight lines *BG* and *GC* equal the two straight lines *EH* and *HF,* and the angle at *G* equals the angle at *H,* therefore the base *BC* equals the base *EF.* ([I.4](../BookI/PropI.4.md))
 
-[III.Def.11](DefIII.11.md)
-And, since the angle at *A* equals the angle at *D,* the segment *BAC* is similar to the segment *EDF,* and they are upon equal straight lines.
+And, since the angle at *A* equals the angle at *D,* the segment *BAC* is similar to the segment *EDF,* and they are upon equal straight lines. ([III.Def.11](DefIII.11.md))
 
-[III.24](PropIII.24.md)
-But similar segments of circles on equal straight lines equal one another, therefore the segment *BAC* equals *EDF.* But the whole circle *ABC* also equals the whole circle *DEF,* therefore the remaining circumference *BKC* equals the circumference *ELF.*
+But similar segments of circles on equal straight lines equal one another, therefore the segment *BAC* equals *EDF.* But the whole circle *ABC* also equals the whole circle *DEF,* therefore the remaining circumference *BKC* equals the circumference *ELF.* ([III.24](PropIII.24.md))
 
 Therefore *in equal circles equal angles stand on equal circumferences whether they stand at the centers or at the circumferences.*
 

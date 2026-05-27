@@ -6,35 +6,23 @@ To construct a pyramid, to comprehend it in a given sphere; and to prove that th
 
 ## Proof
 
-[VI.9](../BookVI/PropVI.9.md)
+Set out the diameter *AB* of the given sphere, cut it at the point *C* so that *AC* is double *CB,* describe the semicircle *ADB* on *AB,* draw *CD* from the point *C* at right angles to *AB,* and join *DA.* ([VI.9](../BookVI/PropVI.9.md), [I.11](../BookI/PropI.11.md))
 
-[I.11](../BookI/PropI.11.md)
-Set out the diameter *AB* of the given sphere, cut it at the point *C* so that *AC* is double *CB,* describe the semicircle *ADB* on *AB,* draw *CD* from the point *C* at right angles to *AB,* and join *DA.*
+Set out the circle *EFG* with radius equal to *DC,* inscribe the equilateral triangle *EFG* in the circle *EFG,* take the center *H* of the circle, and join *EH, HF,* and *HG.* ([I.1](../BookI/PropI.1.md), [IV.2](../BookIV/PropIV.2.md))
 
-[I.1](../BookI/PropI.1.md)
-
-[IV.2](../BookIV/PropIV.2.md)
-Set out the circle *EFG* with radius equal to *DC,* inscribe the equilateral triangle *EFG* in the circle *EFG,* take the center *H* of the circle, and join *EH, HF,* and *HG.*
-
-[XI.12](../BookXI/PropXI.12.md)
-
-[I.3](../BookI/PropI.3.md)
-Set *HK* up from the point *H* at right angles to the plane of the circle *EFG,* cut off *HK* equal to the straight line *AC* from *HK,* and join *KE, KF,* and *KG.*
+Set *HK* up from the point *H* at right angles to the plane of the circle *EFG,* cut off *HK* equal to the straight line *AC* from *HK,* and join *KE, KF,* and *KG.* ([XI.12](../BookXI/PropXI.12.md), [I.3](../BookI/PropI.3.md))
 
 ![java applet or image](propXIII13.gif)
 
-[XI.Def.3](../BookXI/DefXI.3.md)
-Now, since *KH* is at right angles to the plane of the circle *EFG,* therefore it makes right angles with all the straight lines which meet it and are in the plane of the circle *EFG.* But each of the straight lines *HE, HF,* and *HG* meets it, therefore *HK* is at right angles to each of the straight lines *HE, HF,* and *HG.*
+Now, since *KH* is at right angles to the plane of the circle *EFG,* therefore it makes right angles with all the straight lines which meet it and are in the plane of the circle *EFG.* But each of the straight lines *HE, HF,* and *HG* meets it, therefore *HK* is at right angles to each of the straight lines *HE, HF,* and *HG.* ([XI.Def.3](../BookXI/DefXI.3.md))
 
-[I.4](../BookI/PropI.4.md)
-And, since *AC* equals *HK,* and *CD* equals *HE,* and they contain right angles, therefore the base *DA* equals the base *KE.* For the same reason each of the straight lines *KF* and *KG* also equals *DA.* Therefore the three straight lines *KE, KF,* and *KG* equal one another.
+And, since *AC* equals *HK,* and *CD* equals *HE,* and they contain right angles, therefore the base *DA* equals the base *KE.* For the same reason each of the straight lines *KF* and *KG* also equals *DA.* Therefore the three straight lines *KE, KF,* and *KG* equal one another. ([I.4](../BookI/PropI.4.md))
 
 And, since *AC* is double *CB,* therefore *AB* is triple *BC.*
 
 But that *AB* is to *BC* as the square on *AD* is to the square on *DC* will be proved afterwards.
 
-[XIII.12](PropXIII.12.md)
-Therefore the square on *AD* is triple the square on *DC.* But the square on *FE* is also triple the square on *EH,* and *DC* equals *EH,* therefore *DA* also equals *EF.*
+Therefore the square on *AD* is triple the square on *DC.* But the square on *FE* is also triple the square on *EH,* and *DC* equals *EH,* therefore *DA* also equals *EF.* ([XIII.12](PropXIII.12.md))
 
 But *DA* was proved equal to each of the straight lines *KE, KF,* and *KG,* therefore each of the straight lines *EF, FG,* and *GE* also equals each of the straight lines *KE, KF,* and *KG.* Therefore the four triangles *EFG, KEF, KFG,* and *KEG* are equilateral.
 
@@ -42,17 +30,11 @@ Therefore a pyramid has been constructed out of four equilateral triangles, the 
 
 It is next required to comprehend it in the given sphere and to prove that the square on the diameter of the sphere is one and a half times the square on the side of the pyramid.
 
-[I.3](../BookI/PropI.3.md)
-Produce the straight line *HL* in a straight line with *KH,* and make *HL* equal to *CB.*
+Produce the straight line *HL* in a straight line with *KH,* and make *HL* equal to *CB.* ([I.3](../BookI/PropI.3.md))
 
-[VI.8,Cor.](../BookVI/PropVI.8.md)
+Now, since *AC* is to *CD* as *CD* is to *CB,* while *AC* equals *KH, CD* equals *HE,* and *CB* equals *HL,* therefore *KH* is to *HE* as *EH* is to *HL.* Therefore the rectangle *KH* by *HL* equals the square on *EH.* ([VI.8,Cor.](../BookVI/PropVI.8.md), [VI.17](../BookVI/PropVI.17.md))
 
-[VI.17](../BookVI/PropVI.17.md)
-Now, since *AC* is to *CD* as *CD* is to *CB,* while *AC* equals *KH, CD* equals *HE,* and *CB* equals *HL,* therefore *KH* is to *HE* as *EH* is to *HL.* Therefore the rectangle *KH* by *HL* equals the square on *EH.*
-
-cf. [VI.8](../BookVI/PropVI.8.md),
-[III.31](../BookIII/PropIII.31.md)
-And each of the angles *KHE, EHL* is right, therefore the semicircle described on *KL* passes through *E* also.
+And each of the angles *KHE, EHL* is right, therefore the semicircle described on *KL* passes through *E* also. ([VI.8](../BookVI/PropVI.8.md), [III.31](../BookIII/PropIII.31.md))
 
 If then, *KL* remaining fixed, the semicircle is carried round and restored to the same position from which it began to be moved, then it also passes through the points *F* and *G,* since, if *FL* and *LG* are joined, then the angles at *F* and *G* similarly become right angles, and the pyramid is comprehended in the given sphere. For *KL,* the diameter of the sphere, equals the diameter *AB* of the given sphere, since *KH* was made equal to *AC,* and *HL* to *CB.*
 

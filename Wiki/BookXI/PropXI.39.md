@@ -14,14 +14,11 @@ I say that the prism *ABCDEF* equals the prism *GHKLMN.*
 
 Complete the solids *AO* and *GP.*
 
-[I.34](../BookI/PropI.34.md)
-Since the parallelogram *AF* is double the triangle *GHK,* and the parallelogram *HK* is also double the triangle *GHK,* therefore the parallelogram *AF* equals the parallelogram *HK.*
+Since the parallelogram *AF* is double the triangle *GHK,* and the parallelogram *HK* is also double the triangle *GHK,* therefore the parallelogram *AF* equals the parallelogram *HK.* ([I.34](../BookI/PropI.34.md))
 
-[XI.31](PropXI.31.md)
-But parallelepipedal solids on equal bases of the same height equal one another, therefore the solid *AO* equals the solid *GP.*
+But parallelepipedal solids on equal bases of the same height equal one another, therefore the solid *AO* equals the solid *GP.* ([XI.31](PropXI.31.md))
 
-[XI.28](PropXI.28.md)
-And the prism *ABCDEF* is half of the solid *AO,* and the prism *GHKLMN* is half of the solid *GP,* therefore the prism *ABCDEF* equals the prism *GMKLMN.*
+And the prism *ABCDEF* is half of the solid *AO,* and the prism *GHKLMN* is half of the solid *GP,* therefore the prism *ABCDEF* equals the prism *GMKLMN.* ([XI.28](PropXI.28.md))
 
 Therefore, *if there are two prisms of equal height, and one has a parallelogram as base and the other a triangle, and if the parallelogram is double the triangle, then the prisms are equal.*
 
