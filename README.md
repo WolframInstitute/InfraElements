@@ -3,7 +3,7 @@
 An implementation of [D. Joyce's edition of Euclid's *Elements*](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) on a graph substrate.
 
 - [Elements](Wiki/Elements.md)
-- [Dependency graph](Wiki/Resources/DependencyGraph.md)
+- [Dependency graph](Wiki/Resources/DependencyGraph.md) · [https://www.wolframcloud.com/obj/hajek_pavel/InfraElements/DependencyGraph.nb](https://www.wolframcloud.com/obj/hajek_pavel/InfraElements/DependencyGraph.nb)
 - [Cloud Notebooks](Wiki/Notebooks/Index.md)
 
 ## Dependencies

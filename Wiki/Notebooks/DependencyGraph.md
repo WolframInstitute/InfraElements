@@ -1,12 +1,8 @@
 # Dependency graph of Euclid's Elements
 
-## Overview
+[LLM Generated]
 
-Visualisation of the directed dependency graph extracted from D. Joyce's edition of Euclid's *Elements*. Each node is a Definition / Postulate / Common Notion / Proposition; each directed edge `X -> Y` means *X cites Y in its statement or proof* — i.e. Y is a prerequisite for X.
-
-The graph drives the topological order in which per-item notebooks under `Wiki/Notebooks/` are produced: a notebook is generated only after every item it depends on already has one.
-
-## Load the dependency data
+## Dependency data
 
 ```wolfram
 projectRoot = ParentDirectory @ NotebookDirectory[ ];
@@ -14,7 +10,7 @@ depGraph    = Get @ FileNameJoin[ { projectRoot, "Wiki", "Resources", "Dependenc
 { Length @ depGraph, Total[ Length @ # [ "Dependencies" ] & /@ Values @ depGraph ] }
 ```
 
-## Build the Wolfram Graph
+## Graph
 
 ```wolfram
 edges = Flatten @ KeyValueMap[ Function[ { id, info }, # -> id & /@ info[ "Dependencies" ] ], depGraph ];
@@ -31,7 +27,7 @@ g = Graph[ Keys @ depGraph, edges,
 ]
 ```
 
-## Layered topological sort
+## Topological layers
 
 ```wolfram
 topo = TopologicalSort @ g;
@@ -46,22 +42,22 @@ layers = ReverseSortBy[
 { Length @ topo, Length /@ Take[ layers, UpTo @ 5 ] }
 ```
 
-## Sources (Layer 0 — items with no dependencies)
+## Sources
 
 ```wolfram
 sources = Select[ Keys @ depGraph, depGraph[ # ][ "Dependencies" ] === { } & ];
 TableForm @ { Length @ sources, GroupBy[ sources, depGraph[ # ][ "Kind" ] & , Length ] }
 ```
 
-## Most-depended-on items (highest in-degree)
+## Most depended on
 
 ```wolfram
-inDeg = VertexInDegree[ g, # ] & /@ Keys @ depGraph;
-ranked = Reverse @ SortBy[ Transpose @ { Keys @ depGraph, inDeg }, Last ];
-TableForm[ Take[ ranked, 20 ], TableHeadings -> { None, { "Item", "In-degree" } } ]
+outDeg = VertexOutDegree[ g, # ] & /@ Keys @ depGraph;
+ranked = Reverse @ SortBy[ Transpose @ { Keys @ depGraph, outDeg }, Last ];
+TableForm[ Take[ ranked, 20 ], TableHeadings -> { None, { "Item", "Dependents" } } ]
 ```
 
-## Sub-DAG: dependency closure of `PropI.1`
+## Closure of Proposition I.1
 
 ```wolfram
 ancestors[ id_ ] := Module[ { stack, visited },
