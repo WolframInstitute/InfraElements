@@ -1,0 +1,58 @@
+# Proposition IV.7
+
+## Statement
+
+To circumscribe a square about a given circle.
+
+## Proof
+
+Let *ABCD* be the given circle.
+It is required to circumscribe a square about the circle *ABCD.*
+
+[III.1](../BookIII/PropIII.1.md),
+[I.11](../BookI/PropI.11.md)
+Draw two diameters *AC* and *BD* of the circle *ABCD* at right angles to one another.
+
+[III.16,Cor](../BookIII/PropIII.16.md)
+Draw *FG, GH, HK,* and *KF* through the points *A, B, C,* and *D* touching the circle *ABCD.*
+
+![java applet or image](propIV7.gif)
+
+[III.18](../BookIII/PropIII.18.md)
+Then, since *FG* touches the circle *ABCD,* and *EA* has been joined from the center *E* to the point of contact at *A,* therefore the angles at A are right. For the same reason the angles at the points *B, C,* and *D* are also right.
+
+[I.28](../BookI/PropI.28.md)
+Now, since the angle *AEB* is right, and the angle *EBG* is also right, therefore *GH* is parallel to *AC.*
+
+[I.30](../BookI/PropI.30.md)
+For the same reason *AC* is also parallel to *FK,* so that *GH* is also parallel to *FK.*
+
+Similarly we can prove that each of the straight lines *GF* and *HK* is parallel to *BED.*
+
+[I.34](../BookI/PropI.34.md)
+Therefore *GK, GC, AK, FB,* and *BK* are parallelograms, therefore *GF* equals *HK,* and *GH* equals *FK.*
+
+[I.34](../BookI/PropI.34.md)
+And, since *AC* equals *BD,* and *AC* also equals each of the straight lines *GH* and *FK,* and *BD* equals each of the straight lines *GF* and *HK,* therefore the quadrilateral *FGHK* is equilateral.
+
+I say next that it is also right-angled.
+
+[I.34](../BookI/PropI.34.md)
+For, since *GBEA* is a parallelogram, and the angle *AEB* is right, therefore the angle *AGB* is also right.
+
+Similarly we can prove that the angles at *H, K,* and *F* are also right. Therefore *FGHK* is right-angled.
+
+But it was also proved equilateral, therefore it is a square, and it has been circumscribed about the circle *ABCD.*
+
+Therefore a square has been circumscribed about the given circle.
+
+Q.E.F.
+
+## Guide
+
+This proposition is used in XII.10.
+
+## See also
+
+- [BookIV TOC](BookIV.md)
+- [Source HTML](http://aleph0.clarku.edu/~djoyce/java/elements/bookIV/propIV7.html)

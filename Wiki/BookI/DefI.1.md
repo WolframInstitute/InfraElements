@@ -1,0 +1,28 @@
+# Definition I.1
+
+## Statement
+
+A *point* is that which has no part.
+
+## Guide
+
+The Elements is the prime example of an axiomatic system from the ancient world. Its form has shaped centuries of mathematics. An axiomatic system should begin with a list of the terms that it will use. This definition says that one term that will be used is that of point. The next few definitions give some more terms that will be used. Although there is some description to go along with the terms, that description is actually never used in the exposition of the axiomatic system. It can, at most, be used to orient the reader.
+
+The description of a point, “that which has no part,” indicates that Euclid will be treating a point as having no width, length, or breadth, but as an indivisible location.
+
+Later definitions will define terms by means of terms defined before them, but the first few terms in the *Elements* are not defined by means of other terms; they’re *primitive* terms. Their meaning comes from properties about them that are assumed later in axioms. In the *Elements,* the axioms come in two kinds: postulates and common notions. The first postulate, [I.Post.1](PostI.1.md), for instance, gives some meaning to the term point. It states that a straight line may be drawn between any two points. Other postulates add more meaning to the term point.
+
+Actually, Euclid failed to notice that he made a number of conclusions without complete justification at a number of places in the *Elements.* This usually means that a postulate, that is, a explicit assumption, is missing.
+
+Authenticity
+
+This definition may or may not have been in Euclid’s original Elements. Many parts of the Elements have been added since the original version. Indeed, all of the formatter including the definitions, common notions, and postulates may have been added after Euclid.
+
+The versions that currently exist are relatively modern, and a comparative analysis of them is required to determine which parts of the *Elements* are not original. Some can be shown not to be. Theon of Alexandria (ca. 335–ca. 405) edited the *Elements* and some of the extant versions of the *Elements* are based on his version while some are not. If a piece of the *Elements*, such as this definition, is in both versions, then a reasonable conclusion is that it predates Theon. On the other hand, if a piece only occurs in Theon’s edition, then a reasonable conclusion is that it was added by Theon or someone later. Unfortunately, it’s hard to determine which parts of the *Elements* may have been added between *Euclid* and *Theon*.
+
+This version of the *Elements* is based on Heiberg’s Greek edition which is based on pre-Theonic editions, and is, therefore, relatively authentic. Even though parts of it may have been added in the first 650 years after Euclid, in these notes we’ll treat Heiberg’s edition as authentic.
+
+## See also
+
+- [BookI TOC](BookI.md)
+- [Source HTML](http://aleph0.clarku.edu/~djoyce/java/elements/bookI/defI1.html)

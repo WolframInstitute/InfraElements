@@ -1,0 +1,7 @@
+Tour/
+Resources/
+Notebooks/*.nb
+.DS_Store
+.venv/
+.claude/scheduled_tasks.lock
+__pycache__/

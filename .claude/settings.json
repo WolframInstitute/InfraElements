@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -v \":0$\")",
+      "Bash(sort -t: -k2 -rn)",
+      "Bash(python3 Scripts/generate_notebook_index.py)",
+      "Bash(cat .gitignore)",
+      "Bash(du -sh .)",
+      "Bash(gh auth *)",
+      "Bash(grep -E \"\\\\.venv/|\\\\.nb$|^Resources/|scheduled_tasks.lock\")"
+    ]
+  }
+}

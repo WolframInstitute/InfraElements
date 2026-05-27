@@ -1,0 +1,85 @@
+# Proposition IV.16
+
+## Statement
+
+To inscribe an equilateral and equiangular fifteen-angled figure in a given circle.
+
+## Proof
+
+Let *ABCD* be the given circle.
+
+![java applet or image](propIV16.gif)
+
+It is required to inscribe in the circle *ABCD* a fifteen-angled figure which shall be both equilateral and equiangular.
+
+[IV.2](PropIV.2.md)
+
+[IV.11](PropIV.11.md)
+Inscribe a side *AC* of an equilateral triangle and a side *AB* of an equilateral pentagon in in the circle *ABCD.* Therefore, of the equal segments of which there are fifteen in the circle *ABCD,* there will be five in the circumference *ABC* which is one-third of the circle, and there will be three in the circumference *AB* which is one-fifth of the circle. Therefore in the remainder *BC* there will be two of the equal segments.
+
+[IV.2](PropIV.2.md)
+
+[IV.11](PropIV.11.md)
+Inscribe a side *AC* of an equilateral triangle and a side *AB* of an equilateral pentagon in in the circle *ABCD.* Therefore, of the equal segments of which there are fifteen in the circle *ABCD,* there will be five in the circumference *ABC* which is one-third of the circle, and there will be three in the circumference *AB* which is one-fifth of the circle. Therefore in the remainder *BC* there will be two of the equal segments.
+
+[III.30](../BookIII/PropIII.30.md)
+Bisect *BC* at *E.* Therefore each of the circumferences *BE* and *EC* is a fifteenth of the circle *ABCD.*
+
+[IV.1](PropIV.1.md)
+If therefore we join *BE* and *EC* and continually fit into the circle *ABCD* straight lines equal to them, a fifteen-angled figure which is both equilateral and equiangular will be inscribed in it.
+
+Q.E.F.
+
+### Corollary
+
+And, in like manner as in the case of the pentagon, if through the points of division on the circle we draw tangents to the circle, there will be circumscribed about the circle a fifteen-angled figure which is equilateral and equiangular.
+
+And further, by proofs similar to those in the case of the pentagon, we can both inscribe a circle in the given fifteen-angled figure and circumscribe one about it.
+
+#### Guide
+
+The arc *AC* is 1/3 of the circle, since *A* and *B* are two of
+the three equally spaced vertices of a regular triangle. Likewise,
+the arc *AC* is 1/5 of the circle, since *A* and *C* are two adjacent points
+of a regular pentagon. Therefore, the difference of these two arcs,
+*AC* – *AB,* which is the arc *BC* is
+1/3 –1/5 of the circle, that is 2/15 of the circle. Since *E* bisects
+that arc *BC,* therefore *BE* and *EC* are each 1/15 of the circle. The rest of the
+regular 15-gon can then easily be constructed.
+
+###### Constructible regular polygons
+
+Now, by the end of Book IV, Euclid has described how to construct many regular polygons. The regular 3-gon, known as the equilateral triangle, was constructed in I.1, while the regular 4-gon, known as the square, was constructed in I.46. In book IV, regular 5-gons and regular 6-gons have been constructed. An application of III.30 (which was used in this proposition) can double the number of sides of a regular polygon, and therefore regular polygons with 8, 10, 12, 16, 20, 24, etc., sides can be constructed. This proposition shows how to use a regular m-gon and a regular n-gon to produce a regular mn-gon, provided that m and n are relatively prime numbers. That produced a 15-gon, and from that we can produce regular polygons with 30, 60, 120, etc., sides. Thus, a regular n-gon can be constructed if the only prime numbers that divide n are 2, 3, and 5, where 2 can be a repeated factor, but 3 and 5 are not repeated.
+
+But are there any others? What about regular polygons with 7, 9, 11, 13, 17, 18, 19, etc., sides? Euclid said nothing about them, but the ancient Greek mathematicians expected that they couldn’t be constructed with only the Euclidean tools of straightedge and compass. There were constructions involving conic sections (hyperbolas, parabolas, ellipses) to trisect an angle. With such a construction a 9-gon can be made. But methods involving conic sections go beyond Euclidean tools. With the help of non-algebraic curves, like Archimedes’ spiral, an angle can be divided into any number of equal parts, and with the aid of those curves any *n*-gon can be constructed. But, again, they go beyond Euclidean tools.
+
+The problem of constructing other regular polygons with Euclidean tools remained just that, a problem, for over 2000 years. Finally, Carl Friedrich Gauss (1777–1855) made progress. He described in his *Disquitiones Arithmeticae,* a major work on number theory, how to construct a regular 17-gon with Euclidean tools. Thus, 17 can be added to 3 and 5 as prime numbers that can divide *n,* but at most once. Furthermore, he showed that any prime number which is of the form
+22*k* + 1 can be included. Such prime numbers are called *Fermat primes.* The known Fermat primes are
+3 (which is 220 + 1),
+5 (which is 221 + 1),
+17 (which is 222 + 1),
+257 (which is 223 + 1), and
+65537 (which is 224 + 1). Thus, 257 and 65537 can be appended to the list 3, 5, 17.
+It is not known whether there are any more Fermat primes.
+
+Gauss was convinced that the *only* constructible *n*-gons were those where *n* was only divisible by 2 and the Fermat primes, where the Fermat primes were not repeated. He had no proof of that, but in 1837 Wantzel did.
+
+## Guide
+
+The arc AC is 1/3 of the circle, since A and B are two of
+the three equally spaced vertices of a regular triangle. Likewise,
+the arc AC is 1/5 of the circle, since A and C are two adjacent points
+of a regular pentagon. Therefore, the difference of these two arcs,
+AC – AB, which is the arc BC is
+1/3 –1/5 of the circle, that is 2/15 of the circle. Since E bisects
+that arc BC, therefore BE and EC are each 1/15 of the circle. The rest of the
+regular 15-gon can then easily be constructed.
+
+Constructible regular polygons
+
+Now, by the end of Book IV, Euclid has described how to construct many regular polygons. The regular 3-gon, known as the equilateral triangle, was constructed in
+
+## See also
+
+- [BookIV TOC](BookIV.md)
+- [Source HTML](http://aleph0.clarku.edu/~djoyce/java/elements/bookIV/propIV16.html)

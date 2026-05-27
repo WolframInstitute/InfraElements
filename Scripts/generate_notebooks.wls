@@ -1,0 +1,76 @@
+#!/usr/bin/env wolframscript
+
+(* generate_notebooks.wls — Build .nb files from Wiki/Notebooks/*.md sources.
+
+   Pipeline (matches Wiki/Concepts/NotebookConvention.md):
+     1. ImportString as {"Markdown","Notebook"}.
+     2. Program cells -> CodeText.
+     3. Heading shift: Title -> Section, Chapter -> Subsection
+        (so the notebook title is a Section and the ## headings are Subsections).
+     4. Mark *definition* cells as initialization cells: a cell is init iff it
+        contains ":=", or is a single-statement Set assignment. Cells that end
+        in a display/calling expression (e.g. InfraSceneViewer[...]) stay normal.
+     5. Code formatting is preserved (no ToBoxes reformatting) so hand-aligned
+        multi-line code stays as written.
+*)
+
+root = ParentDirectory[ExpandFileName[DirectoryName[$ScriptCommandLine[[1]]]]];
+wikiDir = FileNameJoin[{root, "Wiki", "Notebooks"}];
+outDir = FileNameJoin[{root, "Notebooks"}];
+
+mdFiles = FileNames["*.md", wikiDir];
+
+If[mdFiles === {},
+	Print["No .md sources found in ", wikiDir];
+	Exit[1]
+];
+
+If[!DirectoryQ[outDir], CreateDirectory[outDir]];
+
+initQ[code_String] :=
+	StringContainsQ[code, ":="] ||
+	(StringCount[code, ";"] <= 1 &&
+		StringMatchQ[code, RegularExpression["(?s)\\s*\\w+\\s*=[^=].*"]]);
+
+markDefnInitCells[cellList_List] := Replace[cellList, {
+	Cell[BoxData[code_String], "Input", opts___] /; initQ[code] :>
+		Cell[BoxData[code], "Input", opts, InitializationCell -> True],
+	Cell[code_String, "Input", opts___] /; initQ[code] :>
+		Cell[BoxData[code], "Input", opts, InitializationCell -> True]
+}, {1}];
+
+Print["Notebook Generator"];
+Print["==================="];
+Print["Source:  ", wikiDir];
+Print["Output:  ", outDir];
+Print[""];
+
+results = {};
+
+Do[
+	baseName = FileBaseName[mdFile];
+	outFile = FileNameJoin[{outDir, baseName <> ".nb"}];
+	Print["[", baseName, "] Converting..."];
+
+	md = Import[mdFile, "Text"];
+	nb = ImportString[md, {"Markdown", "Notebook"}];
+	cells = First[nb];
+	cells = cells /. Cell[content_, "Program", opts___] :> Cell[content, "CodeText", opts];
+	cells = cells /. {
+		Cell[c_, "Title", o___]   :> Cell[c, "Section", o],
+		Cell[c_, "Chapter", o___] :> Cell[c, "Subsection", o]
+	};
+	cells = markDefnInitCells[cells];
+
+	nbString = ExportString[Notebook[cells], "NB"];
+	Export[outFile, nbString, "Text"];
+
+	Print["[", baseName, "] Written: ", outFile];
+	Print[""];
+	AppendTo[results, baseName -> outFile],
+	{mdFile, mdFiles}
+];
+
+Print["==================="];
+Print["Generated ", Length[results], " notebook(s):"];
+Do[Print["  ", r[[1]], " -> ", r[[2]]], {r, results}];
