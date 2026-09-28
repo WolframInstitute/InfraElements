@@ -8,8 +8,8 @@ An implementation of [D. Joyce's edition of Euclid's *Elements*](http://aleph0.c
 
 ## Dependencies
 
-- [SyntheticInfrageometry](https://github.com/WolframInstitute/SyntheticInfrageometry)
-- [Infrageometry](https://github.com/WolframInstitute/Infrageometry)
+- [InfraGeometry](https://github.com/WolframInstitute/InfraGeometry)
+- [Infrageometry](https://github.com/WolframInstitute/DiscreteGeometry)
 
 ## Rebuild
 

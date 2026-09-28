@@ -15,7 +15,7 @@
        rasterized image of the viewer frozen at its final step in Diffuse mode (the
        "diffuse picture").  A flat raster renders for everyone with no paclet installed
        — the live viewer would show raw unevaluated symbols in a cloud kernel that
-       lacks WolframInstitute`SyntheticInfrageometry`.
+       lacks WolframInstitute`InfraGeometry`.
      - Every other result is embedded as its FrontEnd-typeset boxes via
        UsingFrontEnd[ToBoxes[...]].  (Plain NotebookEvaluate[...,InsertResults->True]
        only yields OutputForm text in a headless kernel.)
@@ -26,9 +26,9 @@
    order and embeds outputs.
 
    The paclet is loaded first so the infra function-definition cell's symbols resolve
-   to WolframInstitute`SyntheticInfrageometry` instead of interning into Global`. *)
+   to WolframInstitute`InfraGeometry` instead of interning into Global`. *)
 
-Needs["WolframInstitute`SyntheticInfrageometry`"];
+Needs["WolframInstitute`InfraGeometry`"];
 
 args = Rest[$ScriptCommandLine];
 target  = If[Length[args] >= 1 && args[[1]] =!= "All", args[[1]], All];

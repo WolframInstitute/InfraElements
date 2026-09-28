@@ -46,7 +46,7 @@ infraSceneBookIDef15[ graph_Graph ] := Module[
 ```
 
 ```wolfram
-Needs[ "WolframInstitute`SyntheticInfrageometry`" ];
+Needs[ "WolframInstitute`InfraGeometry`" ];
 SeedRandom[ 0 ];
 InfraSceneViewer[ infraSceneBookIDef15[ # ], # ] & @
   MeshConnectivityGraph @ DiscretizeRegion[ Rectangle[ ], MaxCellMeasure -> 0.005 ]
