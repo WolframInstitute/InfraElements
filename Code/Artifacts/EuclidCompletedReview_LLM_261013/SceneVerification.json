@@ -1,0 +1,280 @@
+{
+	"Date":"2026-10-13",
+	"WolframVersion":"15.0.1 for Mac OS X ARM (64-bit) (July 2, 2026)",
+	"PacletVersion":"2.7.1",
+	"TestsSucceeded":57,
+	"TestsFailed":0,
+	"Checks":{
+		"SquareMeshGraph: PostI.1 shortest segment":true,
+		"SquareMeshGraph: PostI.3 band cycle":true,
+		"SquareMeshGraph: PostI.3 separates center":true,
+		"SquareMeshGraph: DefI.15 Cycle radii":true,
+		"SquareMeshGraph: DefI.15 Shell radii":true,
+		"SquareMeshGraph: exact shell parity":true,
+		"SquareMeshGraph: DefI.20 Equilateral side lengths":true,
+		"SquareMeshGraph: DefI.20 Equilateral shortest legs":true,
+		"SquareMeshGraph: DefI.20 Isosceles side lengths":true,
+		"SquareMeshGraph: DefI.20 Isosceles shortest legs":true,
+		"SquareMeshGraph: DefI.20 Scalene side lengths":true,
+		"SquareMeshGraph: DefI.20 Scalene shortest legs":true,
+		"SquareMeshGraph: PropI.1 Exact decided":true,
+		"SquareMeshGraph: PropI.1 Exact equality":true,
+		"SquareMeshGraph: PropI.1 even example exists":true,
+		"SquareMeshGraph: PropI.1 Cycle decided":true,
+		"SquareMeshGraph: PropI.1 Cycle equality":true,
+		"SquareMeshGraph: PropI.1 Odd decided":true,
+		"SquareMeshGraph: PropI.1 Odd equality":true,
+		"SquareGridGraph: PostI.1 shortest segment":true,
+		"SquareGridGraph: PostI.3 band cycle":true,
+		"SquareGridGraph: PostI.3 separates center":true,
+		"SquareGridGraph: DefI.15 Cycle radii":true,
+		"SquareGridGraph: DefI.15 Shell radii":true,
+		"SquareGridGraph: exact shell parity":true,
+		"SquareGridGraph: DefI.20 Equilateral side lengths":true,
+		"SquareGridGraph: DefI.20 Equilateral shortest legs":true,
+		"SquareGridGraph: DefI.20 Isosceles side lengths":true,
+		"SquareGridGraph: DefI.20 Isosceles shortest legs":true,
+		"SquareGridGraph: DefI.20 Scalene side lengths":true,
+		"SquareGridGraph: DefI.20 Scalene shortest legs":true,
+		"SquareGridGraph: PropI.1 Exact decided":true,
+		"SquareGridGraph: PropI.1 Exact equality":true,
+		"SquareGridGraph: PropI.1 even example exists":true,
+		"SquareGridGraph: PropI.1 Cycle decided":true,
+		"SquareGridGraph: PropI.1 Cycle equality":true,
+		"SquareGridGraph: PropI.1 Odd decided":true,
+		"SquareGridGraph: PropI.1 odd parity obstruction":true,
+		"HexagonalTilingGraph: PostI.1 shortest segment":true,
+		"HexagonalTilingGraph: PostI.3 band cycle":true,
+		"HexagonalTilingGraph: PostI.3 separates center":true,
+		"HexagonalTilingGraph: DefI.15 Cycle radii":true,
+		"HexagonalTilingGraph: DefI.15 Shell radii":true,
+		"HexagonalTilingGraph: exact shell parity":true,
+		"HexagonalTilingGraph: DefI.20 Equilateral side lengths":true,
+		"HexagonalTilingGraph: DefI.20 Equilateral shortest legs":true,
+		"HexagonalTilingGraph: DefI.20 Isosceles side lengths":true,
+		"HexagonalTilingGraph: DefI.20 Isosceles shortest legs":true,
+		"HexagonalTilingGraph: DefI.20 Scalene side lengths":true,
+		"HexagonalTilingGraph: DefI.20 Scalene shortest legs":true,
+		"HexagonalTilingGraph: PropI.1 Exact decided":true,
+		"HexagonalTilingGraph: PropI.1 Exact equality":true,
+		"HexagonalTilingGraph: PropI.1 even example exists":true,
+		"HexagonalTilingGraph: PropI.1 Cycle decided":true,
+		"HexagonalTilingGraph: PropI.1 Cycle equality":true,
+		"HexagonalTilingGraph: PropI.1 Odd decided":true,
+		"HexagonalTilingGraph: PropI.1 odd parity obstruction":true
+	},
+	"Substrates":{
+		"SquareMeshGraph":{
+			"Vertices":989,
+			"Edges":2792,
+			"Center":5,
+			"Bipartite":false,
+			"CycleBand":[
+				2,
+				3
+			],
+			"CycleRadiusRange":[
+				2,
+				3
+			],
+			"Definition15CycleRadii":[
+				2,
+				3
+			],
+			"Definition15ShellRadii":[
+				2,
+				2
+			],
+			"Definition20":{
+				"Equilateral":{
+					"SideLengths":[
+						2,
+						2,
+						2
+					],
+					"SimpleSelectedBoundary":false
+				},
+				"Isosceles":{
+					"SideLengths":[
+						2,
+						3,
+						3
+					],
+					"SimpleSelectedBoundary":false
+				},
+				"Scalene":{
+					"SideLengths":[
+						4,
+						3,
+						5
+					],
+					"SimpleSelectedBoundary":false
+				}
+			},
+			"Proposition1":{
+				"Exact":{
+					"Result":"Solved",
+					"SideLengths":[
+						2,
+						2,
+						2
+					]
+				},
+				"Cycle":{
+					"Result":"Solved",
+					"SideLengths":[
+						2,
+						2,
+						2
+					]
+				},
+				"Odd":{
+					"Result":"Solved",
+					"SideLengths":[
+						1,
+						1,
+						1
+					]
+				}
+			}
+		},
+		"SquareGridGraph":{
+			"Vertices":1020,
+			"Edges":1860,
+			"Center":496,
+			"Bipartite":true,
+			"CycleBand":[
+				2,
+				3
+			],
+			"CycleRadiusRange":[
+				2,
+				3
+			],
+			"Definition15CycleRadii":[
+				2,
+				3
+			],
+			"Definition15ShellRadii":[
+				2,
+				2
+			],
+			"Definition20":{
+				"Equilateral":{
+					"SideLengths":[
+						2,
+						2,
+						2
+					],
+					"SimpleSelectedBoundary":false
+				},
+				"Isosceles":{
+					"SideLengths":[
+						2,
+						3,
+						3
+					],
+					"SimpleSelectedBoundary":false
+				},
+				"Scalene":{
+					"SideLengths":[
+						4,
+						3,
+						5
+					],
+					"SimpleSelectedBoundary":false
+				}
+			},
+			"Proposition1":{
+				"Exact":{
+					"Result":"Solved",
+					"SideLengths":[
+						2,
+						2,
+						2
+					]
+				},
+				"Cycle":{
+					"Result":"Solved",
+					"SideLengths":[
+						2,
+						2,
+						2
+					]
+				},
+				"Odd":{
+					"Result":"Empty"
+				}
+			}
+		},
+		"HexagonalTilingGraph":{
+			"Vertices":976,
+			"Edges":1407,
+			"Center":1,
+			"Bipartite":true,
+			"CycleBand":[
+				2,
+				4
+			],
+			"CycleRadiusRange":[
+				2,
+				4
+			],
+			"Definition15CycleRadii":[
+				2,
+				3
+			],
+			"Definition15ShellRadii":[
+				2,
+				2
+			],
+			"Definition20":{
+				"Equilateral":{
+					"SideLengths":[
+						2,
+						2,
+						2
+					],
+					"SimpleSelectedBoundary":true
+				},
+				"Isosceles":{
+					"SideLengths":[
+						2,
+						3,
+						3
+					],
+					"SimpleSelectedBoundary":false
+				},
+				"Scalene":{
+					"SideLengths":[
+						4,
+						3,
+						5
+					],
+					"SimpleSelectedBoundary":false
+				}
+			},
+			"Proposition1":{
+				"Exact":{
+					"Result":"Solved",
+					"SideLengths":[
+						2,
+						2,
+						2
+					]
+				},
+				"Cycle":{
+					"Result":"Solved",
+					"SideLengths":[
+						2,
+						2,
+						2
+					]
+				},
+				"Odd":{
+					"Result":"Empty"
+				}
+			}
+		}
+	}
+}

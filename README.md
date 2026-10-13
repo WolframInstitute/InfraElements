@@ -9,9 +9,11 @@ An implementation of [D. Joyce's edition of Euclid's *Elements*](http://aleph0.c
 ## Dependencies
 
 - [InfraGeometry](https://github.com/WolframInstitute/InfraGeometry)
-- [Infrageometry](https://github.com/WolframInstitute/DiscreteGeometry)
+- [DiscreteGeometry](https://github.com/WolframInstitute/DiscreteGeometry)
 
 ## Rebuild
+
+To refresh only the five completed per-item notebooks with paired scenes on three Large substrates, use `Scripts/refresh_completed_notebooks.wls`. It evaluates the figures and runs `Scripts/check_completed_scenes.wls`; no cloud publication is performed. See the [completed review](Code/Artifacts/EuclidCompletedReview_LLM_261013/README.md) and the [API requirements learned from it](Wiki/Plans/EuclidAPIRequirements_LLM.md).
 
 - Scrape and analyze D. Joyce's project:
   ```bash

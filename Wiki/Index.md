@@ -12,22 +12,23 @@ All articles are **draft** until reviewed.
 
 ## Code
 
-- Infrageometric primitives come from the `SyntheticInfrageometry` paclet (`InfraPoint`, `InfraLine`, `InfraCircle`, `InfraAngle`) — see [`SyntheticInfrageometry.md`](Resources/SyntheticInfrageometry.md).
+- Infrageometric primitives come from `InfraGeometry` — see the [current Elements subset](Resources/InfraGeometry_LLM.md).
 - [`Code/Tools.wl`](../Code/Tools.wl) — shared utilities
 - [`Scripts/scrape_djoyce.py`](../Scripts/scrape_djoyce.py) — re-runnable scraper that builds Wiki/BookI/ … Wiki/BookXIII/ from D. Joyce's HTML edition
 
 ## Plans
 
-(none yet)
+- [Euclid API requirements](Plans/EuclidAPIRequirements_LLM.md) — naming, circles, simple triangle boundaries, and scene sampling, learned from the five completed notebooks.
 
 ## Concepts
 
-- [Notebook convention](Concepts/NotebookConvention.md) — the locked template every per-item notebook follows (structure, naming, primitives, generation pipeline)
+- [Notebook convention](Concepts/NotebookConvention.md) — paired scenes on three Large substrates, explicit failures, and the verified selected-subset build
 
 ## Resources
 
 - [SyntheticGeometry](Resources/SyntheticGeometry.md) — Wolfram Language `GeometricScene` framework (classical side)
-- [SyntheticInfrageometry](Resources/SyntheticInfrageometry.md) — `SyntheticInfrageometry` paclet API v0.12.9 (discrete side)
+- [InfraGeometry](Resources/InfraGeometry_LLM.md) — current 2.7.1 API used by the completed pilot
+- [SyntheticInfrageometry](Resources/SyntheticInfrageometry.md) — historical v0.12.9 reference
 - [DependencyGraph](Resources/DependencyGraph.md) — auto-extracted DAG of 606 items / 2193 edges, 33 layers; drives topological order of per-item notebook generation
 
 ## Euclid's Elements
@@ -36,6 +37,7 @@ All articles are **draft** until reviewed.
 - [Notebooks](Notebooks/Index.md) — every item as a Wolfram notebook, by book, with cloud links
 - [BookIProp1](Notebooks/BookIProp1.md) — reference notebook source (equilateral triangle)
 - [DependencyGraph](Notebooks/DependencyGraph.md) — visualise + topologically sort the dependency DAG
+- [Completed notebook review](../Code/Artifacts/EuclidCompletedReview_LLM_261013/README.md) — five refreshed local notebooks, figures, and verification
 
 ## Tour
 

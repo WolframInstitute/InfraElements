@@ -1,6 +1,7 @@
 Tour/
-Resources/
+/Resources/
 Notebooks/*.nb
+Notebooks/Archive/
 .DS_Store
 .venv/
 .claude/scheduled_tasks.lock

@@ -2,6 +2,8 @@
 
 Every Definition / Postulate / Common Notion / Proposition of Euclid's *Elements*, rendered as a Wolfram notebook (classical `GeometricScene` + infrageometric `InfraSceneViewer`). Each row links to the item's [construction page](../Elements.md) and, once published, its cloud notebook.
 
+The five existing per-item notebooks were [refreshed locally on 2026-10-13](../../Code/Artifacts/EuclidCompletedReview_LLM_261013/README.md) with current scenes and three Large substrate comparisons. The cloud links below still point to the older published batch.
+
 ## Book I — plane geometry, congruence, parallels, Pythagorean theorem
 
 - **DefI.1** — [construction](../BookI/DefI.1.md) · notebook pending

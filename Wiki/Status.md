@@ -27,15 +27,21 @@ Wiki initialized. D. Joyce's edition of Euclid's *Elements* fully scraped into p
 ### Wolfram code
 
 - An early `Code/DiscreteEuclid*.wl` sketch (graph points/lines/distance/circles, equilateral-triangle construction, Voronoi) was **removed** during the rename to InfraElements — it duplicated the `SyntheticInfrageometry` paclet primitives the notebooks actually use.
-- Infrageometric primitives now come from the `SyntheticInfrageometry` paclet (`InfraPoint`, `InfraLine`, `InfraCircle`, `InfraAngle`).
+- The five completed notebooks now use the sibling `InfraGeometry` 2.7.1 checkout and its amended scene API.
 - `Code/Tools.wl` — shared utilities.
 
 ## In progress
 
-- **Per-item notebooks (SyntheticGeometry + SyntheticInfrageometry).** First batch generated, smoke-tested, and **deployed to Wolfram Cloud** (public): `BookIPost1`, `BookIPost3`, `BookIDef15`, `BookIDef20` (the four geometric foundations of I.1), alongside the reference `BookIProp1` and the meta `DependencyGraph`. Cloud URLs at `https://www.wolframcloud.com/obj/hajek_pavel/InfraElements/<name>.nb`; manifest in [`Wiki/Notebooks/published.json`](Notebooks/published.json); index regenerated ([`Wiki/Notebooks/Index.md`](Notebooks/Index.md), 5/614 per-item notebooks published).
-- Both the classical `GeometricScene`/`RandomInstance` and the infrageometric `InfraScene`/`FindInfraScene` sides of all four were verified to resolve on a Euclidean mesh before deploy (no workarounds).
-- **Next:** `CNI.1` (deferred — a pure equality axiom with no construction; decide statement-only vs. an infra equal-magnitude illustration), then `PostI.2` and the proposition chain `PropI.2`, `PropI.3`, … in DAG topological order.
+- **2026-10-13 local refresh:** only the five existing per-item notebooks, `BookIPost1`, `BookIPost3`, `BookIDef15`, `BookIDef20`, and `BookIProp1`, were updated. Each has its classical construction and evaluated graph comparisons on the Large mesh, square grid, and hexagonal tiling. Joyce's text and dependencies are preserved; the dependency notebook is untouched.
+- Ten static/classical outputs render without messages, timeouts, or unresolved calls. All 57 mathematical checks pass. Viewer inputs remain runnable, with live interaction left for front-end review. [Verification and notebooks](../Code/Artifacts/EuclidCompletedReview_LLM_261013/README.md).
+- The older first batch remains published in Wolfram Cloud; this local refresh has **not** been republished. The existing [manifest](Notebooks/published.json) and cloud links still describe that earlier version.
+- **Learned requirements:** exact radius loci differ from separating band cycles; shortest triangle legs often overlap; odd equilateral side lengths are impossible on bipartite substrates; eager scene enumeration limits scale. [Proposed work and naming assessment](Plans/EuclidAPIRequirements_LLM.md).
+- **Next:** review the circle and triangle contracts from this pilot, then resume `CNI.1`, `PostI.2`, and the proposition chain in dependency order. No new per-item notebook has been started.
 
 ## Blockers
+
+- No execution blocker remains for the refreshed pilot. The mathematical limits above are explicit and are not patched into false Euclidean claims.
+
+## Historical resolved blockers
 
 - *(cleared)* The prior "Wolfram MCP kernel unresponsive" blocker no longer applies: the kernel is healthy, and notebook **generation** (Markdown→`.nb`) and **publishing** (`CopyFile` to `CloudObject`) need neither the paclet nor heavy evaluation. Three issues found and fixed en route: (1) the installed `SyntheticInfrageometry` paclet was a stale 0.12.10 lacking `InfraTriangle` — rebuilt from the dev checkout and reinstalled (`CreatePacletArchive` + `PacletInstall[…, ForceVersionInstall -> True]`); (2) `Scripts/generate_notebooks.wls` was converting the human-facing `Index.md` TOC into a notebook — now excluded; (3) `Scripts/publish_notebooks.wls` computed the repo root as `Scripts/` — fixed to `ParentDirectory[ExpandFileName[DirectoryName[…]]]`.

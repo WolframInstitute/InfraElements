@@ -43,11 +43,13 @@ Statements / proofs / guides come from this source. The scraper [`Scripts/scrape
 ## Reference resources (read these before writing notebooks)
 
 - [`Wiki/Resources/SyntheticGeometry.md`](Wiki/Resources/SyntheticGeometry.md) — the built-in Wolfram `GeometricScene` framework (classical-side API). Every per-item notebook uses `GeometricScene` + `GeometricStep` for the classical illustration.
-- [`Wiki/Resources/InfraGeometry.md`](Wiki/Resources/InfraGeometry.md) — the `InfraGeometry` paclet API (discrete-side, v0.12.9). Notebooks use `InfraScene` + the interactive `InfraSceneViewer[scene, graph]` as the primary visualisation, with a secondary static `InfraSceneHighlight` cell.
+- [`Wiki/Resources/InfraGeometry_LLM.md`](Wiki/Resources/InfraGeometry_LLM.md) — the current `InfraGeometry` 2.7.1 subset. The five completed notebooks use `InfraScene` + `InfraStep`, evaluated static `InfraSubstrateHighlight` comparisons, and executable `InfraSceneViewer` inputs.
 - [`Wiki/Resources/DependencyGraph.md`](Wiki/Resources/DependencyGraph.md) — the auto-extracted dependency DAG over Definitions / Postulates / Common Notions / Propositions. Drives the topological order of notebook generation.
-- [`Wiki/Concepts/NotebookConvention.md`](Wiki/Concepts/NotebookConvention.md) — **the locked template every per-item notebook follows.** Read this before creating any notebook. Covers file/symbol naming, the markdown section structure, the allowed infrageometric primitives (`InfraPoint`, `InfraCircle`, `InfraLine`, `InfraAngle` only), the Euclidean-mesh graph, and the generation pipeline. The reference implementation is [`Wiki/Notebooks/BookIProp1.md`](Wiki/Notebooks/BookIProp1.md).
+- [`Wiki/Concepts/NotebookConvention.md`](Wiki/Concepts/NotebookConvention.md) — the current paired-scene template. Read it before editing a notebook. It covers the three Large substrate columns, exact shell/cycle distinctions, failed constructions, and the selected-subset build. The reference is [`Wiki/Notebooks/BookIProp1.md`](Wiki/Notebooks/BookIProp1.md).
 
 Generate notebooks with `wolframscript -file Scripts/generate_notebooks.wls` (the pipeline — heading shift, definition-based initialization cells, preserved code formatting — is baked into that script).
+
+For the five completed paired-scene notebooks, use `Scripts/refresh_completed_notebooks.wls` instead: it preserves fenced code, evaluates the comparisons, and runs the scene checks without publishing.
 
 ## Project goals
 
@@ -58,7 +60,7 @@ Generate notebooks with `wolframscript -file Scripts/generate_notebooks.wls` (th
 ## Code structure
 
 - `Code/Tools.wl` — shared general utilities
-- Infrageometric primitives come from the `InfraGeometry` paclet (`InfraPoint`, `InfraLine`, `InfraCircle`, `InfraAngle`); notebooks load the paclet rather than a local core file.
+- Infrageometric primitives come from `InfraGeometry`; the completed pilot uses `InfraPoint`, `InfraSegment`, `InfraCircle`, `InfraShell`, and `InfraIntersection`. Notebooks load the sibling 2.7.1 checkout rather than duplicating its code.
 
 Additional topic scopes follow the same pattern:
 - `Code/<Topic>.wl` — core functions
