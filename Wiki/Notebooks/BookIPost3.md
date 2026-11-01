@@ -10,7 +10,7 @@ To describe a circle with any center and radius.
 
 ```wolfram
 PacletDirectoryLoad @ FileNameJoin[ {
-  NotebookDirectory[ ], "..", "..", "..", "SubProjectsMain",
+  NotebookDirectory[ ], "..", "..", "..",
   "InfraGeometry", "InfraGeometry", "InfraGeometry" } ];
 Needs[ "WolframInstitute`InfraGeometry`" ];
 ```

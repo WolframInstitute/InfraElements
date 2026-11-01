@@ -31,6 +31,6 @@ The build record gives its exact source directory.
 ## See also
 
 - [Notebook convention](../Concepts/NotebookConvention.md)
-- [Current comparison](../../../../SubProjectsMain/InfraGeometry/ResearchNotebooks/SyntheticGeometryComparison_LLM.md)
+- [Current comparison](../../../../InfraGeometry/ResearchNotebooks/SyntheticGeometryComparison_LLM.md)
 - [Verified completed subset](../../Code/Artifacts/EuclidCompletedReview_LLM_261013/README.md)
 - [Requirements learned from Euclid](../Plans/EuclidAPIRequirements_LLM.md)

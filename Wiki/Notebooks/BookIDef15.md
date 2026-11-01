@@ -10,7 +10,7 @@ A *circle* is a plane figure contained by one line such that all the straight li
 
 ```wolfram
 PacletDirectoryLoad @ FileNameJoin[ {
-  NotebookDirectory[ ], "..", "..", "..", "SubProjectsMain",
+  NotebookDirectory[ ], "..", "..", "..",
   "InfraGeometry", "InfraGeometry", "InfraGeometry" } ];
 Needs[ "WolframInstitute`InfraGeometry`" ];
 ```

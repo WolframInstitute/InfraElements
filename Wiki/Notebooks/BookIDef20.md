@@ -10,7 +10,7 @@ Of trilateral figures, an *equilateral triangle* is that which has its three sid
 
 ```wolfram
 PacletDirectoryLoad @ FileNameJoin[ {
-  NotebookDirectory[ ], "..", "..", "..", "SubProjectsMain",
+  NotebookDirectory[ ], "..", "..", "..",
   "InfraGeometry", "InfraGeometry", "InfraGeometry" } ];
 Needs[ "WolframInstitute`InfraGeometry`" ];
 ```

@@ -10,7 +10,7 @@ To draw a straight line from any point to any point.
 
 ```wolfram
 PacletDirectoryLoad @ FileNameJoin[ {
-  NotebookDirectory[ ], "..", "..", "..", "SubProjectsMain",
+  NotebookDirectory[ ], "..", "..", "..",
   "InfraGeometry", "InfraGeometry", "InfraGeometry" } ];
 Needs[ "WolframInstitute`InfraGeometry`" ];
 ```

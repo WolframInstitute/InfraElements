@@ -20,7 +20,7 @@ Therefore the triangle *ABC* is equilateral, and it has been constructed on the 
 
 ```wolfram
 PacletDirectoryLoad @ FileNameJoin[ {
-  NotebookDirectory[ ], "..", "..", "..", "SubProjectsMain",
+  NotebookDirectory[ ], "..", "..", "..",
   "InfraGeometry", "InfraGeometry", "InfraGeometry" } ];
 Needs[ "WolframInstitute`InfraGeometry`" ];
 ```
