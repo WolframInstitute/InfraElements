@@ -9,11 +9,11 @@ paths below.
 
 | Paclet | Repo, relative to this one | Paclet dir inside it |
 |---|---|---|
-| DiscreteGeometry | `../../SubProjectsMain/DiscreteGeometry/` | `DiscreteGeometry/DiscreteGeometry/` |
-| InfraGeometry | `../../SubProjectsMain/InfraGeometry/` | `InfraGeometry/InfraGeometry/` |
-| InfraAnalysis | `../../SubProjectsOther/InfraAnalysis/` | `InfraAnalysis/InfraAnalysis/` |
-| InfraCausality | `../../SubProjectsOther/InfraCausality/` | `InfraCausality/InfraCausality/` |
-| InfraGaugeTheory | `../../SubProjectsOther/InfraGaugeTheory/` | `InfraGaugeTheory/` |
+| DiscreteGeometry | `../DiscreteGeometry/` | `DiscreteGeometry/DiscreteGeometry/` |
+| InfraGeometry | `../../InfraGeometry/` | `InfraGeometry/InfraGeometry/` |
+| InfraAnalysis | `../InfraAnalysis/` | `InfraAnalysis/InfraAnalysis/` |
+| InfraCausality | `../InfraCausality/` | `InfraCausality/InfraCausality/` |
+| InfraGaugeTheory | `../InfraGaugeTheory/` | `InfraGaugeTheory/` |
 | InfraUniverseRegistry | `../InfraUniverseRegistry/` | — *scripts only, no paclet* |
 
 To use another paclet, prefer the **installed** copy — all of them are in
@@ -27,7 +27,7 @@ Reach for a dev checkout only when you need changes that are not published yet, 
 point at the sibling path rather than copying it here:
 
 ```wolfram
-PacletDirectoryLoad @ FileNameJoin[ { $repoRoot, "..", "..", "SubProjectsMain", "DiscreteGeometry", "DiscreteGeometry" } ]
+PacletDirectoryLoad @ FileNameJoin[ { $repoRoot, "..", "DiscreteGeometry", "DiscreteGeometry" } ]
 ```
 
 An infrageometric version of Euclid's *Elements*.
