@@ -1,5 +1,5 @@
 root = ParentDirectory @ DirectoryName @ ExpandFileName[ $InputFileName ];
-PacletDirectoryLoad[ FileNameJoin[ { root, "..", "..", "SubProjectsMain", "InfraGeometry", "InfraGeometry", "InfraGeometry" } ] ];
+PacletDirectoryLoad[ FileNameJoin[ { root, "..", "..", "InfraGeometry", "InfraGeometry", "InfraGeometry" } ] ];
 Needs[ "WolframInstitute`InfraGeometry`" ];
 
 items = { "BookIPost1", "BookIPost3", "BookIDef15", "BookIDef20", "BookIProp1" };

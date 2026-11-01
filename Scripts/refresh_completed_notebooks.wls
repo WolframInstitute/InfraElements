@@ -1,5 +1,5 @@
 root = ParentDirectory @ DirectoryName @ ExpandFileName[ $InputFileName ];
-pacletRoot = FileNameJoin[ { root, "..", "..", "SubProjectsMain", "InfraGeometry", "InfraGeometry", "InfraGeometry" } ];
+pacletRoot = FileNameJoin[ { root, "..", "..", "InfraGeometry", "InfraGeometry", "InfraGeometry" } ];
 PacletDirectoryLoad[ pacletRoot ];
 Needs[ "WolframInstitute`InfraGeometry`" ];
 

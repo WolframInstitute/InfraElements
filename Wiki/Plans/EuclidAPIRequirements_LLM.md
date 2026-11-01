@@ -43,7 +43,7 @@ Thus exact Euclid I.1 cannot hold for every given segment on the square or hexag
 Specify whether the adapted circle postulate asserts an exact distance locus, a separating cycle in a band, or both as distinct objects.
 Keep `InfraShell` and `InfraCircle` separate while making their membership laws explicit.
 For Proposition I.1, assert both apex distances equal AB; membership in two band cycles alone is insufficient.
-The [circle-through item](../../../../SubProjectsMain/InfraGeometry/Work/Backlog/SyntheticCircleThrough.md) addresses prescribed-point cycle membership, but does not settle exact radii or existence for every base.
+The [circle-through item](../../../../InfraGeometry/Work/UnderReview/SyntheticCircleThrough.md) addresses prescribed-point cycle membership, but does not settle exact radii or existence for every base.
 
 Acceptance: the circle postulate and Definition I.15 are stated without silently changing between distance locus and boundary cycle; odd-base failures stay visible.
 
@@ -53,7 +53,7 @@ Assess `InfraTriangle[ { p, q, c } ]` and `InfraPolygon[ points ]` as possible S
 Specify whether their representatives admit any closed sequence of shortest legs or require a simple cycle through the corners in order.
 Keep fillings separate.
 Do not revive the former metric-regular `InfraPolygon` meaning without an explicit migration decision.
-Reuse [polygon boundaries](../../../../SubProjectsMain/InfraGeometry/Work/Backlog/SyntheticPolygonBoundaries.md) and [triangle catalog](../../../../SubProjectsMain/InfraGeometry/Work/Backlog/SyntheticTriangleCatalog.md).
+Reuse [polygon boundaries](../../../../InfraGeometry/Work/Backlog/SyntheticPolygonBoundaries.md) and [triangle catalog](../../../../InfraGeometry/Work/Backlog/SyntheticTriangleCatalog.md).
 
 Acceptance: Definition I.20 distinguishes metric side equality, a simple boundary, and a chosen filling.
 
@@ -64,7 +64,7 @@ The pilot therefore uses small geometric scales even on Large substrates.
 A wider mesh circle band timed out in a bounded exploratory probe.
 Limiting a circle to one selected member can also discard a member needed by a later apex constraint.
 
-Assess lazy sampling and backtracking with explicit completeness information, reusing the existing [scene architecture](../../../../SubProjectsMain/InfraGeometry/Wiki/Concepts/SceneMultiway.md).
+Assess lazy sampling and backtracking with explicit completeness information, reusing the existing [scene architecture](../../../../InfraGeometry/Wiki/Concepts/SceneMultiway.md).
 Distinguish no solution for selected representatives from no solution in the complete geometric family.
 
 Acceptance: later constraints can be searched without eagerly enumerating every path or circle, and selected-branch failure is not reported as a nonexistence theorem.
@@ -82,5 +82,5 @@ No additional Elements notebook is started by this refresh.
 ## See also
 
 - [Current InfraGeometry subset](../Resources/InfraGeometry_LLM.md)
-- [Synthetic geometry scope](../../../../SubProjectsMain/InfraGeometry/Wiki/Concepts/SyntheticGeometryScope.md)
-- [Region filling](../../../../SubProjectsMain/InfraGeometry/Work/Backlog/SyntheticRegionFilling.md)
+- [Synthetic geometry scope](../../../../InfraGeometry/Wiki/Concepts/SyntheticGeometryScope.md)
+- [Region filling](../../../../InfraGeometry/Work/Backlog/SyntheticRegionFilling.md)
